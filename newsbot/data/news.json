@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-17T00:00:54+01:00",
+ "generatedAt": "2026-11-17T00:21:09+01:00",
  "windowHours": 48,
  "note": "Automatisch aus RSS-Feeds erstellt. Uhrzeiten in MEZ.",
  "categories": [
@@ -54,6 +54,20 @@
       }
      ],
      "verified": true
+    },
+    {
+     "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+     "summary": "The Supreme Court refused to hear Custodia Bank’s appeal, meaning a lower court ruling allowing the Fed to reject account applications will stand.",
+     "time": "2026-11-16T23:54:57+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Cointelegraph",
+       "url": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     },
     {
      "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race—But You Can't Download It",
@@ -166,20 +180,6 @@
      ],
      "verified": false,
      "singleSource": true
-    },
-    {
-     "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
-     "summary": "The proposed standard aims to connect tokenized stockholders with corporate disclosures and voting materials across digital wallets, but would not create shareholder rights.",
-     "time": "2026-11-16T20:56:18+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Cointelegraph",
-       "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
     }
    ],
    "more": [
@@ -198,182 +198,7 @@
    "title": "ETFs",
    "icon": "chart",
    "tint": "green",
-   "items": [
-    {
-     "title": "Vanguard FTSE All-World ETF: Huang-Rücktritt, Nvidia-Zahlen am 17. November",
-     "summary": "Meldung von Börse Express.",
-     "time": "2026-11-16T13:04:08+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd3RpTU1iLTc4cm5SQmJGa3E5SVhENHpjVHpzVERrOUt1WjZzUThpR3Vua3laTkhKSmhFQmlHRzNGRU1oWVppQXNNcnh5dmRGbzllaE5ONWE2RE9wX1lLR2xNa2JJY1owVUwzVzVuRVRhcTQtN2Z5UC1Dck9MRFhUSUtrYmZpVDFTWF82WXM4Y1JYTXBhOXVZNjlMNDlMQ290MnE5ZDQ4N2I0NTRBY3hQNWR0Vjh5VXRVYm9ndXA1N2l3QUU?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Vanguard FTSE All-World ETF: Anmeldung zum Stimmrechtsprogramm geöffnet",
-     "summary": "Berichtet von Börse Express, Finanzen.net.",
-     "time": "2026-11-16T21:22:10+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnJUNDVRMWdudGttSjd2N0pGUEZ2OE5FNzg0TkhmMC00Sy1ldmpXVVJWSFc3d3B3amdNRmpZS2FYdTB3a2JxZUtoMkVmNm9iU3NhTldhT2REMVVwN1BNb1JxUk1seVJfdDBLck9OT2FFNTJIVzJUSVY5Zk81blVpS2laeF94a2JQT0dXV0FnOG5vRG42NUQxck9IcW93N0dXc2pZd3VtczlLS3pZanpCWlRfXzR3dXctYWRr?oc=5"
-      },
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbElhXzdhRVBVTko1dXlsbEhYcFk0T01SMFhfZ1lFWVVCTHcxcVM2S0toXzVLOHNPMU5HV0tYTWJkTk5IUkxmbkxtcTJTSjNrSU02aWRCZEJ0S0lYcXJKamtsTWQxWnVGVTJGTWw2Nng3VWhBMHRUSmNxcHdEdi1mR2VITDY1YWozUW9KU21PY3dfc1l5Uk5Ydy0zOVJic0wx?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "iShares MSCI EAFE ETF: Ex-Tag am 15. Dezember",
-     "summary": "Berichtet von ad-hoc-news.de, Börse Global.",
-     "time": "2026-11-16T05:57:19+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdHVoSVk3RTVGNWo5UUtuVnBieVB1Qkd1SnBTTGVXUTZ6bnBsTkRUajNQZDFNZG0wd3hFN2tvbzI1aWxhUjNBUU9qLXlCS09QVTFITHBiUHI2ekp3N2NsNTNpNkdoV0FZN1BBV3MxTWNmNzNMcXdqYVQyR2U2RUZNMnRvZkd3bTgyRFk2UXBnaEpLY2hpc1NsTlhTYksydjhIUFhERWZHTEJFV2lvektUZXNPNUFMN2Z6TkxuNWhIVTJfUnU5ZzlFQ19B?oc=5"
-      },
-      {
-       "name": "Börse Global",
-       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX3JjdHVnTTJDRF9TLW1ZNzNNNmRIOW9hNnFPR1FGUE5Uc3ZVeTVGOGdvbXdWYm9oQVdHRllnQnE3bVZZOEM1YlVEY3RuY2llbEhGUnA2VjJDVnhTN0RaSEF6TVhGOVJxdU5WTmFHQk04NnR6bUVHVldtSGNrX1lVWXBJVHAtUQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "iShares NASDAQ 100 ETF mit Verlusten",
-     "summary": "Meldung von Finanzen.net.",
-     "time": "2026-11-16T23:38:13+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeEwwZGE3bXhnSkdWOGRCR0dXdUJxNGNlNnNQaERzeDBwbUhkSDRGV3hmZmdlZHNvMDUwTm5wYWIwdWdfS21kd2pHSUllWkM4UERMQmtGUmdhLXFoOUlRZkwyblVCd1hBajVhTHhWbTA0ME4tZWJfNmYxUGxpbHlYRzFKdmNaU1lkSXNfV2dRX01OdVZlckZLX0RB?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Ethereum: Ether 63 Prozent unter Rekord, sieben Wochen ETF-Abflüsse, Treasury-Firmen unter Druck – wo liegt der Boden?",
-     "summary": "Meldung von AktienCheck.de.",
-     "time": "2026-11-16T22:20:18+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "AktienCheck.de",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWXF2cExaLXZ3X00xYkNyZWNHQ19lT1BheFZfZ3VxZXZLckVFNVVoUWtybVE1REx3V0xRdW9NZTcxemY2VGdOdklCUUcydVhOVldNbFJwTkowQXE0SVdfQVFYUGxwYzFOX3RjNkhxRTJBVkktcEJmSUdIYzV4ek1SWW4yTERuSHluMHluRlBLa2dXdlRXaWUzck84VjR4R1hiajd5aldodWYwQQ?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Abu-Dhabi-Staatsfonds melden Bitcoin-ETF-Positionen im Wert von über 1 Milliarde US-Dollar",
-     "summary": "Meldung von Blocktrainer.",
-     "time": "2026-11-16T19:40:00+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Blocktrainer",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRFdhSG4tVmlKU0hkTDU0b3AzX3ZXUjhVMDF0RmJodV9lMlpweDhiZTc4b2ZUWWRFdWlWZjYzWUJRR1Y3RnRjbXRYQ0UzYzlHRmZNZWtUWFlaN2xxNHJKMGtDZDZMOWd2TGZqdlNVZGdGampXbk1QRlJicmxvelE2Z1RVcTkxOTE0Qll1Vzg1cjVTdG1VN05vVkQxOHNDa3lfNnhFekJLUFlLYURLdllqZDdTdU9TTTZDSHVaaldfYUhzZw?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "In die Top-Wachstumsaktien investieren, aber ohne Nvidia? Das bietet dieser ETF",
-     "summary": "Meldung von Börse Online.",
-     "time": "2026-11-16T19:00:00+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Börse Online",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcDloNFpfLVVPdTBlVk1MNVByVWswbWp5aVBRZWhUS1ZJMlpaQ19IQ1R2VVVPQlpXaWtfeGw4MU1la1JncFJJVmItdGR4TVgwSEZtcEhwXzhkVVB3cU1GcnJWYV84TlNWbTdDaEczVlhNVVBibDNkWHR1bkR1NHY2V2o4MkoyQWppTmkyY2kyQVNGTi1Qa0NDUG5iTkhaOHZUUEFZdmhjMXUtYmR1cHljZDkzUUU1SWJFdmhLY3p4RS1CVUs5dWtJaXc0dmM0OE9ya2lvSA?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Vanguard FTSE Emerging Markets ETF im Minusbereich",
-     "summary": "Meldung von Finanzen.net.",
-     "time": "2026-11-16T18:04:03+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjhDTjFtblVaQU9ib2FtUXpfb1ZrQ1ZkVGZZX3Fvd2tQaExLcGVneHZpbW5fNm9ndGFhb2FhMUpickJPV0N1cWNEcTI5MjB1UzdPeXhSVGFnTFdScFZ2QmZHaUZQV18ycjBwY1phbTdOMnhHNWpGbzh5UmYySUQ3U3cyMXVqWHZ2ODlEYjBFcXYyRTBreF82emkxRzVrRXpPMFEzal81eENNQQ?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Elite-Uni Harvard meldet Bitcoin-ETF-Position im Wert von 144 Millionen US-Dollar",
-     "summary": "Meldung von Blocktrainer.",
-     "time": "2026-11-16T15:05:00+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Blocktrainer",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVltTDQ1c3c3TUxscDFxTG5iNVV6TDNVd0U4NW15MlJ5aFFrY1VCLWNBX3k3NHduUjJWUy1QdnZuRU8tcHZKRk5JenptNTlFRGtzZElHVVpuLW02eDd6cF9ZbThEUWJmdnhNa2RiT1V4QXJ6cHZpZlV6bVVFQk12SG9MdGxRZHJPYlpuUFpua0ZRUVVnVV9ZX2pWcVFiMEVRX3JuY0pWWTUwSF9hUEVz?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Bitcoin-Kurs zwischen ETF-Abflüssen und Liquidationen",
-     "summary": "Meldung von ad-hoc-news.de.",
-     "time": "2026-11-16T13:07:01+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQmlaVlpzY1pia0U0TUtnd1BSc3V4dUt4U0w3ZWhnc2w0WVVvX01aTmpuX2NEV0o0b3d0WkJKajNlT2VTeXFBZjh6NHg1QlNPb3g1V1lkNmozOW1NejVydXNhcFVHTXdFc2FheVpfRmZISU95QnZhU1FiYjBPUlNGV1Fxdm5mS0dtTUdicnF6eVdUcE9oUS0zdGpObUUyWk45ZkJUbW8xQlNJMWJpV2lXTkRCZHlqUEU?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "iShares SLI ETF steigt",
-     "summary": "Meldung von Finanzen.net.",
-     "time": "2026-11-16T12:47:09+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVFFaX1VOSWJNT1RxRm9IWFhpaVQzbjZGal95bUttY0gyMTB1a1hEc3pEbV9DalY4Y0ZwelJOdkxqb28yRVpLYWN5TXdNXzQtU2RkcFJ3YU1yeGp5eG9tSkFHajgtSmpTUVRWRlA2TnJVVGRGbTJxX1RjNWttV3EzeEd2UHBGdVo3N2NPNUJzZw?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Bitcoin und Ether auf Tiefständen seit Juli: ETF-Abflüsse und Liquidationen belasten den Kryptomarkt",
-     "summary": "Meldung von Krypto-Magazin.",
-     "time": "2026-11-16T09:13:43+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Krypto-Magazin",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObnlqS0hiZ1FKLWs3b0JIdmtqMC1tRmpkRUlSVHZrRk1Sa004T1JJeDdJYmNIT0M2RUtHS1lWWUk1TGxyRzlnWE92Sll6N0o0dnZ1Uzh2MjBnTDR3WG9XT0xOSTNyV3NzOVBoZDJjdVExUnVscWl3bmt5M3FzN05pMXl3MkxtaFdwQVNhdXhEcmZsR254WlluSnVwSnZhbDJPRTRuekttOHMzYVdoN0hIQ0ZPblRSQQ?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    }
-   ],
+   "items": [],
    "more": [
     {
      "name": "ETF.com",
@@ -407,7 +232,200 @@
    "title": "Störungen",
    "icon": "warning",
    "tint": "red",
-   "items": [],
+   "items": [
+    {
+     "title": "Mega-Ausfall bei Microsoft: Jetzt ist klar, warum wir Outlook stundenlang nicht nutzen konnten",
+     "summary": "Berichtet von heise online, ad-hoc-news.de, RTL.de, Joyn.",
+     "time": "2026-11-16T17:09:54+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "heise online",
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONWUxbDQ3Qk5aM203aTJNMklWWVowVmxEa051bXdpR1NRSE1DVkcwU0tEWl9jZG53eFgycE0zM1ByTXBpYkxKemh2RXNIRkFEVEhIcmR1enFGNjkxUkJiNWk0OGdkWVZnUFgxZ3pKWjZJd3ZKZm43YmRaRXV0NTBPbEIzeEx5NUlza2NLN3pkNlY?oc=5"
+      },
+      {
+       "name": "ad-hoc-news.de",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzZTVThDOWVMOFZaNjhrY1hwcXY5NDQ2dWRuYUZmeExKdmtkNWh4b3lGSElPTHA2bHZONnNqeWxUNFVBZ28tZEg1NWIycERValNIMVhKd2ZYMEVBdF9NRXR5T0huaFNSZlQ1UTBqOGl3M1pseVU4OHoyWVJBdWRoMU9DX1ByUG4wRjRrbG9MV2Uwdm1DLVlpVW9ZVm9sbnhSVFdfRFBuSjFFTzV4UEpaVW01UmZYMEluRWFDTHQxeG8?oc=5"
+      },
+      {
+       "name": "RTL.de",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLWtyS053YUFhYUN5Z1M2VHBQTDgwREc5RVlneWxUUGsta1JnT1hna1Z0V0hKSldUWkdUWU9JREswSkxIclExa1pfSnJ6NTFvcEdQTExMUldYRXNMZzFKdXZqUDhfYzZhMTI1QjBpdWFQMjFnOG45OEJNSUpqbjJJSzRsUmdaajVQNllXMEowbzk4ekxjcEZTdmk2Y3duQmdvdUwzc3VBUHhQV1VuM01ybUtKMUtfQzc4b3RTazZMR3h4OHNXMTRleDRVSVpFWDNG?oc=5"
+      },
+      {
+       "name": "Joyn",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQREdCNy1yZE5COVhzTmV1bUJ2ZzZweWVFUEZjNlNsdlhnSnpIX3RxODNiejdDXy1kcGtxaG4zelB6cHJsNHFFMkZYaHNPbWJDMHZaUy1GTmhkZHRlN2dIeUItQmRwOHhDZlQtNFpZSXVlWWoxZ3NjQU16Tm50R0UtajJnQXJJTzhVZ19BWFZpR3B4aGhIMndoWlBxZ2xhWmM?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Neue Betrugsmasche nach Microsoft-Störung: Phishing-Mails nutzen Ausfall",
+     "summary": "Berichtet von CRN DE, Teltarif, T-Online.",
+     "time": "2026-11-16T14:47:39+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "CRN DE",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEhyWXMtdlA5RTBYZmc5bG1SWWpPNHdWZkU1cjNSS3JIa0xCTW5OZWJ4cEtIUHdHcHN0TzgxbXljZnBORUlnTG1Bc1RWYTZvbEJBNnFZX245MkpKQllzZzY4SEppSTZEVHNzZE1YTnMxMDFmZTh1SjExcEJpNXB6Tk1PR1laTmp1a3RHZzU1VmVEMnVTRmZpaXIxSHJtdmc?oc=5"
+      },
+      {
+       "name": "Teltarif",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGdRdFkzWncxR2taZTl6TEM4UG9WWkRMOVNqOTNvSnp4X0hUdk01WHh1MUdjajNMNEgzSWdJZ0hDLWtlVTREWHhkSWpaXzBpbEFxaVd4NTRmaGhnc01VQW50RlBQOXFKM3pVMkVaWUk3ZnRBVFI2ZklwUmRUQ25QVi0yeTl4UFRHV2JvTG1hT3UtQQ?oc=5"
+      },
+      {
+       "name": "T-Online",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlcwbG1mWW03cmVCbnZqR2ZzZ3lmdldjdEVoTUFpM1BKMkhXVV9paXRtX0J3Mm8yMnlncWZROGZxZk5xaHo3Q0RPcWVLMFhtSTJQcnJPUVlpbUlRVC1wWV91b3ZfOWpFLVQxZ3U5YkVwMkNpZjBYb2tTZ2xINGhIU1J4RjJsdmhfdkVUSXFGeUd4amdmSE40Nlh6U1didkxQaVRkQUQ4dk8tdUZZY3V0bXZYcVpoWktUenVmcWQ0M3BHMTk1and5OFFUMWY?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Microsoft 365: Softwarefehler und nicht KI löste welt­wei­ten Ausfall aus",
+     "summary": "Berichtet von oe24, ComputerBase.",
+     "time": "2026-11-16T15:08:00+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "oe24",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUlY2d0hIR2hxWmFlN1FwdmdkemdCV05tZF80Z0dJS1A3cDJMbHNxMVZLd3RMU01HM2p5aElZVWE4cDJ4bkxxa19NZWZ2RmRDek41ZlBobFRPVXBlVHpOckM3QTFfMVZVTk1yaXlSVnNxXzZ2VmstY0U3MndhaHVXY2FhRdIBiAFBVV95cUxPblU3TnNQYzBYZjdiOGtGMS1uQU1xSW5uSjNjN1NodThXd2lGQ0t3bkljOUdLR291VjdreGs2aHV3ODh6Q1hTLWp3ZTAzV3BVQXZtU1BGXzFlV2g1eW43c1EtN2FEbzRLT2F1djAtdHg4M0VpWXhEQXRmRDlpT3F6cGl3NXQzdmFf?oc=5"
+      },
+      {
+       "name": "ComputerBase",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVY4ZFhQT2NmNmRHMWdxZEIyRnQ2NHZXTE9UMnA5VkVUOUI2a1JpeEJZVjVWaFNBcnJmeklWOHNLTW1SRGtJUzZLRExkNWFJZkltT0l2Y0s1QmM3X1hIRnFkWTRyNzh1XzVMUVc2dTN6T3NvNWloRVFlRVZBYWFmY2h6THdpa0licTJ5Z3pLQnQ1RkljZWJtd0YyT240cmRtUlJaTVEyMWxseEc5NmNzOE02NF9SblZG?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Amazon verliert 40 LEO-Satelliten nach Ausfall der Boeing-Lockheed-Rakete",
+     "summary": "Berichtet von Merkur, MarketScreener Deutschland.",
+     "time": "2026-11-16T12:25:17+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "Merkur",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOUluRjA4MjFZV0c4TGp0YlZFTzNJQWN6Wjd2SVZIV3d0RjBTeUUwT2E4SGxCbmZ1RXhfMDY5VHozUV9tWFZQT2pkOFZpQW04R3hnMmZ4ZkNKVG4xbFUwd0JKdXludC1tQWl6eWZBVU9yUnU1cXloY3UyMjUyRHh5ZUh4QXdTM2FIckk4dmU1X0NxRFR4Z0I3UFp6cnNNcm9DZzkzMUNrQnB3UXlpaEhaa1Jtc0RGMkZ2VC1qU204OWFwdHc4SzhpdzRqQVlNOU5XVE0zV2VCaGh4QQ?oc=5"
+      },
+      {
+       "name": "MarketScreener Deutschland",
+       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS1dLM0J2NGEwakZ6R0ZNd1FYV2ZGcF8zOW1yTy15ZjFrYzNxdmVfa3kzNU45TVU2Y25ISW9wTTNTdDllQUh0blU0VjdrLW03cGcwa0VFanliRWk4NXA1Q1dndjN5R0JhbHNoRkgwWFRtVmY3Vm04OEctZFJLOWIydjRYY1hJMHotVVh4WVRzV1hGT2VhdWdpNkw3ZV9oRDY5TzR1RTNmUXQ2cm5RTktGSGJRVXA1T1ZwSUJ5Ty1CeDN2RGwwdzhwRXhwNlNBQTBWcXhhZlpR?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Is Microsoft’s Outlook Outage a “Disaster Moment?” The Stock Barely Moved",
+     "summary": "Meldung von TIKR.com.",
+     "time": "2026-11-16T22:42:35+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "TIKR.com",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPakwzX2ZsaUN6eHcwNDRkV2lrckVIUXQzeTdWY25ta2N1d3B1eXF1Tllra2V2RVcycktWMWZUcWdWcW0zS3gzS1I0Zlg2UWhsTzRrYktuc3ppMnNLNFk2LVJGcVFja1NFYmJNMlphUVg4U01naDc5SURSVDF4T3ExQmZJbldwVDl6LW40NXlkanl3NTFYUkhnNE1qazByVEU?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Microsoft-Störung – Programmierfehler sorgte für globales Chaos",
+     "summary": "Meldung von Blick.",
+     "time": "2026-11-16T22:10:34+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Blick",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNnJfWThhbDNtYWsxOFY2OGIyMlpVQXkwUWxrTTA4Zy1wRGpGb1ZZSENzNUZCTkVPOUxaYnhaR3hxQURycUxTTWRzZWJnRFJUam55MmszTFJEN0xxQVhBNTVrbEFzTnNHakkzX0pCcDVtX05UMld3VURnZXJzUWk0cDFvbURUOVMyR2VDWEVaRS1TRW1lNzYw?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Microsoft 365-Ausfall: Fast 140.000 Meldungen aus 74 Ländern",
+     "summary": "Meldung von ad-hoc-news.de.",
+     "time": "2026-11-16T22:03:25+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "ad-hoc-news.de",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3RrNDVWbUJiODM1ekhJRXFMTENaaFBNRVFRYmF4WHZDWHo4SENsWDJxTlZzRC05Wnhxekg0N0Fha2kza3NTbnkyTjhkUXNncWNMT1hIVlJNTjdlZko4aTFfUUIzcWpJOGhDclZXdGxvd1RvSFlKRXJ4OU9saDk0YllwY2V1STNrMWFPRnhMSjEtZm9jNHYwa29KdTZnbDNXWGM0bWFNeG1XYndfdFE?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Microsofts Cloud- und E-Mail-Ausfall am 12.11.2026 durch Juli-Update",
+     "summary": "Meldung von BornCity.",
+     "time": "2026-11-16T21:16:36+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "BornCity",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUp0dThHUlY5ZTNqellQbEVHemlteVRELTFwSUlNVmIyeFBXLTFweGVlanJzcXlnbXBleVFYb1NuS2xhdGo2cGtzSzFmRlpLZGtXLU8wbFZ5THA1cDFNMDRkYkpabFhfWW54VDYzcmZhYVViOWZPZWJUcGNtQ21pREM5YzdzVEJXQUNnTG1PbDFmVzVFempJT3BpelFnTG9VMndNWG1xcFQ?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Microsoft führt weltweiten Microsoft 365-Ausfall auf latenten Softwarefehler zurück",
+     "summary": "Meldung von Investing.com Deutsch.",
+     "time": "2026-11-16T21:00:00+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Investing.com Deutsch",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ0FvY3UzVkpiN1dSVF9Cak1JU1NZczV2THRKMzFWRnRMdHRJWlA3bXpUMlRlS1VqYmNJWUVNeXRrZkFoSWdzZkxVZ01fMWFXcVkwQzYybXdwdkR0TW9mT1BnSG5jb1U0ektwVDAyMjBnaWMyYjJTMnJJNmthX3Z4blFhTGt1QXp6M0M1YTZPdnIxOHZta04yYkF5Zlktcy00LTk4TkNLOE9uOXh5VHNXMVdVZHFxemkza2hFbGowZktlc3pUVFJvWFJTNFA3Rk9sbTNJQw?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Störung bei Chase, Bank of America und Wells Fargo, Chase nennt Bug",
+     "summary": "Meldung von Pasquale Pillitteri.",
+     "time": "2026-11-16T20:55:07+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Pasquale Pillitteri",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbW1SY3pXRC01bDFEdkxQWS1YcmhPMzRTTl9YYzQtTlJNU3EwWXExdUZOTUc5WFVLVHVNMHJFLXFOVHVOQi1TM3dUOC0yVGJCdHB0eVlvRUs4b19YNHRlS0FmcDVPUHJQOWRjWTNxQTRXZDJyX2k4VWRaQ0JZZm1HN3h5U0JfMmFUSVRrV1NUV2dLRHhVQUFueQ?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "GMX und WEB.DE gestört: Login schlägt fehl",
+     "summary": "Meldung von Teltarif.",
+     "time": "2026-11-16T20:49:00+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Teltarif",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xRkpRVDhzdHFraGR5Z25lLXQzcW5veDNKTHRZNmsxZ3BneFkwMVpzNXdJR2J4QjdoUllnSHd4NXlhTTJhdThLVzlidkRWWTVzM2pRV29tVmhaREc2VEZLejc5NW5Dd24wbXZKanF1UXk?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Ran an den Speck: Microsoft-Ausfall sorgte für Ansturm auf Erotik-Portale",
+     "summary": "Meldung von Nordisch.info.",
+     "time": "2026-11-16T20:14:06+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Nordisch.info",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX0RYTW83b3ZWRk03UThyS0xSbzBvNU9Ud08yYW9aUTFyMEJFck85bnNnbmRXNkRaRUVWaEQwQ1B5dFpmbUFWUHhrUTlCZzNZeXAxbm5YSWh2b1hSQ2EwOS1nTHZtazlkWjB5UzN2RGZTS0x2cUstMUJOUlFxSmVzZjhrX041LXgyTGdzZjVtQmVTbDhWeGN4eUY1WjlWQVRWX3cwZDVBS293UVlaTUE?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    }
+   ],
    "more": [
     {
      "name": "Downdetector Deutschland",
@@ -441,7 +459,7 @@
     },
     {
      "title": "California sues OpenAI over rogue AI hacking incidents",
-     "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law…",
+     "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety…",
      "time": "2026-11-16T21:46:01+01:00",
      "importance": "medium",
      "sources": [
@@ -472,6 +490,20 @@
       }
      ],
      "verified": true
+    },
+    {
+     "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+     "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory…",
+     "time": "2026-11-17T00:17:34+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     },
     {
      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
@@ -580,20 +612,6 @@
       {
        "name": "TechCrunch",
        "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Top500: Chinas LineShine verteidigt Platz 1 der schnellsten Supercomputer",
-     "summary": "Die 68. Top500-Liste der schnellsten Supercomputer zeigt auf den Spitzenplätzen keine Änderungen: KI-Rechenzentren stehlen anderen Großinstallationen die Show.",
-     "time": "2026-11-16T20:00:00+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Top500-Chinas-LineShine-verteidigt-Platz-1-der-schnellsten-Supercomputer-11526327.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       }
      ],
      "verified": false,
@@ -874,21 +892,52 @@
    "tint": "teal",
    "items": [
     {
-     "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
-     "summary": "In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan.",
-     "time": "2026-11-16T20:26:40+01:00",
+     "title": "Five EU countries announce migrant deportation centre in Rwanda",
+     "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+     "time": "2026-11-17T00:20:45+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "BBC News",
-       "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
-      },
-      {
        "name": "Al Jazeera",
        "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss"
+      },
+      {
+       "name": "BBC News",
+       "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
       }
      ],
      "verified": true
+    },
+    {
+     "title": "Trump reist nach Manila, die EU bleibt zu Hause: Europas Leerstelle beim Asean-Gipfel",
+     "summary": "Berichtet von WELT, T-Online.",
+     "time": "2026-11-16T17:44:52+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "WELT",
+       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOa1NsWU9nd0hBZzk0VGl6ZEdnNkZMZ1lKcjRhcXlteUtyRGRUNUVidnNDX0M1LUNobEQ4eXNiWUYwamtBbWZjM2tnUzVrcHJGSldIYl9iNGoyNjlQUHVrUlhXVngzYTV4N1pqd24zeVBUUHBPaGE3dFVUZF8wRVNWNmlINGNuMjJpSlBXWEJFQmhyeDFYV2lRR2I1SjZ0TkFzWjB2S3dBVkEySDR0N3I1aG1EMVU3NnB2Zl9QVEVvakRIdDVseUJBRDJtQkw3bTF1N2NFazA3dE5LT2NnYnRkRjJjWnhiYUZhWG9nb2h5N0EyZWZaOGc?oc=5"
+      },
+      {
+       "name": "T-Online",
+       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTURyb1NfLU5vclA2dVpvWVZrdkhuQ0JBdHVWdVVISVo2dnNDOHlJNzdPckdjeWVxa1FyaEE5TmJLOUV0UkhHRkhmejlXcjU2REpJX1NDMDV5QklHYVdEUUFJTDRzQ3VUamdUaUdCRFhjQlBIekNkS2lzSE5qOXB6RjBxYjBvN1ktOHdYWW96cFgybS1tMFRkWTU5VF91Ml9YWVRzV0gwWG92UURoRDhDeTVFM040S3YwWTRNTU9FbzBwQ1ZOb2NPVkhJWXdYNTJlZ2JSY2tSNW9HZm9EdHU1QQ?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Stasi: Der geheime Nachlass von Markus Wolf landet in den USA – was steckt in den Akten?",
+     "summary": "Meldung von WELT.",
+     "time": "2026-11-16T23:47:02+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "WELT",
+       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTTY0TmdlMDVJclFYNjFNUzJQSThBQWJkTG9mMllHR0h1bzZKd0ZCYUpzSkxCWE1tV25pS0NZWlhtcF8xdzRYWG1LUzA0UGFudy1tSlUxdkhxSG9XNkZNd0gyeE5tcF9qdDVYZHhHZmY4WnhkVzc4N3dVUEM2RVR4dVk1RU5nTXkyTW9za1lVUVNabkt2dGIzUWFkQWJSV0V1YW96dUcwNl91U3ZvTlFlUHp2Nmxqam0xdWxZSVVSRzBVSi1KdG5IN25KTFc0ci1MT28zN1BmSWFIV0NhSnhsNUFkQlJ5ZWM?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     },
     {
      "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
@@ -1011,34 +1060,6 @@
       {
        "name": "Al Jazeera",
        "url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "London Palestine Film Festival returns for 27th year",
-     "summary": "Since 1999, the London Palestine Film Festival has brought Palestinian stories to the big screen.",
-     "time": "2026-11-16T21:36:25+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-     "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-     "time": "2026-11-16T21:33:57+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "BBC News",
-       "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss"
       }
      ],
      "verified": false,
