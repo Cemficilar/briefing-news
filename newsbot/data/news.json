@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-17T20:00:51+01:00",
+ "generatedAt": "2026-11-17T21:00:56+01:00",
  "windowHours": 48,
  "note": "Automatisch aus RSS-Feeds erstellt. Uhrzeiten in MEZ.",
  "categories": [
@@ -77,7 +77,7 @@
      "title": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
      "summary": "The ousted Nvidia founder apologized for his conduct, offered to return if directors ask, and addressed supporters as the chipmaker presses ahead with its search for new leadership this week.",
      "time": "2026-11-17T19:23:43+01:00",
-     "importance": "high",
+     "importance": "medium",
      "sources": [
       {
        "name": "Decrypt",
@@ -86,10 +86,6 @@
       {
        "name": "Cointelegraph",
        "url": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-      },
-      {
-       "name": "BBC News",
-       "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
       }
      ],
      "verified": true
@@ -113,17 +109,17 @@
     },
     {
      "title": "Zinserhöhung im Dezember zu über 90 Prozent eingepreist, Dollar auf Hoch: Bitcoin hält 64.500 Dollar vor Nvidia",
-     "summary": "Berichtet von Finanzen.net, BTC-ECHO, AktienCheck.de.",
+     "summary": "Berichtet von BTC-ECHO, Finanzen.net, AktienCheck.de.",
      "time": "2026-11-17T17:30:00+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNUVEYW42ckVNRnVCV3Q1eWttWGtaMjZTcDJmT29XM1JFdG9UdUotTzNFMFJoTTNhZldpNmFZUGVTb3hWaUY4aThhTWJKdk9EdmszYnhXTXBITUllSmFlSEpoRm01NkdzMXVWZGpycDFkVHJpSXphb1ZUVmdETHNJbFNZT1lyM0NKMlBMaG5tRzRNM1U4bnJScFZqcHlSQ0ZiM0piR3R2Qy00V0tNNWY5WFBIcmJDX280bUhrODJHVl9oWDVBTks2WG9kOEtwQ0l2V29iWEdEb3VzWGIzU0xTSU1ndXlxbkFiQW5PUk50Wk5Ma0NWOXVVN09QNy0?oc=5"
-      },
-      {
        "name": "BTC-ECHO",
        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ3ZNRlpLcFliSWhDQUV2NEFkMW9fMWkybzNEWVZ3dGZzSm5ibzJSUVdnMlFNR0VtcHB6UU9QcWw4MjcxQ3llTDB4Y3lwTlZ3WDNNUjVFd3RFSWdHN2NjMTBQS2RvU2NIQlZiTERPdlpnNWtXLU5WNXQ4WjV1bXZMSlRQNHBwaGJYTmxSYnl2Ykh2NHRidkZibkI4UkxtbWM?oc=5"
+      },
+      {
+       "name": "Finanzen.net",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObktjaGdhUFBVNG9YbVVoVFktRkl1RU1lWkNITS0xM056TUtPV2xTWWRUc3FsTTB4SHNNQnhoT0hjb0VpVHdTTkxJUUtZYWYyR3RXdmZicHdfR01VSE94UHFNMjk4SDFBZmVsZ3V3LUY2ZmdqVHB1NnFqRlVVYkpyVEFTRjJzbGJtalF4UHRqSFpaZlBjWDRWOWtKT2xVZzZmNUUyR210bExtSU1NVW1BU2c5U0tlNmpIblFHMHFvc2wxTjZ6T2xvZE5peUl5WDhXaU1ZalJFLXlNSmR4TXl5dVJZMkJzUQ?oc=5"
       },
       {
        "name": "AktienCheck.de",
@@ -455,6 +451,20 @@
    "tint": "indigo",
    "items": [
     {
+     "title": "(S+) Anthropic-Börsengang: »KI-Firmen arbeiten wie Goldminen«, sagt Analyst Benedict Evans",
+     "summary": "Meldung von Spiegel.",
+     "time": "2026-11-17T20:49:00+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "Spiegel",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbGFOa0l4UnlzR25LbE4wbVVuT3hJcnNsS2FLeXB2aEpJUF9URFFiNXJQZkw2WmZVZWQ1S3VJOE9Cckk2T2twS214dy0wdTljb0hCUWdxQTljV0xUd01zdmROenlqVXBic2h4a1RvU1NFMU96SjljZkk0c1ZpR2pPeThLMHAwLVFSTFlJVEI2eFRab0NwdU9ZOExWblgxalVhZjgxV1FrMWpNRU9JLWtiTkZRdjNQcEFQQUEzemMyWFVrX3JhRWxBWHdPNGNpSzVsTDVPNDNjR3VFRFlHUkFJVHBuUHIxSUtt?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "Anthropic-Börsengang: So werden deutsche Anleger Aktionäre",
      "summary": "Berichtet von Manager Magazin, heise online, Stiftung Warentest, FAZ.",
      "time": "2026-11-17T19:53:50+01:00",
@@ -480,8 +490,22 @@
      "verified": true
     },
     {
+     "title": "Salesforce-Aktie: Fast 10 % Absturz vor dem Anthropic-IPO – frisst die KI ihren Partner?",
+     "summary": "Meldung von AktienCheck.de.",
+     "time": "2026-11-17T19:51:13+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "AktienCheck.de",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMm5LVGlmYmVWY2UwOVJTTC14TGZxd2lERW1ybGh0SVR6dmpEck13TjhmcUxqZVRzeHgzRlFyWHhDdVZxT1ZGRy12Z2dNYUZ0czFUYkVmVEV6eU11YlJwY29RZVB3Njg4OFEwaTdVT2Rnd2xLMXpDZUhiWENrbHJTbnF0WUpEUUJJVVlIQ1VhRGRlZU83QVNnMGozSUtQR0xxZ0dRRTFGSlM?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "Anthropic-Aktie: New Street startet vor dem Börsengang mit Kaufen – Ziel 105 Dollar",
-     "summary": "Berichtet von Finanzen.net, Wallstreet Online, Manager Magazin, FAZ.",
+     "summary": "Berichtet von Finanzen.net, Wallstreet Online, Manager Magazin, AktienCheck.de.",
      "time": "2026-11-17T19:42:52+01:00",
      "importance": "high",
      "sources": [
@@ -496,10 +520,6 @@
       {
        "name": "Manager Magazin",
        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTTBKY1JwN2hnaEJmRE5aV2txLWVYbXNCclctVUhRbGc4SjlmVllic2FHaEtsSjFaWV9aLWZQOTl2MWs3Mmh1dTV2czhDdFNsU0tmM1RVX1NwalRmODVGUkhXMXFFZmI2Uk9nMkNHYU5jaTYwSWNOc0ZCNHMyQW5pbGJLR2R1S0Z2ZWd2SEhPbUFPeUljMDFSOVktWXloSnZ0LUsyT1N6czVpTTJxZUZYVkJxRi01TFdPNW1vYnM1SVQyUHcwT2o1My1rTkxIRVhxRUVV?oc=5"
-      },
-      {
-       "name": "FAZ",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3lhazFsbXhqNUsydEp4N2pubkhyMlBaUlUzVUxMYzY5clVMeWZxcGR0WloxZWpwWFU1MGd0N1R6T1Q2cXZqOXpHVEVwYzRFMC1aNGtvVEZqVGZuZWFXVWRRdFMwNGgya1VJZmFDeGNLMGVsdnlacFlDa0E4WmNnSzBrVHN4ZlVfTkt3N0RLdzJ1ZlpVUlZNc0l5NWsxLU5uZzZBQ0FKdFI5Rm4tTlFFYUxB?oc=5"
       },
       {
        "name": "AktienCheck.de",
@@ -540,7 +560,7 @@
      "title": "Anthropic IPO am Donnerstag: Alle Infos zum Börsengang des KI-Giganten",
      "summary": "Berichtet von Bilanz, Finanzen.net, FinanzNachrichten.de, Neue Zürcher Zeitung.",
      "time": "2026-11-17T18:15:00+01:00",
-     "importance": "high",
+     "importance": "medium",
      "sources": [
       {
        "name": "Bilanz",
@@ -640,34 +660,6 @@
      ],
      "verified": false,
      "singleSource": true
-    },
-    {
-     "title": "Anthropic-IPO: Kostet eine Aktie jetzt doch mehr?",
-     "summary": "Meldung von Börse Online.",
-     "time": "2026-11-17T16:37:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Börse Online",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcm9FMEtaVV9WTXJrYnZid2NWeVIyOU5HUXc5ZjJJVXVYSXd0d1FGdjhRWXY3V1VfMHZNZkJ0djJpQnkyN1htSEN4aWRuUFB6Q25MT2xoMWVEcVVoZE1nQ0R1azVQRmQyVjRSdlZ1Q1NZbUM2NVNQTEt1U2l1Sm9zUVR3cmllbVo5MmNoOHpEVWtwQ3BmajNkS1RXQVJzNjhmUWw3aTlPZHFiaDM2TW4tR3JpWDl3bkhDRG1zdThvSGZPREgxdUE?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Amazon-Aktie vor dem Anthropic-Börsengang: 14,7 Prozent an der KI-Rakete – der versteckte Milliardenschatz",
-     "summary": "Meldung von AktienCheck.de.",
-     "time": "2026-11-17T14:05:07+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "AktienCheck.de",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOem5rcm1wQmU5Yzg5MGdpbW1ZTlNHR1cyTkp6ODBXTXVGaUtFQng1S2pQY2hWSG12MTlCTnRxRG54elp2emJIS25GRU1PNTh6ZU1ZZ2xxdFRNbnpzQ2dRcWozZnQ1RmZGMjRlZkt4VmVvNkx1UVVySlR4U3dvSzF4YldYS0luRFdrNFVxSG1uN1lhRW83ZzFMQ3FDTmJEbE5oYmZkWG1wZXZiQQ?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
     }
    ],
    "more": [
@@ -688,22 +680,14 @@
    "tint": "red",
    "items": [
     {
-     "title": "Störung bei Apple-Diensten – auch Schweiz betroffen",
-     "summary": "Berichtet von oe24, ad-hoc-news.de, RTL.de, ORF.",
-     "time": "2026-11-17T19:57:53+01:00",
+     "title": "Technische Probleme: Störung bei Apple-Diensten",
+     "summary": "Berichtet von ad-hoc-news.de, ORF, n-tv.de, Spiegel.",
+     "time": "2026-11-17T20:54:33+01:00",
      "importance": "high",
      "sources": [
       {
-       "name": "oe24",
-       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUlY2d0hIR2hxWmFlN1FwdmdkemdCV05tZF80Z0dJS1A3cDJMbHNxMVZLd3RMU01HM2p5aElZVWE4cDJ4bkxxa19NZWZ2RmRDek41ZlBobFRPVXBlVHpOckM3QTFfMVZVTk1yaXlSVnNxXzZ2VmstY0U3MndhaHVXY2FhRdIBiAFBVV95cUxPblU3TnNQYzBYZjdiOGtGMS1uQU1xSW5uSjNjN1NodThXd2lGQ0t3bkljOUdLR291VjdreGs2aHV3ODh6Q1hTLWp3ZTAzV3BVQXZtU1BGXzFlV2g1eW43c1EtN2FEbzRLT2F1djAtdHg4M0VpWXhEQXRmRDlpT3F6cGl3NXQzdmFf?oc=5"
-      },
-      {
        "name": "ad-hoc-news.de",
        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzZTVThDOWVMOFZaNjhrY1hwcXY5NDQ2dWRuYUZmeExKdmtkNWh4b3lGSElPTHA2bHZONnNqeWxUNFVBZ28tZEg1NWIycERValNIMVhKd2ZYMEVBdF9NRXR5T0huaFNSZlQ1UTBqOGl3M1pseVU4OHoyWVJBdWRoMU9DX1ByUG4wRjRrbG9MV2Uwdm1DLVlpVW9ZVm9sbnhSVFdfRFBuSjFFTzV4UEpaVW01UmZYMEluRWFDTHQxeG8?oc=5"
-      },
-      {
-       "name": "RTL.de",
-       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLWtyS053YUFhYUN5Z1M2VHBQTDgwREc5RVlneWxUUGsta1JnT1hna1Z0V0hKSldUWkdUWU9JREswSkxIclExa1pfSnJ6NTFvcEdQTExMUldYRXNMZzFKdXZqUDhfYzZhMTI1QjBpdWFQMjFnOG45OEJNSUpqbjJJSzRsUmdaajVQNllXMEowbzk4ekxjcEZTdmk2Y3duQmdvdUwzc3VBUHhQV1VuM01ybUtKMUtfQzc4b3RTazZMR3h4OHNXMTRleDRVSVpFWDNG?oc=5"
       },
       {
        "name": "ORF",
@@ -726,6 +710,10 @@
        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcEhUVWVncUpTelljam5EODhaTTM2OTExMGF4ZTd0RWxWcnBNQ1Jmb25HVzJoOTN0X09KSU9XbGFMejd5WEJENnk0Q1o3R3REU3RmOGd4M0V3VTFoVHlCeXQ5MTV6d0VxWXI0bFN5ZUt2OEVURkdYRThYbFRyaFJ0amFNc082QWpWX3NLb3JiVVgtNW92ZTFwTEUyckhXNUdmR1dkemFiYllEYVRoeTYxYkdnVzlrVWJK?oc=5"
       },
       {
+       "name": "Saarbrücker Zeitung",
+       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGQ3cDFlQzhQMkFyMjZqejZoYU1uYnl2ekRLRkwzNHUtcTZsY0RCUFJHR1JCNlA1OVZuSFIzbmdLR1k2d2dCVGFNLWZpZGhFbWlXUDM0bk04eUhpSHNudGxXcDhLUTlHSm1WVEkzM2QyYmM4SThrdEJFN0pWMlhoQUI0dm1kSkZZVG5RVjZkOEgtSEp3OXRkQ3p3YllCU1RFX2c?oc=5"
+      },
+      {
        "name": "Tagesspiegel",
        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPazRtT0tlc1dJd2JPb1dPYnVEZU9wY0xNVVVFLUY3dUxkWk5qbmRyb1p1UlRlTl9wZG1DNmYzM3R0R3k5aUE3T1J0dlJuSjRQSXN1bE5mWTIzbWlGelFsNkVyUkE1NVozU3F2MVpDWDRlNzF6cHVGUy1EVW9KcmJtZzZDOTBRMmZ2R3M1enFvTDU0M2dlRmNyX1pNcWxpUy1RNlpMYk9zWF9URzNGeXlkdnZ3?oc=5"
       },
@@ -736,10 +724,6 @@
       {
        "name": "MacTechNews",
        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR2pJNFRsdkZGVF8wODhvUVhsRUktMWdJbFFiaDhzS1p3NWFlR3dkaDZnSzloWGZkZFB2eVptRUMyT3FuNnlYbDZQTDczNEpycmJRQW1naEFQSmJWRWI4UUh4M3VSZWU4SVN4cjRrODkzWkpra0RXNTB2eGRRLU45Sl82NndhWVIzdGdzTkF0U0c?oc=5"
-      },
-      {
-       "name": "boerse.de",
-       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zdHdrZTRlZWFYZV9raWs4clVqUFptSFVFbFd4U1JkSVpRX1BCR0dNX2VjbnAzNkdnMTRGRnViTXhQSHE4VEVFa2VDbG9mczNQMGJhazk5ZE42ckVUQWdFZUxaeC1HLTBzN2hvQ3VDeEwwWV9PaTZ1TFdB0gF_QVVfeXFMTmw2Tkh4eGJsR3RPRXJCTm9Eb05HR1ZJNV91anQ3QlliY2F3RVVEb3ZRX3lyUVdxbjJ1OGExMmdaN2lvSGcxU2Fpd1BWQnJheGpFRnJhbmhiVkpRNFRmeWtRbUwxSm1RejJhOS15MGxOQ0g5Wk5uRDN3b0ZCdmpIUQ?oc=5"
       },
       {
        "name": "Investing.com Deutsch",
@@ -754,12 +738,41 @@
        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMlVPcUYtTDBBSkxXMW14Y3JTT1hWUWFWUnpFVkNvWjFuYzltWm11WkdTaXQ1cnNtMHUwcnRWN3lvSXktdnhpdUFfWFJieC1FOC1LOUdwdE1HdEYtTHpVQktkTEw0dHU1LS1LSUkyZEdLaGNHVWpnS1dtM1JyeWh4eG4zLWJ5ejMyWlhjZ215blBYOER0cG1HZE1RX19nNHRpWkRxX3RjYlRCdw?oc=5"
       },
       {
-       "name": "Watson",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmZrcUFqTFFQNDluMWxoWEdqS2lvZG5ka1Zuc19BR2FTUHFzVkE2QlBibzBwWjhBOUkxMGU0TzM3N2M2RWdBX2hfTUZkTGpwazBGZlBKMkJpOG5xbnFqY3J1TjJzU0IzN3dTQmxXRkJsZzkxUGFrN25LcHQ5UVVxRkhHU2ROYkpHSXhBaTJJX2VsSk9NVktSWTV2UXU5b1Uwa3hLSnRkYmVfYWd0OGs5dm14WGlrdWxVcFdIdUpkMkl6Zw?oc=5"
+       "name": "Ruhr Nachrichten",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRWtwbkNzNjAxXzV6NmZuOWlKUjFHQVZjc1ZPemVMX041cm8teE9xMGc1VkRNNmE1eVBSZ01nWVNraVpBTEl2a0hZX1NhcFJ3ZDNiZFo2elp3RkF3amctRVJSX1p0aVBlQnFVNkFkaC0wd250amgzUjNmem1tZGlGLXFVZHdmZkp6M24wcnBYMGZrb2h2ZDM5ci1YaGVleUdURHZDeW9tcVY4MnZ4MTExOUxoZW0xODNNY0x1aDcxUFRTUQ?oc=5"
       },
       {
-       "name": "Nau",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTFUzdGlYSVh5cjNCMEltNmRRZ2xON0Z4TzFyZVlwTDhNbW0wQnBVdm8zcEZ3Y09fd214WThsWVlaZkJBWWlrbnpTS2NkNVluUG1LNW53VzZLX0lDejFzVHVYTURCcEJndTFXQWJOVV9ackhjTDNLdkRnTmlEVmQ2cUpTOG5UaF9JVlVLbnNEM19lbXNENTVMaA?oc=5"
+       "name": "blue News",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10M3duN1pHTi0yN0hUN3pSWU8zRnA3WjhDYWcxMHBEd3VSR2JNLV9qcEtOX3g3RFlDSElMU2RCYWh4OTZWeThpVmdBcEYzR2tHN0d3OU1RSjRYcGtBTkJTcUpJWjhWRzlRVWxia2IwcmQ0S1JHcmxtN1dfeVA?oc=5"
+      },
+      {
+       "name": "Finanzen.net",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeFhNTWV3X0Z4NFE2RjhiejV0d1JxbHpwMTR0Rmw2Q3BLVEFwVHpBSnNabjNsYnVTcUNmd01qVEw5Sm1PbE9OVWJWMlBCck02dnFGQWIxMjZiUHRvYmpHalNtYVJpWGFuRnBUaTgxMUl4RERuMC03TjNkWTFtUDJyRWR6b3k?oc=5"
+      },
+      {
+       "name": "DIE ZEIT",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xeU5JMXNHa25XUVJfUjN1YlROSXQtMXVMYmwzdUI5SGZvRGpKNnp5RmpNNWNsNXMxUWZiMDNSSUtHNERQeDVQYkJpSEpQZTJnVnVEYmZ2NWhKRkk5YklERk9sQ1NXQS1CZ0pZWmxqS3g?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Microsoft 365-Ausfall-Phishing: So erkennen Sie die Masche",
+     "summary": "Berichtet von T-Online, ad-hoc-news.de, NeoTeo.",
+     "time": "2026-11-17T19:43:20+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "T-Online",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlcwbG1mWW03cmVCbnZqR2ZzZ3lmdldjdEVoTUFpM1BKMkhXVV9paXRtX0J3Mm8yMnlncWZROGZxZk5xaHo3Q0RPcWVLMFhtSTJQcnJPUVlpbUlRVC1wWV91b3ZfOWpFLVQxZ3U5YkVwMkNpZjBYb2tTZ2xINGhIU1J4RjJsdmhfdkVUSXFGeUd4amdmSE40Nlh6U1didkxQaVRkQUQ4dk8tdUZZY3V0bXZYcVpoWktUenVmcWQ0M3BHMTk1and5OFFUMWY?oc=5"
+      },
+      {
+       "name": "ad-hoc-news.de",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZy1nRVE4SkJWWmFPSVJIN0p2Nkt2bDVCNTMwa0pNTEUzcDFmNUx6WlVBQ1VLdHFkMVNqcFZZR0ZvNk1DZHREckxCT1dzQU1fb3ZhTUxWREcydVlRdlVKbXFTY0FVdkZxZGNFR1BzNW5aaDktdE81U0VFblY0WDU1Z3B5aXBvYlVDc3pNUExyTDcxOXFUNF9BMGFROXZrcG9yaTVUTmFnMlBKVHlQbWFjTTRKRHNPZw?oc=5"
+      },
+      {
+       "name": "NeoTeo",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbllHcXU1R0IwYWVOSzRXMXFLbnR5OVpfUnloX0FqR3Excm1FT1loSHdtSGF4Q1VCSy1GbVBKU0RvNXBqeVlFcDczUTNlX2ZHY2l3cGRlUWxMMXNsZHdaOGMyOHhZaEVNWkZJQk41bnU4dkJOeThSRDJld3N6YThsOGVxWUdncG81LTYw?oc=5"
       }
      ],
      "verified": true
@@ -833,45 +846,42 @@
      "verified": true
     },
     {
-     "title": "Amazon verliert 40 LEO-Satelliten nach Ausfall der Boeing-Lockheed-Rakete",
-     "summary": "Berichtet von Merkur, MarketScreener Deutschland.",
-     "time": "2026-11-16T12:25:17+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Merkur",
-       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOUluRjA4MjFZV0c4TGp0YlZFTzNJQWN6Wjd2SVZIV3d0RjBTeUUwT2E4SGxCbmZ1RXhfMDY5VHozUV9tWFZQT2pkOFZpQW04R3hnMmZ4ZkNKVG4xbFUwd0JKdXludC1tQWl6eWZBVU9yUnU1cXloY3UyMjUyRHh5ZUh4QXdTM2FIckk4dmU1X0NxRFR4Z0I3UFp6cnNNcm9DZzkzMUNrQnB3UXlpaEhaa1Jtc0RGMkZ2VC1qU204OWFwdHc4SzhpdzRqQVlNOU5XVE0zV2VCaGh4QQ?oc=5"
-      },
-      {
-       "name": "MarketScreener Deutschland",
-       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS1dLM0J2NGEwakZ6R0ZNd1FYV2ZGcF8zOW1yTy15ZjFrYzNxdmVfa3kzNU45TVU2Y25ISW9wTTNTdDllQUh0blU0VjdrLW03cGcwa0VFanliRWk4NXA1Q1dndjN5R0JhbHNoRkgwWFRtVmY3Vm04OEctZFJLOWIydjRYY1hJMHotVVh4WVRzV1hGT2VhdWdpNkw3ZV9oRDY5TzR1RTNmUXQ2cm5RTktGSGJRVXA1T1ZwSUJ5Ty1CeDN2RGwwdzhwRXhwNlNBQTBWcXhhZlpR?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Apple-Dienste gestört: App Store, Apple Music und iCloud betroffen",
-     "summary": "Meldung von Ruhr Nachrichten.",
-     "time": "2026-11-17T19:52:04+01:00",
+     "title": "Apple-Dienste down; NSA Net ebenfalls down … (17.11.2026)Borns IT- und Windows-Blog",
+     "summary": "Meldung von BornCity.",
+     "time": "2026-11-17T20:22:27+01:00",
      "importance": "low",
      "sources": [
       {
-       "name": "Ruhr Nachrichten",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRWtwbkNzNjAxXzV6NmZuOWlKUjFHQVZjc1ZPemVMX041cm8teE9xMGc1VkRNNmE1eVBSZ01nWVNraVpBTEl2a0hZX1NhcFJ3ZDNiZFo2elp3RkF3amctRVJSX1p0aVBlQnFVNkFkaC0wd250amgzUjNmem1tZGlGLXFVZHdmZkp6M24wcnBYMGZrb2h2ZDM5ci1YaGVleUdURHZDeW9tcVY4MnZ4MTExOUxoZW0xODNNY0x1aDcxUFRTUQ?oc=5"
+       "name": "BornCity",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUlBNUGNad3gzQjFZU25VRWlHckxaX0UwNlRINkRtWVZYZ21xVTVLSTI0TDJUckprbkZlTUtxd0g3MmFFUEh3UmltZkx4amlIN004TTNlX2JjbnV6QXl1RnVDTU9fSVY2bnZ4S1dWSGFXWnRJUjFGM05Da2xvb1E5VENEQ1Z4Zw?oc=5"
       }
      ],
      "verified": false,
      "singleSource": true
     },
     {
-     "title": "Microsoft 365: Phishing nutzt 24-Stunden-Drohung nach großem Ausfall",
-     "summary": "Meldung von ad-hoc-news.de.",
-     "time": "2026-11-17T19:16:14+01:00",
+     "title": "Apple-Aktie unter Druck: Ausfall trifft mehrere wichtige Dienste",
+     "summary": "Meldung von finanzen.ch.",
+     "time": "2026-11-17T20:20:00+01:00",
      "importance": "low",
      "sources": [
       {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZy1nRVE4SkJWWmFPSVJIN0p2Nkt2bDVCNTMwa0pNTEUzcDFmNUx6WlVBQ1VLdHFkMVNqcFZZR0ZvNk1DZHREckxCT1dzQU1fb3ZhTUxWREcydVlRdlVKbXFTY0FVdkZxZGNFR1BzNW5aaDktdE81U0VFblY0WDU1Z3B5aXBvYlVDc3pNUExyTDcxOXFUNF9BMGFROXZrcG9yaTVUTmFnMlBKVHlQbWFjTTRKRHNPZw?oc=5"
+       "name": "finanzen.ch",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0E0eGVQNENqX1lUSUEzWkVFaVB4RzVwUllZUlRWNlRzSmtCZjFQY0RNRHhaVWhyZGZMMHR6MUZfd3E1QlNzbzVtVTJNb0wtTktqN19wQnZOQUxPZVR6ZFFFWlFSVjdHd1ItemlJS3VtM0tQN1RTcnlwU2xXSkxNUTJzaDBnemhQTGFsUUJ2RGpYd2xaMkV4SnV3UWoxUml0V1I3T3publVVdmNEYVROVnNWT3FEbEZH?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Störung bei Apple: Apples iCloud, App Store und Apple Music fallen teils aus",
+     "summary": "Meldung von Tages-Anzeiger.",
+     "time": "2026-11-17T20:04:07+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Tages-Anzeiger",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcXVUQXF0RE92aTJkQml2b1FGNU5nMHBQZ0c4TGFTcnJZQ1YxY3N6aUh4NjlHTjdLaVRXSHJDbjdrX094QUxWdEc5RC14aE5xVkFhWkZwSW9Da0pXTmFPRmdVS2FGYXNiTGVxbGpLN1F6VXdZYkFnbzlNMmdKalptWVE4cXBEMzBxYU9Zb1FaR1JvNGlvWEU4?oc=5"
       }
      ],
      "verified": false,
@@ -907,27 +917,13 @@
     },
     {
      "title": "Nach der Störung: Es muss nicht immer Microsoft sein",
-     "summary": "Meldung von Stuttgarter Nachrichten.",
+     "summary": "Meldung von Schwarzwälder Bote.",
      "time": "2026-11-17T14:08:17+01:00",
      "importance": "low",
      "sources": [
       {
-       "name": "Stuttgarter Nachrichten",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYWVYYUN3enhHNGNabkxHRkpJV01YR2E4TU9QRmQzYVhSQVFYU1lMLU9LWEoydGMtSzdod0VrcW41ZlJwS0UyTTBydk9udmExc1NDYVFBb3VBTWNYMXAwd3g1blc5b0J2Uk80TG9pUXJPSUJsQXFkbFMzZEpwZjhKY1RKUUZKYmlrXzRaRXpQcjQ1S0twb2VlZjdrdnVlR2Nic1VBRHA0c1ZWZld4OWhPSjJwTkx4c2M?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Kommentar zum Microsoft-Ausfall November 2026 – Letzte Woche war die Generalprobe",
-     "summary": "Meldung von All About SECURITY.",
-     "time": "2026-11-17T11:19:45+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "All About SECURITY",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV2dtTzhPZURLSk5KS093dVdqNHpxd2RFNE5aZzFpQkNUNDgtMmRSWXhZODVNSXBOT3R3djJIbVVtWjFSMnpwLS1SQll0MDF6T0FzMTdTUG9JSGJFdHdHVmFzemVEelRFV1N5b3prNXhNc3Q5TjR5QUZtVnRVVUFscEVocmRoeE9Kby1NS1RPSFY0dEFCV0N1aW92RFNxa1E3SlZFSl9DMmpYMlIzTUdRTXdpVDI?oc=5"
+       "name": "Schwarzwälder Bote",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSDNqM1V6dzd2OXJHbmhzWjJYQWtyV3JDWEZLUDNhQjZSZHBDQ1N5UVl1djdhd1hsNnMzemR3QnVrSHpjYWx0ajZZRE52MnZYQnBWcGVZdUpBeG5nLUptRks3cHFGaEpFWEU3R01HcWlIM09QQWEzZUpwX2IzY3RJOEtSdElyaXUtdE1XamhEb2N1bGdFZGpka3JJWjctZ01DTGRrUUFKWHNmUWZzbTJGZTJn?oc=5"
       }
      ],
      "verified": false,
@@ -952,15 +948,11 @@
    "tint": "purple",
    "items": [
     {
-     "title": "OpenAI stellt GPT-6.2 Astra vor, nachdem ein früheres KI-Modell verworfen wurde.",
-     "summary": "Berichtet von MarketScreener Deutschland, Investing.com Deutsch, Unite.AI, Caschys Blog.",
-     "time": "2026-11-17T19:45:22+01:00",
+     "title": "GPT-6.2 Astra: OpenAI holt Platz 2 hinter Anthropics Fable 5.2",
+     "summary": "Berichtet von Investing.com Deutsch, Unite.AI, Caschys Blog, Trending Topics.",
+     "time": "2026-11-17T20:56:03+01:00",
      "importance": "high",
      "sources": [
-      {
-       "name": "MarketScreener Deutschland",
-       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMUxmc1ljTlM3VjVxZXl1WXpWMzBnWXJrdzlLM0duTWZCWG5nSjh1Yy11ajFMalRNZXVEczlFd2xZSkVxQm1xSEFDYlFZZnVoWDlxNTUyNGxBTlVMLTlEd0diT1NNWVJ5eFdJOE5tMkluaDN3WGlCLXJ1eFNVLTNWN1BqWEJ1VHp0eVBQUHE2U2FfNnYzelFYZkRVeUxVTTM0RDZRS0pWVUtOeVhSNTBUUlZCY3dzQ1JOOW1rbFd2WTFVUHpJLWxHcDE4Tm1EZV9uNmZTWWR5ZGx6SnFuN1BwNXFWck9OMXhG?oc=5"
-      },
       {
        "name": "Investing.com Deutsch",
        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUDRpeW9vU0xHZnVyTjBOWWNfZUdUMzR1N2E5NGpXNEc2WEkycmE3OHRLMmo1SUhHUnZDSm03dlNwaE1QUmNzT3pXM2JOb2xOcWRLVXZfS0QwcnBwMmhzd3MybTg1Zm9hdmUxZFJYOXE2WldnN1BVN0hzOVJuaXA2Zi1GU3A3STB4dWwtV3dxNW1ZWlNSUFBlLWw4Z3dwX2xYOEgwclZ2b2tTeG04OHAzaGVTcUYzTm9vQ0l3SHZUdmlyTGpCWHVpQWVFbjFQTFdkWFJjRG9SWQ?oc=5"
@@ -974,8 +966,25 @@
        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoQ1U1TFd6bUtFTXpWMEZyLXFybzZTT3I0SlgxUG40b2NjWUkyY2ZuY1hwck9RV2Z5MTFZZTViZHYxUjNOMVdVZGY4QXZBYUE4bV85akRyT3ZqQU12bHlBVFZaaDlSbElPSE51Q19BUm1qRUtP?oc=5"
       },
       {
-       "name": "de.qz.com",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV3Z1SGplTF9DQkNkbzBHNHhUZDF0bEY3Xy1iVGJMMTFoTHBOTUsxTVM0SzEyTERXT1BnUTI3NTVQUjRGeDk2ZWFQdmFHalA5N1JqQzhHUmx6Y2ZTSUJKMHp0eVVUX0h0OWFfR2pfYTVCdnNtNC1aZ18zczc2alJEdE1YNkZOREk?oc=5"
+       "name": "Trending Topics",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRldhYTkxTXFnVnpWRVpzdXVuaE9RaWd1N01adjJuei1OM2Nmd0pVYU9hOVBIV0Z2MzN4Rjdkdy1tTVRZSllLNkNib3IwVmtmQ3l4OGIzbXJpb0VXVDRNcG9xbmhqOEt5bUpPdktKbllMT1BXLUJZOFYyd1lSS1hxNUVaMXllSlNGRFdwRHgtWmZLMGNOVmpV?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Gemini Notebooks: So werden aus deinen Notizen jetzt interaktive Webseiten",
+     "summary": "Das Notiz- und Recherchetool Gemini Notebook kann jetzt durch ein neues Feature sämtliche Informationen aus einem Projekt in eine Webseite verwandeln.",
+     "time": "2026-11-17T20:30:50+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Gemini-Notebooks-So-werden-aus-deinen-Notizen-jetzt-interaktive-Webseiten-11527663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "Caschys Blog",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUkEwd2xPMklYMHV0WnJCbGxNQmlXLXB2a2lLM1NPLUNzWlcxRUVQc1FwdWdvRWZHMlM5MDF3M3FTMkFoYnV2MXk0UDFmdVY2SkV2ZkcydzMzU2RYWFV0bmdGdlJxR2J0NHN0NkJlVS1BNS1nc1lsVnVFbmt6cS1fY2gtb1J5djNMYTB5dEcwRENjNWc?oc=5"
       }
      ],
      "verified": true
@@ -1044,20 +1053,6 @@
      ],
      "verified": false,
      "singleSource": true
-    },
-    {
-     "title": "Anthropic: Bewertung beim Börsengang klettert dank KI-Boom auf über 1,5 Billionen Dollar",
-     "summary": "Meldung von Investing.com Deutsch.",
-     "time": "2026-11-17T18:21:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Investing.com Deutsch",
-       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdENMaHIwNWZ4QmNXakFFQ2VWRzJ1VXczQmRaNzAwd3BtR1BTc2ZSdXJTNXNyNHk3elFsTzhHS0psX2dLeVhpNXNRQ0Z4NVQwRW04Sk94cnpqSWNTeHpVQ2d6NThIbHBfQXZEWXN6cWlRU1NtNUhHX0xVMHhDUzdsNVJncjBiRnFZTWhHenMtdlQxWmdlQXlmY3B5ajRrc0w2cl93MGRHX0VFX01EaXJocXJkemxLOGJCdDB4bzdPclNWMUFfa0lGMV9iQjRTLTRiS0Nfa0V4U1k?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
     }
    ],
    "more": [
@@ -1077,159 +1072,6 @@
    "icon": "building",
    "tint": "blue",
    "items": [
-    {
-     "title": "Bundeskanzler Merz fliegt nicht mehr selbst: Was hinter dem Privatflugzeug-Verkauf steckt",
-     "summary": "Berichtet von BILD, T-Online, WELT, Berliner Morgenpost.",
-     "time": "2026-11-17T16:55:00+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "BILD",
-       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdjdsRmVXMnNxWm1zZE5zWnhPWUpEM3ZodjZzbXpoVGRkS0ZVWTd0MkJCNzVvUFFOMy04X3FvS21ScjlMc3hVbUkzZFRiRlYzMjVKdjIzTDRlaFRGMmEtV3pmaEdqR2VmRGQtRWlnLV9Qb1MwUVNjY0FySjVuODF4RWF2YS1VcUFlOE9mOHdJSU1XVi1HQVo0bVNQNGFLQWZyNHhRQ0N3ZkJGOGg0d1pCdkpLLVdOMmdMb3FfMDA0cjJaeGdJRHRNZExIWUZDNkFP?oc=5"
-      },
-      {
-       "name": "T-Online",
-       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTVdkU05fY2ZpTGpvRDF6OE1DTms4OUhINTc0QkVRb01OY20wem1saVlUZXpGMjhjM2wzQTM3d0stSFg4OVNVUjI4QnNLMk8yV3ZWVWhmczZfZnNvYjVyeG1YT25Md3A0SFVST2V1dnVZaWVXa0VLV2lybTNrM0VMRThITUt1WUNRLVBUSkp5S1JZb2lXWkVBdzFFWVA4ZDQ3Ni1EYjhnTW1pTUpndGRseWlpQTl6YlZWWkRtZ2hYRTBxT0dOSWwzWU9hZmk2bHBSZlE?oc=5"
-      },
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOekFDWk5UVHhYTWc4d1hacHctSjNCQW9taFJCVkd5TXQyYXRwWkU4Q3JMM0ctSkZXTEphNWVPOXlJdUdRNUMtSkh6R2dYVkVrcTJlc1dhcnZWOC1lQmh0dlVyWVpnSWp4ZVR4S2dlX2ZsNXFYeXJmWDdrSE9JdlJFbjRMSnlxRnhHb1JnNjVycHBkRGYwTUw3WkhST19pRVl1bkpiOG1iM3VvbFRIMFk0dG8tWmY3MmlyLWEyWFNfMzFLejkxWEZobEdrc0tpSk1nRVFrS19OT0VrZnVvdjBUSGl2SEk?oc=5"
-      },
-      {
-       "name": "Berliner Morgenpost",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbzJiVTQtbG1QamtZTHJ0dUt5NDVCWVBEbjltYUtNOTlKNU1ybVF5MV9hdUdqYlhjaTNqWGEtbHdHRTZrRGNldGlNclRzdVl0MGhFaDhsZUUyMC1lMlpxZkMyNjFSODFvZmJHU2dFb0taX0Q5RWxfbTd3cVZDNDVRY0N3SzNOQ0YwSXBPR093Z011ZVJHQmQ3MkdtTm5SWjdMNkEzaE5EU0ItdWVNaVJyLUl1WWdUZkFkdGxDMlJUaHEyRnY3TXhqMDd3?oc=5"
-      },
-      {
-       "name": "RTL.de",
-       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdEtESWtYNWQtWXRHc1Z6ZjRleG9FREEzcmR0SzZQQmpJZHhHWVd2ZXdZZGh0SXFBVmpWTm80OXJoWWh4VzV3OHRhRTBDenlWU3l4QmF6TVpiWXZxc0doSldNX2pyeDRrei1JTzhsU2FfQXQxRy1VUlRSSkpSS3AyVzFMMFdueUpoYWdyeE1uOVZQLWt5MXJlVEs5d290Y3NZc25UeV9UeUdaMHdwX0lLanQ1QnRfaTVCSV9Qa0NpeG14d0dxZjc3dHdHLWlhSlk?oc=5"
-      },
-      {
-       "name": "Joyn",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORXYwenRVekQzZXZ5M1EyaFFKSVlJQUJGeG5YR1VjdmRNQUJCdHdNQ09pem5ZVWpDZWlRSFJYcjFuSkJ0Yl9GTHZ5Tm40eVozR0pUdFVhT01aTENGaUxQUE1yT2thellJR0V3QzZFWVhwZzdfMTUtaGJpSGVsWVE1c2xRUGFYdHgtTVNGVzFneVJjV0R1XzdVZGV5Z3JYMFU?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
-     "summary": "Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Kanzler Merz zeigte sich sicher, dass sich SPD und Union morgen einigen.",
-     "time": "2026-11-17T16:41:47+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "ZDFheute",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSzlZaERYeW40TERKTWlJMEJ6NlhxNzJZWGk2QXJoem5Xc01NV21wdlp1SVBsR2trRkppMHU2dlFoYUFGWmU4NDREMW5sdVYzSmJWRnZrLUdkenpIOGFYVXVjMlJrYnZacUVpSlVMVXlHVHJWM28xcDJGaHJFR3lzUmtDYVFIQm1JdTM1ZE9TTlY?oc=5"
-      },
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPeEhjMFJWUmd2ZFFoQUpzR1o0azZ5bGxQVXVGOGlVOUQ5Rm9vbjZqdUNzWkctSXJaaG5wWlFKLWpHNy11dmVUQTU3VDZqRUJvVTVjT2RiZmxGbkFEOGVBS3hBUWptdk5SeHQ3OUZYV3hraVFYM1J6WTY3OS0zdFAtZHZjazVqTURHRXlrSmhrSmRORWZFUHBDMXNOcUNxZzdkVzEzYU0yeFVKZ3g1dGhkZzZtSTdkb3k2cExONVRwVHFVMW9fR1ZKZ0V0ODhnVXdFX2RCMlRhY2ZSclNyM1hHSmt0TnBxLWpDR1lNOEJpemYtWTJCZXVVeEE2aGNlYnhxWmo1NHR5U0pMM2s?oc=5"
-      },
-      {
-       "name": "SPIEGEL",
-       "url": "https://www.spiegel.de/politik/deutschland/stromsteuer-friedrich-merz-erwartet-einigung-im-koalitionsausschuss-a-f168982c-79b8-49e6-9ab2-dc870587a27c#ref=rss"
-      },
-      {
-       "name": "tagesschau",
-       "url": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html"
-      },
-      {
-       "name": "DIE ZEIT",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUnE5bnBLa2tVNDRFblFwbXpBcmRzRWFJTFFCOEZnVklpLVMyVU9yelRKN3JDRTNKQ1VCSG40d3ItS1JCeGszdWlXZl9hNXIweUN0VzhNbHN5UmtXdkpZcTlUN2VSV3ZZOTk5MXhEUFBzblNkZ1ZNZ1hFUHotUkJPcXJYYm5sblJfLTFNYnk3dDN6UGJuemhvZlBPNHRfNm4wUGQ5TUVyTQ?oc=5"
-      },
-      {
-       "name": "tagesschau.de",
-       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zVU1mVHRwMjl6RHhJQm1iYndpS3A4YkY4UU5EbnBhZ0prcW9Hb3BkWVB4WnRNbHJkYUxOZ3NrelZBcW1laVNhVzhYU1VuZG5FM1BuMmw2b3kwM0JKYmlV?oc=5"
-      },
-      {
-       "name": "Oldenburger Online Zeitung",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWllneGNGNzF0ekhZOGc2SFcxYUoyd0tSTm50SDR4WG92UFBFMGUtdXhxWU5ZNWc1Wm5LaUYzakJmc0FlVDRET3VpdFJVanptMk1FT05DeS1PQkVmN2ZPcGpfSE9IblkwMHc1Q2M5MUhnM2tITTZYSDh2VDk1S1NCNFgxSl9iVXFrWkxGeWJ5RUh4YkVmQ2RsSEpPNkRMZkdnenl1TDUtS0czUQ?oc=5"
-      },
-      {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNDhUWmJ2Y19SQTdqRXk1Q1VDSFRydzZhb2VTZk9DT0NXUENwT3o0NHRLaWpsNzB2cXp0a3pKd2lkeVNnWTg2T2NsWHlINHFjbDVVYzR2U1VJMlBDTWJCcTZNOExwZDQzZG40dTYwelRLT0RCS0RxRUZlNW1TNFY1Rkc2bFVrUkNtNmE0dWJTRkhabHZm?oc=5"
-      },
-      {
-       "name": "Joyn",
-       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYm9rRXVKaWI5cG5hWjJSNkVYZkJtZXctVEh3bFdNVFE1ZkMyN1E4R3MySUhSTlJ6OTlpaGRGZ0lvMlZtTzA4SVdIUU1hS1VXTXp0cWhfVHhjX1JobnhkaEJPYW1EbjdKSms3b2UzUE1MWjMzY1NocFlob3dWZFVuV2hMM2NDNlZ6NkRjXw?oc=5"
-      },
-      {
-       "name": "Deutschlandfunk",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa29FOW55bnpxLXo1T0c1YzlDWXhUM2lDTGVaRlJOc1lKVG0ybllSOS1CSHdjdGR5LWdybk5WTEliWno2STJncjNMWHhPTkpTY3FJcTB4NUFYUHVsQWN3S3V4RTdfV0dxX1NCdHM0TTZ4amhvUjVNY1o2ZHhKU3dGU3J0ek9ROFV6cTltc2c1X2tFeGlRenhGZnBTRENvbC1VcWlsTXVPTEtGVXIxbTNyNFF2ZC1rdw?oc=5"
-      },
-      {
-       "name": "RP Online",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeGVrUlFweHBkeXFDd3EyeVAxX19RazFUTmFNbzRzUV9vbzBtZnlRU0hhMWlNYkJUbmp6cGplakJnbzJRRFBuUWlrNGN1Vm9kVW01ZVdTdG1LTjhSbDlVSTBLcVZmV0NWd3llX0VDeUluZUQwSlRGYnhmZkJSMXRMNzI3OVN5VkJmc0VpT1pKT0hoc2dleXZyNF9ueklVQXJiMUQ2SzlxMmg4UXRXZ2N3?oc=5"
-      },
-      {
-       "name": "STERN.de",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdmFBWWd0LW1vaVpESDFqOGI2T0E2QnlIXy1HdEhjMG1FSUNoNUNRNFQ5UTBqdUk5LVBqZEpMb0Z4TG5EME9jaWJBV1V1a2dCWHlIZHFvYS0yQ1V1ZjhkRF9iNjJCWE51Z0hwY0RFTXJvTE1NWlM4eHpyMjkyX0dVRDZLV3hzdUJxdW5FbXNsMnpkMTFxSlpPQlJaSDNfN0JoUXVHYQ?oc=5"
-      },
-      {
-       "name": "nd-aktuell.de",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1pfLVZwRVdCS2gyczVNOEdqd3JDZndXVG5OOUdXV3pRVnR1REtOOVVzZTJyZ0hpb3dUTzV3d1dQWGFnMGFOb013NHRXY0VmLVplZ20tWUtFLWFxVERhOEJQZ0dOQm9ZNF9FQVlRQ3JGcVVhVnJrUHkzNGd4LTlBYmlDTlRfX2tUTlVEMHJTcC1RblRxV3VSd0k4TDRvZFFITVlPOVhyaUpkekVYckh5cA?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Merz’ Stromsteuer-Versprechen: „Das wäre sein Job“ im Schuldenstreit",
-     "summary": "Berichtet von n-tv.de, ZDFheute, FAZ, BILD.",
-     "time": "2026-11-17T16:34:33+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGdjZXRRcmM5MFpyMjNETUR0blp5OVgwMWZmWFJXVEtnQ2puZ0pEek5NanZpLXhVQ0JUdUVVYVhVY1dsc2pwWkp5TzNYMXZhdC1NbHF1d3F4XzR5dVp3OHZRSFpkdXN1TDcxVHVka25ZTDNscFJ4cjZnWVhwdXBxTnRoVXNmcVZHTDFlRy0tQWtZVTYyNjhuSEFlMUlqYUV2R3BzUzluMA?oc=5"
-      },
-      {
-       "name": "ZDFheute",
-       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRVhqeDB3RW5RZXdXSGJ2QjhRODZGTUNLZkVNUXktZDF6MXMwZjBkazd0amx4ZkIySWpPNXdkVzdVODU2cGs5ejVVR3ktbTlVc25wVzFBUFZSS1BzWmFwUnF1YW5iTVBSdmNwdFpvZTMxWmxuMElqRWhYaGgwRnh3MlMxYkEwdw?oc=5"
-      },
-      {
-       "name": "FAZ",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSmJTWlhVZXV3a1JTTzNKZkwyQnp1NHZjVEVNYzhPV2p1aV9rSy1rbU9kMnhLTGRqVjdSamxiSWZVUm5wXy1lNHp0OThkLUkzcE9SX3BqV1hHZVdvT2UyR2hXVE4ySDJSX1NBQktiRmRoMFAzM2F1bnFlMF9yYS1wUkluNnFkT0x1YW4zckZ6VVRlYUpMdWlkMjVpaHRBOFVDbC1ybDJxY2N6aElQaHJxcVMwYWNlSk9kdl9JTC1uMHUxTUtEMjJyaQ?oc=5"
-      },
-      {
-       "name": "BILD",
-       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGJHcUEySXQ2MC1kOW84R21pSVVPZ2d3WUtnTnROVHZHMmxwdmJYWkdHV3VBNXZHRXh2QjdGTXAtMGJieUcyNzJnVXJNM0t5cm5GdTlMWTNzb1VKWXlHdXlUT2hJbV9tRzB1WHNTTFZ1d2tUWWZEUm95T0QyYy1ibFBPUGt3LS1KU2lVc2NUTllUUl9RZmtpZlMwdHRMaHY3T2V6cFh1c19QblpFeHZKMExNelA5SWtmelE?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Mehrheit hält Merz für führungsschwach Noch nie waren so viele Bürger unzufrieden mit der Bundesregierung",
-     "summary": "Berichtet von ZDFheute, Tagesspiegel.",
-     "time": "2026-11-17T18:14:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "ZDFheute",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzUtYkZfSmY1cG9Zc0FHU3VBWFpFbG9ESTFVUjEtdU5GaXAxQm9EWEtFeFJDaGxfREk3Q0ljZDNlREJrS1dTQ2dvczFOYmNXS1VtOHJLV1dvTWJETDdjcDA4QkZBN1d5Y0h0Z2tiblpXVFN1TTluX0M1RFFmU0hVa1doWTFQdlVOOUNGXzRwWW1JdFVEeWNMejQ3X1lkVGZNYTJv?oc=5"
-      },
-      {
-       "name": "Tagesspiegel",
-       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPak9GOUs4eGVETnNVazBfQVVhaW85T0o0YllJYWIza3ZnVzd5MlJkdFNJd181Y1loMk5OdVpsTGRCU1drb2lUSTczbmlHdkh0VEdkbkFxeWNNTkI2UmltWjgxUE12cUxZZ1VJcVd0UWxCemhLM0IyMUc5WTRQNkRzODRPNVB1TzB3RkIyRmVLSzMyOUVvNkQyNENXRkZKY3hqLWx5VkF1bGRqTXpFcFFDeXpXbUZHWkZ1Ukw1NA?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Steuervereinfachungsgesetz: Bundesfinanzministerium will Steuerregeln vereinfachen",
-     "summary": "Das Finanzministerium plant eine Reihe von Änderungen bei den Steuern. Kleinere Abfindungen sollen steuerfrei werden, die Steuererklärung soll nur noch digital erfolgen.",
-     "time": "2026-11-17T17:47:41+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Dr. Windows",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQi1iV2lDM0Z0X0EyQmZEUFpaYk90X3hEZnpsMk9fMkNkNEF4ZlpkY3RVU0k1VVgyZTY4RVBjdjVqN1VDYUdBOW5zbjhUM3ZSamI3V3lEUi1ibm13ZUZRMjRwdVpiOXpSb3ozWVd6Qjdua1V4c0wxX3JqS2tfNXdrOWpod1F1YWs1QTVEbFI2UFVRQ19GaTNDMUFjWHVRRGE1ZU40MWltSU1Rb1dn?oc=5"
-      },
-      {
-       "name": "ZEIT ONLINE",
-       "url": "https://www.zeit.de/politik/deutschland/2026-11/steuervereinfachung-werbungskosten-arbeitszeitpauschale-arbeitnehmerpauschbetrag-lars-klingbeil"
-      }
-     ],
-     "verified": true
-    },
     {
      "title": "Baden-Württemberg: Boris Palmer gibt Posten als Bürokratieberater auf",
      "summary": "Wegen der gegen ihn erhobenen Belästigungsvorwürfe wird Boris Palmer seinen Job als Berater der baden-württembergischen Landesregierung nicht wieder aufnehmen. Die Situation belaste ihn »erheblich«.",
@@ -1282,63 +1124,133 @@
      "verified": true
     },
     {
-     "title": "Merz empfängt Finnlands Präsident Stubb zu Ukraine-Gesprächen",
-     "summary": "Berichtet von STERN.de, Yahoo Nachrichten.",
-     "time": "2026-11-17T12:20:44+01:00",
+     "title": "SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt",
+     "summary": "Der Schweriner Landtag hat Mecklenburg-Vorpommerns Ministerpräsidentin Schwesig wiedergewählt. Das Parlament bestätigte die SPD-Politikerin für weitere fünf Jahre im Amt. Schwesig führt MV bereits seit 2017.",
+     "time": "2026-11-16T14:23:01+01:00",
      "importance": "medium",
      "sources": [
-      {
-       "name": "STERN.de",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbU8zcHhvTUstbjE2VVhUenA4M2FNdmNUbjNLcnltVjV3N3hKc2ItTUhrVS1DYkowV2toQk5UcEI5ZW5feVJZZTVGei1TWE9zMTQydEFYbU54OFkxQzZ0Ykxmcnd5dXNoSy1NR2tQUG9nQ2FyMG9YYWhVMUN0SlhCU2JnZjhURFNzYVl4SnVzYnZxMG10U1g1ekhZY3pxZHBY?oc=5"
-      },
-      {
-       "name": "Yahoo Nachrichten",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2hpNjhNNXUwMlZWaVdHSzZoR0lLakZPTW5zZ2QtUjB6Q05qcFF5TC1MSDVyeTJTOWhVMlZtTnE4aS1mN0pTM2NzdlBNWmdSZmljMHI3S1BXVjhGNWVYdFBCMjVpVHFPd0hUVkFEWHU1WjlPaHh6Y05yYjJxNEpfdTRIWkwtSTNsb1NOT2JIUXNuRFhfRjVxazU0NEFzdw?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Folge 10: Dietmar Bartsch: Merz \"hat mächtig dicke Backen gemacht\"",
-     "summary": "Berichtet von n-tv.de, RTL+.",
-     "time": "2026-11-17T11:26:39+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSlZWaGFEVkNacWZfWG02b250MlNUODF5VURpNzVhaVBwMThISmdxTXdRRU80WFY0QWg0LWFLQWFvU0s3d3JtMUx6dTJwS3hzaDNKYk5CejQ0d2VQY0RlTlVfMHJfeFpjdlJaZnY0bGVCYWNjZVdWN0psUHQwT3ZETzRQVVRqaGZ5UDRiWVFITkVvdDZFLS1vVzdldC1DRlViT2E3ZTVMaHdZbkRvQ0J3Y2l3?oc=5"
-      },
-      {
-       "name": "RTL+",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHpXR2h1d09STUp5RzVnQjZrS0V6MjdSQjNEWlZlYkZpbnI3UmRiRVlUX0plYjZTdnZrWmd0REd2X1dOY28zdS1hTzViQXBfd0VjcXFYZWQxNXR6V3BIbzFYazh2bzdzMFJ3NGtSRnZ2S0tObWhRSVc4aG96ZUJEZ29rNEZZaDRjSUZzMlhveEdPUFVtZ3RkTE1hYVRIa1RhNkdYSnVqN0JtcUJMSXc?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Friedrich Merz lobt ausländische Medien für ein »deutlich positiveres« Deutschland-Bild",
-     "summary": "Friedrich Merz lobt die Darstellung Deutschlands, die internationale Journalisten verbreiten. Der Kanzler spekulierte zugleich darüber, warum die Berichterstattung im Inland deutlich weniger positiv ausfällt.",
-     "time": "2026-11-17T10:26:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "T-Online",
-       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNd2VkbkgzSk1Hci1mVTEyanBHb2JEdjlXanZmd0tCX2VhajMwOU5GQUpqYjVCZGJvbkV5UGJRaHBRVkY2RmRkXzFXY09JUm5vVkdyWkZiSnFUZzF0SER2ekpTSXBhUExHWi1MdGt6X1NnbTVNSE5lZjhubi14aXBzOHlCUGpUNDJTMkhFcVBRdmJ6YmpLTWtpZWNtMnlRUVI5T1Zva2FsUkR0Wk4wOTgzd2VZR2JrUXZLa2c3N0NCaDNzdC1ua2VyakhsY2NTOFMxeVlQazNoZExvX2h4Vnc?oc=5"
-      },
-      {
-       "name": "GMX",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2MyNFVKVVRCSkdaTnJWN3JZcm1iNm1FRFQ2ZWNnUDFqWm11YVcwbTFxMjlncmYxQi0zNDdGNDdOQm1BeGJnZkloN0Nod1IzOWhoaWoxejN0ajNTd3J0QzAtTU0xcVdRRjdidElCSWZ5WkJ2LW92MUZqdGpSMXJ3T29WVDBqdVctRVNkSDF3OUhjRkdHV2xDQjJuOXlRVTk2TUZjOWdlNzZiRXc?oc=5"
-      },
-      {
-       "name": "Berliner Zeitung",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNEJMZF9zemtiTDQ3bWRQVlQ3RUF6dkU2OUhGd21SWkJsejNnMlFMbGxjSF9CdkFoZi1XV3dwSC11azVYWkVTNWxQcDdFTjg3eEVBNjNYZmMtMVI4RGtvaVhoNjBBbHNOOWE0ZjB3ck1uWEhMaTBGTVllS05za0s3cFpab3hMdmxyNS1Mdm1sUk53cEtaZGo5MjFaUjVvTEk3YUtZ?oc=5"
-      },
       {
        "name": "SPIEGEL",
-       "url": "https://www.spiegel.de/politik/deutschland/deutschland-friedrich-merz-lobt-auslaendische-medien-fuer-ein-deutlich-positiveres-deutschlandbild-a-37e0819d-1ecd-487b-bdd4-21bb7c353c9f#ref=rss"
+       "url": "https://www.spiegel.de/politik/deutschland/mecklenburg-vorpommern-manuela-schwesig-erneut-zur-ministerpraesidentin-gewaehlt-a-223a2d1e-3809-43fb-977a-73be20bcfac9#ref=rss"
+      },
+      {
+       "name": "tagesschau",
+       "url": "https://www.tagesschau.de/inland/innenpolitik/schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html"
       }
      ],
      "verified": true
+    },
+    {
+     "title": "Cyberabwehr: Nato erwirbt Zugang zu Cybersicherheits-Plattform von OpenAI",
+     "summary": "Die Nato und der KI-Konzern OpenAI haben ein Abkommen zur Abwehr von Cyberangriffen vereinbart. Das Militärbündnis darf künftig die KI-Plattform Daybreak nutzen.",
+     "time": "2026-11-17T20:14:30+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/ausland/2026-11/openai-nato-abkommen-kuenstliche-intelligenz-cyberangriffe-daybreak"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Gerald Knaus über Return Hubs in Ruanda: »Den Tausenden, die jeden Monat kommen, muss die Überfahrt sinnlos erscheinen«",
+     "summary": "Können Abschiebungen ins ferne Ruanda Europas Problem mit irregulärer Migration lösen? Der Experte Gerald Knaus befürwortet ein Abkommen mit dem afrikanischen Land. Moralische Bedenken lässt er nicht gelten.",
+     "time": "2026-11-17T20:06:00+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "SPIEGEL",
+       "url": "https://www.spiegel.de/politik/deutschland/gerald-knaus-ueber-return-hubs-in-ruanda-den-tausenden-die-jeden-monat-kommen-muss-die-ueberfahrt-sinnlos-erscheinen-a-47546ef9-905c-47d7-95b9-4d0eb1f4b6bb#ref=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Niedersachsen: Justizministerin Wahlmann gerät wegen verschwundener Akte in Bedrängnis",
+     "summary": "Eine Akte mit Ermittlungsergebnissen zu einem korrupten Staatsanwalt soll in Niedersachsens Justizministerium monatelang nicht auffindbar gewesen sein. Die Aussage eines Abteilungsleiters bringt Ministerin Kathrin Wahlmann nun in…",
+     "time": "2026-11-17T19:56:00+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "SPIEGEL",
+       "url": "https://www.spiegel.de/politik/deutschland/niedersachsen-justizministerin-wahlmann-geraet-wegen-verschwundener-akte-in-bedraengnis-a-2e5af55d-26cf-41e0-bb8d-430e21f1c692#ref=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Unicef: Bundesregierung will Svenja Schulze als Chefin vorschlagen",
+     "summary": "Deutschland plant, sich um den Chefposten des Uno-Kinderhilfswerks zu bewerben. Über die Kandidatur der ehemaligen Ministerin soll SPIEGEL-Informationen zufolge das Kabinett entscheiden.",
+     "time": "2026-11-17T19:06:00+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "SPIEGEL",
+       "url": "https://www.spiegel.de/politik/deutschland/bundesregierung-will-svenja-schulze-als-unicef-chefin-a-e3c254e2-b095-4a71-94bd-df8aad89d560#ref=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Brücke zur Krim: Angriff auf Putins Prestigeobjekt",
+     "summary": "Der Ukraine gelingt ein Schlag gegen die Brücke zur Krim. Das geht weit über die symbolische Ebene hinaus – und verschärft die Versorgungskrise auf der Halbinsel.",
+     "time": "2026-11-17T19:02:16+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/ausland/2026-11/bruecke-krim-strasse-von-kertsch-logistik-russland"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Französische Präsidentschaftswahl: Marine Le Pen will Erhöhung des Rentenalters verhindern",
+     "summary": "Die Erhöhung des Rentenalters in Frankreich auf 64 wurde im vergangenen Jahr ausgesetzt. Präsidentschaftskandidatin Le Pen will die Reform komplett rückgängig machen.",
+     "time": "2026-11-17T18:49:05+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/ausland/2026-11/marine-le-pen-rente-rentenalter-frankreich"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Jensen Huang: Zurückgetretener Nvidia-Chef Huang soll vor US-Kongress aussagen",
+     "summary": "Ob Jensen Huang die nationale Sicherheit gefährdet hat, soll eine Befragung im US-Kongress klären. Der ehemalige Nvidia-Chef würde gern an die Konzernspitze zurückkehren.",
+     "time": "2026-11-17T18:23:54+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/ausland/2026-11/jensen-huang-nvidia-spionage-china-us-kongress"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "News des Tages: Deutsche Bank, Angriff auf die Krimbrücke, Glücksatlas",
+     "summary": "Ein riesiges Datenleck gibt Einblicke in das Geschäftsgebaren der Deutschen Bank. Die Ukraine zerstört Putins Krimbrücke. Und: Was der deutsche Glücksatlas über Sachsen-Anhalt verrät. Das ist die Lage am Dienstagabend.",
+     "time": "2026-11-17T18:10:00+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "SPIEGEL",
+       "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-deutsche-bank-angriff-auf-die-krimbruecke-gluecksatlas-a-54b6649a-6b11-44b8-bf5d-637e3ff64120#ref=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     }
    ],
    "more": [
@@ -1359,18 +1271,32 @@
    "tint": "teal",
    "items": [
     {
-     "title": "UK sanctions firms over Israeli West Bank settlements",
-     "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-     "time": "2026-11-17T19:27:27+01:00",
+     "title": "Russian military plane crashes killing all 19 on board",
+     "summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
+     "time": "2026-11-17T20:33:55+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "BBC News",
+       "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+     "summary": "The Palestinian Health Ministry says Fadda Mohammed Fheidat, 72, was shot dead by Israeli settlers.",
+     "time": "2026-11-17T19:43:46+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss"
-      },
-      {
        "name": "BBC News",
        "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss"
       }
      ],
      "verified": true
@@ -1393,21 +1319,102 @@
      "verified": true
     },
     {
-     "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-     "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-     "time": "2026-11-17T17:56:38+01:00",
-     "importance": "medium",
+     "title": "Can a robot pianist upstage a human musician?",
+     "summary": "A 53-fingered robot pianist is taking on a human virtuoso in Italy.",
+     "time": "2026-11-17T20:43:50+01:00",
+     "importance": "low",
      "sources": [
       {
        "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss"
-      },
-      {
-       "name": "BBC News",
-       "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss"
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/can-a-robot-pianist-upstage-a-human-musician?traffic_source=rss"
       }
      ],
-     "verified": true
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Jeffries shifts strategy amid growing Democratic divisions in US House",
+     "summary": "The lawmaker is opting to put progressive opponents on record as he vies to become the chamber's first Black speaker.",
+     "time": "2026-11-17T20:41:45+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Ugandan human trafficking survivor uses music to fight abuse",
+     "summary": "After surviving trafficking in Myanmar, Ugandan singer Gideon Mwesezi, known as ‘Small Q’, is using music to warn others",
+     "time": "2026-11-17T20:32:44+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ugandan-human-trafficking-survivor-uses-music-to-fight-abuse?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+     "summary": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+     "time": "2026-11-17T20:31:30+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "More than 100,000 take part in France pay protests",
+     "summary": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
+     "time": "2026-11-17T20:09:49+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
+     "summary": "Recent outage at NSA follows a series of unexplained disruptions across US communication and transportation services.",
+     "time": "2026-11-17T20:03:14+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Krieg gegen die Ukraine: Wie schwer ist die Krim-Brücke getroffen?",
+     "summary": "Die Krim-Brücke ist nicht nur eine wichtige Verbindung zwischen Russland und der annektierten Krim. Sie ist auch ein Symbol für Russlands Herrschaft. Nun hat die Ukraine die Brücke mit einem Großangriff schwer beschädigt. Was bedeutet das?",
+     "time": "2026-11-17T19:59:39+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "tagesschau",
+       "url": "https://www.tagesschau.de/ausland/europa/krim-bruecke-152.html"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     },
     {
      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
@@ -1424,98 +1431,14 @@
      "singleSource": true
     },
     {
-     "title": "USA gelten nicht mehr als masernfrei",
-     "summary": "Mehr als ein Vierteljahrhundert lang galten die USA als masernfreies Land. Diesen Status haben die Vereinigten Staaten jetzt verloren. Immer wieder kommt es zu großen Ausbrüchen der hochansteckenden Krankheit.",
-     "time": "2026-11-17T19:37:07+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "tagesschau",
-       "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-104.html"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Jensen Huang agrees to testify before US House, says can resume CEO role",
-     "summary": "Huang said he is ready to return as Nvidia CEO if the company's board would like him back at the helm.",
-     "time": "2026-11-17T19:14:06+01:00",
+     "title": "Monster waves threaten California coast as storms intensify",
+     "summary": "Massive waves battered California’s coastline, threatening communities from San Francisco to San Diego.",
+     "time": "2026-11-17T19:53:00+01:00",
      "importance": "low",
      "sources": [
       {
        "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Israeli forces invade Syrian village leaving homes damaged",
-     "summary": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
-     "time": "2026-11-17T18:57:20+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Has empire shaped today’s world?",
-     "summary": "How much of today’s world is a legacy of empire?",
-     "time": "2026-11-17T18:45:00+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/doha-debates/2026/11/17/has-empire-shaped-todays-world?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
-     "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
-     "time": "2026-11-17T18:37:04+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "BBC News",
-       "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "\"Zum ersten Mal nach 14 Jahren echte Vertreter des Volkes\"",
-     "summary": "Nach dem historischen Wahlsieg der Studentenbewegung ist das serbische Parlament erstmals zusammengetreten. Doch nach einer reibungslosen Machtübergabe durch die Partei von Ex-Präsident Vucic sieht es nicht aus. Von Silke Hahne.",
-     "time": "2026-11-17T18:35:34+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "tagesschau",
-       "url": "https://www.tagesschau.de/ausland/europa/serbien-parlament-studentische-liste-100.html"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
-     "summary": "Ali al-Zaidi's talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
-     "time": "2026-11-17T18:34:27+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss"
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_monster-waves-threaten-california-coast-171126?traffic_source=rss"
       }
      ],
      "verified": false,
