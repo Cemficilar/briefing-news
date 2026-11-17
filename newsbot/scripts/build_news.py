@@ -111,7 +111,13 @@ def parse(xml, feed_name, kind, feed_name_filter=None):
     return out
 
 def toks(t):
-    return {w for w in re.findall(r"[a-zäöüß0-9]{4,}", t.lower()) if w not in STOP}
+    # Grober Wortstamm (erste 6 Zeichen), damit "Bitcoin-Kurs"/"Bitcoins" oder "Ausfall"/"Ausfälle" zusammenpassen
+    return {w[:6] for w in re.findall(r"[a-zäöüß0-9]{4,}", t.lower()) if w not in STOP}
+
+def similar(a, b):
+    inter = len(a & b)
+    if not inter: return False
+    return inter / len(a | b) >= 0.4 or (inter >= 2 and inter / min(len(a), len(b)) >= 0.6) or inter >= 4
 
 def cluster(items):
     items.sort(key=lambda x: x["time"], reverse=True)
@@ -119,13 +125,35 @@ def cluster(items):
     for it in items:
         ts = toks(it["title"]); it["_t"] = ts
         for g in groups:
-            u = ts | g["_t"]
-            j = len(ts & g["_t"]) / len(u) if u else 0
-            if j >= 0.4 or len(ts & g["_t"]) >= 4:
+            # mit jedem Mitglied vergleichen statt mit der wachsenden Gesamtmenge (weniger Fehltreffer)
+            if any(similar(ts, x["_t"]) for x in g["members"]):
                 g["members"].append(it); g["_t"] |= ts; break
         else:
             groups.append({"_t": set(ts), "members": [it]})
     return groups
+
+def merge_sources(a, b):
+    seen = {s["name"].lower() for s in a}
+    return a + [s for s in b if s["name"].lower() not in seen]
+
+def dedupe_across(cats):
+    """Gleiche Geschichte in mehreren Kategorien: nur einmal behalten (in der ersten Kategorie), Quellen zusammenführen."""
+    seen = []  # (tokens, item)
+    for c in cats:
+        keep = []
+        for d in c["items"]:
+            ts = toks(d["title"])
+            hit = next((s for s in seen if similar(ts, s[0])), None)
+            if not hit:
+                seen.append((ts, d)); keep.append(d); continue
+            other = hit[1]
+            other["sources"] = merge_sources(other["sources"], d["sources"])
+            n = len(other["sources"])
+            other["verified"] = n >= 2
+            if n > 1: other.pop("singleSource", None)
+            if n >= 3: other["importance"] = "high"
+        c["items"] = keep
+    return cats
 
 def build_item(g):
     m = g["members"]
@@ -170,6 +198,7 @@ def main():
         res.sort(key=lambda d: (w[d["importance"]], -datetime.fromisoformat(d["time"]).timestamp()))
         cats.append({"id": c["id"], "title": c["title"], "icon": c["icon"], "tint": c["tint"],
                      "items": res[:MAX_ITEMS], "more": c["more"]})
+    dedupe_across(cats)
     total = sum(len(c["items"]) for c in cats)
     print(f"Feeds ok: {ok}, fehlgeschlagen: {fail}, Meldungen: {total}")
     if total < 5 or ok == 0:
