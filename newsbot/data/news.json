@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-18T04:00:50+01:00",
+ "generatedAt": "2026-11-18T05:00:55+01:00",
  "windowHours": 48,
  "note": "Automatisch aus RSS-Feeds erstellt. Uhrzeiten in MEZ.",
  "categories": [
@@ -33,21 +33,25 @@
     },
     {
      "title": "Zinserhöhung im Dezember zu über 90 Prozent eingepreist, Dollar auf Hoch: Bitcoin hält 64.500 Dollar vor Nvidia",
-     "summary": "Berichtet von Der Aktionär, BTC-ECHO, Finanzen.net, AktienCheck.de.",
+     "summary": "Berichtet von Trending Topics, Der Aktionär, Finanzen.net, BTC-ECHO.",
      "time": "2026-11-17T17:30:00+01:00",
      "importance": "high",
      "sources": [
+      {
+       "name": "Trending Topics",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vY2lXYnFqVVVsN3QtTXZ6Y29rSHh1SWR6ZEt1eEM4c0VjVlRhdmxfMlpibkItUVRYQUR6OWY4Y2JCRXJXQklOWUVJUUNtUEVtNWlmd3lOQXliVzRpLXQwR09RYk01MHp4NHd6R1RpTQ?oc=5"
+      },
       {
        "name": "Der Aktionär",
        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0pmbEkxUjVhZ05jT0NqM21jNXZKbjhreVY1ODQxbENFOXBBcm1Rd24zSm84SnIwX05hYTV0MlhWZHhrbVI4bGRkQnlXUlZxanVOVzJUUTdtTGJ0UEw1clVHUXBnQXV4Yk1RZHRmblgxUjgxTmdaeEJyTy1JWUxGdVNQZmtWbHU0NURXY0ljUng1VFFycU9tVUVoNEVwZkFNUG5YWXVTSzJTbnFvTzh2QXFB?oc=5"
       },
       {
-       "name": "BTC-ECHO",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ3ZNRlpLcFliSWhDQUV2NEFkMW9fMWkybzNEWVZ3dGZzSm5ibzJSUVdnMlFNR0VtcHB6UU9QcWw4MjcxQ3llTDB4Y3lwTlZ3WDNNUjVFd3RFSWdHN2NjMTBQS2RvU2NIQlZiTERPdlpnNWtXLU5WNXQ4WjV1bXZMSlRQNHBwaGJYTmxSYnl2Ykh2NHRidkZibkI4UkxtbWM?oc=5"
+       "name": "Finanzen.net",
+       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcURXUEVjV0czdUN1Unc5Y2VFSDlCNEpYUkVpdkpXR3VEVExWT3BvRW9jS0VqWFRtaXQ1cUdlTFVNRDFMSXhETHFOdHRiaTN3TVA5M2dwMU4wcWw0RzA3aVNrX2pJaGpVenliRHFCdGtHb2htX3cwOFY4NmhDaUx4U05LNjdyeUR0ZWNrcjk5WXV2R2IyTExZMGhJNnJXR21WSTBHZ3dWci1GeEwzalpqbTVCVzBsckxnX3YtNldJaExIeDdzSW5BVnByRU1CYVBfcG14eGgySnN0dTUzQlpNVTZLV3hMVl9YMDdVWlBmTXZLaW1ZaERfWnYzSldlYU8x?oc=5"
       },
       {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObktjaGdhUFBVNG9YbVVoVFktRkl1RU1lWkNITS0xM056TUtPV2xTWWRUc3FsTTB4SHNNQnhoT0hjb0VpVHdTTkxJUUtZYWYyR3RXdmZicHdfR01VSE94UHFNMjk4SDFBZmVsZ3V3LUY2ZmdqVHB1NnFqRlVVYkpyVEFTRjJzbGJtalF4UHRqSFpaZlBjWDRWOWtKT2xVZzZmNUUyR210bExtSU1NVW1BU2c5U0tlNmpIblFHMHFvc2wxTjZ6T2xvZE5peUl5WDhXaU1ZalJFLXlNSmR4TXl5dVJZMkJzUQ?oc=5"
+       "name": "BTC-ECHO",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ3ZNRlpLcFliSWhDQUV2NEFkMW9fMWkybzNEWVZ3dGZzSm5ibzJSUVdnMlFNR0VtcHB6UU9QcWw4MjcxQ3llTDB4Y3lwTlZ3WDNNUjVFd3RFSWdHN2NjMTBQS2RvU2NIQlZiTERPdlpnNWtXLU5WNXQ4WjV1bXZMSlRQNHBwaGJYTmxSYnl2Ykh2NHRidkZibkI4UkxtbWM?oc=5"
       },
       {
        "name": "AktienCheck.de",
@@ -177,32 +181,14 @@
      "verified": true
     },
     {
-     "title": "Twenty One Capital Aktie: Erster Bitcoin-Kauf seit dem Börsengang, Kurs fast halbiert – Wendesignal oder Tropfen auf den heißen Stein?",
-     "summary": "Meldung von AktienCheck.de.",
-     "time": "2026-11-17T12:34:52+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "AktienCheck.de",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLXpTeU9QcVVEQWlJOHNvTU92ODE2QjFsbzMyVU1mbldidnhLbGoxWGhBaWVfUGpIV3hJc1p1dEh5ZzRDRFZJeVRvWEV4ZnRKb1ByZTZnT3VqZERNMUJHbEhrUzBnQl92S0dleGw0QnEybEtLWnpRTk1saUl6S2ZZdjdRaGpFdldFNHhXUGRkVkU1b2ZkNER2NjlOdTBQZWVGZjdoQmFtMkoxdw?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
      "title": "Krypto-Crash genutzt: Cathie Wood stößt Nvidia ab, um auf Krypto zu setzen",
-     "summary": "Berichtet von BTC-ECHO, Wallstreet Online, FinanzNachrichten.de.",
+     "summary": "Berichtet von BTC-ECHO, FinanzNachrichten.de.",
      "time": "2026-11-17T12:23:00+01:00",
      "importance": "medium",
      "sources": [
       {
        "name": "BTC-ECHO",
        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUTZVV2NmYjBzbXFXOHhwUTJuNUFmcjVfcU5Ueml0a05NZS1PZXg5S3NiaGJDV2NoWFZmZjBad29mRGlDVGxyM2VPSzlHMWoyZDV2UmgzcFVNMGF0clYxcVgzR3RZVUVQN3ZfRTJKMEFLTTNvaXZNVDlQNmEwaUNGRGlDV0VTVDlzYnJ6TDFXY3ZwX3pmbWNfcVpHMDlTbDZJUGRVdHV3?oc=5"
-      },
-      {
-       "name": "Wallstreet Online",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVUtPcV96MEIzM1ZKei0wcjBHNEdmUWZnR2hWODVkSGJaX3dobWt2clJ2Tk12RTNPRXVjbXJKTjJVbFpCaVVVcGsxQ0RLMFdNcnVjblQ2bWNURmFkU3hBSnpiQTNyZ1g0Yk5LUkpUTGdqZjFrb2RnMENxQWsyMnZyRlNhVUhsazZiMGhub0ZiNDRXOVcwNGhOSVFqbzNfUjRJZ254R2F5Qk5fcm9sZUE?oc=5"
       },
       {
        "name": "FinanzNachrichten.de",
@@ -224,6 +210,23 @@
      ],
      "verified": false,
      "singleSource": true
+    },
+    {
+     "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+     "summary": "Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not determine whether the brothers’ conduct was ethical or violated other laws.",
+     "time": "2026-11-17T10:30:05+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "Decrypt",
+       "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution"
+      },
+      {
+       "name": "Cointelegraph",
+       "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      }
+     ],
+     "verified": true
     }
    ],
    "more": [
@@ -243,6 +246,27 @@
    "icon": "chart",
    "tint": "green",
    "items": [
+    {
+     "title": "Vanguard FTSE All-World ETF: Knapp ein Drittel von 4,06 Mrd Euro",
+     "summary": "Berichtet von Börse Express, Finanzen.net, Kapitalmarktexperten.",
+     "time": "2026-11-18T04:22:11+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "Börse Express",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnJUNDVRMWdudGttSjd2N0pGUEZ2OE5FNzg0TkhmMC00Sy1ldmpXVVJWSFc3d3B3amdNRmpZS2FYdTB3a2JxZUtoMkVmNm9iU3NhTldhT2REMVVwN1BNb1JxUk1seVJfdDBLck9OT2FFNTJIVzJUSVY5Zk81blVpS2laeF94a2JQT0dXV0FnOG5vRG42NUQxck9IcW93N0dXc2pZd3VtczlLS3pZanpCWlRfXzR3dXctYWRr?oc=5"
+      },
+      {
+       "name": "Finanzen.net",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVllQU21uU3VzQlJjUVhsRmNVOFdkQ2VicVRfRWNkZDdkSkIxZUEtb2tEcElCWno1TEc5REdmQXN4QkpkczNTVHlFN1F5YlRuRWFCZkVFaVVzenNEbV9DLVAtUU1PYmtHaWUteVgySHB1MEpSQXFWNFlmb0hDaDFpUERRRTlFakdEU0RGa3pNZEhrQm55ejJzaERzRDdfTTg2?oc=5"
+      },
+      {
+       "name": "Kapitalmarktexperten",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVU9SZEVNbnZobkxndHdNakpwUHNqM3dpSW45bVFxS3o2dElMelVUTGxBZmo4OVFjVE95blg2NU92LUJXR3FYbngyaHZ6NFN6M2ZrM2xsT3lVTVRQS3k1cGpjWTF2QWZwRlhUR1J1Yi1vR1dENGllMldQYmN0eWJKRTZDeU1tZElIMmU4bmw5eVZhcFR4TDZ3aWd5cEJZOFRZ?oc=5"
+      }
+     ],
+     "verified": true
+    },
     {
      "title": "Morgan Stanley IM startet Plattform für aktive ETFs in Europa",
      "summary": "Berichtet von Börsen-Zeitung, investrends.ch, finews.ch, MarketScreener Deutschland.",
@@ -302,40 +326,6 @@
      "verified": true
     },
     {
-     "title": "Anthropic-Börsengang: So könnte die KI-Aktie bald in Ihrem ETF landen",
-     "summary": "Meldung von BILD.",
-     "time": "2026-11-17T19:11:14+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "BILD",
-       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY1RoV3o4elkxLWJVSmN2SGk0UnF5cUdSY29zM1BoNDI1eFQzaGt0QklRUDJpNGpUS0doZUo2SzRJeGQ4RkpKTlhjZUM0RDRpSS1MQkhKcE45MHk1eEVsdmlrQkM2eE9OY2w3VEpyTTVGQnZuMUJBOW9Sa2tZY3Y1X2VBVDFPZlE5OHA4cGlNcENKY19CYnc3MUtjTVg3TkdYcEFhZU9qNE9VQ0JPWlhhd3NicndKcHRFQnFSbWk5VVlDZFpncU03a3hPQzZjRWZCbUFaNk1MM2RqVmNZOFpZR0txWGhKZw?oc=5"
-      },
-      {
-       "name": "BeInCrypto",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hOTJleS1rZjJzQ0VJVHVGTUdNQkZwZFdnbXpuZEZsaFQ4TWVLLW1TWG5EOWROeXYxenAtY25VX0lzcXlRTUw1bDRJbjQxOG43QlE1LXlUWmZ4cW4xR05UUEt6d0gwbEV3WTZ2MVg0WTEyU1NDbXc?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Vanguard FTSE All-World ETF mit Abschlägen",
-     "summary": "Berichtet von Börse Express, Finanzen.net.",
-     "time": "2026-11-18T00:19:58+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnJUNDVRMWdudGttSjd2N0pGUEZ2OE5FNzg0TkhmMC00Sy1ldmpXVVJWSFc3d3B3amdNRmpZS2FYdTB3a2JxZUtoMkVmNm9iU3NhTldhT2REMVVwN1BNb1JxUk1seVJfdDBLck9OT2FFNTJIVzJUSVY5Zk81blVpS2laeF94a2JQT0dXV0FnOG5vRG42NUQxck9IcW93N0dXc2pZd3VtczlLS3pZanpCWlRfXzR3dXctYWRr?oc=5"
-      },
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVllQU21uU3VzQlJjUVhsRmNVOFdkQ2VicVRfRWNkZDdkSkIxZUEtb2tEcElCWno1TEc5REdmQXN4QkpkczNTVHlFN1F5YlRuRWFCZkVFaVVzenNEbV9DLVAtUU1PYmtHaWUteVgySHB1MEpSQXFWNFlmb0hDaDFpUERRRTlFakdEU0RGa3pNZEhrQm55ejJzaERzRDdfTTg2?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
      "title": "Natixis Investment Managers legt drei aktive ETFs für den Vertrieb in Europa auf",
      "summary": "Berichtet von private banking magazin, e-fundresearch.com.",
      "time": "2026-11-17T23:45:07+01:00",
@@ -348,6 +338,23 @@
       {
        "name": "e-fundresearch.com",
        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb05LUy1aZ2FuSU9qb0FuWUh4bXBxZUtnY0ZFbER0d2NpZVNCUmtYejFRX2dSdm1yTTNaV0NhMlNqOUdWVENYYjdOQVZkbEVNZVNfYkUxZmRibzdBMjJmVXI5dTBkbUFYclNvUGR3c291RF9KWmplQjVEcXBKU2xBdVlMdW1qSDdzc1VDS3FRUE1ia3ZlSnBNV2V2ZUhhejhQSWlJeWF0QjZ5X1FYUlBHaV8zQ0t2TVRaUkRrd2I5N0xxWTd3MG95LTVoZHBFRy1TZWdEM0VJcEdZNHVBOU1GRUlJZkJ5Z1NQNE9BN0sxaTgwTWJ5YVJDVA?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Anthropic-Börsengang: So könnte die KI-Aktie bald in Ihrem ETF landen",
+     "summary": "Meldung von BILD.",
+     "time": "2026-11-17T19:11:14+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "BILD",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY1RoV3o4elkxLWJVSmN2SGk0UnF5cUdSY29zM1BoNDI1eFQzaGt0QklRUDJpNGpUS0doZUo2SzRJeGQ4RkpKTlhjZUM0RDRpSS1MQkhKcE45MHk1eEVsdmlrQkM2eE9OY2w3VEpyTTVGQnZuMUJBOW9Sa2tZY3Y1X2VBVDFPZlE5OHA4cGlNcENKY19CYnc3MUtjTVg3TkdYcEFhZU9qNE9VQ0JPWlhhd3NicndKcHRFQnFSbWk5VVlDZFpncU03a3hPQzZjRWZCbUFaNk1MM2RqVmNZOFpZR0txWGhKZw?oc=5"
+      },
+      {
+       "name": "BeInCrypto",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hOTJleS1rZjJzQ0VJVHVGTUdNQkZwZFdnbXpuZEZsaFQ4TWVLLW1TWG5EOWROeXYxenAtY25VX0lzcXlRTUw1bDRJbjQxOG43QlE1LXlUWmZ4cW4xR05UUEt6d0gwbEV3WTZ2MVg0WTEyU1NDbXc?oc=5"
       }
      ],
      "verified": true
@@ -479,7 +486,7 @@
     },
     {
      "title": "Anthropic-Börsengang: So riskant ist der Einstieg für Anleger",
-     "summary": "Berichtet von Manager Magazin, Finanzen.net, derStandard.de, Euronews.com.",
+     "summary": "Berichtet von Manager Magazin, Finanzen.net, derStandard.de, Bilanz.",
      "time": "2026-11-18T00:01:39+01:00",
      "importance": "high",
      "sources": [
@@ -494,6 +501,10 @@
       {
        "name": "derStandard.de",
        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUU9NQkRHM3FITS1KRExWRkw3UWZhVUFzTF9iZndnQ051M2pzMFNlc0RxRXRKekFtc3VtZm1iNzRzNmJybF9pY1d2dHR5dHNqOHl5Vk5tOWw2NzIydjQ4U1JMV2dvajJRX3NaVVVfVFhieXJpNWZ3VUdSOUFjM1hqag?oc=5"
+      },
+      {
+       "name": "Bilanz",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2JmUHNoVUtKWkl1ZklGZTcyd1QtQzd5SXVJeE9JWmh0cmZZRWE5ZE55cmVwaVVMVEhQNUtPOEIzY3ZaUnpxdno0REJNX3QtM1dtV004ai1GeFVYMnZTTm1YbkNZT2k3ZUhLYXBPNWY4ME9fNUpqQzhwejJmUmpoeDQ1WGRHRXRIczBUMHA3RndLZzdxZGMyQjU5dnItOWZHWDh5d0tpTFdNR0l2U2RNLTlxYw?oc=5"
       },
       {
        "name": "Euronews.com",
@@ -555,7 +566,7 @@
      "title": "Anthropic-Börsengang nach den Nvidia-Zahlen: Preis über 80 Dollar? Rückenwind für das größte IPO aller Zeiten",
      "summary": "Berichtet von AktienCheck.de, Spiegel, WirtschaftsWoche, Onvista.",
      "time": "2026-11-17T23:05:06+01:00",
-     "importance": "high",
+     "importance": "medium",
      "sources": [
       {
        "name": "AktienCheck.de",
@@ -604,26 +615,15 @@
      "title": "Kurz vor Anthropic-IPO: OpenAI bringt GPT-6.2 Astra und Sol",
      "summary": "Meldung von t3n.",
      "time": "2026-11-17T22:21:35+01:00",
-     "importance": "high",
+     "importance": "medium",
      "sources": [
       {
        "name": "t3n",
        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rTHpOZG4zcnZ5SG1wOUFDcm5XUGIwMWpHeFlQSVMyMjM0d0N6OWpEbGhzZGpEamZzdFpmSF9TVmJMWU5pYndvMTh3NGVlLVd4MlAxM251czFJYUs2UkdWb2ZQMA?oc=5"
-      },
-      {
-       "name": "Caschys Blog",
-       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoQ1U1TFd6bUtFTXpWMEZyLXFybzZTT3I0SlgxUG40b2NjWUkyY2ZuY1hwck9RV2Z5MTFZZTViZHYxUjNOMVdVZGY4QXZBYUE4bV85akRyT3ZqQU12bHlBVFZaaDlSbElPSE51Q19BUm1qRUtP?oc=5"
-      },
-      {
-       "name": "The Decoder",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2ZsS0VVNUlWMkZyV0Z6UmNUbUVkT081NTN0aWZXOWJfR09ENURfRlZvUXpPaXdva1NGOWhMWGE4WEJkMFZlamI2MWpRc3IxeWVxZ3BxWkhNWElUdE5uLXdPcnJ4UHEtVkp6N3VrYWxmWk1KQzBCM0dKemtEblVuNEtVOS1yN1RhVWhYWG1wdUJIbnRMTEJaWmlNdw?oc=5"
-      },
-      {
-       "name": "Pasquale Pillitteri",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3Z3cWJ0QmJxaHJWV3lqWHN5WjNRdk51WkdzSkdzM3NsU09nVHNuVlFnM2ZocGRsR0VmRkFCdFhPZmxCSnd1THo5WkhsUGtZUVpRYzlQc2VvVTdZNjZxWDdIMElHdWRONjBoQ0hvQjdMQ3ZGN0xqdFlFWFFfWUtLNzdfcUlIdWpRZHpKOUdQbw?oc=5"
       }
      ],
-     "verified": true
+     "verified": false,
+     "singleSource": true
     },
     {
      "title": "Anthropic-IPO: Ausgabepreis dürfte steigen – Zeichnungsfenster schließt bereits heute",
@@ -720,15 +720,11 @@
    "tint": "red",
    "items": [
     {
-     "title": "Hinter dem Serviceausfall von Microsoft",
-     "summary": "Berichtet von Vietnam.vn, ad-hoc-news.de, boerse.de, ORF.",
-     "time": "2026-11-18T03:43:31+01:00",
+     "title": "Apple: Internes Update legte Dienste lahm",
+     "summary": "Berichtet von ad-hoc-news.de, boerse.de, ORF, n-tv.de.",
+     "time": "2026-11-18T04:23:17+01:00",
      "importance": "high",
      "sources": [
-      {
-       "name": "Vietnam.vn",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVV9BNVFmMnRSbmtSMXJhSGZSQjEyY3ZERTJTaUVxVDhxRFNnUDNGcWtsOHFnM1EtQjNLVHA5eWJhcmh5WVZyZXVGalQteWpHaURJb0hvZkpnb0Yydm1nNk05NFYzWVUxbzBnVzBUR3drd3ozRktHM0lUQTFuSlNjS2gxSWs3MUItWk04QWJiVFZ4bU9adERWZkFB?oc=5"
-      },
       {
        "name": "ad-hoc-news.de",
        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzZTVThDOWVMOFZaNjhrY1hwcXY5NDQ2dWRuYUZmeExKdmtkNWh4b3lGSElPTHA2bHZONnNqeWxUNFVBZ28tZEg1NWIycERValNIMVhKd2ZYMEVBdF9NRXR5T0huaFNSZlQ1UTBqOGl3M1pseVU4OHoyWVJBdWRoMU9DX1ByUG4wRjRrbG9MV2Uwdm1DLVlpVW9ZVm9sbnhSVFdfRFBuSjFFTzV4UEpaVW01UmZYMEluRWFDTHQxeG8?oc=5"
@@ -740,16 +736,7 @@
       {
        "name": "ORF",
        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE04eGJPN3pSVDBzRzQtOUFxSzZ1eTB4SThHMmNkRGNUVWVPSE5jbDBLT0JyOXdnVmswZmlxNUhGekw3UG5aY3c?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Bei einigen Apple-Diensten treten Probleme auf; was könnte die Ursache sein?",
-     "summary": "Berichtet von n-tv.de, Spiegel, mobiFlip, Apfeltalk Magazin.",
-     "time": "2026-11-18T03:43:30+01:00",
-     "importance": "high",
-     "sources": [
+      },
       {
        "name": "n-tv.de",
        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmV5R3BvM3ItNDI4Q0RxbmRGT1BydGVQSTExMTRCNjhkbVBLaXpfTHJUV3FvWDlrbnc2dHdMQWNtOXhidjlqQXlGUTlmTEt3RTZEakN1UFlEZy1wYXJHaHA1OGt6Zk05OXI1bWU3VElQWTZKeDBLcUxyTGtlaHpWV0g2WHNFZkR6RnFnLVZYb1YtYTFieXNfSVhxbmQtcTJER191SGtBdFNNZw?oc=5"
@@ -767,16 +754,8 @@
        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcEhUVWVncUpTelljam5EODhaTTM2OTExMGF4ZTd0RWxWcnBNQ1Jmb25HVzJoOTN0X09KSU9XbGFMejd5WEJENnk0Q1o3R3REU3RmOGd4M0V3VTFoVHlCeXQ5MTV6d0VxWXI0bFN5ZUt2OEVURkdYRThYbFRyaFJ0amFNc082QWpWX3NLb3JiVVgtNW92ZTFwTEUyckhXNUdmR1dkemFiYllEYVRoeTYxYkdnVzlrVWJK?oc=5"
       },
       {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcU02V3FLQTJUa2twMkxkcUNMUTRrRVJjYndydjg2aEMzMFpCRUFNdElhbTBrUUdsanB4UmcyNWNHdGQwT3Q1VGkxVDRTZ3BlVklXeDRObkoxMW5PWXdKTjE2QktHZWFULUcwR1hmRVB2QzZSX2kxei00cEZvOGt1a3dudU5nOC01QWNqaHNRMTZaRVhtVnh0OFNYQk9oMlFSRzdTUmRn?oc=5"
-      },
-      {
        "name": "20 Minuten",
        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUlDRUxrTjlBYnM3ZWoyTmtTT1Faa2pJZFB3RDJmY3FCeUhHd21nejVqeE5vNzlVQ3VCOURJWU1mSkxfcW9jcjJnN19hWEV1a3NLV19KSDRrNWdzTkVZV0M2bS1HS0hFUlNDV0ZBV2hxcFdYWUNBb25lRnlrdXludktZM2J6SUJqbFJGTi1CdFJ0VnNPdDd3OWZB?oc=5"
-      },
-      {
-       "name": "boerse.de",
-       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sNk5IeHhibEd0T0VyQk5vRG9OR0dWSTVfdWp0N0JZYmNhd0VVRG92UV95clFXcW4ydThhMTJnWjdpb0hnMVNhaXdQVkJyYXhqRUZyYW5oYlZKUTRUZnlrUW1MMUptUXoyYTkteTBsTkNIOVpObkQzd29GQnZqSFHSAX9BVV95cUxObDZOSHh4YmxHdE9FckJOb0RvTkdHVkk1X3VqdDdCWWJjYXdFVURvdlFfeXJRV3FuMnU4YTEyZ1o3aW9IZzFTYWl3UFZCcmF4akVGcmFuaGJWSlE0VGZ5a1FtTDFKbVF6MmE5LXkwbE5DSDlaTm5EM3dvRkJ2akhR?oc=5"
       },
       {
        "name": "Onvista",
@@ -803,25 +782,12 @@
        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZTZ0MWZMUmFwU0VVakxLX3I3QWtpcjAyZXFTY01rWk9UN3BHT3ZZcFJwTXBWU3pvclBrVHgtdy0xWjJUZVhlcXJQUTh3ZmlzcjZiOTA2S2hCT0dCaGlRRDN4SW1PUkZtNk5iczZiMUxtdGNMQVRNQzBBbzlFX2gwQ2RiV2ZjVjh1UmxUbmlZMGxSX2RfOXZMZ2lHYlpuNWtvV2UyRFJRa0dpZEhBWnc?oc=5"
       },
       {
-       "name": "finanzen.ch",
-       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUQ3LXB6QllaNTB5ak9ZeHJEMlBwSlFJaWNKSWVYbWdaakdrUTVsV1VveUFOX1VtRVN2bnlRbW1RaHk1ZXNHWUZLLVQ0UDNlVW5TQ0M3MWVCRmxaanBENXFlamQtT0VyYTBoRDVCOWJ4akx0VjVnbEUwSjJqcjk1VFcxT0x2Qng1?oc=5"
-      },
-      {
-       "name": "Vietnam.vn",
-       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVEp5X0pzQmFJd05fTzVfSTE3a1N4M0tLT0xwWDR3aHBLYmNTVDNPMV9KM1RSa20xalJqOTJHb0xaMVY2SnJHNU9aV2F2a1FkMFVKZHExS0VfaDFnVHlMd1ZDMjFTZlNObmZVRk1kZFhVMW1iNEh5aDQ4dFpGWVA3QldfVQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Apple Aktie: Ein internes Update hat Dienste lahmgelegt",
-     "summary": "Berichtet von Trending Topics, MarketScreener Schweiz, Börse Express.",
-     "time": "2026-11-18T01:17:08+01:00",
-     "importance": "high",
-     "sources": [
-      {
        "name": "Trending Topics",
        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdmRtZ3RSNC1lTEp6cW5UenlRSm1tX2JQc0h5RVNlTzcyUnl6RXg0eE9iaE5LMGxiTmJWNThiQlljZmZGMnBydVBtcW5LVWpjNFFiZkgwWWw3eDc1MHFBMEZNb2g0dzR0ZXZoUVlDOUJRQ2hWY01ncC1GRXBCTktSY1ZUYw?oc=5"
+      },
+      {
+       "name": "finanzen.ch",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUQ3LXB6QllaNTB5ak9ZeHJEMlBwSlFJaWNKSWVYbWdaakdrUTVsV1VveUFOX1VtRVN2bnlRbW1RaHk1ZXNHWUZLLVQ0UDNlVW5TQ0M3MWVCRmxaanBENXFlamQtT0VyYTBoRDVCOWJ4akx0VjVnbEUwSjJqcjk1VFcxT0x2Qng1?oc=5"
       },
       {
        "name": "MarketScreener Schweiz",
@@ -830,6 +796,27 @@
       {
        "name": "Börse Express",
        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDJKVmVtMmxYaHMzQ2xpOUc3VS1SeWJIbHRjZFB5eks4WWRZMHpIajNRYWZ2T3A1eXNYMWp6MDFSTUpqUml4SVE1RnRKQi1JWVVCRDNlMFhIV20xWVJmOGxPUEJ3VzVveFdnRUVIUjZoN21XZEMtTzJxbENQbnp0czRnVVZwZE1abGU0czZYVHNhZmM0X0lwMGlqSzdvdEFJRHFLS3VFclg3QQ?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Microsoft 365-Ausfall-Phishing: So erkennen Sie die Masche",
+     "summary": "Berichtet von T-Online, ad-hoc-news.de, NeoTeo.",
+     "time": "2026-11-17T19:43:20+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "T-Online",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlcwbG1mWW03cmVCbnZqR2ZzZ3lmdldjdEVoTUFpM1BKMkhXVV9paXRtX0J3Mm8yMnlncWZROGZxZk5xaHo3Q0RPcWVLMFhtSTJQcnJPUVlpbUlRVC1wWV91b3ZfOWpFLVQxZ3U5YkVwMkNpZjBYb2tTZ2xINGhIU1J4RjJsdmhfdkVUSXFGeUd4amdmSE40Nlh6U1didkxQaVRkQUQ4dk8tdUZZY3V0bXZYcVpoWktUenVmcWQ0M3BHMTk1and5OFFUMWY?oc=5"
+      },
+      {
+       "name": "ad-hoc-news.de",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZy1nRVE4SkJWWmFPSVJIN0p2Nkt2bDVCNTMwa0pNTEUzcDFmNUx6WlVBQ1VLdHFkMVNqcFZZR0ZvNk1DZHREckxCT1dzQU1fb3ZhTUxWREcydVlRdlVKbXFTY0FVdkZxZGNFR1BzNW5aaDktdE81U0VFblY0WDU1Z3B5aXBvYlVDc3pNUExyTDcxOXFUNF9BMGFROXZrcG9yaTVUTmFnMlBKVHlQbWFjTTRKRHNPZw?oc=5"
+      },
+      {
+       "name": "NeoTeo",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbllHcXU1R0IwYWVOSzRXMXFLbnR5OVpfUnloX0FqR3Excm1FT1loSHdtSGF4Q1VCSy1GbVBKU0RvNXBqeVlFcDczUTNlX2ZHY2l3cGRlUWxMMXNsZHdaOGMyOHhZaEVNWkZJQk41bnU4dkJOeThSRDJld3N6YThsOGVxWUdncG81LTYw?oc=5"
       }
      ],
      "verified": true
@@ -847,27 +834,6 @@
       {
        "name": "Pasquale Pillitteri",
        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSlFrODdtUXYzVjJZQnpHejVtQUt0Tm9FcmtSQTVEdnVuaDRPa3dGd29KLVctbnNwVmpTUUhFbWU5d2NyVzhmMDR1QXBJWThnYVZPTEJQMkRnRk1tRC1ObFExR1RlM1loRzVlQ3BIUEd2aDFtdGIyNnFMNW8tdDU2OEVMUExaZm02R1FUMXluM1R4YThQbnc?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Microsoft 365-Ausfall-Phishing: So erkennen Sie die Masche",
-     "summary": "Berichtet von T-Online, ad-hoc-news.de, NeoTeo.",
-     "time": "2026-11-17T19:43:20+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "T-Online",
-       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNlcwbG1mWW03cmVCbnZqR2ZzZ3lmdldjdEVoTUFpM1BKMkhXVV9paXRtX0J3Mm8yMnlncWZROGZxZk5xaHo3Q0RPcWVLMFhtSTJQcnJPUVlpbUlRVC1wWV91b3ZfOWpFLVQxZ3U5YkVwMkNpZjBYb2tTZ2xINGhIU1J4RjJsdmhfdkVUSXFGeUd4amdmSE40Nlh6U1didkxQaVRkQUQ4dk8tdUZZY3V0bXZYcVpoWktUenVmcWQ0M3BHMTk1and5OFFUMWY?oc=5"
-      },
-      {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZy1nRVE4SkJWWmFPSVJIN0p2Nkt2bDVCNTMwa0pNTEUzcDFmNUx6WlVBQ1VLdHFkMVNqcFZZR0ZvNk1DZHREckxCT1dzQU1fb3ZhTUxWREcydVlRdlVKbXFTY0FVdkZxZGNFR1BzNW5aaDktdE81U0VFblY0WDU1Z3B5aXBvYlVDc3pNUExyTDcxOXFUNF9BMGFROXZrcG9yaTVUTmFnMlBKVHlQbWFjTTRKRHNPZw?oc=5"
-      },
-      {
-       "name": "NeoTeo",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbllHcXU1R0IwYWVOSzRXMXFLbnR5OVpfUnloX0FqR3Excm1FT1loSHdtSGF4Q1VCSy1GbVBKU0RvNXBqeVlFcDczUTNlX2ZHY2l3cGRlUWxMMXNsZHdaOGMyOHhZaEVNWkZJQk41bnU4dkJOeThSRDJld3N6YThsOGVxWUdncG81LTYw?oc=5"
       }
      ],
      "verified": true
@@ -938,6 +904,20 @@
      "singleSource": true
     },
     {
+     "title": "Bei einigen Apple-Diensten treten Probleme auf; was könnte die Ursache sein?",
+     "summary": "Meldung von Vietnam.vn.",
+     "time": "2026-11-18T03:43:30+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Vietnam.vn",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVEp5X0pzQmFJd05fTzVfSTE3a1N4M0tLT0xwWDR3aHBLYmNTVDNPMV9KM1RSa20xalJqOTJHb0xaMVY2SnJHNU9aV2F2a1FkMFVKZHExS0VfaDFnVHlMd1ZDMjFTZlNObmZVRk1kZFhVMW1iNEh5aDQ4dFpGWVA3QldfVQ?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "Weltnachrichten, 18. November: Apple behebt Service-Störungsproblem; Nvidias Umsatz verdoppelt sich mehr als.",
      "summary": "Meldung von Vietnam.vn.",
      "time": "2026-11-18T03:13:14+01:00",
@@ -978,6 +958,20 @@
      ],
      "verified": false,
      "singleSource": true
+    },
+    {
+     "title": "Microsoft-365-Ausfall in über 70 Ländern: TDF fordert mehr Transparenz",
+     "summary": "Meldung von ad-hoc-news.de.",
+     "time": "2026-11-17T23:42:26+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "ad-hoc-news.de",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMW9aY203aTZLdGZ0SFE3LWs2T1d5MDUyRTh2VHhWakw5MUFHYUdSZHlwVWFPVDd2bUxtUEpjNWNUUkgwc0FValgxS3QxdVpwUjVCSmwtUjNDa0RRdzJlMnBLMkJYR0xfU3V0bVB4S2stamdubjFyLXhQWXlULUdac3VBZy1YSkYtdEwzeDVnbEVyMExWSS1LVDJCdkdmUXotZmVIdTU1NU84Ni1VLVg1WnV2SnpIam1FQTZSRA?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     }
    ],
    "more": [
@@ -997,20 +991,6 @@
    "icon": "sparkles",
    "tint": "purple",
    "items": [
-    {
-     "title": "Anthropic-Aktie: So können Privatanleger zum Börsengang dabei sein",
-     "summary": "Meldung von WirtschaftsWoche.",
-     "time": "2026-11-18T02:44:45+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "WirtschaftsWoche",
-       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDJuejJhOVpoZkVUNHBROGdmaUUtYW5DbnFkdzVTYjJTaTU1cjhfV3ZMaVZ0WGk4LWFoV3FVRHMxUVUwcmp0R0t3cGlxMV9iRC13aU9RcE4yLUVEM2N2YjNRMjN4dy1aN1RkSGIyeUY2ZGstdW9WSzljcTJMcHZtel9GTTE0SS1jUFR4c1p0T1dNUzVHVl9kX0ZaWjdoYUVNYzJ3TG9pNnFWR3M2dlVsQWVLTkZFdHFlMUE?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
     {
      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
@@ -1033,61 +1013,10 @@
      "verified": true
     },
     {
-     "title": "VeriSilicon stellt stromsparende Hochleistungs-Subsystemlösung für KI- und AR-Brillen der nächsten Generation vor",
-     "summary": "Berichtet von Unite.AI, MarketScreener Deutschland.",
-     "time": "2026-11-18T03:05:36+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Unite.AI",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN08xMFdiVDM0X3E3Vlc3WWJOTWFmaTQ4NnpQQ3ktWU5EcXd6QUNwaGdCLUd0M3BuQVFiWGZKcG5rVzEzU2hCc2p3bkVTcThZSFJ3U2k4TmRwRnd0bEFxT1d1NThPVEFfbHFLLWFaX0FRcVY1QUl3SGxNU05IR3NCVW5XU0g2R2ZjWUNJSTJqYjI?oc=5"
-      },
-      {
-       "name": "MarketScreener Deutschland",
-       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPX3hseXphcDQ4UEhzVUw5Y2dKbDh6b0JpTTg2MlhtMTY0Sk5fQU9pRE51QVRleDRZelB6eWF3Q3RkMG5UdEpLcnU3d1hHc2VNTklkR2dxdXRRUkNpNjhfVjRCWFM0eDhhZW9UMmFoM0RsWFpKS0NNNTROemdiTGpLOUxqS1VwUVhuanhZTzdOczZaVlM4YzRnbjRBd1NGUkdBdGFzSFZEV1FVUk1vcGVRQXR2VE5WU0IyeFJ0X3pVM2dLbVU5eEg2cGhkSlN1czZnSW9yRWRIV1BId3R3MVdnbi1fNlo5aG9xRWpXTXBnMEltd2Vsd0VXc2c5UHY?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Boom um KI: Gelder für deutsche Start-ups fast verdoppelt",
-     "summary": "Berichtet von Tagesspiegel, Der Patriot.",
-     "time": "2026-11-18T00:10:57+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Tagesspiegel",
-       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2hBSWtzeEh4R254RDlPUHllNHZvTW9MeTJJenA5UW5IUm5HUURTMEEwN2hnX3kyaEp6NjhLSkFvU0V1MVduTmdqcWlkNk9udkNnVmY1YzNaVlQ3VXJFc0phcU5XX2JsSE9hLVZEWkYxeTJSLXZ3bXNnV0dHNkFBdGZBdDhNTTZGa09WbE1saEpmSnF0dVFjVVp4WEZFUVR5MVA3MmtZVHljdkVvNHVRWnRDdXJNeTRJWU02akJ3cC1pM2I2WkEtb1VQVQ?oc=5"
-      },
-      {
-       "name": "Der Patriot",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTJtbEFMbDdyWExVWVY0TkgxTTFYb2RWSXJYQVJleGhnX1RFVUpSMl9FY1pKVUotdTNaTFVCWkNqbkJ5Nmg0ZGh3VjJCcnRDMUZfLXNMSWpadng0UEhiUE9BX3pKZ3JFS3RQek9DSnNJRExfdVJxSGEtVjU3VEp3eExNMjRtTGFNTUFpOXJTS09rcXF5UGN6UV9mRQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Heil sieht KI als Möglichkeit zur Finanzierung der Sozialsysteme",
-     "summary": "Berichtet von Oldenburger Online Zeitung, Presse Augsburg.",
-     "time": "2026-11-18T00:02:13+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Oldenburger Online Zeitung",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYkpRZGZYWEwwZGtWWG1TeUQyZFVUQVRmdXlpeXZzZlZkZDc0bTdMcnZVb0xET3BFZU5ZQWRzUjBwSDdpM293dmhHZzFGXzhlRnlLZlo1bmt4bVBubDlmRjVoX1hwRVlDWFZwZEtGNFlDTks0dXk5ZzBJQ2R3cW5aV01abER4bmxaTlhkTklIdVNpa2c2SVBGUzJIMHZSOEZ4dGhxY1hJT2diSGN2Y3RRcWg4anVfUnFxekt5a0J0Z1N5aHJ1a1hVb19B?oc=5"
-      },
-      {
-       "name": "Presse Augsburg",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdDdBOG9NbkdxX3NULUxkU3NxTGxjOVZ5Y0VQcGVYQkh5VWExSlhtMVZBSGE0cVA4OVZWZ09NTk5jb1d0TWwxV2lyYzItWXJlcl9SZ1Jxbk9zN3ZBbTQ1QUNzeFNZMTlkclZ6Mzc1cmcxX21xUU9BVjZhQkk3VXJucS11SF9UekR5X0xFakI2MUtyUWNRY1V3OA?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
      "time": "2026-11-17T23:29:05+01:00",
-     "importance": "medium",
+     "importance": "high",
      "sources": [
       {
        "name": "TechCrunch",
@@ -1098,21 +1027,147 @@
      "singleSource": true
     },
     {
-     "title": "Microsoft Ignite: Nadella stellt neue agentische KI und Copilot-Funktionen vor",
-     "summary": "Berichtet von WinFuture, BornCity.",
-     "time": "2026-11-17T21:49:05+01:00",
-     "importance": "medium",
+     "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+     "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+     "time": "2026-11-18T02:44:21+01:00",
+     "importance": "low",
      "sources": [
       {
-       "name": "WinFuture",
-       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zeDhLbzRTQXNZYnVrOW92am1fWTd6TkRTR0RNWDF1S1F4aE1QdGtMdlpZUGJSR2dVbklpT2hUbmxpZEFJOTBUc2trQjJQZw?oc=5"
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Nvidia promises that revenue will keep soaring — for now",
+     "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+     "time": "2026-11-18T01:16:50+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Satya Nadella says he’s AGI-pilled now",
+     "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an…",
+     "time": "2026-11-18T00:41:18+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+     "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+     "time": "2026-11-18T00:04:35+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+     "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+     "time": "2026-11-17T23:42:27+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "SEC reportedly investigating Nvidia amid Huang exit",
+     "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+     "time": "2026-11-17T22:48:07+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+     "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying…",
+     "time": "2026-11-17T22:40:59+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang"
       },
       {
-       "name": "BornCity",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdEo0NUJhUlBqclRvZzd3YjB5eVczaTI0MnAyRUZ2VThEUm9FN1UtVWhIS01UTzNlM19WaHBZN2xoUFYyYjdNd0VYRWlVc0ZfTkF0LWVIUlRUbGxnUTJwdXo1OUZJX2hGdzlReVRYSVphM3RWLWx2bU1HaWcxYVEwNnpCQWRZdi05LXBHc1MwMldxc0I0UWJnY0RWeVYzLU5sbVVMRFhjNA?oc=5"
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss"
       }
      ],
      "verified": true
+    },
+    {
+     "title": "Google joins the tech outage trend by announcing it’s not having one",
+     "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+     "time": "2026-11-17T22:34:50+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+     "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the…",
+     "time": "2026-11-17T22:00:55+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Model ML raises $250M to automate investment banking grunt work",
+     "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+     "time": "2026-11-17T20:32:11+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     }
    ],
    "more": [
@@ -1149,6 +1204,10 @@
       {
        "name": "WELT",
        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPeEhjMFJWUmd2ZFFoQUpzR1o0azZ5bGxQVXVGOGlVOUQ5Rm9vbjZqdUNzWkctSXJaaG5wWlFKLWpHNy11dmVUQTU3VDZqRUJvVTVjT2RiZmxGbkFEOGVBS3hBUWptdk5SeHQ3OUZYV3hraVFYM1J6WTY3OS0zdFAtZHZjazVqTURHRXlrSmhrSmRORWZFUHBDMXNOcUNxZzdkVzEzYU0yeFVKZ3g1dGhkZzZtSTdkb3k2cExONVRwVHFVMW9fR1ZKZ0V0ODhnVXdFX2RCMlRhY2ZSclNyM1hHSmt0TnBxLWpDR1lNOEJpemYtWTJCZXVVeEE2aGNlYnhxWmo1NHR5U0pMM2s?oc=5"
+      },
+      {
+       "name": "Berliner Morgenpost",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYTBEaTF5cU15bUNNWTB5aGw1MktfZ0drQUJkYWdLU3lBNmhuaklYdWI5RTNwX3ZlNWVhMVpkWF8wX0lkQnhxQmNFUEFVWmVBNG9walZzaE1JRzBncmEwbFo3UDQ2b1l2TnpJaExDWW11YlIwNXQyYm1IUV9ldF9XREExYkk5T2JsM09wRGFibUlkSGtNQmtvbHljM2R6dDdkVmhTb2NTWnpwaTR6RkxGWW5rWFBaNnJuWnctY0hXYmN3dmdIZHFmM0VB?oc=5"
       },
       {
        "name": "tagesschau",
@@ -1266,13 +1325,13 @@
     },
     {
      "title": "CDU-Chef Lechner will Merz im Wahlkampf „nicht verstecken“",
-     "summary": "Berichtet von DIE ZEIT, GN-Online.",
+     "summary": "Berichtet von n-tv.de, GN-Online.",
      "time": "2026-11-18T01:01:00+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "DIE ZEIT",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMi1EUHlLRHZycUg3UGs5N1VHeEhySnkzczdFbG51b1Axd211SEJDUFVjWlItRGtCeDJyOGJXSXBwWmZNeUE2enFHZUdLT1RCZGFUU3QyalFja181eVZscFlCcTdfQnZkYkw0WFRtQnRmNUc4blJ2YURYWnRGcUVKRW10czh3TXBhNnE5UHFWTGV5cVNQZFBz?oc=5"
+       "name": "n-tv.de",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeTR3Qlo2M3lDUGE5Q1FHU283Zm1SZlNOYXFna2FQRC1PRk1XejBvaXZlajhtSTZlZnBLY0dnb3JmYjhoenBRNEEzTXU1S0lFTEtIQjhFeGtDdWVOa3dJNmNVVDFORDhwM3ZrOVFtcHAwZTlMUEc0QWNuOVoyeWFDYzRHWEtJdFVlRFJqZE9kMkp3YmFUQnhSMU93RlBNNFdIQk9EcFVjV3p4ZjdwUXIxaXFIX3dGNDNZVElYSzFxaHNnSHpibUxF?oc=5"
       },
       {
        "name": "GN-Online",
@@ -1354,23 +1413,6 @@
      "verified": true
     },
     {
-     "title": "Streit um die Stromsteuer: Bartsch über Merz: \"Der Mann geht einfach unter\"",
-     "summary": "Berichtet von n-tv.de, Oldenburger Online Zeitung.",
-     "time": "2026-11-17T09:56:07+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDF0T09wMUtLai1Ba1ptZnVQU1k4MEJYMG1MVWNJbDFyamlhMklxOXEzbVFGako1QlNPSWJaMzRvS0ZRRFJrUlBIVU1UY2MzendSMHdTQVdOb052MEdkWTVSS25HbF80bkthd2psTHJpTHJiMWNGNVJudXJteEk4UUN5NTdxWVVmcHpldkJsaUVzYkkybFZBeQ?oc=5"
-      },
-      {
-       "name": "Oldenburger Online Zeitung",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWllneGNGNzF0ekhZOGc2SFcxYUoyd0tSTm50SDR4WG92UFBFMGUtdXhxWU5ZNWc1Wm5LaUYzakJmc0FlVDRET3VpdFJVanptMk1FT05DeS1PQkVmN2ZPcGpfSE9IblkwMHc1Q2M5MUhnM2tITTZYSDh2VDk1S1NCNFgxSl9iVXFrWkxGeWJ5RUh4YkVmQ2RsSEpPNkRMZkdnenl1TDUtS0czUQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
      "title": ":newstime - Neuwahl-Hammer für Kanzler Merz",
      "summary": "Berichtet von WEB.DE, Joyn.",
      "time": "2026-11-17T08:24:44+01:00",
@@ -1403,6 +1445,23 @@
       }
      ],
      "verified": true
+    },
+    {
+     "title": "„Es reicht. Merz hat fertig. Merz kann es nicht. Merz muss zurücktreten“",
+     "summary": "Berichtet von Tagesspiegel, WELT.",
+     "time": "2026-11-16T15:28:51+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "Tagesspiegel",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLVBvaWVPQ3ZxaUQzaWhSNGgtZy1CaWJKaFgweE82cDREVUFybkktU2U0VDY2bF9Vd19kYldLYUs0ZTJhVG9mMTluOFRfRHo4Q1NTS19tTTljM1ZEb1FKZEtqZVdVQ19kNXlqa1VlUGt3ZHNZMVZzVWdYYlVjSEdBSlFmUXFfWVNZSG9Lc3VsdzMyRnVfMGYtYy1QdXAzQkFOZUNtT251RjZsWGM1dS1jRUNVOFU3WXp6bjZkZnNjak1wSVdHalY1alEwWmUwX28?oc=5"
+      },
+      {
+       "name": "WELT",
+       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQOEU4eHA5SDJHZTdrS1RpOW13RmM0S2tpYXBHRTlrek9VYjBzQkZxdVR4MG9hTlpPdjRhSmstcHNDZ3VlaGd0Yk02MEpKUVlxelU2WU9PMS0zU0lhTDVlS3hFN0hzOEp6Tlk4ZFYxZl9mV3ViZUg5ZHFNMG15MFVyNnRCemdlRFQ5ZUI4a1IzdnlQQmN1ckFQOW5zbllhTk1WS3VtYXRqR3VUdVBtVHBGWExDTTdTRjB3T0VSM1hxR0dGZ19YTmQ0b2p2UWtYbDBweDYyX0FFV1RvNGo4V19KSlNtT0xNQUpsTkpleTQzYkZpdVVKWkREMHdpdFg?oc=5"
+      }
+     ],
+     "verified": true
     }
    ],
    "more": [
@@ -1429,15 +1488,26 @@
      "importance": "high",
      "sources": [
       {
-       "name": "BBC News",
-       "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
        "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss"
+       "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss"
       }
      ],
-     "verified": true
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Russian military plane crashes, killing all 19 on board",
+     "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+     "time": "2026-11-17T22:06:11+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "BBC News",
+       "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     },
     {
      "title": "UK sanctions Israeli settlement firms to protect two-state solution",
@@ -1476,12 +1546,54 @@
     {
      "title": "„Nicht dauerhaft durchzuhalten“ – Ökonomen warnen vor schwerer Haushaltskrise ab 2028",
      "summary": "Meldung von WELT.",
-     "time": "2026-11-18T03:57:39+01:00",
+     "time": "2026-11-18T04:32:38+01:00",
      "importance": "low",
      "sources": [
       {
        "name": "WELT",
        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHZOSFFlcEk2MFc5QjYtSlVGMGlaOHptTlhEajNQRE4xWVJTbTZTOWhBaE9Gay1ENWpfdEF6UWFFYTN1ZUFNSVBlbXItZ2JIb0dndzlYTkpaWVNyd2dkeWtYbERRTW42emtITV90M29hV2d3V3l4WUdyakxDUTBuNFNjSk1BSnVaMDd2UFlFa3lQYVdOODhvWFE0UTFiWWZEMkM3OE9YYWRVMDh4dEN4anQ1aVp3bzB5dFRzeDR2OUtwdS14M1Q4bzZUVVpUY0k?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+     "summary": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
+     "time": "2026-11-18T04:28:41+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Vor Trumps Ankunft: Xi warnt vor Handelsschranken",
+     "summary": "Meldung von Freie Presse.",
+     "time": "2026-11-18T04:18:00+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Freie Presse",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQXd0aEkwWFE4cmxaSkktdEs4ZEZaTHRsR2lLc3h3ejNuaWJ3WmVySWJpa0hqQllWSkVETkk1amNBV3owX1lEQ293bUk2SG9URldIMWFTMG9BT09kQThtbW1sS0R0WGtEQjZJVG9rZjVwaFhvSGdSWDI1MjRid3BKcnFDUE9TeHZ5QVV4SUJBWFlscXFzMjlhUE5BUnB1NGZvS1dUckhEQTFVVVNO?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Israels Knesset: Eisenkot-Verbündeter als Parlamentspräsident gewählt",
+     "summary": "Das israelische Parlament hat Matan Kahana zu seinem neuen Präsidenten und Sprecher gewählt - damit hat der Anti-Netanjahu-Block einen wichtigen Schritt gemacht. Von B. Meier.",
+     "time": "2026-11-18T04:10:48+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "tagesschau",
+       "url": "https://www.tagesschau.de/ausland/asien/israel-knesset-praesident-100.html"
       }
      ],
      "verified": false,
@@ -1524,76 +1636,6 @@
       {
        "name": "Al Jazeera",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Laut Gesundheitsbehörde: Warum die USA nicht mehr masernfrei sind",
-     "summary": "Die USA erleben den schlimmsten Masern-Ausbruch seit mehr als 35 Jahren. Und haben nun auch ihren Status als masernfreies Land verloren. Das hat die Panamerikanische Gesundheitsorganisation (PAHO) offiziell bekannt gegeben. Von N. Barth.",
-     "time": "2026-11-18T02:34:24+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "tagesschau",
-       "url": "https://www.tagesschau.de/ausland/amerika/usa-masern-104.html"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "What is Trump hoping to achieve at APEC meeting in China?",
-     "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
-     "time": "2026-11-18T02:33:05+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
-     "summary": "Daithi O'Corrain, 48, has been charged with damaging a US military C-130 aircraft while it was parked overnight.",
-     "time": "2026-11-18T02:32:52+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Man charged over ‘brutal attack’ on Somali-American in Minnesota",
-     "summary": "Rideshare driver Mohamed Yusuf is in a critical condition after he was allegedly assaulted by a passenger.",
-     "time": "2026-11-18T02:31:53+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/18/man-charged-over-brutal-attack-on-somali-american-in-minnesota?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Protests as Jason Arday’s accuser speaks at Oxford University",
-     "summary": "Hundreds protested outside Oxford University as Nathan Cofnas, who accused Jason Arday of plagiarism, spoke at an event.",
-     "time": "2026-11-18T02:28:53+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/protests-as-jason-ardays-accuser-speaks-at-oxford-university?traffic_source=rss"
       }
      ],
      "verified": false,
