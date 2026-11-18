@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-18T14:51:06+01:00",
+ "generatedAt": "2026-11-18T15:00:49+01:00",
  "windowHours": 48,
  "note": "Automatisch aus RSS-Feeds erstellt. Uhrzeiten in MEZ.",
  "categories": [
@@ -11,35 +11,47 @@
    "tint": "orange",
    "items": [
     {
-     "title": "Bitcoin bei 64.000 Dollar: Saugt der Anthropic-IPO den Kryptomarkt leer?",
-     "summary": "Meldung von Trending Topics.",
-     "time": "2026-11-18T14:04:31+01:00",
+     "title": "Bitcoin bei 64'000 Dollar – Zieht Anthropic Krypto-Kapital ab?",
+     "summary": "Berichtet von Newsbit.de, n-tv.de, AktienCheck.de, Trending Topics.",
+     "time": "2026-11-18T14:51:39+01:00",
      "importance": "high",
      "sources": [
       {
-       "name": "Trending Topics",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MZTN6YkhrTGpQamJmTTg1YzVUc2N2YXJ3bElkb2VySnRzeFV3eU01NVdZSmRoXzJaSzJDWk9faGx1SnpsbFplU3N1WXo0Q290Qzl3T3ZVa19WdVdmaTR6X01nd2xJS0FEcHA2S0xrU2JjNGs?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Anthropics Börsengang für den Kursrückgang von Bitcoin verantwortlich zu machen, sei „leicht zu glauben“, aber fehlerhaft, sagen Analysten",
-     "summary": "Berichtet von n-tv.de, Cryptonews.net.",
-     "time": "2026-11-18T13:59:03+01:00",
-     "importance": "high",
-     "sources": [
+       "name": "Newsbit.de",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGNtVmI4Ml9DcUNpMzZEWGlXUDJ2M0VhM3QyWVJvUk55YzBfNkZiOHlVQk1sSnBxYXNmb2VwekNIMVdkSXlRTHAydF9nRE1HRFpha0EwTGF4c3Q4QjluamRzUnhPN1QwR2tJZUVBZlA5em5BbmlxM1JtR0k0cHBKdWVSVjBlX2YyTUhZRF96cDhpNjl0?oc=5"
+      },
       {
        "name": "n-tv.de",
        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcGlfMTdxS01XVXNUa09IZ0ZVd3dkbzhvajluNUF5REZZdkxZMWFja2RsUzJ3OVA5ZVFQT0hXYTlFQ1RBVEkzTmZvNzhTWEtQc250MzVuZGpnR28yc2czaUJTU0kteXo3NnM5bE5WVVUzc3BqWUVLZTNNd1lKT0puTUJwSTlfdlpxYmJZUS1uejRUOTQ?oc=5"
       },
       {
+       "name": "AktienCheck.de",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNakF6dXRSWDFoaWdzbzBRR01LWXdnSmotS21hTFgxampIQ3ZBQWp0QmV3YVNnZENUYlVROC0xQUpDeXNXdHhlRTg2RXhsZTVDYjVSZFRjVW1pWWlyV09qUHM3U09maTZxaTVMTjllOGtJVDR4Z3dRN2hzaG1mSHNLNS1xNE5EMzlYR2pYME1wY1RTU2NrWVBjTVU0SENMLVljS2syV085a0JEWDQ0cE5j?oc=5"
+      },
+      {
+       "name": "Trending Topics",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MZTN6YkhrTGpQamJmTTg1YzVUc2N2YXJ3bElkb2VySnRzeFV3eU01NVdZSmRoXzJaSzJDWk9faGx1SnpsbFplU3N1WXo0Q290Qzl3T3ZVa19WdVdmaTR6X01nd2xJS0FEcHA2S0xrU2JjNGs?oc=5"
+      },
+      {
+       "name": "Nau",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbHpEbERBQ2dsUmdrMjM4eUFGdm52eHd0ZnhnNXhKZ1RRcFJzSHRkWnJkZC01aHg1cGIta2lyWnFidVNaSGZENHZ6ZHFGRDJCVjZZQ1R3dFZEc3NCTFM2SE5RM3c0bC1fQVdRSC1DVFUyb05TNkJVeWFUMmYwU0F6NWtMcmtTWWV2TEdFaFgzSVRZUUYtWU9jVDkzT1VLVHhhdXQxMQ?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Anthropics Börsengang für den Kursrückgang von Bitcoin verantwortlich zu machen, sei „leicht zu glauben“, aber fehlerhaft, sagen Analysten",
+     "summary": "Meldung von Cryptonews.net.",
+     "time": "2026-11-18T13:59:03+01:00",
+     "importance": "high",
+     "sources": [
+      {
        "name": "Cryptonews.net",
        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93YVJ2Vi1wWF9NYjREcUtveEJnZXRrOFQxb3NVd3d3c00zNmJnbVQ0V0ZLSWx2TC0zZmgxaWttRXItZmR5UVZwQUtPSmV3U21wLXFqbXFuQlRFWjR4?oc=5"
       }
      ],
-     "verified": true
+     "verified": false,
+     "singleSource": true
     },
     {
      "title": "Bitcoin-Miner MARA nimmt nach dem Verkauf von BTC im Wert von 1 Milliarde US-Dollar zur Rückzahlung von Krediten 185 Millionen US-Dollar an Fremdkapital auf",
@@ -98,23 +110,6 @@
      "singleSource": true
     },
     {
-     "title": "Bitcoin Kurs: 64.500 Dollar vor Fed-Protokoll und Anthropic-Börsengang - Kommt das Kapital zurück oder wandert es ab?",
-     "summary": "Berichtet von Newsbit.de, AktienCheck.de.",
-     "time": "2026-11-18T12:23:02+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Newsbit.de",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGNtVmI4Ml9DcUNpMzZEWGlXUDJ2M0VhM3QyWVJvUk55YzBfNkZiOHlVQk1sSnBxYXNmb2VwekNIMVdkSXlRTHAydF9nRE1HRFpha0EwTGF4c3Q4QjluamRzUnhPN1QwR2tJZUVBZlA5em5BbmlxM1JtR0k0cHBKdWVSVjBlX2YyTUhZRF96cDhpNjl0?oc=5"
-      },
-      {
-       "name": "AktienCheck.de",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNakF6dXRSWDFoaWdzbzBRR01LWXdnSmotS21hTFgxampIQ3ZBQWp0QmV3YVNnZENUYlVROC0xQUpDeXNXdHhlRTg2RXhsZTVDYjVSZFRjVW1pWWlyV09qUHM3U09maTZxaTVMTjllOGtJVDR4Z3dRN2hzaG1mSHNLNS1xNE5EMzlYR2pYME1wY1RTU2NrWVBjTVU0SENMLVljS2syV085a0JEWDQ0cE5j?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
      "title": "Droht ein Bitcoin-Crash unter 60.000 USD? Analysten sehen gefährliche Signale",
      "summary": "Meldung von Cryptonews.net.",
      "time": "2026-11-18T12:00:07+01:00",
@@ -141,23 +136,6 @@
       {
        "name": "Cointelegraph",
        "url": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Nvidia übertrifft Erwartungen, Bitcoin bleibt bei 64.600 Dollar: Fed-Protokoll heute um 20 Uhr",
-     "summary": "Berichtet von BTC-ECHO, Finanzen.net.",
-     "time": "2026-11-18T10:15:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "BTC-ECHO",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ3ZNRlpLcFliSWhDQUV2NEFkMW9fMWkybzNEWVZ3dGZzSm5ibzJSUVdnMlFNR0VtcHB6UU9QcWw4MjcxQ3llTDB4Y3lwTlZ3WDNNUjVFd3RFSWdHN2NjMTBQS2RvU2NIQlZiTERPdlpnNWtXLU5WNXQ4WjV1bXZMSlRQNHBwaGJYTmxSYnl2Ykh2NHRidkZibkI4UkxtbWM?oc=5"
-      },
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObktjaGdhUFBVNG9YbVVoVFktRkl1RU1lWkNITS0xM056TUtPV2xTWWRUc3FsTTB4SHNNQnhoT0hjb0VpVHdTTkxJUUtZYWYyR3RXdmZicHdfR01VSE94UHFNMjk4SDFBZmVsZ3V3LUY2ZmdqVHB1NnFqRlVVYkpyVEFTRjJzbGJtalF4UHRqSFpaZlBjWDRWOWtKT2xVZzZmNUUyR210bExtSU1NVW1BU2c5U0tlNmpIblFHMHFvc2wxTjZ6T2xvZE5peUl5WDhXaU1ZalJFLXlNSmR4TXl5dVJZMkJzUQ?oc=5"
       }
      ],
      "verified": true
@@ -206,6 +184,40 @@
       {
        "name": "Yahoo Finanzen Deutschland",
        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXFOR3BzTjg0ZF9RalN5cVA5aVZtQnpIVnhEQTlaNkdVNjI5WDNuMEN2b2hfUHBOYWFJaHAwcDY3QVh5SmNGcm5xWWF2X0xTajA1WkF3dzJrYTdtQnV5S19aWkVaN2owX2ZfN0RZeE1KQ0R2bW1oNS11b0xBVVlNQjNaM2pPZzdUQmNmS3NyWDJlUG1tSFNMUzVn?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
+     "summary": "Nvidia beat Wall Street’s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang’s reinstatement.",
+     "time": "2026-11-18T01:16:43+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "Decrypt",
+       "url": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance"
+      },
+      {
+       "name": "Cointelegraph",
+       "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Jeff Bezos’ ehemaliger Hedgefonds kauft wieder Bitcoin",
+     "summary": "Berichtet von BeInCrypto, Yahoo Finanzen Deutschland.",
+     "time": "2026-11-17T23:29:16+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "BeInCrypto",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlTE1Wbm1nQUlYTjdUWG1jTTZxMk9IakYwN0sxTndIYi1DaVlxRTQ0WUtjT2RTR1JvQ1hDc1A0WWJmTWVHMWZ6RU5vWkN4Tzhrc2lrWnhaTmV1N2RDZnVLbkVkMkV1VnYxTXVuQU9BQQ?oc=5"
+      },
+      {
+       "name": "Yahoo Finanzen Deutschland",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNjVsZm5GNWhTMzdncUR1T3JwS3ptYThQYmtrd1FWZTlqajdDOE55Tjgxb1VWMENUcG0xX2RkS0lrQWw4QldmYnpldUdJR0hfSmNhX1lOVVNjNU5rMldiRU9mbVpndi1Udk5PRnF6ZzZUZy1rXzkxeXlKRlc3YzNDQUNQM05VV28xSTE1ZDEzcjEyOS1tSGs0bVJ3?oc=5"
       }
      ],
      "verified": true
@@ -436,6 +448,10 @@
        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSVpwOXIteldxZ0pKQ3ZQQUVMNjRFX0xrWGktU1pLUEw0d1h4TWVfSkQ4UWRqLVBWUnhDZEdqcFJZOE9MRVZUQ1ZfaGxReWdGdVdQN3A1ZmNXOUhPd0tRek1HUVc0a0RqYzA0WEZPdWZkV3UzV2o3TVZFT3h0T2dLYXMxWk55ckZiclE4cEM3WGoyZGJlX1lCVHhSXzVSNlJxZVR0SmhaZnhIdk5SQXNJ?oc=5"
       },
       {
+       "name": "BeInCrypto",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVVhZVkZONzhON1Y3QXcxV0ZRb0xtUk9FTmhtTVlhMjNhN2FHZldSOG8zbUQ0S2Y1Sm9GYTBUZUlDZVZkOERfRTh5elBXX0NmUUl1WGxYMWZpWVBYSE9pblZ4ZWJOeldFVnZ1WlBNbw?oc=5"
+      },
+      {
        "name": "Euronews.com",
        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNFBSNGxCRy1QQkMwMnpUalRDUGhLWWphZFRKNWV1VmF0V0ZIekNJQjV0eUV5UjBiS2RVVkc3eFV0M2JsLWVqZTBxOWJXWUNTTldXWnljV3gxWDhZbFpCa2pXMHVOYmVNSWh3dl9FR0FZM3d6WE5aTnNaVzZERkN4WllEUWNrMlA2aUFFZTU4X2ZlZExXYlRfYXVCU0Z6T3hZQkh6UG5IQUt0S1V0TEpQUUk4a0g0cy1lRGxvWHREazl2aWM?oc=5"
       },
@@ -511,14 +527,14 @@
      "verified": true
     },
     {
-     "title": "Deka MSCI World ETF stärker",
-     "summary": "Meldung von Finanzen.net.",
-     "time": "2026-11-18T13:39:03+01:00",
+     "title": "UBS MSCI Switzerland 20/35 – Schweiz-ETF im Check",
+     "summary": "Meldung von das investment.",
+     "time": "2026-11-18T14:50:00+01:00",
      "importance": "low",
      "sources": [
       {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVlYwLXpKbjlIUjNRNDJaSUQ1a2FfX3ZYSXlMc0JjNG1Ta1JwRTZZZ0FVN3hqU2xCY0pCV1VMRG9DUWhNeTNITDlWS1FJdU0tSXdyZDE0bG5zMVp3WE5qcmhDbThYZTJmOFdZSUNPLTAyZ1UyMkxtMDM5V3pfR0hZVlpnOTRSbHlUNW1fRUVPWE9ybHZHX2ZjWEU3NHJjdzhQSk1N?oc=5"
+       "name": "das investment",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02R1ZQR1VxWi1rX01zTFVqRmpVS2gwd01XVnF6QnBLSzdBMlRMeG56OTFLTUZ3VGxtXzkzaWRCbkVVUGVLeXhnN3ZmSjlPSkl1RGdCMmdMT3BlcG9XSy11TS16eVAzbU1iWnAyNXZRN04wS19maFE?oc=5"
       }
      ],
      "verified": false,
@@ -1021,6 +1037,41 @@
    "tint": "purple",
    "items": [
     {
+     "title": "Anthropic peilt bei Börsengang Berichten zufolge Emissionspreis über Vermarktungsspanne an – Bloomberg",
+     "summary": "Meldung von Investing.com Deutsch.",
+     "time": "2026-11-18T14:50:00+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "Investing.com Deutsch",
+       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNl9kWllTU1RoWXVhSzNzMFZwbmJXXzB6R1VMYVNFOUk0YWtpdVhmcHVEM2hwRktIRks1RmxoZ1JfNTBySW55TnY5TzlqWkhKNlpHWWxrdEgxb01zU3hmNDd5akdKLTk0MXZpLVZMcXNiOVNsejViNzZFaG5sd2JaVEgzblV5Qk9ic2dGLTFGSnRxdTJyQngzTWtvQ2tnR0hEX2FYdm9QOVkzS1hvd1dneGZTTFgyRWJwMTVWVDhmLVk1SjE4OWRkQlZJdE84aHBXUWxubjFzYk5LLUpZRDlUdUV6emJITGJuSjdJUHQxVzRoeURaaHc?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Nvidia isn’t selling any more AI chips to China",
+     "summary": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on…",
+     "time": "2026-11-18T14:39:00+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "WinFuture",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pTlNHazIxVUtnNy1fRkthYTVxam04MGI3SW1JREJsUGE2Y2NCeWtaX1Q2Y05iS0d2TGlIOEVlbTZZdkJVMGVxSTZXa19VZw?oc=5"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
+      },
+      {
+       "name": "Spiegel",
+       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMG93UUE1U3VYX0R1QThNbHdnVEFGSEtkT2ljbDZCQVBCbjhHR0dlV2cxNEV4ay04eHc4UWh1eVNyenJZLUFSWkdCYkdNM3lEc0hKTnVXczFBNHVNaThmS2pqMnIwbUN4T3ZoRnc0TVYtbHNIYllEWWM4c1Q2a1FEdlNTVUd0NXllX0F1SVRwdUZuSjBSekRXZ0ZOWEVGQ0dpc2VFbnB6X0UtYmgtMU5ObmdzRzRYWnpNSU1rUjhGYkdYWVU3dVBHRUNSWTBrS0daNFlUcVRrOHdtRVJNMURScVE4OWIyY0k?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
      "title": "Mehr Datenschutz bei Gemini: KI-Training untersagen und Verlauf behalten",
      "summary": "Durch neue Datenschutzeinstellungen der Gemini-App können Nutzer künftig das KI-Training untersagen, auch wenn sie die Chats länger behalten wollen.",
      "time": "2026-11-18T14:31:00+01:00",
@@ -1036,41 +1087,6 @@
       }
      ],
      "verified": true
-    },
-    {
-     "title": "Nvidia isn’t selling any more AI chips to China",
-     "summary": "Nvidia has stopped sending its advanced AI chips to China, despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on…",
-     "time": "2026-11-18T14:01:05+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "WinFuture",
-       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pTlNHazIxVUtnNy1fRkthYTVxam04MGI3SW1JREJsUGE2Y2NCeWtaX1Q2Y05iS0d2TGlIOEVlbTZZdkJVMGVxSTZXa19VZw?oc=5"
-      },
-      {
-       "name": "Spiegel",
-       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMG93UUE1U3VYX0R1QThNbHdnVEFGSEtkT2ljbDZCQVBCbjhHR0dlV2cxNEV4ay04eHc4UWh1eVNyenJZLUFSWkdCYkdNM3lEc0hKTnVXczFBNHVNaThmS2pqMnIwbUN4T3ZoRnc0TVYtbHNIYllEWWM4c1Q2a1FEdlNTVUd0NXllX0F1SVRwdUZuSjBSekRXZ0ZOWEVGQ0dpc2VFbnB6X0UtYmgtMU5ObmdzRzRYWnpNSU1rUjhGYkdYWVU3dVBHRUNSWTBrS0daNFlUcVRrOHdtRVJNMURScVE4OWIyY0k?oc=5"
-      },
-      {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Anthropic-Börsengang: Der ultimative Härtetest für KI-Anleger",
-     "summary": "Meldung von Institutional Money.",
-     "time": "2026-11-18T13:16:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Institutional Money",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdUxYNmd1WnRhUmh2eFQ0dzF0Vkl6TDk3TFQ0dXVKT1VzQW9sNzdHMUdyNGpObVM5ZWFSSDVFSVNJeGphMWhGa1UzOW51ampPcmE3ZzdCZjhFa2JpbEVnOE9zeldMNzdEejJ3MFU2d0Vab3YyU1VXWVBGak9rZFpqRHA3X2ZZZnZoN0UwbDdITF9zMjdHNmM3VHJUMy1FakFhTTVCQmRySnpYY0tSWVdzanQ0aHo2SUJKVzdmcGx6QkpFLTM3anpN?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
     },
     {
      "title": "KI entdeckt Java-Sicherheitslücke",
@@ -1110,7 +1126,7 @@
     {
      "title": "Friedrich Merz: Wie es zum Eklat im Koalitionsausschuss kam",
      "summary": "Kurz vor Mitternacht drohen die Verhandlungen über die Stromsteuer zu scheitern. Nach SPIEGEL-Informationen verlässt Friedrich Merz zeitweise die Spitzenrunde von Union und SPD. Die Rekonstruktion.",
-     "time": "2026-11-18T13:37:44+01:00",
+     "time": "2026-11-18T14:55:32+01:00",
      "importance": "high",
      "sources": [
       {
@@ -1156,6 +1172,10 @@
       {
        "name": "FDP",
        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOVTJRSDRwSklFblA1dHRhRzU0Mlc3UGticFJDQUo3N1dFVXQyNG1ySXNkXy1hLWUxY1JqekFEVzlmVXR1T200SlNBM3VDT0Fu?oc=5"
+      },
+      {
+       "name": "FAZ",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeU1PVngtaXZWVjJobzZSWjd4VmpialVtQjJZVThTaXZRcFRzcVJCZXNBUjBjWU5fNzBndlhwTzRkQVNBVnZZeFgzOEZvUXl5QTEwNTRudU9HUWtSd0YwT2JMWXh6cFpUVGxmZXJrSWRoM295YXlGS1l4dm00VUZpV2NqbERXRXo0RXF6dHhoNUZzWGxYZzcyYzIteUVSNmlSb0pldWdPOXhjYnJSdllvTEFMa1M1cjNvaVFDc0dvd0t6dw?oc=5"
       }
      ],
      "verified": true
@@ -1163,7 +1183,7 @@
     {
      "title": "Friedrich Merz: Marcel Fratzscher kritisiert Plan, die Stromsteuer noch zu senken",
      "summary": "Union und SPD konnten sich nicht auf eine Senkung der Stromsteuer einigen. Der Kanzler drängt weiter darauf. DIW-Chef Marcel Fratzscher hält das für einen Fehler.",
-     "time": "2026-11-18T13:32:52+01:00",
+     "time": "2026-11-18T13:37:00+01:00",
      "importance": "high",
      "sources": [
       {
@@ -1176,7 +1196,7 @@
       },
       {
        "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNd0g1XzYyX2EybXEwcHhSbmtrUmp6dldvdXE3RHM3RmhMdU1TS2YxOGgzenBwem1sTkRjalQ5aGNtOF9uYlVqY3pHSDFYdlNRSUR1M1BqSTNrS2dlZUNkTjQ5VHprN0oyVjlkUWZmNnRSNjVKUGRaTHhWOWcxeFptZ29ya2EyN1N0cEJqWVNaVVBSWHBRaVBaOVBaVkUwd295ZkxsOGNYOGlIZTIzYm1YM09Gd1UzbTFBS0hCQzNveFdUN1RGbHg4NEFmYkhSR0JXdEViN05aZEpuTUwtLXVzeDZLM0pUZ3dyZUdlS2VLeENmeWdTVVBSRHBTUUw?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTU5iajJiQ1ZPdkZsQmQ0Ukt2c2lIemNkMG9fWUlKSlY5QXM1OEVObUFaX0VoTFgwN3hzODd4cnhUNzdfNWc2ck9pbDZKQVBtNklwdUE1UndVcTdNdEItVm1HZ3pLeDJ2Q1NhOHVGdS1iSDVzT2hhRE10S2hTWGNfWHpTMkhXVkFDd1ZYTHlGN2FyMVBTTURmUWpZVnREOExQSnlDYnI5Ry15R01FczRNR2NKM2hQcVVobkdmdm9BdkFPMmNVWlVvRWx4dVNZa3psYW1zSWxGR0ZqR0J3aDFSYWVQSVZtM1FxeU5FalRmNDZ5SGNnSnQwNg?oc=5"
       },
       {
        "name": "Joyn",
@@ -1193,6 +1213,10 @@
       {
        "name": "BILD",
        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYXBTVU1EOE1MUzB3bktzVTVOX3Y4WHJiTHVJelRBdjBNd1hNWDZlNUFCOXppY1M3TWl3QTZDYXdJMFRfejM2S0ZKQmlIdnFKcEI4eEl0Y3lWRS1QUUl3Ql84M2pZS2ZQSEcyYU9OOVFQdFhWQ1F0cXpVU0J6QXh3Z1AtVDAycHFNZkJRSF9PeE9CeFlyblhaTFk2V3Y5QUMxV1hHWE9fU1FwQkx5YnJQN3ZzTlJYLVNRU1VOcHQtekZnbC1XUFlxUlNUODg?oc=5"
+      },
+      {
+       "name": "RP Online",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUEzZW1RQU13LWVkM3VOWDloTW1yaW5zalItc1FJU2NhVjRsRmkzWHNVQkxId2RwdHRkcDRBbVhiMXlWbmRySTZiWjNfczlpYjhYbXd6ZUM1UHY3MzhXWWxiOE9mLWVKVFZKYjFaVzFiQ2ZhWkhtTnAzNHBKWnpRWjZlVVQ2UzktY3hTTWFXZjljUGJEcXRWaXV2eml3bUsySUlKWE9qNzhwWnQ0SUlnLUc4eWROdVk?oc=5"
       }
      ],
      "verified": true
@@ -1402,6 +1426,27 @@
    "tint": "teal",
    "items": [
     {
+     "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+     "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+     "time": "2026-11-18T13:39:24+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "Freie Presse",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQXd0aEkwWFE4cmxaSkktdEs4ZEZaTHRsR2lLc3h3ejNuaWJ3WmVySWJpa0hqQllWSkVETkk1amNBV3owX1lEQ293bUk2SG9URldIMWFTMG9BT09kQThtbW1sS0R0WGtEQjZJVG9rZjVwaFhvSGdSWDI1MjRid3BKcnFDUE9TeHZ5QVV4SUJBWFlscXFzMjlhUE5BUnB1NGZvS1dUckhEQTFVVVNO?oc=5"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss"
+      },
+      {
+       "name": "BBC News",
+       "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "verified": true
+    },
+    {
      "title": "Russian military plane crashes, killing all 19 on board",
      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
      "time": "2026-11-17T22:06:11+01:00",
@@ -1414,23 +1459,6 @@
      ],
      "verified": false,
      "singleSource": true
-    },
-    {
-     "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-     "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-     "time": "2026-11-18T13:39:24+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss"
-      },
-      {
-       "name": "BBC News",
-       "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "verified": true
     },
     {
      "title": "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
@@ -1467,6 +1495,34 @@
      "verified": true
     },
     {
+     "title": "„Nicht dauerhaft durchzuhalten“ – Ökonomen warnen vor schwerer Haushaltskrise ab 2028",
+     "summary": "Meldung von WELT.",
+     "time": "2026-11-18T14:51:58+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "WELT",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHZOSFFlcEk2MFc5QjYtSlVGMGlaOHptTlhEajNQRE4xWVJTbTZTOWhBaE9Gay1ENWpfdEF6UWFFYTN1ZUFNSVBlbXItZ2JIb0dndzlYTkpaWVNyd2dkeWtYbERRTW42emtITV90M29hV2d3V3l4WUdyakxDUTBuNFNjSk1BSnVaMDd2UFlFa3lQYVdOODhvWFE0UTFiWWZEMkM3OE9YYWRVMDh4dEN4anQ1aVp3bzB5dFRzeDR2OUtwdS14M1Q4bzZUVVpUY0k?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Trump trifft Xi und Putin: Dreier-Treffen läuft! In ihren Händen liegt jetzt die ganze Welt",
+     "summary": "Meldung von BILD.",
+     "time": "2026-11-18T14:34:45+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "BILD",
+       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQzRBQU5RcERpUW9fWVdxSTJpVXVTcl9Ka2dDOHB2OFpnNkRoMUVmNWwyclJWYzkzYTZ6Rk8zVHNyV0N2QXh2dVNsaXZtQTMzRTJXaVZXZEdXaHRFUGNtYVIyV08zRzZaRzFEaEo0QVdPeThXVGdyQktKMjlqU0d1X1VKVjVFZFBUYUt6bFZSanA3QzhyOWRDd0kwc2lMYmlYaU8xYlExSUpsbGJLYWRmY1c2akRMMTRWcW12MTdNNmFaN0dxVzBfd2xhRXlnYm1QMXlwLUt2VE9QRjVkQ2owLVdCTERITm1tZjA5OE13?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "How the US House of Representatives chooses its leaders: A visual guide",
      "summary": "After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.",
      "time": "2026-11-18T14:24:22+01:00",
@@ -1489,20 +1545,6 @@
       {
        "name": "tagesschau",
        "url": "https://www.tagesschau.de/ausland/asien/apec-gipfel-shenzen-trump-xi-putin-100.html"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "„Nicht dauerhaft durchzuhalten“ – Ökonomen warnen vor schwerer Haushaltskrise ab 2028",
-     "summary": "Meldung von WELT.",
-     "time": "2026-11-18T14:21:19+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaHZOSFFlcEk2MFc5QjYtSlVGMGlaOHptTlhEajNQRE4xWVJTbTZTOWhBaE9Gay1ENWpfdEF6UWFFYTN1ZUFNSVBlbXItZ2JIb0dndzlYTkpaWVNyd2dkeWtYbERRTW42emtITV90M29hV2d3V3l4WUdyakxDUTBuNFNjSk1BSnVaMDd2UFlFa3lQYVdOODhvWFE0UTFiWWZEMkM3OE9YYWRVMDh4dEN4anQ1aVp3bzB5dFRzeDR2OUtwdS14M1Q4bzZUVVpUY0k?oc=5"
       }
      ],
      "verified": false,
@@ -1559,20 +1601,6 @@
       {
        "name": "Al Jazeera",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Rwanda and DRC: What is holding up the Washington peace process?",
-     "summary": "The two sides remain divided over key security commitments under the Washington Accords.",
-     "time": "2026-11-18T13:27:23+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss"
       }
      ],
      "verified": false,
