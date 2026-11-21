@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-21T10:00:58+01:00",
+ "generatedAt": "2026-11-21T11:00:46+01:00",
  "windowHours": 48,
  "note": "Automatisch aus RSS-Feeds erstellt. Uhrzeiten in MEZ.",
  "categories": [
@@ -135,22 +135,15 @@
      "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
      "summary": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support.",
      "time": "2026-11-19T20:08:24+01:00",
-     "importance": "high",
+     "importance": "medium",
      "sources": [
       {
        "name": "Decrypt",
        "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo"
-      },
-      {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
-      },
-      {
-       "name": "aktien.news",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbGJwVVpWQkFwMVBJUXRyMUlvQ2RPeUhVb29QREp0V0RVREJzTkhCNEwtR3FfMjFJaWZDc0ZGbDMxcWRBX0Jxa2JsNjd5eUgyekU5cTFEZWpadTdNOXZKVW5JLWtRVmlEUmNTMndHeHRmb3JXWlRRLW4zbUx0YjVGV1kwWlF0X3BDWWhZdkdjVk45d3hBQ2FsSmh6cGJVa3lmSkFyTHg3VEhxYmwyZWR0UHRQemxJUQ?oc=5"
       }
      ],
-     "verified": true
+     "verified": false,
+     "singleSource": true
     },
     {
      "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
@@ -211,220 +204,7 @@
    "title": "ETFs",
    "icon": "chart",
    "tint": "green",
-   "items": [
-    {
-     "title": "Vanguard FTSE All-World ETF: RSI 27,8 nach 3,3 Prozent Sturz",
-     "summary": "Berichtet von ad-hoc-news.de, Börse Express, Börse Global, Finanzen.net.",
-     "time": "2026-11-21T08:29:08+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOU5rYjByUXZjU2otaXBIWUpGa0JhV0lrRDBGdEV1ZlhoX25iTzNGVmM5ZGpFZkpqcldVUF91S0FHWDdHVDQ0Zk0yQ1pTNWZwUHY0Sk1ja0YxZWlvS0IzckMxVlB2aWhJTXFydGpJUFVmNUNMT3RySkxIMlpWQmJMVjQxck1wY245NzBFMi1OY1ktYjM2clNtVVpfZEo5bGpieVFEUURGSWUzUGxzb3N4T21nZmpTc1NTZVN3RG5QNGFGcmRvZ0ZJdXFiYTlyS3RzVW9OOWduZFdaaTJPajhSMg?oc=5"
-      },
-      {
-       "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3ZFbE0xZUJfZzNaTnJFVF9VVm5ONU50dXNZRWVhMzJvY3BiczlueExKMVl3Y3dOS1pvUlVaenZDRS1GTkkyWUl0eGVwRS1kZVZYSWNKME1ORXhCODJzb2t0aTRxZTR6dm9FZXJ4bjhNY2pmUDBuZUdIUWFhZHBkVV9ydDJaZmNIWFcwb0dVSHJKbmY0Ml9jVFo4dGFSSjVLdHdabVp5OUxMRWZOcklONmVhekFaRXlsLTZHVkZhT1dXLWdTcjFR?oc=5"
-      },
-      {
-       "name": "Börse Global",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3ktUndIVWhzQjJmQTM0RDNuNWlvVW5JT3I2VzJKaW9GVEtTSEgxZ2YtTHJBRm9HN2NhdG13eGY5UlBMQU5pSUJjZExJVmFpT2h4XzIwU2ZTYUlxYzgxYXBYM1VNMFFoeVlOTktDckFEalZVOWhISmFRdlViNkp5eEJsU2R6WlRzQUJNT3pXYnMtOFJ5NVZxdDlfSVE3UlVkQ1JYbnR1cU1XTVhObmhvUnhR?oc=5"
-      },
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTHBoVXpsYlNZZzJmUjJqbV9BcnY2bGEzbm5TR2J5VGlWWTh1V2Y3ZnNiRTNrdWtfYlhaNXY0REhUVUpOSzdzRU9qbGV5TktiVGluRFN3V0xtOTF5UGgtR3hvMUZhSXhyLVFMaE5MTExMNUFtWkRwSFZEeVZhQmwzRW9IZW1neW9QVXJiMGRjV1VaRV9XZ3YzMTU1NDZEMTk5?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "iShares MSCI World ETF: 3,3 Prozent Minus am siebten Verlusttag",
-     "summary": "Berichtet von Finanzen.net, Börse Express, ad-hoc-news.de, Börse Global.",
-     "time": "2026-11-21T07:45:21+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObU9qOWtPLXp1WnNJUUUzNnhaUHQyRjBEM0RFcllidlZic1AzOXlUNXFIVlgyTXVSNENfdWVoR1hoUV8tRTN6bWh6QWxBVjFfd0k1ZXhaWDNYUFc3c0Z5STI5ZjRlTVBNUmZrYWlqdS1mcHJ6aVhNcjIxT1RiSDcwYWJtazhCbWhIdXFlLU5PaGt5WHlhRVkxZ1Z6N29fSGk4MXRWdWtUSWxSY3pKdFdTQ3RMSUtlMzRxaFE?oc=5"
-      },
-      {
-       "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1dHUjRUa3ZkNWt0NUtGajNwaE0wZWVmMHp5aWlvM1BnV3V5cV9tYlpOSkJmUWtnZ2lLdkN0VVFXS3FSZlZFTk41Rmh2SVhFTUVCY0N5MURFUk9BZ0xtWm83Zy11OFJnRHVfTEI3YUpraUJRdVQtc2dtSURfTGthUjFmWEJ0LW1wVzZWQXMwZ2VYTVVVZzh5dXI5eC0zME9ERm9pUndJZHlWUzd0TjZwbkJhN255UmFNTlh1NzFyaVFIckI0VDQ3UFBFOC1kamNGUGxv?oc=5"
-      },
-      {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNzk0aGs0U2JmQk5fRjFvMU13Q1VDZWxiSWtqMS13M0R5RDlOS0JXaWNwN1hPeG5PbVZRMkpOejJDZnRLSjBER2FSakdlejg3aGY2VUZkeG4yM3BlVlNVSkF0S3huNUcwZThFM0NXMFdmeExPQThFX0w1dTN2OFp6cldnSXcyeXJQR0VsVHBDa2NCc2tpUk05OUJKR1dCaVRQbXJXY1RBZ2pEbmdXN3BPWUs0QnJSaW9Ob3dEZWhXcGRwZkVNVi1oMWgzUmVnR1dTM3FXQ25NSGZueXBUY2lUbXBB?oc=5"
-      },
-      {
-       "name": "Börse Global",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUW9UdjV4U3BfSzR1eERtRk90M0ppc3F6azRwMjk4X0hsMEtzdmpnQ2NvZnNWdzlmR3RuQk1Nd01XdnJVUTVMaFU4ZFBtNkMxUzdPakYyaWNjUjJ3T05mN0VJd2l6WGZtVEdBV3R3YjVkeWpKNERFVWg0N3FkaVl2RHdmb0pmRUlneVktbUFUZWctUFhjY0xmUWN1Y2FJZw?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Bitcoin ETF: BlackRocks IBIT mit Rekordabfluss von 541,1 Millionen Dollar, November-Minus bei 3,47 Milliarden, Bitcoin unter 60.000 Dollar - Wer verkauft Bitcoin jetzt in der ETF-Hülle?",
-     "summary": "Berichtet von wallstreetONLINE, Yahoo Finanzen Deutschland, AktienCheck.de.",
-     "time": "2026-11-20T18:21:06+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "wallstreetONLINE",
-       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc1JQNlBLVV9GVDBhSFZWVzIwWUNsSlh1QlJzZlBiU2lITTJZU0o2V1FJVDQzSVI1VVRyN1VXaFRQdU5pY3U1T0wtYjl1MTZ6MU5XTGN4b3NQZFB6QXR2Y3VsLTVmdkhaZG50dno2N3NaWEVpMVZoZnJPRHhNLWZ1bWN4N284Tk03THBaSmV5dzRkaFFLU2VCNHFDSWJfZHZIYmU3aXpFejNoTjJBak9fcUN5WEFzZDlzSFFFOENNRU1saENUUlEzM1ZvOA?oc=5"
-      },
-      {
-       "name": "Yahoo Finanzen Deutschland",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMndRbVpCZ3FGVnUyOTU5Ym1WcDhIX0ZiRjNTVDRUQUtBeVV2aHhKQmNWd2U3eTBmMVdqaHh0VFltMGNVMk5WOWx4ZDRyaDB4ejdWWFNfZzJySlpVclZHSFAyUmxIWDc3d3lIODA2TnB3ZlU1SlRYZHowZDVPRmd5anQzNEFQdTB5akY2NGJlUmphN3F0cmxRWVpR?oc=5"
-      },
-      {
-       "name": "AktienCheck.de",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3FSaDFkb1FMZTFVTG9URkQyZy1FbmVHLVB2OVVnMjUyQlVWZkJNQ3N2a0hHd2hYcHpjbDYxTzNBalB6SWtMVnBMajVBRWFqMlN4SkN4bnN5MUlnZGJsb2pRamJGeDBYbVlvYXdPV2lkQXA5MkdFV1pjRG4tWTRkd21NRmVkcjExVnlibGlmWWJwdUIydlhtcVJZOHBKaHZvb3p1Zm8wM1JSRUk4WmJsNA?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "iShares Core MSCI World sammelt 7,6 Milliarden Euro ein",
-     "summary": "Berichtet von Finanzen.net, aktien.news.",
-     "time": "2026-11-21T09:06:22+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3ZlMGJESThEZDJMTlpOeWxsaTVkeTNTdzVDTUMxUzBtbWZhTmY5Q2NndllydkUtNl9MbU9IQlpsbnpscXFYdV9fMVhFblNKcktoVFlOTGRSVHJIV2NBR2JfWkRKSlVlQUNaaHdpT2gzcVV4ZkNoUGFqT3dQQ0VTTURQT3gzUWt5UGhDT01oNkZZTjdUdzFRTF9QN0dKZ3d4bnc?oc=5"
-      },
-      {
-       "name": "aktien.news",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanJRUWpjLWY2MzBfRVM5TXZZdUZva3FpMERCN05obEZ0SDZXWENpRE1CenNJd1lGTFlXbWFqbFE5dlFSTTYwbmNTOU5nN2dTbHNhTFRuOHV4X3VNWUNSLVRyY0JJYnozc2hLUDk5UURiUjdxT1V1YTZFTXJRQld2cEhrcE0?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "iShares Russell 2000 Index Fund (bStocks Tokenized ETF) Kurs aktuell: IWMB in EUR & USD live",
-     "summary": "Berichtet von Binance, BTC-ECHO.",
-     "time": "2026-11-20T23:09:57+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Binance",
-       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwbmt3LVQtQkV0TXoyUEZTUHpId3ZMVXQwS2wwT0NsanRURGRPbEZ6VEpFMnJkcEFhMzgzcUxlTklpYXYtRWFnbFV0MjkwRkFGMEstNXJ4OEx4cXp3Y0hkeUd5RmZncWxfdzkyT1dCalpNaEQtNmVvUUJqM0VkZw?oc=5"
-      },
-      {
-       "name": "BTC-ECHO",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVzBWTWRCVzFSWXdlZEJxOXBrR2tYanhTWTlKUF9NSjBQMEVrQTFpUXBOaXVJa1RzLVU5SjAzT3pjSFpoQ0RCa2I1U0RPUkUwbFR4OE81LUdNUU00SzZ6MFpZTkRSenc4VlhGYzgwenhQTS1JZk5sM2VsS0xKd1loWWlsSUV5Y0s2dGFn?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "VanEck Semiconductor ETF: Sektorindex bricht um 9,2 Prozent ein",
-     "summary": "Berichtet von Börse Global, Börse Express.",
-     "time": "2026-11-20T21:16:10+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Börse Global",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNek5ySlFxOEtPc2hBT21KS3lMcS1PZ2NsaS1LSlBsRC1OdjBUUV94YVVRYzJNZHp1eFIwMHA2UDRYYkhsM0lHbUpya2hfcjlHcG40SlZ3TWhWVmlhSk5abTJrWFpnQ2M5RXZtRGdXTWRqODMyd3hZdGduM3dzNDNsZ1I0Nk4yOThGdU9nd3UtaWNxTGlfQTdFbnp3?oc=5"
-      },
-      {
-       "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYV9BMEdRUmZIVjVmNXpiZmNaN2lfbzVqdTUzaE16SXp5SC1tMnAxV2ZOYVNvOEFGZkk4dzZRRWVSLS1aVEJ0TmlBaUtIN2lSbDREYjZmLUo3RWtZUE0zV2hfOVhkOGJEalE1XzJsQTdPalRTYlNiSEZoc3kzRkxSQ3lrd29VTkswMjhHY1JHREpiQkRjUjN0RlpmQ29vRC1fQXRtQkdoS3YwSXBNeEtIYTVqQQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "BTC/USD fällt unter 62.000 US-Dollar, ETF-Abflüsse verschärfen den Ausverkauf",
-     "summary": "Berichtet von FinanceFeeds, Traders Union.",
-     "time": "2026-11-20T13:29:02+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "FinanceFeeds",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUE4VUwxQ3MxdEdMLVV6d1lwbl9QcWJqbkU2YmNWMzZHVUl3S3RhRXRzaWRVOWp2ZnhRaDRRYXNjdk50R3hwRlN0LU9lODBjdVNSd0Zvb0ZSTFhSbXVvajJpUGEtbmY3bjhDOXdGalFmUHpYS2xaS1NqdEJOVDJqSERGVmh0enBfcFpJcjlPQmo2alUxYzRkQ095UQ?oc=5"
-      },
-      {
-       "name": "Traders Union",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3dHMkNuMEY4emZyWWptbnNlZU50dzBhQm9RTzVGV21wWUlLanVlbkJtOTk4NlZPRVhsUVJhQ1g4bnR3dzVXOUswMTczZy1tMzFpUWRSX3ZHNDFoWWMyNllHQWViVVIwQzJ6bXpacHJ2UUlwd0JGWXB5aHVlTnBXTTRWeFlkd1NFRnNmdnQySE5oYTloYzRv?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "MSCI World kann einpacken: Schwergewichte planen neue Welt-ETFs",
-     "summary": "Berichtet von Börse Online, WirtschaftsWoche.",
-     "time": "2026-11-20T11:35:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Börse Online",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd2tvWU43QUdCQnZadGpiNGgzRDZqVm5BVTUzdkdWdVJDRlhRME5NYXUyNnluYUNXUDhyLWtjLTdHYUhtMGtsUlAwWEp5dXdzNG1kOU9pZERSSlhIbG43aU1Nd2JSREF6ZjNEQm5MaExzVUVUR211N2dWNjQ2VDZZZF9CdGNGQno1RzFOdDJGOHdIb1dob2ZRaGNzZ1BXUGcydGFkblNRZkotaUpSZ2ZrTzB0Umg0a2lubHBiSnRRdjEtTDhCaUxpMA?oc=5"
-      },
-      {
-       "name": "WirtschaftsWoche",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVpCNGlfM2JGbC1RaVh5WjR2czBaeU92c0dwSzVuSlhBUTZSVTI5cXhMMWtvOFlrS2dNd09yZGxZSTNfS0dVN2RSdWZQUWRfZFBtMUNXRnBHT29kZUpKeUFUZXBibzZZQkgtZ3kxYmFwNmRXVThvRFZ0emRUejFLLUFiem4teEFhMXNpRU5wWDlOVl9rU0JFZUxMaTRjR2p1RkdSREQxZ2dWOUhHWUdqWDZHVQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Solana: Spot-ETFs verlieren erneut Kapital",
-     "summary": "Meldung von Börse Express.",
-     "time": "2026-11-21T08:55:11+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaEVXdUVreHVkVF9JV0tRQ0pCdkxTVFJFYmhOODVXb2JpTU1RTlhGR0NXb0RsaUVKdnd4TkFma3BKTGpuSEZfV2h5U253Wk1NMi13M1RUYXA5TFJWX1dickk1X3UzNVdMMFVVelI4UC1WWUVSSE5PNGwtRXFxMlBod3ZBUDByZDZjOGdyYWxXUXZRdDFkT1gtTg?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "VanEck Uranium+Nuclear Energy ETF: 5,4 Prozent Minus trotz Rekord-Uranpreis",
-     "summary": "Meldung von Börse Express.",
-     "time": "2026-11-21T07:54:10+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMldHOWFKbFFjTi05S1hJMmFISVVaeXlEN2RsdWpiME9QVUtFZ0tjdDlTOHFqN0NrbVZGUTdvcEJtQ1ByQnU1NUFXbElzZUs3NWFLNGJmcno3RkVXSkkzb0N0SlhTY3hTbXMxVGk1T0ROTFdSdUJHaFp4TF91dkRvTEVUUmtTaWVvUS1NWWN4aDJrRlp4dWR3WW5GcEtWZHk1MmhYLWtoX3JFTEUzNUNUd3BRaDdMU3BpZVhGZS1UUm1qZw?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "So kommt die Anthropic-Aktie in Ihren ETF",
-     "summary": "Meldung von FAZ.",
-     "time": "2026-11-21T07:43:26+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "FAZ",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNREUxVGI0WkxlZzB5Z3hQZEFvVlp1a3F3SG9IZ21zSTVGMXAzSmNwNV8ydDN0UmFua0JHaVBvMFVfdGNRNW1yeHZnZEN0aUdCRTRJSUtnQ1JWaTY0b1lteC15SEp2cE1MYk40YjVTVEVrN0M2cnZkRlNueDJxc2JudVZtWUpiTnZKejZGWVBZa1NmWTVQT3E5azRab1hVZm8?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Solana-Kurs: ETF-Flüsse zeigen begrenzte Nachfrage",
-     "summary": "Meldung von ad-hoc-news.de.",
-     "time": "2026-11-21T07:37:51+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdGFQeVRXd0huaUlyTUlHbGdTU1BwQU56Q0dESUF5TWtqOWU4Y09DUlBnbnJXNU9hOTA1VVoxQklmQzZNcHZZeUFDOWpVQ0Q2X1pyUmJ0dVFlUEZ5cE85YW8wZzZvMU5FN1gtOFJLR2o3T1lJTXRVNnhyeTNoNnBKMFpRSlBpYS1EZVlvLUdybndjb05jS2w1N2l3RDRwY1RKam9UbXB1M3BnYjlhcnc3UGhB?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    }
-   ],
+   "items": [],
    "more": [
     {
      "name": "ETF.com",
@@ -441,372 +221,7 @@
    "title": "Große Börsengänge",
    "icon": "bell",
    "tint": "indigo",
-   "items": [
-    {
-     "title": "Anthropic-Börsengang: Diesen Trumpf hat Deutschland",
-     "summary": "Berichtet von Finanzen.net, FAZ, Admirals, LYNX Online Broker.",
-     "time": "2026-11-21T08:34:00+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTFBiSHdiZGlkVlk5WnpaREhWYmxQMDJJRTJ5Q1NGM01zTUxJblNxdldRYV85Q29GeXg4X1BwMF9jY0U2TzhnOV9zeFlPZ0F0aEFWTnp1RWg4eG9xR2NJYzhWcElHc3U1cHNvSVNVTEY3RHQ0cWJYeFdZbHhDX3RraENtMkVFZzFJamFWSjl3MUtzYmNsZk9zTnR3SHlPb3BnLUc5aXlyZ01NN1ZVeUdNcGxWSU5ENnBjLWg3bGswb0hwVEVxYzcxdjVuMTdVdlRfengzUjR4TWRtMFBreWhFQkVTanVwa2lpb3FQSzlWWQ?oc=5"
-      },
-      {
-       "name": "FAZ",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTN6aXBtVUlscDkxalVwVjNoQTkzdUhrWVhoN2liVERsLTNPdUNYZWFINmxrazBwZ2JpZFBaWGM4UXkyWGZ4ZkR6d0dPbkF4Ums5SHI1VDJFVTIyTVNBRm9mLU1zNmFUVVFBNnlyMHF3aUJPMnVmRkNzNGRITUQxV190eVJxdDdEMnRpM0x1S0NRUC05bnpLVFZDVXFRMnBEYXpJbUUydi1GY0JoMWJxOQ?oc=5"
-      },
-      {
-       "name": "Admirals",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2NVNmJzUHJoc0ExZjFaX2tGTzdIdkZhMnluNXB5V0dHbnU1SGZWRE13WVpiNm53eXc5bTlIaThvR0RoZFZxTE1FMWpMWk9PUXh3bnJab0dUeWE0bzVYaVotRzN4WlZRcUxKVWhqLWJvamZ2UmFWTUY4VTZmRFF4czRoa3A?oc=5"
-      },
-      {
-       "name": "LYNX Online Broker",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWVyTVFZQWdWVXgxajRKMTNXTzJWbUFVcE9TaGgyRUJ3ajNIb2JHSG55Yi1EOUlqTDhFWm5sZTV3NVBHWFJtVmhZcEhBZ0xDTS1sRVN5VUw4dTZPNFpPbmVIYjc1d2dTNHJGYTlPZHp1U0V6RERvenVoVXhhMnNMcVRJWlpPLTIyd3g0c1dMOEd2emk0TkxaSUxKdE4zVXBsX1ZrX0tNVU9SOVBJc3NWY084QThQampMOEY4a3Zvcw?oc=5"
-      },
-      {
-       "name": "private banking magazin",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPck5rVVdxV1NuWXExZUJpdzBJVnhLT2VqdE82aVZhLXhacmozM2FiTjZHSnNPQ0tqSG00RTBHQlB0ZkptblMwQzduZzM4LUJrRzZTV0N4dldRbUtrQ0JjcHM2bjlYN1lFOG1UTjRORHVOdXVyVFJhTjhNSmVQbFhvcy1mTi1XY0JiWFdiQjNMb0RwQndBcnFGWVIyTUlROHFXZDh3?oc=5"
-      },
-      {
-       "name": "wallstreetONLINE",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT0JzemdKQWxheFlNUGZ0NlhHZGROTER4eEwtbXE5ZUxRejE3YVRfei1iZE9mcWg2bkwwTlRxY3pIUUpjUVZZWDZmZ0trdjlmVGpNQThVbldjbzdCOWlEUGlnMmRBTFFsNVhMaFcxTXR4NVhxUEZKZzhjRFlZYkxQQS1KOGxEY29UYVlwNDljRVBRWmh2SG9aUDdOak1NM2k0?oc=5"
-      },
-      {
-       "name": "Capital.de",
-       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORVFfWTZabXE5WGVPa1RRRXlfenJVNDhpNVBYVUxXS1UyUGdYSUtDUEZSdkFKV2lkUzJfQ1RxaUVqdmJUVFJUMkFtTFRFRGsxSjhUTVkxRXZHLVJlVFJBT3I1OHc3eElVVFY4QWVUT01aQ1Z1Wkd0SEc2WndSdFlKMzVtcDlHS04tam82Z0J0dzZ3ZWczcW8xUHEwdDRKYTJxVl9PTng5YWpuSlk0NDBjZmNXQ3hUelNjSFZaWHlrRjBKQXJ0?oc=5"
-      },
-      {
-       "name": "Der Aktionär",
-       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWQ0cEp5M0UtRGRSZ2xTNFlDR1JrSU40ejExYnl0aWpBbE9aaVJjem5Hb1Q5ZFVjVjRVOEg4SlhkczJpZGpPZ3czTzNTYjgxX2ZrMkMwbTFiT2Rqb1dNX0lFbDBzanJMOWxqNjMtSUNERWhLOHJBdXVSbUROaWpvVlZTN3JJY29UQ2U1eGc1UndGWnRsa1lRN2FySlVCdDdWdWFDMkF3?oc=5"
-      },
-      {
-       "name": "heise online",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUTdSVW1kRmdwTnkwWGZzalJXY3NmYnBLVFZRQ0pOdXZZTVEyb195cDktc25xYThtU3EzcWV1UHY2Q2k4RVRQYzBycGZCTEFMTklBUk1aeFpoN3QzQjB1SUZXVXpCR1VZcHdQUFAyVzdtNXRweU85RGlRa0Rwb3pOZVhhcmExU3R2aEs0OFdIR1VXNkxYRklTOGlnM18wTF8xM2U0Y3NQeUw1WkZleDVNT29ybkZYdw?oc=5"
-      },
-      {
-       "name": "Finanz und Wirtschaft",
-       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXNMTHZHUy00SXhQOVVYZEY2ZkczbVhFd251VlVaVkhsMkFaUk5lWWRubXlDTzBEeU0zd3JpM3VnQndOZU9FelVBME5uYmJXZFhsVWs4OC1uaVRObWRkV3I4Y1Bad3lQX1ZKVTJPeUVuZGppbFhoOXpkVXhSeHpVYXNYOWNsVXFhcFBGRWpPSTFtOVc2LVE?oc=5"
-      },
-      {
-       "name": "Radio Oberhausen",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObmFzZGUyZWVnOTg3dmlmeWlmNl82RTBhSnFOeGcyYU5wTTBBWFdQSWZqNkhVaU1wSzBZWUlaRUJpZjZkTVZ1VEJiYkIzNnY3QXlPMVI4aGltcnQ5azROTmJQenZJa1MtTVZsTVBBdWtzWExVZ0M5YzBna1dicVU2WTJCdTgwak92N0tNRXB5OExnOW1kY1RWVUdDRUQ1Tjh6TWp6Nw?oc=5"
-      },
-      {
-       "name": "T-Online",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1hlSzBkVERvR3RWR1hFbVJwSXFFU1Bsc1VQLUZ4NlhHTWJ2dW5YQXJ3dXdsMWZxZzVwb19ONGZQS2tta3FBdXNwTDdqc0NSSlRfUUdlYXZJckRnRGZCempmc0M0VmlQX0lzeUhiVFlyQkozeUNRbWJxMXZuOEdBU09ZWE1YalhUZE5tMUNmYUlYXzFBYWs5SWJ5UExhcEJtZmpFUXB1SXlpQ1ZV?oc=5"
-      },
-      {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXl0enJfSkc2ZkdzYkJmMUhRTnJCakpWLUJQbjNpMEloX2tPVndVeno4R2tpSEJjOWE5R0UyTXhxYjNNT2VrNlFmRGlpUFc1UG0tQTI1RFo4RHpzWFlwVzU3UzdTb0hCN0NtNXlMTTRscDdDeW5hVjFfdzhOSFBSOXF0ZlF1YTNIbjgwekFPRm1KUElRUVZJUG05RHptWWdSc3hJcUsyM056Ni1k?oc=5"
-      },
-      {
-       "name": "SRF",
-       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOXZacGk3NkhRQ3h3Ni14VkVReXhmenhRT3R0b3BEOWhGTUZSNHBQTy1DdTJsNVVhOE81TEhJblB2NUx0eVNZWmw5QUpRdnJhbzU1cVVMSjRGQ2hqRWdoZjBrdTdtQkxHeUtaZ21yTFB5QVp0TVJFNnpzcjNaVjA5M0JzUUVGN1VzUHVBUkxPTl8xb2xhQUlpMHNBT1FIUzZMdVEyVUZTUnY?oc=5"
-      },
-      {
-       "name": "ZDFheute",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOemVmR042OG9DQjJ6RzBmaElfSTIyZ3lCa3RIckE1YVpZSHo2cldURklfaVB1WkFVLUN5SkZyaks4a1kwSXhBeDVEa28xVTlJdl82SWVOcEI3akV3MElYY3lQR1NCSlFON21aYjlvU01UZEI4SVRwdmxnUDFxd1IyUzRfQ3hBSmc2eVpjbmlCX2k?oc=5"
-      },
-      {
-       "name": "Euronews.com",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm12bHJjQnJ0c2Zic1lJcm1HSGxPeU1IWTRmWUxTTDRLX0FCWFhzUFNjd1FvelF0RVdzc0VSTk53eXpocXJpOVVZMmM3U0NhVVpuaTNCTWJPZkdhRUJ2anBQVmRJeUd5b0xfcjBISnp1MDBfMDdnNjl3eDJvcFptN2hvMnBwUjZVVkV0OVZsd0s2cDVhYUpTaW85SUVYaGFJbUE?oc=5"
-      },
-      {
-       "name": "DIE ZEIT",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXF2cTZYNURzN2ZESDRob0I3Vjg0T2RKRU1zZ1RPZElIbHdSemxqd0FfSzdVbTdkNkMwSmdnWm1TYnpqbTBpSTFUaHFqeXZqUk9wSWdGdmk1c2U5OC1zT2FjQkdBOHRsTmlhTEQzUHBWcTlwMTZHaEU4MnFreDVPLS1ETVpMSUE?oc=5"
-      },
-      {
-       "name": "CRN DE",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTVpuN1l3Tm1zNTVhMjZxZFJ1NkVHc1ozeUhmRG95d0FzUzRzdFNTUElxSmhrRnVncEV5bzdyVXJJblZZYjdhTzRTeDd0QjNTMEh5RzJuTkJtTXNSMmdFYldWcmtLVVhJR24tNHFha2FDM29DN3ViUTc2bm9CcTkwNVpfdjg2ZF9TTzRkd0cxelQwQ3U0YjNWMmx0OGR4ZXhfMHJHbEllOWZ5Sml3VHdrVlVSQQ?oc=5"
-      },
-      {
-       "name": "ORF",
-       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5JY25tREdSR3lWVlQ1NmZJQ2Roc3djd0NldGJ1SkJzNzUzdjUwSkUyYm9QRW9HaWlKaW8xLTlPTU9PM2ZQS0E?oc=5"
-      },
-      {
-       "name": "Golem.de",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMVcxNXppcjRhM2xVWUlkaklUODVHaDRDNHQ5ekQ0VVI5cUpVNHRKTlNXYUpFT3RnbWtyTWdtTVJ3QzVNMERkMDVCS2l1dUVDQl9ZWkpRbjJUTHF3NHdlejRHMjN5THRZd2lyejd3WldvZC1iSWNRVWhVTXhOTTdTQzN0SnFuelh3YjlMUWR0RTJYTm9UbDZMYk1WNDRGV09GSmk0NHV1eU9aS0E?oc=5"
-      },
-      {
-       "name": "Spiegel",
-       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNalYzdS1oUTFkVE9oUkdxb3Y2VXFlUjNWQi0xQ21ET3NQQk1kQWVrdnQ3cE9kMTZPZGh1UVNVdF9VRTQxWFl1d091TERUOWlES1FhakhWZFl5Ym5PTU1HV25ZR0YxNjNTV0czZ3FLb1pRUzJNcFpYNVlEckQ1T2g3UW53cmU3U3FOUnd2dUdlRkNpRjhrLWdKeHB6TE9mR29FaFdGUElYajJoRktwdHZpdHAwalJfOHdrQXE2VHNKWGd1dm5CeDFhUHVPa1dLTmtKenBOTTlUUmFvZw?oc=5"
-      },
-      {
-       "name": "RND.de",
-       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUHB4akh1Z0gwdi1iSUh6UUowMVpSVzhIdWllalItX2w3aHVucy1vUFJIbkpqOXhnZGl1Z29fbFh6TC04Zk9vUjRULVUwVkY4anBfODFXNVRIcVVPZmJOZnJDa3lpMTU4LTFKaUNqRWNYbkZDTmktWDNWNXRhUnM3b3BXNXZESUprRktoSlhuUUNxYl80WHEwOFI4a25LRjhzUE1wd203NTVjX0prWjBLeF9GdnRweXhDLW5aZ05R?oc=5"
-      },
-      {
-       "name": "WirtschaftsWoche",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFNxVmhBR0x3eURSWFRmN1l6U1BOVXlqWjNZMm13a2VqNXNMWjlBcHcxSHRoR1ZMWWpQaFU2MS1yWVhWQ3BBaDMtQ1d3V2diMUhsXzZ4TXpkZXJlVnR0Z3RZLVBGWFZkTHVBYU1MV1FfTUlxWXpvNXYzZFRGWG1ISkdnaVhSZ3FHbVBDWnVneFV5czBNSG9pbE1qRWdVZ1ZkYlVCRWw3WkJ6OGdHSXk0YTFyb2cyLUZxUVh4eGFxbw?oc=5"
-      },
-      {
-       "name": "tagesschau.de",
-       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TVHRvTVJOSjNUdlU3dzc2Z3Q4Z1ZDcnU1VWR5VFZYTXpXN1VlWmQ2blkwNUFzc09NczZha3ViQ2RTQU43dHVUZV82TjZCSnZGX0VDYko3U3hZazhsRS1Z?oc=5"
-      },
-      {
-       "name": "BILD",
-       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcWVBVTN1RHd3VXlqMDBRc2NBT1JvUmJNREJLbFRDVjI5c0xFOS1GMjEtQXlEaFRLZTVCOFFrU1NVRDE5alZ4dHlwU2YxZVg0MEE5NkVBX1Y1SGwtSVFqVFBsaERrU1RURGRuNm5qVWJyM3ZOQnlZZlBvelZwaDJ2c3NvbU1lc3V1aGMyYU0wN1pwaUdHaEdKT1g3eml5RjFuYkl4VHVVVUpzT2lHQzJGaGNQNUd6dFRCcmMyMzRWSlhtZ0pXQk1IZ0dPVER2NjBvWXoxS2tvcElwUQ?oc=5"
-      },
-      {
-       "name": "Merkur",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHdlM2RoSlRfSVVET3dLeE1FUTJvLW9CZDZOM1djMlBQSjdUQmtZb3RRZXBuODF3OUphS2VxSGt1MFFibWo0dTROcEJMWHhWY0EzRHFrSzNGV0I3ZmtlakMtYnFFTERIUGhFakUyYnQ1NzhFMjBSZGktSGtRY3ZGLWJJTjhmRm44dWRpM2pLNEkwdmJITmFPbWJYYXdIUEFwcktV?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Anthropic-Aktie nach dem Börsendebüt: Kein Schwung am zweiten Handelstag - im Gegenteil",
-     "summary": "Berichtet von WirtschaftsWoche, Manager Magazin, Finanzen.net, FAZ.",
-     "time": "2026-11-20T22:04:11+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "WirtschaftsWoche",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWE2VmVTdFFIQzFiQVMtbG1WZ1Noc3VOSmsxYVNOSUplbmQtd3RLOUVSMkhaa25BUGFFM09INjc3OHc0OEFwdGJpVURtblVKX09mMGgwU3ZEVEs2YmUzUGVGQWFzTW80d2pqTFNxRjVIUVVPWTFNU1BvN2phcUh2QW8tV1BURExWbklBU1lITzUyYWVFcU82OGV2MnMwb05kb0tTQjB0SXE5c2trN19LejM0SldlMF9kOHVTenRDN0NEVFBUWi0w?oc=5"
-      },
-      {
-       "name": "Manager Magazin",
-       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYWpaU25ZdnZSN2RYcG5kdzV2TmlnNUNZa05wRXdPcG13X3BJU1hqV2tsZk1aN1FMRndMREdWcWdaVlF6b25MRWVKNXJzMHJielp3N1JPdVFsd3hWeDVyd3BLaUM5TVpmeUY5RlZvaEFWallkaE52MFF2TEZ4SGhUbGtMclA5Z1NBVjUzTDdwamlMTGQ2SGprMHloSXBxU0UyTzhhT0J6Y08xRkJMWVpWNmlmWVBMU0w0ejZkUjVkclFJMjJ0cU5ERmY4X2JSelZ1SGRySG9EQ1N5Rk5Z?oc=5"
-      },
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPemJGOHJwaXJnd1hiNFJYQ1hWT2l0Mlh6RE54al9ZdDQyRmlfejN2MDJyYi01Nmd2TmVHTXI0Q05qcm9kTXNzZEd0dFJmTXpxQ096QXpBd1ZETEVLbzVsQUZseGNzS2Jya3FDanJFLW9CdnNOMjk4RW4yTHJPcmhGU3RoOEJEeTBVUHJCTmNvVklweG51VXREYU5wNWhYREpCcVZXQ2Y1amZ4RVlKMnpLUVo3OW5rMmdnN2VwbWRiRmQzZWtuejZ1aTNqekxBV0lZZjQwNzkySmc1WlZkQkZxR0gzVGdicDFkRnVRX01SOEtJOFpHMlNrdGZMSU42eWZQT1NWbEZCblkwMkdudFNRbWo4S3lDVWc?oc=5"
-      },
-      {
-       "name": "FAZ",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcm04dXZneGI5MVBxSDVHTEZmTjd6MEFBOFN2cHROVUJRVmlyVmFRWGNIZTAzbmIxbnZub0FtVEFoRHJFN200UkVOYkRabUdDNkUzWEtwRGF1YlVndU9MWkpDZFJFalhWcnVOMER0Y2ZYYVBvSTd1X3ZQS3lEeVE2cWlsTzcxeFVHdklpOGpiUHZvMHhrYXlSYjNQR2xIaV9waUZ0WUczQnhSZw?oc=5"
-      },
-      {
-       "name": "aktien.news",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzhWbnZTaktIYkVfczVtS3pFQm1iM1hFcllRczNYY1VhT1NVQ2czb3llZ3l6T3E2TUxSSUh2WkM0WklMNHctaFBrbGVZbnlIcGpEc0ZRZ0VSSGQ3MnRpckNUWEticHRlN1dUWWpqaTBjV3l2QTA4cHBGWk5IRDBFeW5EN1J3LUQ0V1dIWFBPRnVNNGM?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Anthropics IPO: Gemischtes Fazit trotz Rekord-Börsengangs",
-     "summary": "Berichtet von SWR, FAZ, tagesschau.de, ZDFheute.",
-     "time": "2026-11-20T19:17:00+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "SWR",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDRCbTBZN1VvQmpFUnFyMHl3WVk3WEpCSUczd2dZalNiX1oxS2oyOEtQSjB0b1FOOVZvLUozazJmdTZ2Mkt3MXRZSDEzZnROOW1SRlJ6TkhCTWp4YWRqRXVPdHNXaUVFWHhwb3l1VWE3RERNMnA5Wkd0Uk9LVzIwWlU5eHQ?oc=5"
-      },
-      {
-       "name": "FAZ",
-       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjNyV0RBM0ZnbE9kNHNheEx1ZWswcnQ3WlRwLVpVVnFEbDNab1dfZ3NOb3JVSzdFYWszWC1ESDR4cXljMVBNeERSWjNjR3lxV1p2V2ROTG85V3Q5R1BBaG1QUzNFVWtxV0N1Sk45cnl1X2JVREgwNVlRSlJzWjg1QUtVZU1iZ081ZFpQTkhXS0ZvZ0dicjBfSndadGxfMmVHUkpDc1N6bkhacmZEcUNoRzhXUWc3MEhSWVJ5OQ?oc=5"
-      },
-      {
-       "name": "tagesschau.de",
-       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mcVB6S2VIbDRyXzFJMWZfUWFEMFVOa0VNQTFGLWFYdkZjQXpZLTlwUUFhVy1BV1pfTi1RaGpoVUMxaldNYUd4eVZReDBySFlxUy14SWFYbTMtdGw5ZWZr?oc=5"
-      },
-      {
-       "name": "ZDFheute",
-       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWZ0SDRGd3FVeG5fMmxPakZod2VXaFl6cmlwOFJYekRDazRTdXpSb19QSnE2U2tHc0VKZ0NvR3BvRkJSa3d4d0tacnZmUWl3bEN0cWJhWnI4REEzYlJTUkxuQ3ltYzVFbkRCYVlUU254a21IYXhNR1Q2czVaSzE4Mw?oc=5"
-      },
-      {
-       "name": "Euronews.com",
-       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYUhZTkd0MFBZaDU4NkFaeGR1RGs2eWloQWI0YUVIU2h0dUV1OVNEWEFYaHlaX0NTN2NTRVctSHAtLWl5RXRoYUlmdDdBRnJRRlFTLWVlaDFucFVveTZZbWNpVWJsTUhLLUR3YnZvZEV4cU5vR1FKdTVKRXdfendncjhkVUdmU2NQNEl3S0FEeVlFaXExNmc2YjRydzVGREN6Zk9rS2hlS2wwUzJiY1Y4NkVIdXBwcHJjbzdpMQ?oc=5"
-      },
-      {
-       "name": "Capital.de",
-       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU3FScTQ5SS0tTjRsNk02cFJERHJCU2VpM2ZBdHI4NG8xMnh5S3g5Yjc5a20zSGNvQVBDSFpIcTR2c0poVXhnZDU0bkVjWk50c0VmaDltUlRfbjA4ZFR0T096azNfYUVqbi1iUWVrVWdBRDhqdHZRLVJ1S01ncmROdWVieURpdkU1cmpnM1hlMzBzOURfczctdXJCOGVSQy1pZFEwdEVwdXZ6MUVNWTNITDF1X0xjbGtGN0lGWGlEU2IyQUtW?oc=5"
-      },
-      {
-       "name": "Deutschlandfunk",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORHZiV1oyaUYyalBNN2ItOEpFV1hyUWljeFhyRVF1VktxemNUcW4xbEY0emt1N3VqNjRFN2gtY3dWV0dBa3RnOXhMeEM4UXZNdHB0OWRaNEFpV0FXWGdXa3NxbHlhUl9UN010dHBnZFdQMXNQWHY5Y3Q5a254d18wNnhldUhXcnQ3SGhzajdjVW5ZNnNRY0JmNUljdDg3Ml9LUWVqMnRoX19MVVVoOGRETw?oc=5"
-      },
-      {
-       "name": "XTB.com",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlBXaV84ZlhnT0lxbTNuTDd6M3ZBWkFoQXY4blFqNlNLUDhPMDRJN1FubFBBSGZtOEkzeGZPeVl4b3hMQ0d2WlZkdnJ5M18wUjlQeXZRM0FrcGNyYk9zVV9FSUItN3dCQk8wa0RyWENXSDRyWkg0YjhNNy1XOTFNUHVnalpESlZ4SnJ5TUtsbzRxLUVXT01RNEFJVWJBdHZtYzY4R0lYcWJGemlUX2M3elJuNkNubk0?oc=5"
-      },
-      {
-       "name": "Frankfurter Rundschau",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbUkzZ3c0dU9QRnhXSjB6RHNjQTNvZDhEM0sxNmg3WnZhVUNWYVVSQjNaR09xOTBwVkRaMXV1UEJ6RTVwX0V2UWNhbWVmYUVCSng3eElrNlplMHJHekpFZUcwNlc0cUVHQ2JmcE5YYjlqRmJTdVJmRXZsQndCQ3RFQVY1Z2hxRDg4SzZFVkxjb2xtelgwRm5yMlNrYTZ6aUxzaGpXY2tORmZUZnFreFE?oc=5"
-      },
-      {
-       "name": "BörsenNEWS.de",
-       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUN3cDlrMUd2SmZVQXU1V0RaaDBRRFZvWFQ5S1BrN1JKSmVWcE9LeWlBejFJRFVMLW5kdS1aMWNMc181OUtoVHoxMlNFSjl6RklvemdSc2JlMTF3V2J2WjhJN3N2QW9fbVRBbkhkRDVWRWp0SkJ5TUk0UkhqdzJsTXM3Ykt0QUl5akdubWNCVUlVQUtRbnp3N25OXzY2bVUyY21IbWF1V19FeFl4djV3V0Y5akZiMGJKRldEVHRzZTFMQjNvaVdTMmNkUWZSUlN1SlNtX3VPNlUxN1lGMUd4bW5IcTg?oc=5"
-      },
-      {
-       "name": "BILD",
-       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTGpDTmhLcXEweW1iRTFmSHdXVzBKUlJhalF3eDNIUnAtMElkcl9DVWktcFd2NXNvdXZLUzRxN0ZiUVJBcE5pSmkweGplWEVvYzlsVzNPX21jYlFIT19VWmIyMnhlNDhCdVFoNjJKZ2FYTzhlNU14cVFrVTNGQVZoQnZvekRzNHoweTFiVlBTWGNkNnpOTDUyMW9rQTlybE0yR3NieWw3QnVOZGNzVGhna3RfaUNfY1dsU1RqRU15VExMZmV6Zk1Vck44YkRENDBqT3FVcVNYZjR3eGNhVk9oX3UxVTQ?oc=5"
-      },
-      {
-       "name": "heise online",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3kwelpxaDRSZEJRTy1ldi1oMWlYYTF1WVJzTGtrSmZvY0VONWhQUHYtcVEzbklnMGpEalk1UEttNTVtdExtbnhCNU1lbXE2WnJPZnRITWhhQkJKcGRGZkhuejhnTVBsYkFrYTlSRWZfODd1TFdicmNvS2I4bGU0QWFwTkhhb3RTeERCRWpSQ0VsRUI0S3k0WjhYaUNHQQ?oc=5"
-      },
-      {
-       "name": "DIE ZEIT",
-       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUHJCV0RoTk5wTDl0MHpHaFJMREZuYVlwMW1MMUZsaHNRXzZXbE5NeHRWUllsYzhtRlhGckt3SXFFMWxlRldKTHJTLXNNRDRLWEtrdFFnM3M5OC1XZWhyalZHek94OEdnQXhnTlRBUXcyWGlTUjdlOXI2b04wVFprSm42MmhEWlM0Qk4ySHdqa29SNHNWRVpHVlJYMUQzM1BFeFBlSlVNNHZQSXRhSW5GU1FhOHJBbXJS?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "KI-Pessimismus an den Märkten: Platzen die Hoffnungen rund um den Anthropic-Börsengang?",
-     "summary": "Meldung von Neue Zürcher Zeitung.",
-     "time": "2026-11-20T17:57:14+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Neue Zürcher Zeitung",
-       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWUhRVXBzWDgzeVZDMGVVNjZVOUZQYjZFUG5RM1p2NlcxenVyS1dxZXVjYU9sWWpsVWhaUEhTbllTblRSXzhMZWpzU0hyblFKTW1CQmFCYVB5OXlyUnZIOTN2OUVBMjl5R3RHY1JpZGlDejJRdk1xdERqVG00N2V0WUdHZHo2OGx6VkJWd09DWlpWc3pQd3AwLU93NGNGV1MxbHNoTThPX1MzN3VSamhQSW5ja0ZxSnZuY3haRGJQVmdZTGhTTHZ0N3h0SFY2QlVnY3lGRVNIdnlodHJFOS1Da185Qk5Tc1NzSjhHNA?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Trotz Rekord-IPO: Anthropic kann KI-Abwärtsstrudel nicht aufhalten",
-     "summary": "Meldung von n-tv.de.",
-     "time": "2026-11-20T13:36:51+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaEhUdDRDb1BHLXFSTHctNjJaMk1nNjQ2Z0hmQy1kc0JqSDJmb05VV1UycjFrdmNPcEJDeS1Da1hkWUt4eEFEYzRMc1AzNERhTWl3VzFLQzdBZXozSERrZFNMRWlXdHVRRGZGaFZvTWdlY3NNNkZROGdvSGp4N25YS2xZYlRJMGdBdEdSeGRsdU0zb0dSbU9FNVVlWDk?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "„In der Gesamtgemengelage leidet Anthropic trotz Börsengang erstmal mit“",
-     "summary": "Meldung von WELT.",
-     "time": "2026-11-20T13:16:26+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEZiaV9ub1U1N2l6SmFVS2pmOG1obGJFSVBCS1lac3BEaVpjc0YtSUw2T1NJb3ZGTFpXZk02VUlnczl4ZG5HY3J1aXd3bTdIQ0ZBMGd4LXlzWHhaNTkyNjBZM20ta2NuQnVtWWI2czctVHNzeHh4N0lKeE5xWlhVYTc3X1l6TF8wNnFORkw3S0UtbFY4MkgyMHVzLVBUTGRIekZhNEVOUnBJNUlSa0V0MERqUFBhUjFXeldvdG03ZHF1d3Z0OUZCa3JNVEsyeGVCX0xFQ3pEbHRzcHdyVlZFVVVR?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Anthropic-Börsengang an der Wall Street: Promi-Investoren kassieren Millionen",
-     "summary": "Meldung von Euronews.com.",
-     "time": "2026-11-20T13:02:06+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Euronews.com",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFkyZnBIVzFFWFJWR0NfTGtwV1U3d1Bwd0FDeEV1ek5DN0RkT2FIeENockdWZC15emFKMFUyYXo0Q3F2YVdBWF8ycnVOWFlxcTRocS13VWJGdThQejh5WmFtQ0VnRElOVVlTYWRQNmk2aUZYRjFfbVNDV3J2Q3VPMFlXeFMwTk8tUzU2VUJuOXBreXNpcmF3Ukt0T29OSVhLdTdZZjQ2bTQwZlcwX2tZcw?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Was der Milliarden-IPO von Anthropic für Österreichs Startups bedeutet",
-     "summary": "Meldung von brutkasten.",
-     "time": "2026-11-20T11:38:17+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "brutkasten",
-       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLW9mdEFUVUt6aU9OZlI0UW12SlVLTGJzQng0elNRNWJjdklfd1gwRGFydEpYSkJoMC05ajktY2s2NzA5Q0FBUjR2a3U2TlhPSGkzQWcyRkxDUmVwN0dsZmhpWXJhTTF1RnQxMXpiZGw4ODVmX2t3QVJnbmZQU0VSM0dLTlNMaW1hMFRXVWZrR0l1c3RRLUkwVlRkUkNUYVQtd21kQTRn?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "AKTIEN IM FOKUS 2: Kursrutsch bei KI-Werten geht nach Anthropic-IPO weiter",
-     "summary": "Meldung von boerse.de.",
-     "time": "2026-11-20T11:22:24+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "boerse.de",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbGhGZjNOV1BmU2NuU25hVldvR3dpVWJSTURKdVFmcFpYRmdHVFJJbDU4Y3J2eTFMTktkVFM3Mm9JWjJxMGRvTHRxeEhLMXI0RlRoeXl5ckZRLTdKalNjNzNXeG0wSXF2RndIZU05TXhJMFB5RWMzeHN6a0dmZWRHVk9DVHlvNWY5bzNJdmd3OWs0SWhzakJpbV9keU9DWHl2S1ZwZHNFQjRsUWdrRGQwdDNTbmp3cU3SAbwBQVVfeXFMTUpKZVdvVGlzTW9ZUDcxMmMxcWhleHh6dFRadUNFcmJOM2hxUVplVDZ4cmtIRFR4akVWNzRhZWtDVW9sMy1mcWdnZTI5clI3bEc3eHNTYmJLM3hKRldUVjlHRWJSVVRWQU1mWWZoaEJYeXMzak1iVjVRUDV0RTV3eE5kWWhycU5sb0JKY0ZfVHNFWWYwc29CWnY2SmtfVk9VSTdxV3FxNzd5OWhMd015Zk8xTTJsOWFuRW1Ba3A?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Anthropic IPO: Der KI-Gigant startet an der Börse – doch der erste Tag warnt Anleger",
-     "summary": "Berichtet von wallstreetONLINE, Finanzen.net, Der Aktionär, RND.de.",
-     "time": "2026-11-20T10:28:56+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "wallstreetONLINE",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaTRfZlQ0Z3JfWjcxOGJvdzFBRmV4SEFfVG5SRWZpLVcxRUFjTC1wSUZfc0RzTmYyMXRlMm5DSWpOa2JzWFIyMWtGbGlja3drOThRMzFTWjFxSm1HV1JwTG41NVFFdUszNG9XaDJaZXdLZkdQUkJaYTl1SURMMms1alBVeTlWak1NNFZ6MFdid2w0dw?oc=5"
-      },
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQclB2dlZZcER1RmQ1SmVZVG12ekhIbXZUbjVmaEhZQzhGeGFnODdueVlYN2NQbTZoVHpJU1VQbHJLNHVjTTdmdkhSTE9CMmFxRFhKQVZZQ1BfSC1nbk1tTUFNbmgweGRLOVdXZG9SMWxJd3JjZm5WYWRVN21lX2hGVzJRVFQydXczZlozQ2d2WmJtMkhEaUJ0WnlNempMNUg0UTd3YlpTN3laMGhnZS1CbTBQcjB5U1ZwUGdQalNUQnVncURsNlIzb3NkamhrN2Nj?oc=5"
-      },
-      {
-       "name": "Der Aktionär",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmJYRmRfck9Cb0RZdGF4MWRCMkE5Q3oxc3V1eHhpWHB0RjBidlhScVQzVWhrWnBRWU9KLUpJUE02Y29rOUMxSmNTazhRSDRzQWpWZmozYWJ4TGFkLUxySVhTRnFEU1VmZWxIVFZWNDJPTDNpUDRqOEFNNXNLdFFFcW5hSnlkLXlJQnpXdGxsdDRYc2ExUGVV?oc=5"
-      },
-      {
-       "name": "RND.de",
-       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbTlPX1NGS1dZdGFRTkJoN01KX3hfZ2U1VlNkUHFyanlYZTdQMUpMX09CSklXLTd2dmdwTkRMdTJyakFiMGw1dzJINk51NC14OEVtalBRMDQtN1dWcmtGUjRkWHFXLWJIRUNTdTVkR0NjYTJvdTlvQU9uUURiTThvSmFLSjVrWk1RSTRxODZJWjFmLUhDZHJZbnlSRlkxa3FiaWc0dHJzMDNEbDBBRHR6R002UDhMcl8yUzdZdEFRd2M?oc=5"
-      },
-      {
-       "name": "boerse.de",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnRxRklpVC1CVHJuUVlrRUZ4bHlwejJEVGZTR3dmeENXZEh4YjdxcDhMVmFrbk5qS0V4UmRlYlVvWjNqV0I2YWRzQ2N4MmVuMGZHNVNaTEV6WlhJem1Da1Bia2FpdDV0S1g4MzVLQ2x5ajZEclpoRVZFbDR6OFlOZ3hiZ1BodWdZT1JGMlVZZThMZWd0M0RCMU1fdTlONHVYWUVDQtIBqgFBVV95cUxPWjJER2otVE5fMW5lbHpaaUF5d3puUUNfZW0xaGoyMVVjTVBrdzFTeFB6c3pwV1lPWTN2OTdMdjhERzNDTm00VXkyY04yYmpDWFdYb0N5QlVNYkhjLXF2Q2gtNXp5c2s0S25TZHV6OXZvSEZxQXVLVGZiQ3RtQUJLVFdtYXhkV18xa29McFJwTFlPRWY4TlB2VFA3Qk9tcjJPNkVMY0FReVNodw?oc=5"
-      },
-      {
-       "name": "T-Online",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYVBiTWxlR2hIRE9SUG1zU053d0ZpVENVLVgzd0llaUVod0V2U3Fxa0l0bjJDNWZlaEN5TGlHZExYOHZmVlNlYnI0QXlGLWctNW9CV3UyeFNNbnpESVVvWjRkMUl6TnNTTDJ6aFZfWDd2bm9UR2o2TXdQWnczeTljaWlWamVHbHZYSzdMQmlzVVE5Z2dQYm0xcWxXR1NqSE4tSFBPWVpLWEh3X0ZWdU9fUmQzZWwwdTRPRkU4TEJRaXZPUQ?oc=5"
-      },
-      {
-       "name": "DIE ZEIT",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1hCenBpNWRQVVVUWG1vYlhVZDMzTzVPUWZTTHlhMy1ZV2R4clFFZGN1ZGZ0Y0ZidEhUV2ZKUERLb21oTW1Fc2doTUh6bTFDdk1ZTWFjalRwaTBNM1ZRRmprcjMyMklKYW15SlVwWTkxV0ZuNW90VFZscXRQSFZEYmRhZXp2RUV6clRVQmhHaHFvdw?oc=5"
-      },
-      {
-       "name": "Deutschlandfunk",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWdJRmRDR3lsaU1lZnJGMS1EcXplblc2RUNZczhxSDdZdFVWMHYxRm4xSVpqcXhJWTFKQ2RDZjFYLVlQZE9fUXpBWkhLUmZ5TUd3YjNPMHZMVmJ3YUs1SDFTaUtyYzcyZEFtOWpHUjFSMTEzblBBQko1QkZhRmpMMllvbG5vSVpxNkJEamE0SDdxNFhpdEVNUWI0QQ?oc=5"
-      },
-      {
-       "name": "WirtschaftsWoche",
-       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNREU3a0pFTXBKd1puQkNfdWpHbzE5aWpjc0d6VjdCdlB5RnRjWkRlM293bVdwVHNMMXhfR3VsZ196andtNmlxLUVIc2FkWXQwZ1pEZ2ZkcVFiOXVKWVdSRlVpNGVNUjJCVVpuU2g5ejk2SEpNdUVsRVVXY0tyYVdFU0QyRlVKXzhDcFprOU1RNVBGWHRJNy1RdWZuOTBEb1hNaFJKTVk2RTlyYXpScFBfdXRtZFp2UVFNOTdoWmVVSEFtazNzR3VZMDZzMnROY0dnU1NFNEUyQQ?oc=5"
-      },
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWW5IQUNxaldNVjI2bzNrYTBJZkdxNXBPM2VhYm83MnlKM0doUFZEcktiVEd5alI4VndRN1FBTkE0VlZsdkNGNFg0YjJVMHdIWGkxRy15VURUUkFvb0JhYmFNUi12ZU9sODNPYXgxVUpFSEZKN2RTVGpkbm9CWlVWcW05dlQ3U1pldDVoN1lhSVFJRU85d0xuUVg3Q0RKZXpRZ3c5dFZ4a2hQUTBqNzVCYldmQ054cEtqaEY1alROS3pIeVFLd05uTEpUXzdoOFZtWGU0WHIzQU1xMXVFdHhnWQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Trotz Anthropic-IPO: Tech-Aktien weltweit im Sinkflug",
-     "summary": "Meldung von Trending Topics.",
-     "time": "2026-11-20T08:40:51+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Trending Topics",
-       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50ZVlkdS1hd3Rhdl9Qc1BubEd2VDBBdkVjZVVzY1hHYmlPYTNRUnJ1Zlh4RWlTaXlCMG5rc28wb2hnV3AzV0VyQ2NodEJ2M3dBTWEtY2xzYUdnY3FqZ242UUF4NjMzdmxCRUlRNTZQT0h1UQ?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Nach Anthropic-IPO: Bitcoin fällt auf Vier-Monats-Tief bei 61.000 Dollar",
-     "summary": "Meldung von Trending Topics.",
-     "time": "2026-11-20T08:36:58+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Trending Topics",
-       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWm9aWGUtUHNDWmdHSTRaeUxXQUgyaDlQTkpPb2ZPWlptdTRUblJSQmFVRnduZEFvSGNocGk2aHRFaEdpRFdMaU8zYVdmRmhfdTFjV3RsMVRSVUZGNTRoTTc0WW12LWtfcW5RVkJwaTRxQmk2VVF3dkFsd09vejNGOUxYX1l0TjVZMlE?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    }
-   ],
+   "items": [],
    "more": [
     {
      "name": "Renaissance Capital IPO Center",
@@ -823,176 +238,7 @@
    "title": "Störungen",
    "icon": "warning",
    "tint": "red",
-   "items": [
-    {
-     "title": "Outlook und Co.: So führt KI zu grossen Ausfällen",
-     "summary": "Meldung von Nau.",
-     "time": "2026-11-21T03:10:04+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Nau",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2hUMEgzX3lpNm53dW5QX2xDRElrM3FjOWhsVVZaRDJXUnhLVTJHMmtUTlVZNjlmcGE3Z2FKcHkyZmVtLXB3T3lfbS05ckEyR1VQQ3Q0dEZIeVRCWkNNODROZU90Y0NkUkZyQU9yNWt0djIzbUpzRktOOXByOHBvUktLazJCUTVjbDdiUkNtSXRCdw?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Outlook für Windows: Microsoft bestätigt Fehler beim Versand von Anhängen",
-     "summary": "Meldung von ad-hoc-news.de.",
-     "time": "2026-11-20T23:52:55+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX2VLQ2hYcDFuQTd3RElmUDc3azRZYkViQTN2dnl4U1VOWDZudXc1ZlhQTEVKemU3eWdxZnlDd01xVHpDTmR0V09fb3lyYnJMS1ViM01qQzJBdHZMckdQQTRLUXNmSld5WC1TMlQ4c19vTGlpZ1dBNEhNR1RRNnhlQ1lRRnFNR0kwRjlZZ0VoS1JfeVFYaURVa29GamVyWDZNRDN3RTNyMjNfbUhETllMZTJLSmJKSDdYZ2J1MFRwbUJXQQ?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Während Microsoft-Ausfall: Hacker-Angriff auf Ministerium",
-     "summary": "Meldung von oe24.",
-     "time": "2026-11-20T17:41:42+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "oe24",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT1A0V3dkQWxkMjNGLWZ3NExsc3lOV2IwMldaQmJUdFhLQl9CU0JjZTllUXBlMzVZOVZNbzV4aDlidTFwZVV3X09oZWlfZXFoS3cydVNfcm1KcnlMbnVOT0xqaGpVeHRSbWpMeWx2dUpFWG4tRmxjNm5uT2dhN05raGhadHZReGUzV2wtVkc5MkExV03SAZgBQVVfeXFMT0o3RGlGNHFMZXM3MmVNb1EzQ1FqTlNIeTJCR2pGRHljd21oWUNaTWhuaDh5dnRDOFF4MExLUmxPaFNWRHdDME04Q0t0ajBwS0tVWElucHh3T3VrUVFLcmR5ZHBEcmR4YWh2anBFSGVUZXFDSjJRMG5KNmFnTjZNdElOb0dvTjVfVUh6LV9xbHpYS2pYZzdVTG8?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Microsoft-365-Ausfall: Verwaltungen in 70 Ländern fast 24 Stunden betroffen",
-     "summary": "Meldung von BornCity.",
-     "time": "2026-11-20T17:12:06+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "BornCity",
-       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObDBibld2VU82V1N5dkNxOVlvcTF0bUs3emVhR01URnh0dDY1MWwtWUMyZndhcG0xVkpaYlN1YWVGYnRUWjVaVGtlVm1lanBRb1k2eDBaY0lrVFlCcWdIMGZuNlY2NzVtRUVqODZpVGdSQld0djBDcFpXMjBINzVUQUhhOTMxOG44cWJxVEJTc3VXX3hCUDJUS3hnOU5IX2tHTHdJR1dR?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Outlook-Störung bei T-Online: IMAP- und POP3-Ausfall dauert über 30 Stunden",
-     "summary": "Meldung von BornCity.",
-     "time": "2026-11-20T15:22:05+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "BornCity",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdEQ1NlFjRDl3T2ZGWU5JWlJQN3pxWU9SRHVKN01NekJoR2swTUROemZWVXptS2c2TGNIQW52ckUxUkpVUklWRndDZjJJamNUSWJCYjBUSkdpUUc0U25PcElyLUtUbHdla1owVWszT3pOTTktS3dnOW9YMTBfcHpCWWhneHhhdnJJaWczbHZmVkl5SVR6d0h1T1hlUF9jZ0JvbU95ZA?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Microsoft-365-Ausfall: Wenn digitale Abhängigkeit zum Risiko wird",
-     "summary": "Meldung von Security-Insider.",
-     "time": "2026-11-20T15:00:00+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Security-Insider",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOHlQREdSQmRDc2VjQlZZSHotamVjal9ZQ0VHQ3BjVENTOGZHUDhaanVNSjMycmx3YlEzZUx5QVhqQ3pIa2ZtTmRxcjV4MHJsOHRCWEVvRHg4Mjdsejl0Y19EUTJWTmctdUo1YnRlZ21rVDF4QzBrQkRvR3gtaEZmNXFxejNCUkNMcGRUaFhBOEJabTZWTjRmS2xMMTM5azFJdHFWYUdsUnpwUTk4UnhlSmZHcXBSZmNTUzVkeUVZSlJFZm43Qmc?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Homeoffice nicht möglich: Nagetiere sorgen für Internet-Ausfall in Kempen",
-     "summary": "Meldung von RP Online.",
-     "time": "2026-11-20T15:00:00+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "RP Online",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNGxES055cUIyRWg5dzlYaDlWb2hPS01Zek9wMmQ3WE5RWWYySTdVRGpyMXV6VzZXMmlZaEtQNDdmVFR0WE16YU4tYjhodm1DTXNaRm9JbnNNNm1VZGh0aXEyVFBwcUtpanZQOGVISEE5dmh0ZEJHNDg5dXhXQ25Kc2VBR25ncWQ0OEhsb24zTk5Ydk1LRkVKR0ZVazJiNmJPTkZ1eXk0Szk5cFhwU3hxQzlSQzRqSDBNbXRCQXdYeDYxZEpEOWVV?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Nach den schweren Netzwerk-Ausfällen in den USA herrscht Paranoia – das steckt dahinter",
-     "summary": "Meldung von Watson.",
-     "time": "2026-11-20T13:34:02+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Watson",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWGFzX2QwQS0xeEhKMS03bmt3bmtxSkVXQjlIakQwMENkcDF3UUpiQ0FMZDNpenl6VTAwYXdUS213ZkxiOVEwQzItTzFFWWpheG9yQ3l4RWtOZ01LZTNtakZBY1pIb3YxWk5kR2FtT1pFQkh4N2h1amd1RHphb3VEWTZMQWJ6SFpzLWpmc0pPR2RrSjNjbVR0RlBzcVZVMnA5SW5UaWlYOTd5TG1DRFZQTg?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Globale Großstörung: Strafbarkeitsrisiko durch IT-Ausfall",
-     "summary": "Meldung von Legal Tribune Online.",
-     "time": "2026-11-20T11:25:00+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Legal Tribune Online",
-       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaHZrb1JLOVlVeVliOVphSnRreWZUcWpDZWgzdDkwclJHaDBjdS1MNU43RTRfTlg4dnNiclBxRWVVd0VXRUFTelNGM25hVGJRT21GQWNpRU0wNjZWMy1hZVQ5dVlqUUNqaktJVjMtdjduVnhwVUE0TDAxVWp3b0NtZTJwdGxscXM1ZDZZczBqdVJyZ3hrVEE?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Outlook-Phishing: Gefälschte Microsoft-Mails drohen mit Kontolöschung in 24 Stunden",
-     "summary": "Meldung von ad-hoc-news.de.",
-     "time": "2026-11-20T10:32:27+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSnFkNGFhSnJqSm0zZ0VhSk1VbGthMXJzLTBGd2gzVC1vY1h5bnJ6cEE3UDVHMDRBd2VIazF0Uk1HbU9zV3VtYk9UZjdCSV9Ld2VCQk9Qb0RnV3k2Vm9JOS1LdW04ZU10X2JaUHlDaGdxMkJFMHlETXpsZlNsRWhBLWVSQnR1LS04MHlUVTRTNjFSY2g5eWVNRFlMQTI0Q1NRY2lxRWw1RHVFYkd1S2tUbEhFMlB2THFLd1F2cktjb3BFaUV4YXVITzJ2RXZOUQ?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "DNS:NET-Störung: Kunden melden Probleme mit dem Internet",
-     "summary": "Meldung von Teltarif.",
-     "time": "2026-11-20T08:54:00+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Teltarif",
-       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGS196WWFyeWZXeEJkUUk5WDlSVHpXWGdqMFBqRUI4UU9HT1Fyb0dON2g0V2hVTHFhT0x2VEZmaU5Vc19FRnNBZjYyQnlwdGtEOTFGMl9CNnFYaFV2NHltb1lVR0htVWE5T2EwdUo5V0t1MU15MmZSSGln?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Outlook weiter gestört: Microsoft kommt nicht zur Ruhe",
-     "summary": "Meldung von Teltarif.",
-     "time": "2026-11-20T08:43:00+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Teltarif",
-       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPQWp5QVpWSmtjWGJmdFJTdW1MR1FHZTFsSmJEdEhfT0c2cEdLMVhSOTBvQWxhUlUwbXA0TGxsRWNrQ1VWak40Zl9NU1laNHRGeGdrSTZYc3RSYjd6RnRHdE9pS29HU2ZxS2lhbjc2bWZoUQ?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    }
-   ],
+   "items": [],
    "more": [
     {
      "name": "Downdetector Deutschland",
@@ -1011,153 +257,178 @@
    "tint": "purple",
    "items": [
     {
-     "title": "Anthropic und Co: Trump droht KI-Konzernen, wenn sie Rechenzentren im Ausland bauen",
-     "summary": "Berichtet von DIE ZEIT, n-tv.de, Manager Magazin.",
-     "time": "2026-11-21T09:38:00+01:00",
+     "title": "Anthropics IPO: Gemischtes Fazit trotz Rekord-Börsengangs",
+     "summary": "Der Börsengang von Anthropic war historisch, doch der Aktienkurs sank direkt nach Handelsbeginn. Analysten wagen kaum eine Prognose, wie es weiter geht.",
+     "time": "2026-11-20T19:17:00+01:00",
      "importance": "high",
      "sources": [
       {
-       "name": "DIE ZEIT",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0xLb1ZQNlJvT1hoV0tzbldmV1ZIa1dRU1ZSaksybkdxNk1jUmNxSzd3N19XV3VyTmxZM3JvMGRLUmllVTFBVzNPWUlwNkp2d1V1YnV2SnNVcnJ0S0JJcXNZbDY0NGtOYmxyTDV2ZXp1SjdKeDlqdmtjY3Z5VGNPSTl3M3RoTS1qNUlHYjhSeDhsUQ?oc=5"
-      },
-      {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHFXcnFkb3JPRjhUYXJnNUFCMkNjSVZERDMyTl9vYXVaelZGU2Q3RGVJYkVzUElkZU1hNmFNcVFlcF9qUFFiUnl6V21wOHlacmJYaEYwSm00LW9XVjA2U2JNVFNRb3hWbXFoaFBjeWZCY3Z3bWdOT0FsaENyeE9SLUVOOFVPZlo1M1BrM0hSdjdoc3RKVTloZW9WZ21WdEIzeHU1cGlBRmQ3S3NQLWE0?oc=5"
-      },
-      {
-       "name": "Manager Magazin",
-       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTVgtLXhOZkZhcHJFcnhtYzk5UW04VWprTjNva0R1QmI0eFBaTk5jX1FtNFJZWnYtZ1J4eVFMd3lsN3A2T09rWHpJU0xlTXViZnNvR185b3V5Z1I4Tk5GdFBKOUtoMXZmdDhGSXhwSUxLS0w3dXR6LWYwdTZtSC1mZ2VWY0NTMFNYS0FtT19KN0lyS0xBeDJ0Z0d0QnhIZkstWXVEX1M3eHhUcGRUM3ZHVVhWSEhWNnVobFdxUE52US1RbFFaZkQ2X1U1WEZMdUpIYmtObU9nYkg1TzBWaGpjdm9Ua3luc0JzQ1p5WV9odnJ2WU9PSkRUdzRmcVBNazByT2h5UA?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Intuit verkauft Mailchimp, Anthropic-IPO schürt Volatilität im Tech-Sektor",
-     "summary": "Meldung von aktien.news.",
-     "time": "2026-11-21T07:48:08+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "aktien.news",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSXF0S05hSGJrV3FXc3JTV212OHMzWmplamRMcUlRZnZZMEpPUUFPdDk2SWtiZEE4d0hKblJWOEFuT3NCMkxWQlY5VlV4U0NaeldxM1BReWl4el9fZlFITTVtTmpIbjIyRmZseExLNkkxSzR2d296aGxUS0hpTEVMOVVPRjFOT1o3N1hZbEVUMU02aW5lTVN0NXRjQnp6dw?oc=5"
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Anthropics-IPO-Gemischtes-Fazit-trotz-Rekord-Boersengangs-11528169.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       }
      ],
      "verified": false,
      "singleSource": true
     },
     {
-     "title": "tagesschau24 - KI-Boom in China - hier anschauen",
-     "summary": "Berichtet von tagesschau.de, ARD Mediathek.",
-     "time": "2026-11-21T09:35:04+01:00",
+     "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+     "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+     "time": "2026-11-20T01:43:50+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Anthropic’s IPO could deliver $156B to charity",
+     "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+     "time": "2026-11-19T20:10:45+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+     "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze…",
+     "time": "2026-11-20T13:30:47+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "tagesschau.de",
-       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sMlBzZlBtUF93SlpXdWlCTzE5emFFWkFuNVItUTZBME1ILTlFb1pBNFhXZzZ1aGkya3RtUmtQbXlzM3FwSnlVZm5IMWFPVHFpdUdUT2g5NGJVX0k5alZ3?oc=5"
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
       },
       {
-       "name": "ARD Mediathek",
-       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcFF0LTNEMDJUVmg4YzRTazdNX19pMURKRW4zVFhTanRqdzFXTXA2eEVZWVp4Q0JrOHdtWXQ1X2hpRldFTkJBLUJ3RjgydVN1RU5mRXFFMkloWlJwclFNUWdTa3YyQjBjT0JVTWZ2NkJHREtxOWxmQ01IN2FTNDdWc2RtQ0xrYnlEWUxueEtZMDVudkc4YXE1dlNBTERiZXJOZHZXRHkwQ3h0emQ0RGJGOHJHX3F2UWlpUm50QldKRWNrZm9ZeEZkdmpTQkx6X1FEcFBrcFp4Vm0yUlhJQWNlWVFtTEZKLUQt?oc=5"
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
       }
      ],
      "verified": true
     },
     {
-     "title": "SpaceX-Aktie -7,7%: 44 Milliarden US$ für KI-Chips - wird das zu teuer?",
-     "summary": "Berichtet von sharedeals.de, FinanzNachrichten.de.",
-     "time": "2026-11-21T08:10:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "sharedeals.de",
-       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZjY4amd1Uzlpb1RPR1JWT2NHMFhIXzBsUXNVdmJXVmhqYVIwTXRINTN2NkdUSUJHcV9RbnFOT0xRNzJURVprTlMtbTh5Ym8wWG5mYXVaYk5TcmtRNTYteWVLTi1LcWNMUU9Dd1ZkVF9QZnhHY0RHTFVRRk82WVVsTVhYcXg5QzdMSHktampUS1piQUFfYnc?oc=5"
-      },
-      {
-       "name": "FinanzNachrichten.de",
-       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWmh6NUhJblhjUmJQZWRKdHB1U2I0c3JtN2o3cENyOENmQnVtS2JNRnpELTVXZGx6TFpQMWVLQlFJMkJqWmlMbHNYTmlxV19ZQ1I1cXF2a1VYSUhDQUR4Y2ZxczRCdzA2T21fOWZxTm1tUDhmQkNhdU4zQ3V1MWU1QXJ1VnpPRmFVc1M1TFZCYVF1emhKQ0Q1NkszWkN1Z2ZJVHNqRGQ0TU9ZZ19iRTRLdDRYQUprQmtMNnZnRnNiOGxKcC1fdl9MeF85SXRuNWN3cS1CZFpiajlxQQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Künstliche Intelligenz für mehr Barrierefreiheit: Das plant das ZDF",
-     "summary": "Berichtet von ARD Mediathek, Caschys Blog.",
-     "time": "2026-11-21T06:30:42+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "ARD Mediathek",
-       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51R0dGenh6NVdHcEZzODRnb3MtbElJcGlZc0lwSUloSlRoaFdMQldCQmNDZmJ1THNHUmlhdWFEQmhhZldMZ0xyaW80eUxFUkdYOW95OHNpMlhTTUxCOXFTNTBMYVdQcklEZThLQVlfQ1ZKZw?oc=5"
-      },
-      {
-       "name": "Caschys Blog",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNEJkNkwtYmt1emh4WlJBQ2tTYlVvOVI5TDNEM1BlMVRicF9aQldNN093WVhUMkptbTRlSVVPTy1ucFdqOVI4ZzYtSXFsNzkwZlU5R3Bockl2eFNjYjRFVm1Jc2dDZFdEQVRPYXduLWJQMEdaekd6Nm95TWNhODFQQkdST0hGNmJ3UnVIOVI2YUl3RXdaNTVWb2c0Q2l4OE0?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Lenovo: Hat im KI-Ausverkauf Federn gelassen",
-     "summary": "Berichtet von Finanztrends, Börse Global.",
-     "time": "2026-11-21T05:58:24+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Finanztrends",
-       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFMxUmh3QU15d0dCeTRWOFA3aGV5UHZIN0J3Z1NHSHpsYWRjV1RrcDBXWGg2cmt0c1dod3IzTmdvY1ZMMmZZZTlrN3RfeHpXR29nQ2RKemlqM1pmNi1jUjFsWFB3eVBNX2JIazg0Sk9RRVlSbDEtSXR2dFoxRDMzVEFYb1RZYTA3RkE?oc=5"
-      },
-      {
-       "name": "Börse Global",
-       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMXZtYlFBLUpLaW1fOVZMNks3dWdFYldrcXdlbnNXUVZyRldBN3ZGQW1EN3FLVmpCOGctMFRoNEpnUlUycDRXWG1XZXI2dkFkdzk4OTV6d2g1em54ZjhfYUgwcFpfdTZ5NWpoVkNtWTZJdWthd1JFZVVRalYxbjJuRS1sRi12QQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Folgenreiche KI-Entwicklung Regeln für Killerroboter: Gespräche enden mit Minimalkonsens",
-     "summary": "Berichtet von Main-Post, Tagesspiegel.",
-     "time": "2026-11-21T05:49:36+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Main-Post",
-       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUERpeUpVQTgwbjY2UkwtcFpmdlJkRXJMalRhalZ5aUx2WlNlcWEyRnV3U0g0eDU4OEdMZ25qdFc2ZVVSdHlUbVVmWVQtT2MyeTFZeTVIbUQ1SFdBX0dUZXZJTURvejMzOVpzUjY4bFpoX21URERQN1l1bHdxNkctQWpBVFBueVBUSjJmZi1wNy1PdUFBY2tvd1JTZnpvYllYZnJqT1ktOEtablpCNlFWTjVBVXNsZG9pV1R2SEplcHBScmliRlRuOXZHRQ?oc=5"
-      },
-      {
-       "name": "Tagesspiegel",
-       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQnM0bFZ0X2cyMkJscERRVkxhM19SRkNPbkROQWotTXJhMm9NdTRUdHhGNUdKeHV4SVd2akZmX3pWazBHTlVkNTNtU29OZ3V4TGtWek5EYXNWUW00YkhZLVBSWEZEUDg5RmFOTWt4N0V5LVRLUWRMLVZhRTM4UFNoZVphMGNxODFFZWlYbHFfNUJpeFJNUlk5b1gwd2RYbkFuWVYwRHVLN3pSU0xKZEQxVUZ0UFdma3BFSG5Ec1c4SU9mejFfOGRQVnJEN1JMVDdibXJWM2F5THFsVUw5X1otLXdDYw?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-     "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best…",
-     "time": "2026-11-21T02:31:30+01:00",
+     "title": "Meta’s new Muse Charm device may cost $300",
+     "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+     "time": "2026-11-19T22:58:06+01:00",
      "importance": "medium",
      "sources": [
       {
        "name": "The Verge",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+       "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
       },
       {
-       "name": "FAZ",
-       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX0tzR2JFbjBERUpncEpsa094OE5GTDFlZ2FEVmlPNUg2MlZzTk9fdDBJY3lFc1J3S01VWnRjcEp6U0Q2RVo0UTMwRG1WLWZwdTVpakppT2xfaDVRLXJiQ2hoZ09mc0J2NG4wU1FfTWxrZjY3Q0R2YzMwdGktZU1uZzJNWjZpRFZYbEh1a3FqU2FCNmFCOVZlNFphYnh3eEt5eWVsSkxsVjZXQVdhNnVlZG00OTJNaXUxTnk3alNRNlkxOHZtUy1ZUWhUanN5TFZ3WkE?oc=5"
-      },
-      {
-       "name": "FOCUS online",
-       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1dKdTdsNFpCcHdDOVhyRmNTNkpVd3dVMnBFODR6aC0xNXc0OV9JWHktM3R2ZlRHWGlkU1JiUG5ITzFkLU5kb084NTd0ejJVcG1kemttU3NoWnIzYVhiMVVnVnJsYjJHQ2xfRHVydDhzTUl4SE5rZFg4NDZYbkNlY2NjTldmMF8xajF2bU5GT2EycEtvWWNiR0hsSEVRZUZ6U2RHNTgyTU1LMDJSLWM3QjJtbmJ1Xy1SV0pOeUxuZXc5ZElz?oc=5"
-      },
-      {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzdjanc0akZFemdmeWd0VlpfMkxlM1BrOEk1VU1KOGRyVXFUOUotY2pHRk5xQW9BWjdicGdBRk9YLXFONTk1aEJwV2IxeHV4SmtJMW81bmZzSkM2eWxIOGg2c2ZjWWdxWWp6MTNMMTl4bkUxZDZNdnpxZkRnWkhzU3hHMGRMX1pLd2RuOUpEMGxKQ1I3U19ZU21pMU9HZWozVEFjeTFtblJnVHhOTThN?oc=5"
-      },
-      {
-       "name": "DIE ZEIT",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmZzVnFBR2M5VlQ3eWp4Tk0yWmdZUlFXck9Rcy1SZ0lPYXEwNEtmRlRqaWdmanptanV5UXl5U19kdTYtQjRVbE5SYk05ZU5FU3hZaTJfVnk5NzRUZ1BLMVdLRy1malI4eEMxdkI5RGlpWUs0REFXbm5xaGE5cGRVNlFQRjU4UEFmaHZHTnQ2dEs1NEJYWjRDVTd1eERuVlRobS1z?oc=5"
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
       }
      ],
      "verified": true
+    },
+    {
+     "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+     "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+     "time": "2026-11-19T17:59:23+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+     "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+     "time": "2026-11-19T15:54:39+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben",
+     "summary": "Levent Alpöge will mit Claude die Riemannsche Vermutung bewiesen haben. Die Prüfung läuft, ein zweiter Ansatz ohne KI liegt vor.",
+     "time": "2026-11-21T10:09:00+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "KI-Kennzeichnung und National Geographic – die Fotonews der Woche 47/2026",
+     "summary": "Frankfurter Gericht stärkt Fotografen-Rechte bei KI-Bildern. National Geographic kürt Pictures of the Year. Und VSCO startet einen Desktop-Editor.",
+     "time": "2026-11-21T10:00:00+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/KI-Kennzeichnung-und-National-Geographic-die-Fotonews-der-Woche-47-2026-11532822.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+     "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+     "time": "2026-11-20T20:53:41+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+     "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+     "time": "2026-11-20T20:32:08+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+     "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going…",
+     "time": "2026-11-20T19:50:19+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     }
    ],
    "more": [
@@ -1178,252 +449,172 @@
    "tint": "blue",
    "items": [
     {
+     "title": "Klimaschutz: EU-Klimakommissar schließt Scheitern der UN-Klimakonferenz nicht aus",
+     "summary": "Ob die UN-Klimakonferenz mit einer Vereinbarung endet, ist der Europäischen Union zufolge nicht sicher. Die EU werde ihr »Äußerstes« geben, sagt der Klimakommissar.",
+     "time": "2026-11-21T10:52:08+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/2026-11/un-klimakonferenz-cop31-antalya-tuerkei-wopke-hoekstra-gxe"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Memoiren von Joe Biden: 480 Seiten und null Einsicht",
+     "summary": "Joe Biden hat seine Memoiren veröffentlicht. Sie zeugen nicht nur von der Verbitterung des ehemaligen US-Präsidenten. Sondern auch von Gefahren, die seiner Partei drohen.",
+     "time": "2026-11-21T10:38:16+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/ausland/2026-11/memoiren-joe-biden-us-demokraten-promise-me-america"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Liquiditätshilfen für Schweinehalter: \"Nur ein Tropfen auf den heißen Stein\"",
+     "summary": "Schweinehaltung in Deutschland ist ein Verlustgeschäft - Liquiditätshilfen in Höhe von 25 Millionen Euro sollen jetzt den Betrieben helfen. Doch das Notfallprogramm allein wird nicht ausreichen, warnen Landwirte und Opposition. Von T.…",
+     "time": "2026-11-21T09:26:38+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "tagesschau",
+       "url": "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Sabotageakte von Russland: Wo Russland Deutschland angreift",
+     "summary": "Mordpläne, Drohnen, Brandanschläge, Operation Doppelgänger und Storm-1516: Putins Regime eskaliert seine Aggression. Dies sind die bislang schwersten Fälle.",
+     "time": "2026-11-21T09:03:47+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/deutschland/2026-11/sabotageakte-russland-hybrider-krieg-desinformation-spionage"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "USA: Donald Trump schränkt Unternehmensauskünfte für US-Kongress ein",
+     "summary": "Unternehmen mit Regierungsaufträgen sollen künftig dem Präsidenten Bescheid sagen, bevor sie mit den Abgeordneten sprechen. Das verfügte Donald Trump.",
+     "time": "2026-11-21T08:12:10+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-dekret-bundesauftragnehmer-kongress-weissem-haus-gxe"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "News: Boris Pistorius patzt, Hilfen für die Ukraine, AfD auf Kurssuche, Donald Trump lobt Stephen Miller",
+     "summary": "Verteidigungsminister Boris Pistorius patzt. Ex-CDU-Chefin Annegret Kramp-Karrenbauer mahnt zur Solidarität mit der Ukraine. AfD-Landesverbände stimmen über Programm und Personal ab. Das ist die Lage am Samstagmorgen.",
+     "time": "2026-11-21T06:46:00+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "SPIEGEL",
+       "url": "https://www.spiegel.de/politik/deutschland/news-boris-pistorius-patzt-hilfen-fuer-die-ukraine-afd-auf-kurssuche-donald-trump-lobt-stephen-miller-a-cb84b583-511a-4850-9455-833a6e8d92a7#ref=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Autonome Waffen: Erste UN-Gespräche über autonome Waffen enden ohne gemeinsame Regeln",
+     "summary": "Es wird weitere Gespräche geben, auf mehr konnten sich die Staaten bei ihren Verhandlungen über autonome Waffen nicht einigen. Killerroboter sind weiter nicht verboten.",
+     "time": "2026-11-21T06:41:16+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/ausland/2026-11/autonome-waffen-un-regulierung-russland-usa-israel-gxe"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "AfD in Sachsen-Anhalt: Sachsen-Anhalt: Warum die AfD die Siegmund-Wahl vorziehen will",
+     "summary": "Im Dezember will die AfD in Sachsen-Anhalt Ulrich Siegmund zum Ministerpräsidenten wählen lassen. Aber mit welchen Stimmen? Und: Wie abhängig ist Europa von Elon Musk?",
+     "time": "2026-11-21T05:55:13+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/2026-11/afd-sachsen-anhalt-ulrich-siegmund-ministerpraesident-wahl-dezember"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Trumps Pressekonferenz: Und dann fragt Trump Stephen Miller, ob er Präsident werden wolle",
+     "summary": "Zur Pressekonferenz nach seiner Asienreise lässt sich der US-Präsident von seinen potenziellen Erben Vance und Rubio begleiten. Dabei macht er klar, wessen Meinung zählt.",
+     "time": "2026-11-21T05:21:14+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-pressekonferenz-jd-vance-marco-rubio"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "\"Gen Z regelt\": Jugendliche erneut zu Tausenden auf den Straßen",
+     "summary": "Zehntausende junge Menschen haben friedlich für die Anliegen ihrer Generation demonstriert. Nach dem Ende der \"Gen Z regelt\"-Demos gab es mancherorts zwar doch noch Krawalle, eine Eskalation wie an Halloween blieb aber aus.",
+     "time": "2026-11-21T03:38:36+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "tagesschau",
+       "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-114.html"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "Bundesregierung: Juso-Chef Türmer kritisiert Koalition wegen Stromsteuersenkung",
      "summary": "Philipp Türmer sieht in der Stromsteuersenkung eine »Entlastungsmaßnahme für den Kanzler«. Der Juso-Chef hätte lieber eine Verkürzung der gesetzlichen Arbeitszeit.",
-     "time": "2026-11-21T08:22:05+01:00",
-     "importance": "high",
+     "time": "2026-11-21T00:17:49+01:00",
+     "importance": "low",
      "sources": [
       {
        "name": "ZEIT ONLINE",
        "url": "https://www.zeit.de/politik/deutschland/2026-11/stromsteuersenkung-koalition-philipp-tuermer-cdu-privathaushalte"
-      },
-      {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWmRXSWZ3MGRYQ3AxcEE3c1g2em9MSDBjdDdJdE9pemlDQ09acU90RnJoSktWc0pzZU5TaHp1SVBNUXBBaEFlcXg4YVl4QzZKc3c4ekRJdklpNlNPNElkRVpXMHdvc2dGQklBNkFRRXdyQ3hRRWFmLXlBWmJjWGRKRmFaclBoTGZ6djBnUHMzek8tQnlFTmttcnFEdVA?oc=5"
-      },
-      {
-       "name": "Oldenburger Online Zeitung",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR09EZ3JDZnpYX2hmSVEtY0JKTmpxVXFwM0RGc1NFZ0VNQXhjRXJnb2JzWmZuZHdEN3NqdjEyWm52NUFJSk9pZnMwZV9zM1lma0ViMXNDZGp4bmNnb1J4RzNqZHBqa3c2MnRtVHVYRWktSVBLZ25Xc2RaSllUaTVLeGhlTEw0Y3ZWWHV3ODVmQXNJbHpPRzZ6aUZNdHhkSFg4TEVpMGlfN2pkcnIycEpXY2NiWDJ4X1diWTJpcmpMVWF1TmdVSVkwcw?oc=5"
-      },
-      {
-       "name": "Hasepost",
-       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjRFSDV0MC1yOWQ5M1RGYkozRGs0M1J0UmhxV2VDUy1SWUJpUmhjOTFwejJMWDQ1OGh1elNKaVFtZFFMdTgzWjRad3dHZ1pPTnZhaXp1alpVRGFpeTlCdVAwWWloTlNwWFNCT2xWcm9oeXNhajJRaUpsZlJSaXVpSFNtSHptanM5c1g1dQ?oc=5"
       }
      ],
-     "verified": true
+     "verified": false,
+     "singleSource": true
     },
     {
-     "title": "Merz zur Ukraine-Hilfe: „Das zahlt sich aus“",
-     "summary": "Berichtet von n-tv.de, DIE ZEIT, Deutschlandfunk, Frankfurter Rundschau.",
-     "time": "2026-11-20T20:49:19+01:00",
-     "importance": "high",
+     "title": "Kopenhagen: Dänischer Geheimdienst vereitelt mögliches Mordkomplott gegen Rapper",
+     "summary": "Ein ukrainischer Rapper sollte laut dänischem Geheimdienst bei einem Konzert getötet werden, der Mord wurde verhindert. Hinter dem Komplott soll Russland stehen.",
+     "time": "2026-11-20T19:11:23+01:00",
+     "importance": "low",
      "sources": [
       {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQTc4ZXlmQVQ3Rzl5aFdiUGdiWVdvQWhwa0d2NGJkalVMeWgtSHJHdTBhenJxcE5WTzNSZkdEVmpvdDUwMnpGVlJyWm00cXVCMEFHZ2pyaWQxaG9QMTFWU25YSGp3aVl3MmRRUGswQ3VqZnVDVFdRYmJYQ0JZUkM3ckd2Yi1WNWlRd0duQTlCdG9HVWlXcVhKYUEtdGt6OU5OMmlzZzZRcThLOGxla3dsWUwwRTU3dlN5ZFE?oc=5"
-      },
-      {
-       "name": "DIE ZEIT",
-       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0lORDFxUHNoOEV0Sl9seUZhamc4N05EdFg4M1ZWa1pURm5xZE8tMEtGRUVranpsbHdBVmxTS1p3bUlrQzVkUW9ObnJuQlY5elpOT0Y3cGU3TC1nSXZtLUdQanp4UlJmLVQydENibkJ3TW8zRnZkbFB2cFY2aV84MWQ4a3N5RDNo?oc=5"
-      },
-      {
-       "name": "Deutschlandfunk",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXBJUURHTEh4a0VFeFdSYlRhb2VmS0tjc2YtSUpyR2tVLVJFZWs1SW5KeHU3eGxqR1lidEdmTTdCdDdTS2Vhc3V2MHJmWmxxMWl5elRBYkFkS0djTDhGZDBDR2p5eWtIWHdRX09Gbk5ISlgzSlV6T0NvQ1NUbTR4MWN2NURJZ0ZOdTRJc1A0NGZ0OFBZdlhHRk9IYnpQVlh4b0VsODhxZEhKZUZuTnc1dmRfTQ?oc=5"
-      },
-      {
-       "name": "Frankfurter Rundschau",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVGhnUmtaYnE1Tk5iMFBMcnhBdXYxMjdlTzJxdmNyRTVNc01PdWVfV2ZfWXlzZ1V5anlfQ1BXQ1h5ZEJDdmVLX0duY3dCYnlZbTBKTEZaU3JuOGlTUll5aGQwNkhxUWtRSDlqVWJKZ1JBX3M3OFVOYm5HZkVjRmZlVHhyMlpGRHp5dUxoXzV6U0pmY19EOVNrMnN3?oc=5"
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/ausland/2026-11/daenemark-ausweisung-russischer-verteidigungsattache-mordkomplott-rap-schengen-visa"
       }
      ],
-     "verified": true
-    },
-    {
-     "title": "Merz begrüßt Milliarden-Investitionen von Katar in Deutschland",
-     "summary": "Berichtet von boerse.de, Spiegel, DIE ZEIT, WirtschaftsWoche.",
-     "time": "2026-11-20T18:43:00+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "boerse.de",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQendZejZyN0VVUTlHcDd2Y3U3QjR4NlZLNzBaekFWY01ZaFdZbzNWN29zYVlxeWxkdFBmclk3Rjk4UEZ4RHhtNVBRbXpOTlZQMzJMUWhsRllFbWVyWjJFcEZoY20zVnRfTkdIYkxzZ0s0ZXVQanRPQzgxeWszQWcyUnZGbXJpYXQ5S3V6aWJsSFU2QUZnTGZvNElVWmVFS19xWEk4MGNkONIBrAFBVV95cUxQQWlBbnJOR3dzS0tDWkNHMy1USGVKeG9jdGdzU1FHN1BFQ3lEYW1LQXJjWEc0MUZ0WGZmQ3ZqWjVaN3hKSnFyejhlZTM2ZExfSld1Sy1VcnA0WEZFeXYzNHp0czlqb1QzTjQta1kwQXhCME5fWnEyR2hPaURfSnhBYkhKb2xZVEd0SWJMOGlwQlJ3dFpsMTZqRWNuR0ZWc3Q4QVlIMVdIbExOUkJj?oc=5"
-      },
-      {
-       "name": "Spiegel",
-       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb1N1eFBQRW91NU1EY3BQQlZGdUFQM3d0dTZpYmFBMExUb0daRXhMYUY1Z1RxdTI4ZnBESEo3M1hIRFV0QWxQN0dqWVNJbUp4X01qX0liVVNkcXowZjRIem81M3o0MFFYWndDM0RHYTR6dWtMOWw4czVLcXhHUEdrT0FUUWJXYkUybzVDQkhsSG9KUGJxcDRRT2gtNDBwekhJRVhWc19ud1ZKM0dNV29TZzBpSTJYX1lyQmRXWTBoR05jVmhRNjhmbU14Rk40bVc0MmJfd0tCendnMVU?oc=5"
-      },
-      {
-       "name": "DIE ZEIT",
-       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWl3Y3lOV2l1Ty16NFhpaGJiNGRsWmM3VkRhQzhxN3BNR09CQ1NaM3RoYjRVX0VQZTFKbkU3SnJidzdXWF80dDFvXzhidFVXSkE1YS1YOW5hdDktVU41Y2RteW1wLVl0WlZNTC02M2VkbXNhWUdkak1HSlZSMDBOOVBTdVgzV09BWEtwQlNtdkRTLVVrMDhWblZDaHVlZEdPNzNEX25R?oc=5"
-      },
-      {
-       "name": "WirtschaftsWoche",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUGRTMko4UHhKY0d4R2NTYzFpSHFDX0VYUGhmX3RCR3JYVlFGcmFLN0FKTkpNVVJmUmg3VHUtdUY3cTN6UU1CU2RYTlhBTzRhT3IwSGN0UDVJWXdGazBWdlZMdmRDTEl2STJLeFR2ZEhYTVJoc3RtSEJjSk9qS0Z1UzEzbUdqd19CTXd5TktpODFQRW1zU05TY0JmakNyN2JuU3o3SWxsdThlUzFWU1VaOEY0TzlieENhaGhN?oc=5"
-      },
-      {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdklPQ19oc2hHckRiSU9aYUtIR2ZMTHNpQVFBa2c3LTRxUzRIMzk5MzNmaUNUVDVNeWRENndkQVlqYnpmNFp3V1c3SXRTUWF4eXJZaDJZUV95X012RVdUbXVpLTgtNmh4Z1h5NG9YazdtUl9DRUdyRjBKY0pDVWJHVFUwaVlkRUhjQmdDUTZVc1pNT1pFclFDMEtsZXJ4S2dfTWRxOWRqeTZ3a3pIbUhGSzB1LTM2V0JCMGVFXw?oc=5"
-      },
-      {
-       "name": "Tagesspiegel",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXQwOXgtY2tVSHZNRXVfOGdfdVRnZGZoTU1RYWdNWEFrMG5jYUlxV0lwT25uVHFiMHpUYkIwaEgtUkp1REVNWXNGYUwydVZYLXFra19RbFlfeTgtUDhORVBZU1pza3MyLXF6YmtkclVMVFYweWhlajRUNFdTWXBXSHNXUEtpendHb2k0UkxLanZsakgtcFZNUHpSN05ITFIzWVZia20zaFYwVkViRkdvLXFPZGxkYjc5RXlReTF0djBTdkMxa21LVGV2MFYzQQ?oc=5"
-      },
-      {
-       "name": "Oldenburger Online Zeitung",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVk9pcGg0R2FsQkZaanZzMHJrWWdnQnRhcDk5bXloenFCUEl2MURsZ2xSb2s2MEp0cUFBRFpWcmRUZWJiTGpQNWZHa0I1b3JDVWI5emR4M29tQkJ5MVhGbzA1NmZvX2wxYUtxNGRHLVNYM3FHaG1aOFNiUjJNMXpIaHpKeE41elYzTkwya09Hc0JmcHRXcGhyVW50Q0xRSTY0WTlCYjBnV3R1TERIbWpEVmRLdWNLLVVzd3ItYXJaSjQ2SjBaRnFNVw?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "CDU und Merz im GTA-Look: Spott für „Update für Deutschland“",
-     "summary": "Berichtet von RND.de, BZ Berlin.",
-     "time": "2026-11-20T23:32:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "RND.de",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMXJ1UE9EOXUzTFRLUWNYUXFpZDB1Y2JOQkJBb3o3OEZMSWJGc3Fsc0tfWkItcjV6Z2xJQ0RIXzcxVXlTWWNCTWxYZFRHak1nTHBGVlpQZ1lWMlV2NXBEbF9MaE00ZXJ4Y2M4TDdUQ016OXplZk1tOHdUeVd5VVEzMTFzT09zajM0QlJDM04yQWZ4NEZIaWhZS3RXZzNDNFlwcFBUWW5oSXF6N0VkRU9vQzRHTkpibTFmQ0lra2hScmxvY1JncHNjV0VB?oc=5"
-      },
-      {
-       "name": "BZ Berlin",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPellaVXJweE8tbnhzUFBBSTM3bU0zWWFRMl9MZWhIYTB4TkNaNHNObWFOdjQyaFVoblg4cDY5TmhCZDRiN0RKSUdPdng0a0ItWGVQZ0ZuTlVsMkxsNk04NnhOQl9kRTFQV2tTVkZ5U2l5X1pLRndpQ05Pc3AtY3hGNngtamNtR1p6SUZqRnRjSURLSWNCdk91WFMwcHBjXzRWMFYtRlpxd0NIanJXRk1xdFllelF2VTA?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "KI-Bilder auf Partei-Account: Merz im Gangsterlook: CDU erntet Spott für GTA-Post",
-     "summary": "Berichtet von WEB.DE, n-tv.de.",
-     "time": "2026-11-20T18:14:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "WEB.DE",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWZvdlhlX2dYNHY2aVpaWDZ3Um80WWVSVDRPeENveDZUYUpqSjdxT2I1bG5UY1hxenN5UGM3eEdOS0h4dzlpNXdDYXhIakhxQUM5cGh3QzZSNlBTWFRnVTB4dHdXcXgyTkthRzZ1dGE2RHkwQ1VQRjBFcGY1SGJfVGJIWVFxODBkNkVjUm9ZT1NkRXZiX081TFp3?oc=5"
-      },
-      {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWlF3RDhHNnFnQnozbWxpZDRmY0ZqVzE3U1ptV2tBV1RpdzZzZkhfTVdSc2dQbmVpUHByamw4QUtkS2lpVjFMelRaQUxvb1UtMTBKckxhYXRxWHBycks5Y0txRU94dWVoRS1KbVpGX1lYbFM3dFB4SkRUMVYyMmROYlZ4R000V2N1M1pLNGQ2QjBIR2w3NWdPakYyaVFtWmhqa2N5UE1wQUZDdVRKa1RnN3N0MEZSQQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Kritik am Post der CDU und Friedrich Merz als Held in GTA 6",
-     "summary": "Berichtet von WELT, SWR3.",
-     "time": "2026-11-20T17:13:32+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbDZGRl92QTNxT21jT1UzNkpNOHlGYVR4RkhaeE5ZVHhiRDNBeWM1czhqMXpJRmVKb01Gbl9nYkZJNC1TYUVTSUxJVWJUZXRIbmN2N0hzQW5kX3YzelIzSzN0a2hEbEVxTktMWkZpb0N6RkFJZ1pqNG1oN08wWmJ0U3NwQ3VLY2FDdjZnRnJvMjc4cEE2ZHg0RGxuWDhRc283UElxVng5TkhNY2I0MG1qTEx0aU9JOWxoXzRfRVVHdk1TMjVzcnpyRHJwYW41V2dBYkxhNzd6VWs0VVVVcWNYNHI1V0RTcXQtMnMyR1plQ3ZCZEx5Vmhyc1BhR0FzVlFqRlkw?oc=5"
-      },
-      {
-       "name": "SWR3",
-       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90ZGNpMUZHc2doLWNua3pFand4M1JPRjh1OS0zQ1l6V2NlckptX2VWdkxCX3cyOW5laVpDX2R1RGNYaXQwWV9lOEdHMVVHa1pqYlJhcS1ERkRMM2plbFRuQzRucjZRSXh5ODBOT0dR?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Merz: Ukraine-Hilfen bringen Deutschland „Dividende“",
-     "summary": "Berichtet von WELT, Hasepost.",
-     "time": "2026-11-20T16:47:11+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOXY2cXlaYXp1Mm5CaUllSUR0bUJ4SDJhcU4wMGVJWlVhVUpXUDR5eUJiNzJPTTl4Vm9DbldPR1ZEc0t2ZEkwcjY0RUE0QmpQdDVadjgwQ3lYdDdTeUZSN3lUaUwwUGMxVGVya1dOekRvbTVZQ2s2RFJDVUl2U1FQd3JsdFRWM0NxSGFOVmJZa3dlUlZXVktoU0NDeHM2anlMaXc1NjVPd0d0S0NmVmFKakhYeHZtWVRndjZkeDFISkJXcmp3MGs2WEJpNEtHSUJUYVJPejRGWFhDY0t1NmxuTjF5NWUzZksxX2dj?oc=5"
-      },
-      {
-       "name": "Hasepost",
-       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcUlXekpzRUZScE00NUdXMHU4WWItWkJvRU5TSTNaV0l3amFWOXoxU0w5Wm90eVpVOXBHWXRhU3FWdk1RclpoRXhqV0RUMUNzSkRldVRTaFRNTWVuODdPZDdiMUdDS1NET3RFaWRsTno4YzVwSFh1bW90SWl2VmRjaW9nbw?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Deutsch-Ukrainisches Wirtschaftsforum mit Kanzler Merz und Wirtschaftsministerin Reiche",
-     "summary": "Berichtet von STERN.de, tagesschau.de.",
-     "time": "2026-11-20T16:27:46+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "STERN.de",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRUZCa1Bna1JIempPMkp5RnNnVXhOdlVmVC1pSW0tWkJLZG9YQWF6aXRlZ0xjbVBoVUlUb0s3R29lZWFncjJLcEhCQkl6LWFGYnR0NjJhT3VRS0FkUEs1VTFwY2xwUnVpcVdTamNfMmZ2cExfMFBVbTdzb2RyNEZZRE1Ka1MwVFA2WHhxM1VTeGczSFZERVFkX3J1eWllTkc2U0xkNk85a2JRSWZ2?oc=5"
-      },
-      {
-       "name": "tagesschau.de",
-       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xQ3FCQzBYeWlfYURjNmVzek1ZcTh6MEdBZnRwMlI0cVRpV1VuYkZ4Q0JTU3d2OHBiWkpfeEE3aE5VM21NdVFUWmpHNjdRS1hXX3pkajBkVU1fU0hQQ2VwT0NDc2lWZjZrV0htQXFn?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Donald Trump: Und dann platzt der Anruf des US-Präsidenten in den Berliner Ukraine-Gipfel",
-     "summary": "Kanzler Merz hat 40 Regierungen zum Unterstützergipfel für die Ukraine versammelt. Da meldet sich US-Präsident Trump aus der »Air Force One«. Zuvor hatte er in China mit dem russischen Machthaber Putin verhandelt.",
-     "time": "2026-11-20T13:00:00+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "SPIEGEL",
-       "url": "https://www.spiegel.de/politik/deutschland/news-des-tages-gipfel-mit-xi-putin-und-trump-ukraine-unterstuetzer-in-berlin-gta-6-a-9c7016e8-931c-4e2e-988f-9a72b168b248#ref=rss"
-      },
-      {
-       "name": "SZ.de",
-       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ1prNTh2V3BzNHNVOGNkS2dNQ2NSendiRmo3OUs3bHRMUlA5Vlo1bHk5dFlWanJXWTczZUNEZ0kyZ0hmTWt0a3drWDJSOEhWcEwxaVFETE1mZ2s4Q2Z3RE94alcweDlaOXo2SktRZmdVTlBvc2dleWdqZzRMZ3pCR3FMNkxsN1U2SHktbl9HaDhBTUtqbzRzNzNCSDZWbnpDRFZpMVVSeDhSUl9hUFl0ZW96TDNYSGNBRVhkVw?oc=5"
-      },
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNi01WFc3dkNJNWkxX3hMYmNJbnYxSExrN3hIN3dmYm9Gak1uR1F3NjEyazZaQ0JtR0F5NGptcjJFNWFpU192Uk9nSkxqenpYOTN2NU1JV1N2V0ZwUlNJcTJLbDF6X2FTM0JkVjJnZW5EMGczN3NzUmVjdTZURTF2cjdqNzh2SG40QUZ6LUJpdWx4OUpyY3QyVTBuRWktWUpJOTB3OE02eGk1XzVQQ1pwMGdmNDVXZ0Q5aGZOYkRNTDJvWURvdzhMNkROZFFjOHctb0pwT29KS0RDM1hzY2d2SjBiYkZyYnlBem5HOHhnUURoZU1ETDY1eTV2em82N0ZGYnlMV3JR?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Außen Krise, innen Druck - Wie schlägt sich Friedrich Merz?",
-     "summary": "Berichtet von ARD Mediathek, ZDF.",
-     "time": "2026-11-20T10:29:57+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "ARD Mediathek",
-       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GQUhrTmp0c1BLa2RzU3I3aFBVMjBGa1A3MkdReS1pb3dVSzRGNGpwNkQ4UUREaDZHcW45QkNiLXZNZWd1Wm13d1dLbUY1LW4ySjdUel9ZTUw0TmpPZE51dGxYeWtDWVJjQktUci1QT25Odw?oc=5"
-      },
-      {
-       "name": "ZDF",
-       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU0x6VXZEVWxyTTZVd1QxUDhwcUNkWGsyRGZ0S3BrSXBSZjhHZWxUUThDcG9BQzB0d0xhcXQ2U29LVFlOUVJ1ZUx5T0U3S0JVa0ZISFZFbk1ObGZWMXpQVUFtVGlSWkl6TFMxNmhTZnVRWGxLNXB6QjMtWVdmdE5FOVpod3pHNUozNXpsVl9sVzJEZGdKU1hhUmRwNU82OUtzbmVUajdLcHlvcFFNWVlQZDF5VlJhakdNRnZjb1NkRWE1bGUwV0N1azJveG1Qc0didVE?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Maybrit Illner in der TV-Kritik: Sigmar Gabriel ist genervt von der Merz-Kritik",
-     "summary": "Berichtet von WELT, FAZ.",
-     "time": "2026-11-20T06:17:23+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSUxDdnRYRHBtRzVZX0piZGVQWU5PZWp4cWVrbmUxWXBMT0Iza253RUtsa3JZeGRaMlM4Y0ZCOGtqaFY5cGNrN1U5YmgxMy1FV3ZBVWpweWJsQkZZXzQwbG5GdW1RLWZsUGpRSG5IQlJnSk91ZWlxalA4eE5FSWNEcDRxYUtiMkp2Z2Jtb0RITEhuS2FKQ3BUMlR3Y2RIdWpTZllrNHlUWFFvNnl4aHdudl9KT0F0WWNTTmlSeXZhX2RtQnJLM3kxNDN6V0xMR1JjbjNtNEdUYmVOYmI3Mk9adkNIYWhWaXktZTkwRnlpdUZuQQ?oc=5"
-      },
-      {
-       "name": "FAZ",
-       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUG54OTNjMldXekFFZ3BtbnpKZGNmaEx1VTQwdzJ3V3JwTmdvOWpPMWs3bWlpNzB0Qm02NDZZaGpOSl9PWUxwWlBoQjN0WTZPaFUxY2dqaElwajZVYVliemR6eTh4TEZSUmJmNFo0Zkt0X2g0bEFUbjFodHVHbm1OdnBDdi1FeVExMG1BYk4tTGR2RU9xcDdpMVhKZEtCRHlOMXhOMjU0dXVpZGxpQlhZTXRSWEUyNDg4OVA2ejVFZGhhQmlEQVN4VEY0M2Q1QmFWTHRXRHpFX1BEeklUMU43cktrZW13T0hGdzZfcG1sZFdJRUNj?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Bundeskanzler Merz empfängt Emir von Katar zu Staatsbesuch in Berlin",
-     "summary": "Berichtet von tagesschau.de, ARD Mediathek, STERN.de.",
-     "time": "2026-11-20T04:03:28+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "tagesschau.de",
-       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Gc0pDZTFDampJQnBkUjN0VE0tb3czRi1TN0lzaXVzakE3Z0Jxd2h4THpCWlppb2RFTTAzUEJnbzUyQ1pwM2pNaGdaalBvT0paazY5NVBOaGk5TEFXZFc4?oc=5"
-      },
-      {
-       "name": "ARD Mediathek",
-       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQbUpKMnFxWFVDaEhTaGJoTkdLRTBjLTdZQzlNeW1SNVJpRjlpdHd5OFFWUEN0ZlVHY05fbThWdkNZaWM5ajltRi1KNTNDazgzWkhubjlYVlVXMWtBNk1LU21XZHZaVFR6MGpra1BMb3FFYkNxQmxQa0VDSjdHSkFQT3FRUHZveUZYMVJDY2hWNTZkTXpWcVFVeEZDd1M2amRiVzhlUFdnc1pfeGo1SmJRY2pUUWdxV1BLUUJGaGJFUEo0MHRKOUE3YUlTQnVGbEhzZ3IzVFVUc21iNERSb2c3RjZJX1dwSFB0cE1fbmhnc2dsdFdkUURPalNJRW9IQjlNUDNDYjlyUjdLTm52dlRhWW1JZ3NKU3BJZS1SakszMktQSVdOQmR5Uk9kMDFqcmpUdVZVcS0zMWpQdFdnS0E?oc=5"
-      },
-      {
-       "name": "STERN.de",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaHlaT1RzNGVWQVFueW9VaHMyRUdpbnNIdVgxTW8xVDNGN1ZScTlITEdhZzlKRnRhQ2cySE1NcFItejJtbHB1dTNia1RYa1J6QlE5SzhZVy1DeGpmbW9QbmRVbExyY3N3aHl2bG9CNGJ1U0FISnJlTWlBdGtKbUtmcG4tbVRqYU1fM2NDR2Nqb3M3UnZVNjAtWEZlVTRpbUEzNDBnc0FFTFNSWk1Lcmc?oc=5"
-      }
-     ],
-     "verified": true
+     "verified": false,
+     "singleSource": true
     }
    ],
    "more": [
@@ -1444,26 +635,9 @@
    "tint": "teal",
    "items": [
     {
-     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-     "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-     "time": "2026-11-21T08:31:05+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss"
-      },
-      {
-       "name": "BBC News",
-       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Three French police officers sentenced over racist assault on Black man",
-     "summary": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
-     "time": "2026-11-21T04:01:24+01:00",
+     "title": "French police officers guilty of Michel Zecler assault: What happens now?",
+     "summary": "Officers dealt more than 30 blows to the Black music producer in what the court ruled was a racially motivated crime.",
+     "time": "2026-11-21T10:12:14+01:00",
      "importance": "medium",
      "sources": [
       {
@@ -1478,65 +652,112 @@
      "verified": true
     },
     {
-     "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
-     "summary": "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation.",
-     "time": "2026-11-21T02:12:48+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "BBC News",
-       "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
-      },
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
-     "summary": "Sechs Jahre nach dem Brexit rücken Großbritannien und die EU wieder näher zusammen. Das war beim gemeinsamen Gipfel in Brüssel deutlich spürbar. Manche träumen sogar schon von einer Rückkehr Großbritanniens in die EU. Von Sarah López.",
-     "time": "2026-11-20T18:44:07+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQWXJjQzR6WE94TzRfS242aFFkZ0lSX2taejk2VkZQVmFtcC1YRnlCVlFQRTRqalNIR0pZdTlfX2pUU0ZwLTY5YlZ3Z0dlX1BFVXdzY1pKQkFkazlVUlFTTWdMQlBpdjZnS19iWUE4RG9mTlZZR2xPVXlfcW1SdGo4cm1lQVBxT0NTUmZtbENlSTNldVRRWVlWelgtQXBWakhDT2RHYjhxZ3hiVWJGc2hvR2VzX1VUUHc3b2JEYVpNTkMzeW1pemZ0NW92SXZ3bkR6OUlKU2VHMm1BX3lKS0Z6aTczcUVOOEQ0UWdvc3k3MVVBQ2xXcDMybmZWaUhMQ1BwNkYtTm9RbUhTaVExSXdia3R5VHBqbmc?oc=5"
-      },
-      {
-       "name": "tagesschau",
-       "url": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt",
-     "summary": "Nach einem erneuten Angriff auf die für Russland strategisch wichtige Krim-Brücke ist laut Behörden nun der Zugverkehr \"vorübergehend\" eingestellt worden. Zuvor hatte eine Attacke bereits den Autoverkehr lahmgelegt.",
-     "time": "2026-11-19T14:18:50+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "tagesschau",
-       "url": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html"
-      },
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNDUxLVVZcGlJejRPYXFLUmtacm1xRVZPYUd3SjlmMG01UEZEQklpN2xLRUs1aUNhU1FDZC1leXRjeXZnQUQwamtKU3pSeE84N3BfbTVlUzFFLXozZHdPZlNwUjFiTXdDUXUtT1NnMGtfeTd3SFV0eVpqdDNRSXNHRE42eXdyU2lzcFJDbHZXUFpZY1NZY0VZSHBXQU84LVlzR1FEQU5lOWI4eF9UbjctZlRGNEg4b0ctcEgzNS1GVnJZU1FGVWZDT1lvdWpZcjQxNzJwb3ZZRXdZUS1mOVRnR2hfcUU0YmhXS28xN0tqZlVUcmgwWTJyaUtZVkhNMEpmNm5teXEwSQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "„Für solche Selbstbeschäftigung werden wir nicht gewählt“",
-     "summary": "Meldung von WELT.",
-     "time": "2026-11-21T09:56:10+01:00",
+     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+     "time": "2026-11-21T10:52:11+01:00",
      "importance": "low",
      "sources": [
       {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbm1jSUZkaC12c001UXlJWE42S3dnR0lnME9WNC0zZ3ZuZXRlTDZKWHdDMzBWamlZWnEwODRMdzE0bzExTS1nOE1lTlhBRVVzODhnSkk4Mlo1bHJoM0JtaF9RWXVPTE9WSllxODVUY09rR1F1azVJOXdhNW5XY1FwWVJiWDZlUXE3eWpuSWpaQnphY1JLT1VwRlRIZ3JwV1BXXzBJbXFpd013U3hzVmVRc0xkR1dYcjJCcjVrTldlWnItR1k5RU1FbG9uTTQ2R0w5ZmVnb1lmRkdFZ2dpRjdiNnBZXzA4c1k?oc=5"
+       "name": "BBC News",
+       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Erdbeben erschüttert Perus Andenregion",
+     "summary": "Die Erschütterungen waren bis in die Hauptstadt Lima zu spüren: Ein Erdbeben der Stärke 6,7 hat die Andenregion in Peru erschüttert. Über Schäden oder Opfer ist bislang nichts bekannt.",
+     "time": "2026-11-21T10:51:28+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "tagesschau",
+       "url": "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Sandpapergate: Cummins has Australia’s ‘unanimous support’ as Test captain",
+     "summary": "Pat Cummins to remain Test captain after Cricket Australia back cricketer following cheating scandal in South Africa.",
+     "time": "2026-11-21T10:38:29+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/sports/2026/11/21/cummins-wins-cricket-australias-unanimous-support-as-test-captain-sandpapergate?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "FBI reportedly investigating apparent hack of its criminal database",
+     "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+     "time": "2026-11-21T10:34:20+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "BBC News",
+       "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+     "summary": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as 'oil trustees'.",
+     "time": "2026-11-21T10:30:24+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Fire sprinkler sprays water at flame-covered sign in China",
+     "summary": "An automatic sprinkler system repeatedly sprayed a barbecue sign depicting flames at China’s Wanlong Ski Resort.",
+     "time": "2026-11-21T10:20:40+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
+     "summary": "Ballon d'Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne.",
+     "time": "2026-11-21T10:01:29+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
+     "summary": "Manipur's chief minister orders a probe into the incident, saying those responsible will be arrested and punished.",
+     "time": "2026-11-21T09:48:54+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss"
       }
      ],
      "verified": false,
@@ -1579,34 +800,6 @@
       {
        "name": "tagesschau",
        "url": "https://www.tagesschau.de/ausland/afrika/wassermangel-suedafrika-100.html"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
-     "summary": "Spain’s High Court granted conditional bail to James ‘Fergie’ Chambers, a pro-Palestinian philanthropist.",
-     "time": "2026-11-21T09:26:22+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "\"Palisades Fire\" - Angeklagter im zweiten Anlauf schuldig gesprochen",
-     "summary": "Bei dem Brand im Januar 2025 starben 31 Menschen: Nach dem verheerenden Feuer im Nobelvorort Pacific Palisades von Los Angeles ist der Angeklagte schuldig gesprochen worden. Ihm drohen bis zu 40 Jahre Haft.",
-     "time": "2026-11-21T09:14:03+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "tagesschau",
-       "url": "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html"
       }
      ],
      "verified": false,
