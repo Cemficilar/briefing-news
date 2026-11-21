@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-21T21:00:54+01:00",
+ "generatedAt": "2026-11-21T21:28:34+01:00",
  "windowHours": 48,
  "note": "Automatisch aus RSS-Feeds erstellt. Uhrzeiten in MEZ.",
  "categories": [
@@ -10,6 +10,20 @@
    "icon": "bitcoin",
    "tint": "orange",
    "items": [
+    {
+     "title": "Circle Aktie: 66 Prozent unter dem Hoch – der Stablecoin-Star im Krypto-Crash – Wie tief noch?",
+     "summary": "Meldung von AktienCheck.de.",
+     "time": "2026-11-21T20:44:03+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "AktienCheck.de",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWFZWNTZsMS1vRGUyQ3NwSE5WMlFyV0ZRTHZ6TGpnMllTbVJSRUFXUG1qdFRvZ3VEQzFsXy1kenJReDZRTXdUOWxIX0lJVEczWnowT3NBU2NwWENreVFFbENVTXcxc3A0dmh6YXJnT2M1cEc0WWM4ZElSdkxheHJGMUxfdEpLTkY4U0Jna3N3?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
     {
      "title": "Ethereum Kurs bei 1.534,83 Euro – 1,68 % gestiegen - tixio",
      "summary": "Berichtet von BTC-ECHO, Netz Trends, tixio - Nachrichten.",
@@ -55,7 +69,7 @@
       },
       {
        "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZE4yT014X25VSHBaWjVxXzF6eEhMNXpJZ0U3YXhuVjhOT2dYa3FTS0hWeUxELXZKSWlILUcxdG5tZ3BESERMakVITEx1SFJUQXpSb1pMWUJwa0tsZ0lGM3JiSWtIaUpRNUZTd3RZSlRLajBKWDBlZmVyczR6LXF4dWxlQzREUHlURDdveGVuQWxEbU9uZFhzOHRsTmh5amxjNC1mOFR4RWs4NnYwZmotaldBS2hfLVI2UHdmTER4d1lpUE5LX2RPX0kyY0gyZmlPalFfNno1Q2RiNXhHcmo5b3M4VFFmUlBvbWVadg?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbzROTXhKUmpRWVo4UDZ6bnJ5Mnd0dW1qNUlpclA0VEd3NFB6XzhWTWYzRk9vRmY1eENBT3g3WTR5YnV4dnNCX0VBcnRnaHJza0UtVkZmUmFnOEpIUG1nMllpVmpDTFJYUVFQTDhRbkdTQmNPSUR4Ymgxb0xYRmpPUnhJTXFvOFpvX2p3RXdlU3ktSDJtdEVDZjJ3WG5DOXdtLVg1YzVOcWt2VDJPOUk2WjdKU2trRVhJR3lCSzRvSXBibEQzclh6SU4xaEVTN0RGbTBxOHhyWXRXdl9XLVI4a2ozMENzbUVwUGxyZWNTWTVURzJFakE5MzJvaENHeXpCQ3M4?oc=5"
       },
       {
        "name": "Blocktrainer",
@@ -96,7 +110,7 @@
      "title": "US-Dollar übertrifft Bitcoin, Gold und Aktien: Sorge vor Zinserhöhung der Fed wächst",
      "summary": "Meldung von Yahoo Finanzen Deutschland.",
      "time": "2026-11-21T17:33:50+01:00",
-     "importance": "high",
+     "importance": "medium",
      "sources": [
       {
        "name": "Yahoo Finanzen Deutschland",
@@ -230,20 +244,6 @@
       }
      ],
      "verified": true
-    },
-    {
-     "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
-     "summary": "Levent Alpöge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic’s IPO has prompted questions about its unusual publication timing.",
-     "time": "2026-11-20T22:36:02+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Decrypt",
-       "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
     }
    ],
    "more": [
@@ -265,21 +265,21 @@
    "items": [
     {
      "title": "Vanguard FTSE All-World ETF: FTSE-Russell-Anpassungen am 21. Dezember",
-     "summary": "Berichtet von Finanzen.net, Börse Express, ad-hoc-news.de, Börse Global.",
+     "summary": "Berichtet von Finanzen.net, ad-hoc-news.de, Börse Express, Börse Global.",
      "time": "2026-11-21T18:30:48+01:00",
      "importance": "high",
      "sources": [
       {
        "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONTFhOWNQQ0xncWRKMTE4cHBHd3JwQmtOb3QxV0lHTlNoUEdaQkdZYlNOTEEzRFBnUmp1UUduNTQyOFJZSU1USlFxUVZheUQzUDdMaDZnb2RNanRySnRNeURGRDBkeEdMWVlBU25JWWV6aFFWMjVKZEp6QkV5UERRQ3pTU2J0ZHVDb016a0stRVNQSXN6VXJjM0RQUk5jT0RHWUtZblBqR0h3ZjFhM2hic2ZlZTM0Zw?oc=5"
-      },
-      {
-       "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3ZFbE0xZUJfZzNaTnJFVF9VVm5ONU50dXNZRWVhMzJvY3BiczlueExKMVl3Y3dOS1pvUlVaenZDRS1GTkkyWUl0eGVwRS1kZVZYSWNKME1ORXhCODJzb2t0aTRxZTR6dm9FZXJ4bjhNY2pmUDBuZUdIUWFhZHBkVV9ydDJaZmNIWFcwb0dVSHJKbmY0Ml9jVFo4dGFSSjVLdHdabVp5OUxMRWZOcklONmVhekFaRXlsLTZHVkZhT1dXLWdTcjFR?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUlkdlhrYVR4aXFhX3p3N2FJeDhvUDRMSWhWdktFdnliMUhmVDFqb0tFZk5VMnF1aERNTjQ1dlh0T1JQcGZSa2NEcVNnWWRrTHZ2aTVPUENNc1p6YXhmcm0weEQtMXViMVRvVXNReEx0eHZnUy1vNXBxRlJ6dmh5RG9DeW1tTUtFU1YxOTZEbFYyaXAxbFRocDN5WGIweG9I?oc=5"
       },
       {
        "name": "ad-hoc-news.de",
        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORnl3T3VXR1VNRnd5RUJ6NEVzOWhEN3VncmxzVnRuUTY3d0NNV0VxcEFlNlMxTzVrNUF0ZlBLLW9heVFuMTAxREk0dFM1WEpwSDRtMmNFTDdlOEc3RU9OdUdVdkczVTRZOC1zby1GSmNHZHQ3TmFVVVoxZzlGVndkcjRMRTJOYlBXc1NCTWp5cHVzZERrT1drdVVlNUc2Sy0tN09kVER2Unh4aUJXa3pUNGs0YVdCVzV5VEZlYnpCRFpubGVEajNhUDRNWkQtZEdIZ3I4?oc=5"
+      },
+      {
+       "name": "Börse Express",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONUY0QXpudUQwYXJ4T0hYdDZKcDliLTdYTVZpMWNIWGJPNVdKSnhoNmN6TzcwMk5vNHNsTGxsVXNMbldLSzdiSXY0VWFYZk9yTWVWVm5YT0ZkUUVKNnNscUlhSGVEN0hkU0RQcXpmNWRxd214NThMZWplaVIyNmpRMXRYZHZhQmg5VTloMVdEUVBoNkdRZEZqZlJfSWpScDYzRTNhRDVwajdDdW4wS0VJYjVn?oc=5"
       },
       {
        "name": "Börse Global",
@@ -541,8 +541,8 @@
        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXNMTHZHUy00SXhQOVVYZEY2ZkczbVhFd251VlVaVkhsMkFaUk5lWWRubXlDTzBEeU0zd3JpM3VnQndOZU9FelVBME5uYmJXZFhsVWs4OC1uaVRObWRkV3I4Y1Bad3lQX1ZKVTJPeUVuZGppbFhoOXpkVXhSeHpVYXNYOWNsVXFhcFBGRWpPSTFtOVc2LVE?oc=5"
       },
       {
-       "name": "STERN.de",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakhCS3BBc0RiWVB5S1RPTllJZUxoRU0wZkt0TnNYOXptendtQWMwUTJhN09WajJwcDl4T1RyOENXeU14NDJlRDFYZ0x6NnRtcF90Zjg3QW9mNjZkS3VLYm95b3VHbzBDNUJxT3FlR0FRTjRMTlZUdC1TU01TMEp3ZU83ZTI4OVlPWmpoWVFFMERHQTMySEp0UEt2d2ZoMkltZFowUHlqS3kydFZIenY5V2xfMUVrblhjdUtnbmdhRzNmX0NwamJr?oc=5"
+       "name": "Handelsblatt",
+       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTTFnVC1xUm85aWIyWGk3bUVJZG5MUWdCbEFQcXcwS1c2MlNmNVZGQnlvQTloUElaa1N0bHpueTNSclFMLUdDSmE5aVNjTFJqRWZPMzNHaWJQR0NZRDFCeEx4ZzRZbXFmcjBsMnN3dW9NU2hNWWRpTUVnZWlQUXoyb3VGem8zM0pvblRHUi1HVUxtT0M4WFNKUG11WkZDZDNGT2ZLTGw4NnQzcjlBcEE5MFlHQjRGekF4WjlPZEpralJXRmZoMUh3TUtWckR2T0gzeThJeVhZRnhIT1hFMUIyVQ?oc=5"
       },
       {
        "name": "T-Online",
@@ -573,6 +573,10 @@
        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5JY25tREdSR3lWVlQ1NmZJQ2Roc3djd0NldGJ1SkJzNzUzdjUwSkUyYm9QRW9HaWlKaW8xLTlPTU9PM2ZQS0E?oc=5"
       },
       {
+       "name": "RND.de",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWU9TOTFmSVd1bklvYmE1UUNsT1BfUVZIS0phTG0yY3NCcVBPV1Rld0hzUUdZNHQwcmpRbmk0OER6REZkQWR5dTZVMWpjLW1jR28zb1Fia2Vja2V1OWNUNW9CRDZhVlRLMkpXUXpKOEdSNzVialgzUFZsRTVESXVhVF92aVRRdkpESEVjWVlieTBXenh3aHRZaVBnaHBhN1JXUVNDZzJTclFQVnBnNXpVZmJJMWRsajhFNTJoNUVBV3lIMlBtX08zY3FrLWhaQQ?oc=5"
+      },
+      {
        "name": "SZ.de",
        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbW1KZXJTMFRJX19ncE9sbzZscnlRR2FyVDhLNHozLTRqSjY2V0FUUGVsOV9tQ2k0NmoxQ2Fnbk9Pb0FVWFdDVXlNVnlQRnVvRU13WVJUd1RoN3ptNEhqSzkwYUxnQ0pUVGVldUFITlloamRTcWJ3TlhzUGp0RVNZUnNlUl9aajNFMVBQRHdocjZZdklpYzh2Wi0yNDJNdWJNSVJjcTgzbTJhNHM0eGpxbHYwXzFFQQ?oc=5"
       },
@@ -583,10 +587,6 @@
       {
        "name": "Spiegel",
        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNalYzdS1oUTFkVE9oUkdxb3Y2VXFlUjNWQi0xQ21ET3NQQk1kQWVrdnQ3cE9kMTZPZGh1UVNVdF9VRTQxWFl1d091TERUOWlES1FhakhWZFl5Ym5PTU1HV25ZR0YxNjNTV0czZ3FLb1pRUzJNcFpYNVlEckQ1T2g3UW53cmU3U3FOUnd2dUdlRkNpRjhrLWdKeHB6TE9mR29FaFdGUElYajJoRktwdHZpdHAwalJfOHdrQXE2VHNKWGd1dm5CeDFhUHVPa1dLTmtKenBOTTlUUmFvZw?oc=5"
-      },
-      {
-       "name": "RND.de",
-       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUHB4akh1Z0gwdi1iSUh6UUowMVpSVzhIdWllalItX2w3aHVucy1vUFJIbkpqOXhnZGl1Z29fbFh6TC04Zk9vUjRULVUwVkY4anBfODFXNVRIcVVPZmJOZnJDa3lpMTU4LTFKaUNqRWNYbkZDTmktWDNWNXRhUnM3b3BXNXZESUprRktoSlhuUUNxYl80WHEwOFI4a25LRjhzUE1wd203NTVjX0prWjBLeF9GdnRweXhDLW5aZ05R?oc=5"
       },
       {
        "name": "WirtschaftsWoche",
@@ -857,6 +857,20 @@
    "tint": "red",
    "items": [
     {
+     "title": "IT-Pannen in den USA: Veraltete Infrastruktur, fehlerhafte Updates, drastische Budgetkürzungen",
+     "summary": "Meldung von DW.com.",
+     "time": "2026-11-21T21:21:03+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "DW.com",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPckhIejV3dHJDVEJVdmhwS0ExZXRuMnBhcWVUdVJweHltQS1yMlJESWpZMnNFTmFRVm85QjVNUERLQUJ0YmVUZjgxNFVIU1Bna3JHaDJNR3ljODlMLXM5NXZyZ2JUemo4akZBV3JpbjFQcVRRdW0wWDF4dlhlVGdpVjJpUXIyQ0tzc0hGVjJqUHJfNkNERXhDdlBYME9pQ1hIR3JReEw3QmRLTHgx0gGsAUFVX3lxTE1mUy01N0wyMVBvOHNfekFCeXpnUnF6Q1ZsZVdwanZERl9tbUE0R212ZVRQVFY3amdDZW50Qmd4OGRaR0Y4ZGJOQTFuR0p4eGlkckpTSzlKamtpWlRwYXdEdy0xMFNHYVdRUFVSTkx4YTlvWTR4dFRaNThCZ1ZwMnA5d0s1U01KMDg5TjFzTUFEQmg0VktjSWZkYk5jcEctLWNleE0zVFM4VE5Zam0?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "Microsoft-Ausfall: 15 Verletzte im Phantasialand – die unterschätzten Gefahren der Digitalisierung",
      "summary": "Meldung von Blackout News.",
      "time": "2026-11-21T18:01:29+01:00",
@@ -1009,20 +1023,6 @@
      ],
      "verified": false,
      "singleSource": true
-    },
-    {
-     "title": "Homeoffice nicht möglich: Nagetiere sorgen für Internet-Ausfall in Kempen",
-     "summary": "Meldung von RP Online.",
-     "time": "2026-11-20T15:00:00+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "RP Online",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNGxES055cUIyRWg5dzlYaDlWb2hPS01Zek9wMmQ3WE5RWWYySTdVRGpyMXV6VzZXMmlZaEtQNDdmVFR0WE16YU4tYjhodm1DTXNaRm9JbnNNNm1VZGh0aXEyVFBwcUtpanZQOGVISEE5dmh0ZEJHNDg5dXhXQ25Kc2VBR25ncWQ0OEhsb24zTk5Ydk1LRkVKR0ZVazJiNmJPTkZ1eXk0Szk5cFhwU3hxQzlSQzRqSDBNbXRCQXdYeDYxZEpEOWVV?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
     }
    ],
    "more": [
@@ -1124,8 +1124,8 @@
        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN0tQTy1Ja2tERmZGYVVwQWk4a0NDUmd2dVVDZjZRS2tjbkZfZ2Qxa2RYX0E5RU9PcVhjTV9IZUd1QkF2ZlFCWWYzNVJZMmp5MU13SmpfRXZYZm5BWUI1ck5CZl96cE5IcW9xX2NYc2VsYmtoUV9RdkZFVEJKQVA1RWhwWVlYMVZVUF9ZZTFpTTV4Z0Q0QThYZElsT1plR2pyd3VkaVFRSGR4Y2J6b1lwekxHRkFPUGlDOEtGWWYyd0xUMklTY1dnTTNUVUZnR1VuZE92Qmk1OVRIZw?oc=5"
       },
       {
-       "name": "aktien.news",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQTkxdV9KUjVOdlI3aXEtam9LR0s5SWhhcGs1VUkzMDQwOWtFejZ6a254WGh2dExTUU5EcHFCY083R3lvS0g4SDl2dlZUNnFtVjI4cXZhN3BMNHZWTDRGN0p5dXhSa0RZa0Zmb2I2WTI4MjJ4d1ZvVzU0WEFWcjVLWXJVT2Y5YWpIMUk0ZEsta1dkZG5JNEdB?oc=5"
+       "name": "Tagesspiegel",
+       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcW9mRERBTXdRMG4ySHFTbWZFNnh1bXVjZ2x4NTlCNUlqelM1Q0VkU1JzS214NXh4UHAwaXNCSDNBRExUT2ZhUEExakVHYmRYOHcwVXNJcjFnSmU3aGQ3NmdmRHY4alh0WFNMQTN0VkJKS1YzUzM0dFZmSFVwbTFNSnZhUndGUEpBSGFVSFd3NkNtb3ZvbzJBcEpNVlNvQkJyMWtIQXluTHN1UWgxeVZCOWdFNzhHT1ljMEp2OFhyOVptR3ZsZFhRYU82M1BvWEh5eVptWDljOVM0UGp2cl8xTHVLVFg?oc=5"
       },
       {
        "name": "Berliner Morgenpost",
@@ -1157,6 +1157,20 @@
      "singleSource": true
     },
     {
+     "title": "Markiert das Anthropic-IPO den Wendepunkt des AI-Zyklus?",
+     "summary": "Meldung von Finanzen.net.",
+     "time": "2026-11-20T22:42:12+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "Finanzen.net",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM1RGR2J2YUo4X2xINUloVno2Mi1FUU1tN0Z1bmo3SEFGRlNPR2RJVzZCZHQzX0lxZzM3TThjOGdrWlEtaG55bUlUSzVJMnl5eEdIZVNTbDQ1ZDlwVzJaSllueGh5cmowaHh4VkUzcUJqUnZBZHBFTFBKTkpJSTB5dEZ2WTlfbXlCRnAtSThodzFmbDE3WWtzUE9tZUROcXd5SW13THJjQ1ZFcnN4SUpiZ2tSUFFMTU5QVnZHdEFoZHRMbWRXRk1SNVZpaDdZdw?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
      "time": "2026-11-20T01:43:50+01:00",
@@ -1171,21 +1185,32 @@
      "singleSource": true
     },
     {
-     "title": "Meta’s new Muse Charm device may cost $300",
-     "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-     "time": "2026-11-19T22:58:06+01:00",
-     "importance": "medium",
+     "title": "Gemini und Connected Apps: Über 50 Dienste entscheiden teils automatisch",
+     "summary": "Meldung von BornCity.",
+     "time": "2026-11-21T21:10:05+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "BornCity",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVE5oVGk2anloYXRsN1BaSEZXU1VKQ0dOeHJkRkJhSWJrYU1DVUlNQ2Q3TjJWZl9PeFA5R3pTbnhtR3JZUW9xdHI2LWZkYkFySEdERGlUQXZRYlRrMjNQWVNsZS15RmZFRDlMUHR6WTdyTk9tSm1WS2I3NWR2N0Zjck45NDF0UmNVN3FPZkZveFNZSmRVV2dHNW5rOV9oeFBQ?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "The UN fails to agree on rules regulating ‘killer robots’",
+     "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to…",
+     "time": "2026-11-21T21:03:37+01:00",
+     "importance": "low",
      "sources": [
       {
        "name": "The Verge",
-       "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
-      },
-      {
-       "name": "TechCrunch",
-       "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"
+       "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
       }
      ],
-     "verified": true
+     "verified": false,
+     "singleSource": true
     },
     {
      "title": "Baidu Aktie: KI-Cloud plus 94 Prozent, Werbung minus 22 Prozent – Chinas Google im Umbau – Kommt jetzt die erste Dividende?",
@@ -1214,34 +1239,6 @@
      ],
      "verified": false,
      "singleSource": true
-    },
-    {
-     "title": "Erste KI-Musikpreisverleihung überhaupt: Virtuelle Künstler gewinnen 3 von 4 Hauptpreisen.",
-     "summary": "Meldung von Vietnam.vn.",
-     "time": "2026-11-21T20:21:40+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Vietnam.vn",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWGtPVG1BaVpUV0lnTUIxZ3RnUlZuV083a1FWS2drSTB3ZXRBQWRteGFVTy1fclFYOEZvN0NsSlFlZ1g3TEFNQWN3RzJ2dXlySFBYMmdlOWVvbTFSREZqQ2xUT1FDWXpibXdkLXlvREc2LUk1SGZ0SHd0X1M0MDdvRmtROXNQY1lNcVU0YzFKOWV4SXZGT1pmNldIYWJENTlwUjhrdDgzRXdGdHZMRjNtSlVjQzRmRVBzQUVV?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Anthropic Aktie: Analysten-Rückendeckung?",
-     "summary": "Meldung von Börse Global.",
-     "time": "2026-11-21T20:12:20+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Börse Global",
-       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeDBfR1ZDeFhZYXJvX0V5WkliYno5dmFrOHAyRXowRlAzSnVoSmxrQWpySXVoSlBZUm9iRjg1MU45ZW1nLXpBYm1ja2lxc1FOaFB1ZzV1djc5T2RENjNaUjJrWUNxVFZsM0l2NmFxTHFUV3kwOXZhU1RIMHdiY1l6WThR?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
     }
    ],
    "more": [
@@ -1261,6 +1258,27 @@
    "icon": "building",
    "tint": "blue",
    "items": [
+    {
+     "title": "António Costa kürzt, Friedrich Merz kritisiert dennoch den EU-Budget-Vorschlag",
+     "summary": "Berichtet von RP Online, Investing.com Deutsch, Spiegel.",
+     "time": "2026-11-21T21:10:00+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "RP Online",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczZncUdXSmxRLTV0OG11TGdic2F4NzJkRm5WdS1HS1owUzViS0hFajlZbnNPNGJoX192S3ZoMWpmQnJMdm9MVk8tdjB6TldmN3NRUGZNNDk4TXFDWFNud0psQ1MyUnFyaFNVZEFZZlBvRkNiLVVCQVRrc3VGLXZOMDBkbnFwWjZSeUU2eTF6ZUJoR0xuaXNGRjdudEVZRFVj?oc=5"
+      },
+      {
+       "name": "Investing.com Deutsch",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOFVmU1U5VHdkNVAtOE14bjRKWVNsZDJFLVFZMjBvR1J6N2d1Z3BiRXhYcWM4TkpFUDdlYk93SjdaNlBzcUctUk1zWXF3TkpJenlwSk9nS084R2RHcW5iaG9iVWd1SVVVRGdJUUtWUGNwempTV0szbzNLNEM1aE1RZlpwN2ktWnhHMjdZN0ZQbGFBNFc1OXcwYWlncDdoaEZDM1FCNQ?oc=5"
+      },
+      {
+       "name": "Spiegel",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRGhXQ0JRYWhLNVVhV2hOUTF4cUpEbW0zRnBiYTZqczRPdDZrQU4yTGphY2RvZTRCR0pKSGN5SmE3LXZJcVpPMEw2aWxLUGx1VHMyeFRudTVieE92RU9IcVdUZFVwUDlpZUdZQTNUOUl3MFdyZm90MVBobTQ2cHR1cmctRE1wMTlPT2VGakQ4dkxuRlUwYncwVVNWVTlVS2VJc0JFTkRLTXBHcmVjdmZFN0M2LXdha1d2UmJNX1phYTczOGMtc2dZUlZuMFJZbzVCdVI2T0dNYVFrbS1oRlNnMTJ5SGhwdw?oc=5"
+      }
+     ],
+     "verified": true
+    },
     {
      "title": "Streit um EU-Haushalt: Merz wertet neuen Vorschlag für EU-Haushalt als »zu hoch«",
      "summary": "EU-Ratspräsident António Costa hat den Vorschlag für den EU-Haushalt überarbeitet. Für Bundeskanzler Friedrich Merz ist auch dieser nicht akzeptabel.",
@@ -1315,7 +1333,7 @@
      "title": "Krause rät Merz und Klingbeil zum Ballermann",
      "summary": "Berichtet von ad-hoc-news.de, Oldenburger Online Zeitung, tixio - Nachrichten, Hasepost.",
      "time": "2026-11-21T12:22:04+01:00",
-     "importance": "high",
+     "importance": "medium",
      "sources": [
       {
        "name": "ad-hoc-news.de",
@@ -1332,23 +1350,6 @@
       {
        "name": "Hasepost",
        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzUTQ3Rzc3X1NXcms3M2xHS2FWaDRBeHVZSFBfNGZmNFlqUUdpSjdVOUR2X19xNGVPZkRxVlg5NkpzWWxFSDFoWGhGY0lWSFZHTDljQWwwRUU4U1ZtSTNUSDNXa2lJLVZGSG0zaVo2ajhWZ3hOWE9WNDJPS1FIdw?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Streit um EU-Budget: Costa kürzt nach Kritik von Merz Von dpa-AFX",
-     "summary": "Berichtet von RP Online, Investing.com Deutsch.",
-     "time": "2026-11-21T16:59:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "RP Online",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczZncUdXSmxRLTV0OG11TGdic2F4NzJkRm5WdS1HS1owUzViS0hFajlZbnNPNGJoX192S3ZoMWpmQnJMdm9MVk8tdjB6TldmN3NRUGZNNDk4TXFDWFNud0psQ1MyUnFyaFNVZEFZZlBvRkNiLVVCQVRrc3VGLXZOMDBkbnFwWjZSeUU2eTF6ZUJoR0xuaXNGRjdudEVZRFVj?oc=5"
-      },
-      {
-       "name": "Investing.com Deutsch",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOFVmU1U5VHdkNVAtOE14bjRKWVNsZDJFLVFZMjBvR1J6N2d1Z3BiRXhYcWM4TkpFUDdlYk93SjdaNlBzcUctUk1zWXF3TkpJenlwSk9nS084R2RHcW5iaG9iVWd1SVVVRGdJUUtWUGNwempTV0szbzNLNEM1aE1RZlpwN2ktWnhHMjdZN0ZQbGFBNFc1OXcwYWlncDdoaEZDM1FCNQ?oc=5"
       }
      ],
      "verified": true
@@ -1467,6 +1468,34 @@
      "verified": true
     },
     {
+     "title": "Karl Lauterbach: »Dass KI die Menschheit auslöscht, halte ich für Unsinn«",
+     "summary": "Ex-Gesundheitsminister Karl Lauterbach hat gerade die wichtigsten KI-Labore in den USA und China besucht. Jetzt schlägt er Alarm: Deutschland dürfe sich nicht weiter abhängen lassen. Doch etwas macht ihm Hoffnung.",
+     "time": "2026-11-21T21:13:00+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "SPIEGEL",
+       "url": "https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "EU-Haushalt - Merz gegen Kompromissvorschlag von Ratspräsident Costa",
+     "summary": "Meldung von Deutschlandfunk.",
+     "time": "2026-11-21T21:04:07+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Deutschlandfunk",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1JrcU9tUktvTXc3SkRPTHFmREtVWFVoVEVwMGphd08yT2picllQel93bjlXOUV2Nm45V3RFUHAwQmt3SWpjR1laTUVkQUN0a25vTGlEOFMyOEh3aWNqeVJITVBhNFdtNGNLWk51dW5uNlFBSkh3VEE0Qk5ibGVKU054WmFaWWVCWTJWQ2VudjhwUTV6bjhycV80TQ?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "Lars Klingbeil: „Deutschland 2035“ im Alleingang an Merz vorbei",
      "summary": "Meldung von BILD.",
      "time": "2026-11-21T20:47:34+01:00",
@@ -1475,37 +1504,6 @@
       {
        "name": "BILD",
        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUldYVy1zQXhTNzQ2NkpkOHVTV1NiYU1XMURMVnhNOWJ1ZC1zMnBOMHB4Ym4yUndsMVhKVWtqNGZZMzBhNjdhR1lWQ3Y4a29iTzdwNmlLNW5NMkNSMkt4dHIzVGw3cTBhcWsyN1FFNmtlTnpUUGxHcjZTWFlreDBpY3J4QjNfa1RNbm9hMG5vMkkwQ1NMdWhNbjVldl9LOWF5MmEtTlNQR3lSQjhya01ZdGF2M25ycy10eTZrNQ?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Drohnenangriff auf »Sparta II«: Finnland bestätigt Drohnenangriff auf russisches Schiff in der Ostsee",
-     "summary": "Ein russischer Frachter ist im Finnischen Meerbusen von einer Drohne angegriffen worden und in Brand geraten. Finnlands Militär geht von einem ukrainischen Angriff aus.",
-     "time": "2026-11-21T20:31:29+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "ZEIT ONLINE",
-       "url": "https://www.zeit.de/politik/ausland/2026-11/drohnenangriff-sparta-2-russisches-frachtschiff-ostsee-gogland-gxe"
-      },
-      {
-       "name": "tagesschau",
-       "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Sachsen-Anhalt: Ach, die Hakenkreuzflagge an der Wand? Die ist vom Vormieter",
-     "summary": "Wenn ich wohin fahre, google ich vorher, wie viele dort die AfD gewählt haben. Denn ich bin nicht weiß. Das prägt meinen Alltag. Jetzt will ich mich der Angst stellen.",
-     "time": "2026-11-21T20:21:06+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "ZEIT ONLINE",
-       "url": "https://www.zeit.de/2026/50/rechte-bedrohung-sachsen-anhalt-afd-gewalt-migranten"
       }
      ],
      "verified": false,
@@ -1530,6 +1528,40 @@
    "tint": "teal",
    "items": [
     {
+     "title": "Weltklimakonferenz: Klimagipfel verlängert – nur Trippelschritte in Sicht",
+     "summary": "Berichtet von Zeitungsverlag Waiblingen, WirtschaftsWoche.",
+     "time": "2026-11-21T10:50:00+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "Zeitungsverlag Waiblingen",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXpDRnlrc01Vd2NMZ3FidUZ5eHVGZVF3WDBhTGE3OHJkYzRxT1VQc0N4Rk9tREpJRnZWbEFBaE9aNGNMYjRqbnpLS01vVDhfSjNTM3pVS1Y4Tm1ONkZjODFUZ3RvZ1JfSjlPVmtiLW5EdlpERXNzYXlmM0xZVDFCWjNWa19ibWppUWZjNFFjbnlYOHRhVFYzU3lRYThrd3RRbmdELVF3TmJnSEx3ZFZsbVJXcw?oc=5"
+      },
+      {
+       "name": "WirtschaftsWoche",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNczIxTkM2eU9LNnBENjQyR3VqZDFqWUR2UjYzV2VRR215XzNDX2RCWlFXY1pNTWhfX2dmbFdUMDFSYnZxZVVBbkR3enlFQmFnS3pEMjBuemhIU1JhbkpETGZsUWRydFd1c05GampscVFBdXJDS0lOdHE2eVBELW43NjRIckZsUm90Ynp4QnF4SjJ0eGc3NDhqV0tLeFZQdWJGb29kbTJWM1dfMWJxcEljWEhDWEQyY20wOTBESU9jSQ?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
+     "summary": "Sechs Jahre nach dem Brexit rücken Großbritannien und die EU wieder näher zusammen. Das war beim gemeinsamen Gipfel in Brüssel deutlich spürbar. Manche träumen sogar schon von einer Rückkehr Großbritanniens in die EU. Von Sarah López.",
+     "time": "2026-11-20T18:44:07+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "WELT",
+       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQWXJjQzR6WE94TzRfS242aFFkZ0lSX2taejk2VkZQVmFtcC1YRnlCVlFQRTRqalNIR0pZdTlfX2pUU0ZwLTY5YlZ3Z0dlX1BFVXdzY1pKQkFkazlVUlFTTWdMQlBpdjZnS19iWUE4RG9mTlZZR2xPVXlfcW1SdGo4cm1lQVBxT0NTUmZtbENlSTNldVRRWVlWelgtQXBWakhDT2RHYjhxZ3hiVWJGc2hvR2VzX1VUUHc3b2JEYVpNTkMzeW1pemZ0NW92SXZ3bkR6OUlKU2VHMm1BX3lKS0Z6aTczcUVOOEQ0UWdvc3k3MVVBQ2xXcDMybmZWaUhMQ1BwNkYtTm9RbUhTaVExSXdia3R5VHBqbmc?oc=5"
+      },
+      {
+       "name": "tagesschau",
+       "url": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html"
+      }
+     ],
+     "verified": true
+    },
+    {
      "title": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
      "summary": "Rund um die Chemiefabrik Chemours in den Niederlanden sollen die Bürger kein Obst aus ihren Gärten mehr essen. Dort werden Kunststoffe hergestellt, die zu den sogenannten Ewigkeitschemikalien gehören. Dagegen wehren sich die Bürger. Von…",
      "time": "2026-11-21T20:54:06+01:00",
@@ -1538,6 +1570,20 @@
       {
        "name": "tagesschau",
        "url": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+     "summary": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday.",
+     "time": "2026-11-21T20:53:00+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss"
       }
      ],
      "verified": false,
@@ -1572,6 +1618,20 @@
      "singleSource": true
     },
     {
+     "title": "Finnland meldet Drohnenangriff auf russischen Frachter in der Ostsee",
+     "summary": "Vor Finnland ist in internationalen Gewässern ein russisches Handelsschiff von Drohnen getroffen worden. Es brach ein Feuer aus, zur Besatzung gibt es widersprüchliche Angaben.",
+     "time": "2026-11-21T20:10:03+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "tagesschau",
+       "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
      "summary": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
      "time": "2026-11-21T19:42:38+01:00",
@@ -1580,6 +1640,20 @@
       {
        "name": "Al Jazeera",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Dreißigjähriger Krieg: „Unvorstellbar furchtbarer Krieg, wie es seit Väter Gedenken keinen gab“",
+     "summary": "Meldung von WELT.",
+     "time": "2026-11-21T19:25:36+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "WELT",
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRGlYa214RFZRSW82a1MxOFNQNUxwQXlRTFJtcnhBV1ZkZ2JWOGdWc2VOeXRmcElqUWM0U20tUlJhWmR6MkR1Tk5DRHNDVVM1QS1nOHRfUUd5cjc3eHdmY1VpcUYtbFFNc01YWksxRkpLYmZxcVpHVjdqNU9UbF9iNlp1dmxUdWxKRlJ0Z3dKVmNPYkhtVTVHSS14TnB3YjUtVkhiYVFvVFd6TW5Mb25SRmdlZGpiNTFnZU52SzhkQjF0c1p6OGUtOV81SWpwREQ2MG5hcEk2WXMzdkNUb011bkg5dmdNbktIbllMNg?oc=5"
       }
      ],
      "verified": false,
@@ -1622,62 +1696,6 @@
       {
        "name": "Al Jazeera",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
-     "summary": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
-     "time": "2026-11-21T18:54:19+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
-     "summary": "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
-     "time": "2026-11-21T18:28:51+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
-     "summary": "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.",
-     "time": "2026-11-21T18:21:37+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-     "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
-     "time": "2026-11-21T18:20:03+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss"
       }
      ],
      "verified": false,
