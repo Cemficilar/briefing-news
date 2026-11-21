@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-21T21:28:34+01:00",
+ "generatedAt": "2026-11-21T22:00:48+01:00",
  "windowHours": 48,
  "note": "Automatisch aus RSS-Feeds erstellt. Uhrzeiten in MEZ.",
  "categories": [
@@ -27,7 +27,7 @@
     {
      "title": "Ethereum Kurs bei 1.534,83 Euro – 1,68 % gestiegen - tixio",
      "summary": "Berichtet von BTC-ECHO, Netz Trends, tixio - Nachrichten.",
-     "time": "2026-11-21T19:34:12+01:00",
+     "time": "2026-11-21T19:37:39+01:00",
      "importance": "high",
      "sources": [
       {
@@ -47,14 +47,10 @@
     },
     {
      "title": "Bitcoin steigt um 9 % von einem Zwei-Jahres-Tief und erobert 60.000 US-Dollar zurück, während Händler den Börsenstart am Montag im Blick behalten",
-     "summary": "Berichtet von BeInCrypto, Yahoo Finanzen Deutschland, Trending Topics, Der Aktionär.",
+     "summary": "Berichtet von Yahoo Finanzen Deutschland, Trending Topics, Der Aktionär, BeInCrypto.",
      "time": "2026-11-21T18:51:06+01:00",
      "importance": "high",
      "sources": [
-      {
-       "name": "BeInCrypto",
-       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydUFmbGtPYTlaS0ljUXFHTTNkM3NBdklDbUZLSVBKQWdZRHYzRFRnNmRQV3VrN2VvOTF2OFZWcUljNnpjeGtJUzEtTEQwdTZNR0NVTUluVjNWQ3QyVHlCTFM4NjRhSEI3Y1E1M3paSUlDamRwTHJyMVRiakc4ZGs?oc=5"
-      },
       {
        "name": "Yahoo Finanzen Deutschland",
        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRkY5NXZFeWlkbXBzaDlFZ3NieVJzUkQ2V1ZPNnJUZ0RzM0N0U2dLT0FBcE8tYnZMbWhqRTJmRFdMMDhOUEhma3NkTzljdnoxV1JDYU9oX0cya04xZGpYSjRrV2dMZXlWbG4zZi1zMTZULVI2WFVPaXI0TFdaMGJwQUY5QUJ1eFVTY0xpWG9WdjFDb2NTcGJ2Tk1pMndnZ3RmWkNQNFM1Zzd2UQ?oc=5"
@@ -66,6 +62,10 @@
       {
        "name": "Der Aktionär",
        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLWZzaVRsNF9WLXctTGxjN1RiaFpPc1lwVFRJRzdHd0dGVU5XdEZLamo2S09NM3d6R2ZVSGpYNEpUc0NOVEYwQmdMX3pib2RDVFBiYl9kZmx3b29KSEJtVjlGX2E2NFZzNUZlS3o1d3gyU3pvdURzb19HejIxMTdwTGZVTkpRRGItU3VWX3pOcEI1SmNzRDFOQzZvOE1zMDc1a0RfNHIzZXdUVnUtWDlqdC1nM01JanJWemlyZzNweTkyRTdZU0Jfb2p3b2NzWEVxZTdoZzBmUWt0eXdLMXp3?oc=5"
+      },
+      {
+       "name": "BeInCrypto",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rbEE0Zm1FcnhxR2hiYjZaaWluMXBqZzJkdGtxN1dmdEphai16ZWt2SGVyREtaazZSYjdac1RoY3N0RTVqbm1ReFRZV09FWXV4a1JzdDd3Z0VFeE9HajhFOHRiWGpDM3V6bDM0YlBFOHo1eEE?oc=5"
       },
       {
        "name": "Finanzen.net",
@@ -356,7 +356,7 @@
      "sources": [
       {
        "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdXluSjN4ZlE0Zm9zZFFBRkdzSXVtSlFWS2NHZGEzRFA3WTdRb2JTRFpvRi1mUC04OUM5UTVwZ2ZvY3U1bjUwZWJmVHpFUlFLS3dld3pRZ0JLN1VQSXdSRFlBbHdKbXV1UmtEeG1aSTJsWnl5VUlIMkFmNk1CemNyNTZLWnc1VzFEcFdDS01RVUpJTXFLUnNCdWxKZkFVS2NaNUE?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT084M2VSd1FZeGxlTUp5NVZGWms1QkgxbEpETjVUSFltQk9lN2M5YzdLSWN1REFJUzZKem9qUjc1Nmp5a2VfWFdFZDM0QjhLX1FuaDUwa2FvRXFiakNOaWpIRzJ0cE92WDJ2cTdUNmcwbkVjUFFoTjBlRU1zbVNUOFJsWXpZZUJENVpGRUJPdDhkREpXQk1RTmcxTU9LN1U4clJB?oc=5"
       },
       {
        "name": "aktien.news",
@@ -573,10 +573,6 @@
        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5JY25tREdSR3lWVlQ1NmZJQ2Roc3djd0NldGJ1SkJzNzUzdjUwSkUyYm9QRW9HaWlKaW8xLTlPTU9PM2ZQS0E?oc=5"
       },
       {
-       "name": "RND.de",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWU9TOTFmSVd1bklvYmE1UUNsT1BfUVZIS0phTG0yY3NCcVBPV1Rld0hzUUdZNHQwcmpRbmk0OER6REZkQWR5dTZVMWpjLW1jR28zb1Fia2Vja2V1OWNUNW9CRDZhVlRLMkpXUXpKOEdSNzVialgzUFZsRTVESXVhVF92aVRRdkpESEVjWVlieTBXenh3aHRZaVBnaHBhN1JXUVNDZzJTclFQVnBnNXpVZmJJMWRsajhFNTJoNUVBV3lIMlBtX08zY3FrLWhaQQ?oc=5"
-      },
-      {
        "name": "SZ.de",
        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbW1KZXJTMFRJX19ncE9sbzZscnlRR2FyVDhLNHozLTRqSjY2V0FUUGVsOV9tQ2k0NmoxQ2Fnbk9Pb0FVWFdDVXlNVnlQRnVvRU13WVJUd1RoN3ptNEhqSzkwYUxnQ0pUVGVldUFITlloamRTcWJ3TlhzUGp0RVNZUnNlUl9aajNFMVBQRHdocjZZdklpYzh2Wi0yNDJNdWJNSVJjcTgzbTJhNHM0eGpxbHYwXzFFQQ?oc=5"
       },
@@ -587,6 +583,10 @@
       {
        "name": "Spiegel",
        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNalYzdS1oUTFkVE9oUkdxb3Y2VXFlUjNWQi0xQ21ET3NQQk1kQWVrdnQ3cE9kMTZPZGh1UVNVdF9VRTQxWFl1d091TERUOWlES1FhakhWZFl5Ym5PTU1HV25ZR0YxNjNTV0czZ3FLb1pRUzJNcFpYNVlEckQ1T2g3UW53cmU3U3FOUnd2dUdlRkNpRjhrLWdKeHB6TE9mR29FaFdGUElYajJoRktwdHZpdHAwalJfOHdrQXE2VHNKWGd1dm5CeDFhUHVPa1dLTmtKenBOTTlUUmFvZw?oc=5"
+      },
+      {
+       "name": "RND.de",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUHB4akh1Z0gwdi1iSUh6UUowMVpSVzhIdWllalItX2w3aHVucy1vUFJIbkpqOXhnZGl1Z29fbFh6TC04Zk9vUjRULVUwVkY4anBfODFXNVRIcVVPZmJOZnJDa3lpMTU4LTFKaUNqRWNYbkZDTmktWDNWNXRhUnM3b3BXNXZESUprRktoSlhuUUNxYl80WHEwOFI4a25LRjhzUE1wd203NTVjX0prWjBLeF9GdnRweXhDLW5aZ05R?oc=5"
       },
       {
        "name": "WirtschaftsWoche",
@@ -680,17 +680,17 @@
     },
     {
      "title": "Trotz Rekord-IPO: Anthropic kann KI-Abwärtsstrudel nicht aufhalten",
-     "summary": "Berichtet von Spiegel, n-tv.de.",
+     "summary": "Meldung von n-tv.de.",
      "time": "2026-11-20T13:36:51+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "Spiegel",
-       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOF92T2JraGNSb2lUeTVQXzBxRjVCVnJBNEhRSXVyZnk4TE5acmZwZXNKN1RPWU5WYlBJek5SQUdBZWdkMGxZS0JJZjZJRVh1XzlTUXphb1ExeHBYa2w2R2NNbkdsUklsU3FMbFhVb2xOVFFOb05NcTNQMlViVzNWX3JHNkpvXzZyeFQzNlNmR3hxOWJ0Z1pEODRpbUpjWE1ZeHJkSl96LXZiTG1OWDlqWjJBcVVDZ1g1S25PTlZ6cGs5Zy1wOEpKSEdSelpydHdk?oc=5"
-      },
-      {
        "name": "n-tv.de",
        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaEhUdDRDb1BHLXFSTHctNjJaMk1nNjQ2Z0hmQy1kc0JqSDJmb05VV1UycjFrdmNPcEJDeS1Da1hkWUt4eEFEYzRMc1AzNERhTWl3VzFLQzdBZXozSERrZFNMRWlXdHVRRGZGaFZvTWdlY3NNNkZROGdvSGp4N25YS2xZYlRJMGdBdEdSeGRsdU0zb0dSbU9FNVVlWDk?oc=5"
+      },
+      {
+       "name": "Spiegel",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOF92T2JraGNSb2lUeTVQXzBxRjVCVnJBNEhRSXVyZnk4TE5acmZwZXNKN1RPWU5WYlBJek5SQUdBZWdkMGxZS0JJZjZJRVh1XzlTUXphb1ExeHBYa2w2R2NNbkdsUklsU3FMbFhVb2xOVFFOb05NcTNQMlViVzNWX3JHNkpvXzZyeFQzNlNmR3hxOWJ0Z1pEODRpbUpjWE1ZeHJkSl96LXZiTG1OWDlqWjJBcVVDZ1g1S25PTlZ6cGs5Zy1wOEpKSEdSelpydHdk?oc=5"
       }
      ],
      "verified": true
@@ -1043,6 +1043,71 @@
    "tint": "purple",
    "items": [
     {
+     "title": "Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben",
+     "summary": "Levent Alpöge will mit Claude die Riemannsche Vermutung bewiesen haben. Die Prüfung läuft, ein zweiter Ansatz ohne KI liegt vor.",
+     "time": "2026-11-21T21:43:23+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+      },
+      {
+       "name": "FAZ",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX0tzR2JFbjBERUpncEpsa094OE5GTDFlZ2FEVmlPNUg2MlZzTk9fdDBJY3lFc1J3S01VWnRjcEp6U0Q2RVo0UTMwRG1WLWZwdTVpakppT2xfaDVRLXJiQ2hoZ09mc0J2NG4wU1FfTWxrZjY3Q0R2YzMwdGktZU1uZzJNWjZpRFZYbEh1a3FqU2FCNmFCOVZlNFphYnh3eEt5eWVsSkxsVjZXQVdhNnVlZG00OTJNaXUxTnk3alNRNlkxOHZtUy1ZUWhUanN5TFZ3WkE?oc=5"
+      },
+      {
+       "name": "Spiegel",
+       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNLWFPU05LbmhBaHVSYjg1MGFibGxHbnpZY0VPUEVBMGIzcmxSZHo4WFhwZ0x2M251MmFDdkFhdVg3NjlSQ192ZGhwaEJnc3BkTWhCNVV6NkRnQmZORjJ1eGpCb01lWS1CTVZDNE1xN1FEU0wzUGFuaTlyREFyM3pnaW44c2Q4WlRIQS02bW1vZlAtV2NXYkV1T2JPRmtSaE5TOWJSTTFqbmFtSFJ2UExhMld5aGkxZzJJSUxGako5MFJ2akdxMnkwYmp6WktJWG95ekRCeGFwWmFkN0Y5WS1HWER1UTIzYnI3UFpoNGJNRUVXUlJBeWU3SUV1cmMtRDNpT0plYUhzOFZITERwaDlGS0Vnbk5OSDZ5UlVB?oc=5"
+      },
+      {
+       "name": "n-tv.de",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzdjanc0akZFemdmeWd0VlpfMkxlM1BrOEk1VU1KOGRyVXFUOUotY2pHRk5xQW9BWjdicGdBRk9YLXFONTk1aEJwV2IxeHV4SmtJMW81bmZzSkM2eWxIOGg2c2ZjWWdxWWp6MTNMMTl4bkUxZDZNdnpxZkRnWkhzU3hHMGRMX1pLd2RuOUpEMGxKQ1I3U19ZU21pMU9HZWozVEFjeTFtblJnVHhOTThN?oc=5"
+      },
+      {
+       "name": "DIE ZEIT",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmZzVnFBR2M5VlQ3eWp4Tk0yWmdZUlFXck9Rcy1SZ0lPYXEwNEtmRlRqaWdmanptanV5UXl5U19kdTYtQjRVbE5SYk05ZU5FU3hZaTJfVnk5NzRUZ1BLMVdLRy1malI4eEMxdkI5RGlpWUs0REFXbm5xaGE5cGRVNlFQRjU4UEFmaHZHTnQ2dEs1NEJYWjRDVTd1eERuVlRobS1z?oc=5"
+      },
+      {
+       "name": "heise online",
+       "url": "https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+      },
+      {
+       "name": "WELT",
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd1kzQWtGa0pISVBuQjFlVHdEdHY3akd1aEMtRmxaSV9oanFuUHFJSmcxdV9YSHhseF82VVphbDFEb09iYWV2LWpTbUlfdTJoLVYwbG9hSUFYT1NoOUZoWTlmYmgteGFrY3lqeGVPcWZOS25rX2M5REhDXzVSckVJeEF5Ri1ENFVFdzd3OHRvcE03c0EtUHB5YWtOR09zMllWSGIybE9GX3lCLTYtZ3BCX2EzRmlnZFZsamJCVDNGcnVBaXMwVzJOZXNWSk1XdmRFMXpNbm5RaWpMWGM?oc=5"
+      },
+      {
+       "name": "SZ.de",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMDJIVGJxTEdibkRVeG5xbUowLTNqbFo3V1RMeTVyMklXTTFnc2F1N2pvYllFWXpvb2U2bHctRGdNOHQ2bFVDYV8zd0N0cUotczRTM3gzZ043dE5fM0RHTmsxdVpOM2puVzhhLTdsYVZkQ2wxQ00wQnpZem1xSnZXQVNQZWNMbGt6YUtYaWVZZFZLdkFHNHd2M3dMNXlMSkkxZldTc3RaVWtPX2pfaHlVMnN5NUFyTDZoQ1BDNEpKZjdOVjBySVVz?oc=5"
+      },
+      {
+       "name": "Tagesspiegel",
+       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcW9mRERBTXdRMG4ySHFTbWZFNnh1bXVjZ2x4NTlCNUlqelM1Q0VkU1JzS214NXh4UHAwaXNCSDNBRExUT2ZhUEExakVHYmRYOHcwVXNJcjFnSmU3aGQ3NmdmRHY4alh0WFNMQTN0VkJKS1YzUzM0dFZmSFVwbTFNSnZhUndGUEpBSGFVSFd3NkNtb3ZvbzJBcEpNVlNvQkJyMWtIQXluTHN1UWgxeVZCOWdFNzhHT1ljMEp2OFhyOVptR3ZsZFhRYU82M1BvWEh5eVptWDljOVM0UGp2cl8xTHVLVFg?oc=5"
+      },
+      {
+       "name": "aktien.news",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQTkxdV9KUjVOdlI3aXEtam9LR0s5SWhhcGs1VUkzMDQwOWtFejZ6a254WGh2dExTUU5EcHFCY083R3lvS0g4SDl2dlZUNnFtVjI4cXZhN3BMNHZWTDRGN0p5dXhSa0RZa0Zmb2I2WTI4MjJ4d1ZvVzU0WEFWcjVLWXJVT2Y5YWpIMUk0ZEsta1dkZG5JNEdB?oc=5"
+      },
+      {
+       "name": "Berliner Morgenpost",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWFTamQ0bTByWUxqcEpCLVU3YzNrOGtvVWg0dzUyaTJQWlVWZ2lWbHFRVGdjSnNacGFJZkdFYVFLSE5pVWRJVldzNUdwakVrejJlNFlyY3Vlc0FfRF9IblJkdW1kTmtQakV3eTRlbzlhcGVZWWFVWU1TNkRGUi1feFhIOUlzZWVKdXNGQ1J6bHJLcHU2aU1XaERidmlXRTlhbjFsNHVmejZuY010SGNrcjZOeUhHVXZlVHpYVTZGOA?oc=5"
+      },
+      {
+       "name": "STERN.de",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVHZERDJjemhEeG1hU0kybGNZZFhOZDYyaXZuMmhzUjlBcFktcmFQZEV1VldYWmVMMUVyYzA4NGUtZUxQalRQRnowcEpKYnRzTXdxTjZRQnY4VmJLZTMtb1YxWk9kN295OVlnY2FqdUJoT1JxSGNkZ2FFVlVXUDhCc1MwcWN2SmQ2M285SVUxR1pvSU1rMmZteHlrVldhUDBLTTd4SzZBUm1UaXdBcUl0MGdDNm81bGE5Y1lyMmRNcERkc2J6eUJHUw?oc=5"
+      },
+      {
+       "name": "BILD",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb0E4N0F0Z3JGQVlJT0diU3dydGFQUGJKb3JBSmQwdk9ISXdyUWlRRjlZTHRHTzJyMndMZnhrcUdqNm90RDhTSGM4WTlKV05hUjFKVU94dEs2N3FYZUZWMmRyTE9VUk56azJ3LUFFWVFwUmRyZi1aVmtXMjE2WTlsajE4XzlaYm1ENG40enE4S3AzcUFRNGdLZHU1bmVDMnpoQURINHJhbTljWG1OYzBFYkZqY09ZVEZ0TmNvX1ZCQlItRUZRdFZ1eDRGRGxlcnhySTZxUg?oc=5"
+      },
+      {
+       "name": "ingenieur.de",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM3A2dVpOeVJWa1hlQmxFeEdmUUp3TzM1b21PQkNWeTJ6YkpQVTRTaVJKbWhSRGtUS3lNMDlyUWRhQ0FBMXVSTWg3U1ZPTm10XzVMUl9iUnN5cWpERDNtY1lOdlgzY05iMGNkU3VrZ1Jva0JadEJRVXpXLU1xU3N2MG54MzNnb0lVUm90NzNwN1VaTmdxUUFTcWc4bmNxZkRzWndQX25KOEtQdDk2YVRQSFdmVFphbU56bmVnNWJvUE4xZXdqZ1lEa2p2RmRkQkJUc0xud2JROU14Zw?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
      "title": "Anthropic-Börsengang: Warum der KI-Boom an Grenzen stösst",
      "summary": "Meldung von Blick.",
      "time": "2026-11-21T20:13:15+01:00",
@@ -1078,71 +1143,6 @@
      "verified": true
     },
     {
-     "title": "Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben",
-     "summary": "Levent Alpöge will mit Claude die Riemannsche Vermutung bewiesen haben. Die Prüfung läuft, ein zweiter Ansatz ohne KI liegt vor.",
-     "time": "2026-11-21T17:46:15+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
-      },
-      {
-       "name": "FAZ",
-       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX0tzR2JFbjBERUpncEpsa094OE5GTDFlZ2FEVmlPNUg2MlZzTk9fdDBJY3lFc1J3S01VWnRjcEp6U0Q2RVo0UTMwRG1WLWZwdTVpakppT2xfaDVRLXJiQ2hoZ09mc0J2NG4wU1FfTWxrZjY3Q0R2YzMwdGktZU1uZzJNWjZpRFZYbEh1a3FqU2FCNmFCOVZlNFphYnh3eEt5eWVsSkxsVjZXQVdhNnVlZG00OTJNaXUxTnk3alNRNlkxOHZtUy1ZUWhUanN5TFZ3WkE?oc=5"
-      },
-      {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzdjanc0akZFemdmeWd0VlpfMkxlM1BrOEk1VU1KOGRyVXFUOUotY2pHRk5xQW9BWjdicGdBRk9YLXFONTk1aEJwV2IxeHV4SmtJMW81bmZzSkM2eWxIOGg2c2ZjWWdxWWp6MTNMMTl4bkUxZDZNdnpxZkRnWkhzU3hHMGRMX1pLd2RuOUpEMGxKQ1I3U19ZU21pMU9HZWozVEFjeTFtblJnVHhOTThN?oc=5"
-      },
-      {
-       "name": "DIE ZEIT",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmZzVnFBR2M5VlQ3eWp4Tk0yWmdZUlFXck9Rcy1SZ0lPYXEwNEtmRlRqaWdmanptanV5UXl5U19kdTYtQjRVbE5SYk05ZU5FU3hZaTJfVnk5NzRUZ1BLMVdLRy1malI4eEMxdkI5RGlpWUs0REFXbm5xaGE5cGRVNlFQRjU4UEFmaHZHTnQ2dEs1NEJYWjRDVTd1eERuVlRobS1z?oc=5"
-      },
-      {
-       "name": "heise online",
-       "url": "https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
-      },
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd1kzQWtGa0pISVBuQjFlVHdEdHY3akd1aEMtRmxaSV9oanFuUHFJSmcxdV9YSHhseF82VVphbDFEb09iYWV2LWpTbUlfdTJoLVYwbG9hSUFYT1NoOUZoWTlmYmgteGFrY3lqeGVPcWZOS25rX2M5REhDXzVSckVJeEF5Ri1ENFVFdzd3OHRvcE03c0EtUHB5YWtOR09zMllWSGIybE9GX3lCLTYtZ3BCX2EzRmlnZFZsamJCVDNGcnVBaXMwVzJOZXNWSk1XdmRFMXpNbm5RaWpMWGM?oc=5"
-      },
-      {
-       "name": "Forschung und Wissen",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRmEybk1ZakRnUmF5N0UyMHpycWVCemtKcGZ3VWF3X3h4S1dkSlZYcG82NUZnRl84UmJlWVhfdnR1aGxTTV9qdW1ZRDczNnlZeU1zZl9seFJkWUh1ZGN3YU15TVpISGszLUlCcnptSjNGb0RDWlBuTHJWbEFfcmZ0bmhZUHJldDJvVERESndzcUpRZ2JSaUt5d2dZNTRfZHJKZVctejJ5bndmemZPUmEtcXZ1M0hfR1ZaSGhCNVZ4dVpSdw?oc=5"
-      },
-      {
-       "name": "SZ.de",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMDJIVGJxTEdibkRVeG5xbUowLTNqbFo3V1RMeTVyMklXTTFnc2F1N2pvYllFWXpvb2U2bHctRGdNOHQ2bFVDYV8zd0N0cUotczRTM3gzZ043dE5fM0RHTmsxdVpOM2puVzhhLTdsYVZkQ2wxQ00wQnpZem1xSnZXQVNQZWNMbGt6YUtYaWVZZFZLdkFHNHd2M3dMNXlMSkkxZldTc3RaVWtPX2pfaHlVMnN5NUFyTDZoQ1BDNEpKZjdOVjBySVVz?oc=5"
-      },
-      {
-       "name": "WinFuture",
-       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wbFZNQUVZSjVLUVZYNWpWYWV1eFh4aUIweDZrVXpza2xweEE4Nmh0cnVZZ3RtdGx5allXWTFDNnRUMVJpTElXRDdVc2RZdw?oc=5"
-      },
-      {
-       "name": "ingenieur.de",
-       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN0tQTy1Ja2tERmZGYVVwQWk4a0NDUmd2dVVDZjZRS2tjbkZfZ2Qxa2RYX0E5RU9PcVhjTV9IZUd1QkF2ZlFCWWYzNVJZMmp5MU13SmpfRXZYZm5BWUI1ck5CZl96cE5IcW9xX2NYc2VsYmtoUV9RdkZFVEJKQVA1RWhwWVlYMVZVUF9ZZTFpTTV4Z0Q0QThYZElsT1plR2pyd3VkaVFRSGR4Y2J6b1lwekxHRkFPUGlDOEtGWWYyd0xUMklTY1dnTTNUVUZnR1VuZE92Qmk1OVRIZw?oc=5"
-      },
-      {
-       "name": "Tagesspiegel",
-       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcW9mRERBTXdRMG4ySHFTbWZFNnh1bXVjZ2x4NTlCNUlqelM1Q0VkU1JzS214NXh4UHAwaXNCSDNBRExUT2ZhUEExakVHYmRYOHcwVXNJcjFnSmU3aGQ3NmdmRHY4alh0WFNMQTN0VkJKS1YzUzM0dFZmSFVwbTFNSnZhUndGUEpBSGFVSFd3NkNtb3ZvbzJBcEpNVlNvQkJyMWtIQXluTHN1UWgxeVZCOWdFNzhHT1ljMEp2OFhyOVptR3ZsZFhRYU82M1BvWEh5eVptWDljOVM0UGp2cl8xTHVLVFg?oc=5"
-      },
-      {
-       "name": "Berliner Morgenpost",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWFTamQ0bTByWUxqcEpCLVU3YzNrOGtvVWg0dzUyaTJQWlVWZ2lWbHFRVGdjSnNacGFJZkdFYVFLSE5pVWRJVldzNUdwakVrejJlNFlyY3Vlc0FfRF9IblJkdW1kTmtQakV3eTRlbzlhcGVZWWFVWU1TNkRGUi1feFhIOUlzZWVKdXNGQ1J6bHJLcHU2aU1XaERidmlXRTlhbjFsNHVmejZuY010SGNrcjZOeUhHVXZlVHpYVTZGOA?oc=5"
-      },
-      {
-       "name": "STERN.de",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVHZERDJjemhEeG1hU0kybGNZZFhOZDYyaXZuMmhzUjlBcFktcmFQZEV1VldYWmVMMUVyYzA4NGUtZUxQalRQRnowcEpKYnRzTXdxTjZRQnY4VmJLZTMtb1YxWk9kN295OVlnY2FqdUJoT1JxSGNkZ2FFVlVXUDhCc1MwcWN2SmQ2M285SVUxR1pvSU1rMmZteHlrVldhUDBLTTd4SzZBUm1UaXdBcUl0MGdDNm81bGE5Y1lyMmRNcERkc2J6eUJHUw?oc=5"
-      },
-      {
-       "name": "BILD",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb0E4N0F0Z3JGQVlJT0diU3dydGFQUGJKb3JBSmQwdk9ISXdyUWlRRjlZTHRHTzJyMndMZnhrcUdqNm90RDhTSGM4WTlKV05hUjFKVU94dEs2N3FYZUZWMmRyTE9VUk56azJ3LUFFWVFwUmRyZi1aVmtXMjE2WTlsajE4XzlaYm1ENG40enE4S3AzcUFRNGdLZHU1bmVDMnpoQURINHJhbTljWG1OYzBFYkZqY09ZVEZ0TmNvX1ZCQlItRUZRdFZ1eDRGRGxlcnhySTZxUg?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
      "title": "Anthropic-Börsengang: Historischer Meilenstein im Schatten eines massiven Tech-Ausverkaufs",
      "summary": "Meldung von aktien.news.",
      "time": "2026-11-21T15:42:24+01:00",
@@ -1151,20 +1151,6 @@
       {
        "name": "aktien.news",
        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzJGWmV2V3NueFpveXJLTHp4bUN6aHpGZ2ZRYm5vcGlfX1hWTTZ1MVhBczBDLVdRRXZWY2dCNGwwNVpKWi1IajBjeG9UWGtwWHVSUXR2M0FXVklPQi1Ha0FSd0FiMzNsWFFhbHJzamtKUzBLY2tNVnQ4NkNOV2ZzU25QVGJ4S3kxc1NQcHJCVnBwa2F3Vjg2bzI4S2U3WDZveGx0bmlORHRiOWxGMUszNmt6UQ?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Markiert das Anthropic-IPO den Wendepunkt des AI-Zyklus?",
-     "summary": "Meldung von Finanzen.net.",
-     "time": "2026-11-20T22:42:12+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM1RGR2J2YUo4X2xINUloVno2Mi1FUU1tN0Z1bmo3SEFGRlNPR2RJVzZCZHQzX0lxZzM3TThjOGdrWlEtaG55bUlUSzVJMnl5eEdIZVNTbDQ1ZDlwVzJaSllueGh5cmowaHh4VkUzcUJqUnZBZHBFTFBKTkpJSTB5dEZ2WTlfbXlCRnAtSThodzFmbDE3WWtzUE9tZUROcXd5SW13THJjQ1ZFcnN4SUpiZ2tSUFFMTU5QVnZHdEFoZHRMbWRXRk1SNVZpaDdZdw?oc=5"
       }
      ],
      "verified": false,
@@ -1185,6 +1171,48 @@
      "singleSource": true
     },
     {
+     "title": "Lauterbach wirft Regierung zu wenig Ehrgeiz bei KI-Förderung vor",
+     "summary": "Meldung von Presse Augsburg.",
+     "time": "2026-11-21T21:50:15+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Presse Augsburg",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2l0Qzd4dmRFdXpucm8xbDY1T05ZOEVFbXRFMXhDM3NOSVBMenJEN1VMTWR5c3lhSXhfRzdUcEplMk1Fdmtad1R1Z0lOUk9PWm1FLXZCS25IQlJIWkVpUTBHUzhpLVk0ZXBLYzBBM3B1VkFhOHNLUjVIVkc0cGhuM1pFQ1hIa1o2Y3psWjA4bXZFM3NfQVozcQ?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "SAP Aktie: Finanzchef sagt, KI kostet langfristig Jobs",
+     "summary": "Meldung von Finanztrends.",
+     "time": "2026-11-21T21:32:02+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Finanztrends",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZUpVM2pKSlJWM2xaUVd0NDZpRGZiNDZrZ2pZVm5zX3BBVjNhUGZSLTk3QmRtMkhqbTRQdmNjcllYNFhCRHMxQkZ6a2pZQkdsM1pWanByeElfeGZoSTNPa1NhYWxPaDBMUjloekxuTFBNWXNnUDZnbXlhS2h2LUdsNXJCaTJOcUxGN0Y3VGwwdw?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Sicherheit-News zum 21. Nov. 2026 (Zattoo, Bitwarden, Artex KI-Hacks etc.)Borns IT- und Windows-Blog",
+     "summary": "Meldung von BornCity.",
+     "time": "2026-11-21T21:14:17+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "BornCity",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUhWVnRaMVhnZXI1RFVYZXJSQ1E0ZkotY3RTYWowaWQ2cWxhRW9KVGZVUk1oS1lucEVYZXMtS2dRRzRsY2JIS045SE13ek52d2tEaE1abHNiSzNrbldIVVhMbHh3aTRRRXNyc0RqaEg1UnVyNFFsRWRtMHNyVWowLWJRLUI2MHlERzBXU3lXSjhOMFpQN1E?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "Gemini und Connected Apps: Über 50 Dienste entscheiden teils automatisch",
      "summary": "Meldung von BornCity.",
      "time": "2026-11-21T21:10:05+01:00",
@@ -1199,42 +1227,14 @@
      "singleSource": true
     },
     {
-     "title": "The UN fails to agree on rules regulating ‘killer robots’",
-     "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to…",
-     "time": "2026-11-21T21:03:37+01:00",
+     "title": "Kreuzfahrtschiff Gemini in Griechenland zum Schrottpreis versteigert",
+     "summary": "Meldung von cruise4news.",
+     "time": "2026-11-21T21:00:48+01:00",
      "importance": "low",
      "sources": [
       {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Baidu Aktie: KI-Cloud plus 94 Prozent, Werbung minus 22 Prozent – Chinas Google im Umbau – Kommt jetzt die erste Dividende?",
-     "summary": "Meldung von AktienCheck.de.",
-     "time": "2026-11-21T20:43:25+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "AktienCheck.de",
-       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGRhOW13RFZLRUktU0RuN21zc2RPSmFlXzJHVGEyRFVKbFVWM3IyaThHUWc2M3VrZzBLQmpRMGppRE9zZ1FxOEJmM1paY0J0UkxoTDJGZDhnektQTnRySjNqZHl3eEZDTjlTc1NNc0FtcVphczhydUNCVzN0Z0ZoaGtSSEV1UXJD?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Nothing: Launch-Event für das KI-Gadget findet am 8. Dezember statt",
-     "summary": "Meldung von Caschys Blog.",
-     "time": "2026-11-21T20:30:46+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Caschys Blog",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUl2ajdkMEZTdU8yOTgxdmhuOC16X092YzExSTlVR1U5dmUxdDdvdmVyZVR5UTM5TE9EOVZxSjdXeFVYcWl3MFU2WmZLenhoUmZnQUJKMndWUlhhblhlVXZNZnJKbGtQS1hkLU53eDExTHdoTS15ZC0zTDhnd1VnYk84VENrSmlQcDZyOFhUQlhLWUh1NkZiNENiZmQ?oc=5"
+       "name": "cruise4news",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHRvV1BpV1VTQlpGeW1BOFNnM2dZWGNHTGRNLUZEUGFaX0RtMHp5aUtjMVhKa2doN3VKT0VfWHR2Y3ZCdWpCTm1HV1FBbUh1Q3Z5ZThNYXpqZ1hrblRqMl9KWHl1YllrbEwtUFRmQ0IxXzRzekxjc0NCTmlTNEtDVjVPelVDTzZlMmg0bUhVYXBtYUNRcnNwcTd6SjRwWTFRU21rYXVn?oc=5"
       }
      ],
      "verified": false,
@@ -1302,18 +1302,10 @@
     },
     {
      "title": "News, Politik: Merz fordert weitere Kürzungen im EU-Haushaltsplan - tixio",
-     "summary": "Berichtet von DIE ZEIT, n-tv.de, ad-hoc-news.de, Oldenburger Online Zeitung.",
+     "summary": "Berichtet von ad-hoc-news.de, Oldenburger Online Zeitung, tixio - Nachrichten.",
      "time": "2026-11-21T13:47:18+01:00",
      "importance": "high",
      "sources": [
-      {
-       "name": "DIE ZEIT",
-       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWEdPa2JPZ0dzdFFZdEF3TXZNMkdrcnhuclN3bnZFbHVDSHZJbWJwY2dqMG1zMmZyWjFmNVVXUFIyYUc1dThFY3YxNXJ0VXNVS3dWb0pldmVOajZCMi1WSnRmNXBPc0tBQTE1cVB5ZVNoNzQ4U1U3d213?oc=5"
-      },
-      {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbjdkeF8tWFVpcXhTb1FWbzB4VVlkcFlLODJNYXNrZDRZa2h0YTJJUjU5TndRSWUyTTdnVy02WEt4ekN4NHlnYmJEMnJBZ01ud1lseS14V19lbnVQMmtuODFYVWhDU283b19vbkhka3MxcTRWaW1Cc2tDOEx3MWZEQ1FIQVFEWk5iZzM4bHdlWWNRZDY0dklLbXk2S2ZWRUp5OXNMazhpZVFONUlMWURmR3p4TlA4SmIyRFpwcFF2REVERXJTZ1lF?oc=5"
-      },
       {
        "name": "ad-hoc-news.de",
        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0xCa0tBc1pxRlZhTlMxTGJ0SHMtUEgxU1l5RTR2ekVJVUN0c2t4MmRIaGlnQ09ac01qNHN4MGNxRmVUOFZUalJvZzREWDFQRms4dG1JUlBFU2NRa3Z1d0dhM1huUjk3Z3lIMThySVZOVUNzRTZZbHY0dExyVDVTOFdMRkV3ZEVmZk53RGlONWc4bVFtZ09ma1Z1b1dVdkdPM19ZdkFhdWpvTTVyT1JJNGpsNA?oc=5"
@@ -1325,6 +1317,23 @@
       {
        "name": "tixio - Nachrichten",
        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaURTTHFHRHFHOWpyN2JObDB2N0Z0ckZYQ1JuOXhzdUZzWUFZdkplWTgweGVsMHE1b3g1Q20zWXZLaE5MMURpcUZTWjhCYmJkX2dlS1lkRU9ON0tLa2lqOE5hR1pTdUJ6X2F0Q3QyTDN3LWE1M1dTLV9jeWlFRXl1T3daOU9MNUdVSkN1cGJn?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Ringen um Billionen-Haushalt: Neue EU-Digitalsteuer soll Streit um Haushalt entschärfen",
+     "summary": "Berichtet von Vodafone live, STERN.de.",
+     "time": "2026-11-21T16:21:04+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "Vodafone live",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmZIR1RwaTZITkNEdVM5S3lsbVF5NnY5RlRtMkhHaTduSzRpZllIa250SzFscS1WelJ1LXVOREg0X1NZY2tGTV9va3JGXzh3c3JJektPY3NTTjVJRjZHVlRJUnJIdDJJZ2ZmZG5RemRWNkk0SGZNSGRlYXVadFFaUGNMb1RFR1F4YlFLMjBOc0g2eDRSRXR3R0Y5TjFXYVk5bjlyc25DOWZ4QU5lN0RnQWNkTlMxUDZa?oc=5"
+      },
+      {
+       "name": "STERN.de",
+       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSXRVSjZFRTkzTjJaNVhDZVRQWVJVNUZ6enJWMWZtbDBaUlZZR2pseWVILU9OVy13dE1KLW9iRGt2cWpjbk02cEk1Vlo1VFFWWDdMTlh1bWlaM1Q5MkphTGFHdHhMSkt2UjlaVlBoUUJGdGs2T2hYbXVCM2xJU3pCdmhtdVkyT1RpbzIxU2x2YW9jNWVkWXVRS0NoRkE3OHhHRFBiLWdacVNveGRBQ09PSUpQakZHMlFpQWY0V1h0QVVMVmJHdnNqWVM2RW5xbWFiVU1oLVNn?oc=5"
       }
      ],
      "verified": true
@@ -1413,43 +1422,26 @@
      "verified": true
     },
     {
-     "title": "Donald Trump: Und dann platzt der Anruf des US-Präsidenten in den Berliner Ukraine-Gipfel",
-     "summary": "Kanzler Merz hat 40 Regierungen zum Unterstützergipfel für die Ukraine versammelt. Da meldet sich US-Präsident Trump aus der »Air Force One«. Zuvor hatte er in China mit dem russischen Machthaber Putin verhandelt.",
-     "time": "2026-11-20T13:00:00+01:00",
+     "title": "Merz fordert Kiew zu Reformen auf",
+     "summary": "Berichtet von DIE ZEIT, Handelsblatt.",
+     "time": "2026-11-20T16:17:39+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "SPIEGEL",
-       "url": "https://www.spiegel.de/politik/deutschland/donald-trump-und-dann-platzt-der-anruf-des-us-praesidenten-in-den-berliner-ukraine-gipfel-a-e17f1422-851e-42e5-95b7-fbbd0c8db3b8#ref=rss"
+       "name": "DIE ZEIT",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yWEdPa2JPZ0dzdFFZdEF3TXZNMkdrcnhuclN3bnZFbHVDSHZJbWJwY2dqMG1zMmZyWjFmNVVXUFIyYUc1dThFY3YxNXJ0VXNVS3dWb0pldmVOajZCMi1WSnRmNXBPc0tBQTE1cVB5ZVNoNzQ4U1U3d213?oc=5"
       },
       {
-       "name": "SZ.de",
-       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ1prNTh2V3BzNHNVOGNkS2dNQ2NSendiRmo3OUs3bHRMUlA5Vlo1bHk5dFlWanJXWTczZUNEZ0kyZ0hmTWt0a3drWDJSOEhWcEwxaVFETE1mZ2s4Q2Z3RE94alcweDlaOXo2SktRZmdVTlBvc2dleWdqZzRMZ3pCR3FMNkxsN1U2SHktbl9HaDhBTUtqbzRzNzNCSDZWbnpDRFZpMVVSeDhSUl9hUFl0ZW96TDNYSGNBRVhkVw?oc=5"
+       "name": "Handelsblatt",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0xsemd0R3pKUzAwdlcxUVBKM19BczFMd2FsU1UtRUNJSmJXZUNib3g5bk9USFprNUNpZUdNXzFaSnk0NmxUUG56WU16eXZaVXNIN0UzRGdsTy1QdGUxUkdxR1UyLVluWUZiV1dOS0dHWF9NZkhnQlhGZ1hZaFRLZWtaOEQ2cVVIa0RPQ21YNWRkSEgySkdVakM0QUs3VWdE?oc=5"
       }
      ],
      "verified": true
     },
     {
-     "title": "„Die letzten 48 Stunden waren eine absolute Katastrophe“ – Experte rechnet mit Merz-Regierung ab",
-     "summary": "Berichtet von T-Online, WELT.",
-     "time": "2026-11-20T11:37:15+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "T-Online",
-       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRG9kMXVZSjlyRXFQbFl1ckVjRUJramdHcHdzaWRMNDdhTTNNOE1nOVVLLXpuc2lCMmpIa2ttUTZOT25VaENOS1duc2tVdm45SlBseHEtWGdvLUxXWllsYml5TlVJcjJUSUszZ0R5b3FsVUVPZ1gzU011SkZqU2hzSVZEV1pJeWlOSDNlTXdvWndNWE9lWDgxTTAwWkdIMjBsZGZBQ2xyNF9GcE1CRGp1T19EenM1bmNnQXg5bUM2ODU5Nkc1LUQ0eUFzT2c?oc=5"
-      },
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOa2xvNGg1M00xYUhjbk1CRmllSlZWY3hGRnlQS1dTSVdHUVhEUkZ4dlZFWlhFRW1LNldKVWUtSUZiRUVmeWU0cFFaQlZUd3VTWDVKZHF2bU9vTG9zOG9abndQYmtaaDBjUlR4cE14eERtYU1TbWRZY2lvWVNFV2Y1M3FCajhpcjNBc2lMdXZReko5cnN6S1VuaWlvQmg5YjJBNkpLbWhKem5lcV90NlM4NWpyYmhMejNVUUltQ1dYVjNJTmNiSmdDUlJGUFlJWnNfWUF5VG5FVEJoNWRuUkxCa0czc1FsQWV4YjZnSUljTnp0eWdBSlFuMnlUazhNYU5YZDdWTFZzU1R5Q0U?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "„Da hat der Merz was richtig Gutes auf die Beine gestellt“: Warum Sigmar Gabriel den Kanzler lobt",
-     "summary": "Berichtet von BILD, WELT, Berliner Zeitung.",
-     "time": "2026-11-20T09:41:05+01:00",
+     "title": "Maybrit Illner in der TV-Kritik: Sigmar Gabriel ist genervt von der Merz-Kritik",
+     "summary": "Berichtet von BILD, WELT, FAZ.",
+     "time": "2026-11-20T06:17:23+01:00",
      "importance": "medium",
      "sources": [
       {
@@ -1461,49 +1453,49 @@
        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSUxDdnRYRHBtRzVZX0piZGVQWU5PZWp4cWVrbmUxWXBMT0Iza253RUtsa3JZeGRaMlM4Y0ZCOGtqaFY5cGNrN1U5YmgxMy1FV3ZBVWpweWJsQkZZXzQwbG5GdW1RLWZsUGpRSG5IQlJnSk91ZWlxalA4eE5FSWNEcDRxYUtiMkp2Z2Jtb0RITEhuS2FKQ3BUMlR3Y2RIdWpTZllrNHlUWFFvNnl4aHdudl9KT0F0WWNTTmlSeXZhX2RtQnJLM3kxNDN6V0xMR1JjbjNtNEdUYmVOYmI3Mk9adkNIYWhWaXktZTkwRnlpdUZuQQ?oc=5"
       },
       {
-       "name": "Berliner Zeitung",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDJWN256VGIxaXdrWTRYMVpIVW5RbGpiQktrMGRWRm9EZkVGS3c3TlQwU3RxWks0V3IwbGRUeUFWYnhxUEkyM3dFeWp2X3BzMFo5aHhJMmpJXzZCTzloY1gtODZFLXFWOC1QYWU0MXVIU2YzVExHVDhYYmVFaDdoZW83ZHZzbUQ1ZzJrdWJydU1zNE93a2llMGVBR0JLV21MVFNWcGRKN1JQZw?oc=5"
+       "name": "FAZ",
+       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUG54OTNjMldXekFFZ3BtbnpKZGNmaEx1VTQwdzJ3V3JwTmdvOWpPMWs3bWlpNzB0Qm02NDZZaGpOSl9PWUxwWlBoQjN0WTZPaFUxY2dqaElwajZVYVliemR6eTh4TEZSUmJmNFo0Zkt0X2g0bEFUbjFodHVHbm1OdnBDdi1FeVExMG1BYk4tTGR2RU9xcDdpMVhKZEtCRHlOMXhOMjU0dXVpZGxpQlhZTXRSWEUyNDg4OVA2ejVFZGhhQmlEQVN4VEY0M2Q1QmFWTHRXRHpFX1BEeklUMU43cktrZW13T0hGdzZfcG1sZFdJRUNj?oc=5"
       }
      ],
      "verified": true
     },
     {
-     "title": "Karl Lauterbach: »Dass KI die Menschheit auslöscht, halte ich für Unsinn«",
-     "summary": "Ex-Gesundheitsminister Karl Lauterbach hat gerade die wichtigsten KI-Labore in den USA und China besucht. Jetzt schlägt er Alarm: Deutschland dürfe sich nicht weiter abhängen lassen. Doch etwas macht ihm Hoffnung.",
-     "time": "2026-11-21T21:13:00+01:00",
+     "title": "Zu teuer: Kanzler Friedrich Merz weist EU-Haushaltsentwurf vor Sondergipfel zurück",
+     "summary": "Meldung von Merkur.",
+     "time": "2026-11-21T21:41:45+01:00",
      "importance": "low",
      "sources": [
       {
-       "name": "SPIEGEL",
-       "url": "https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss"
+       "name": "Merkur",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVhQa0VRNDNWNFU1VmNMN1dKZk5vaExQdXFEQzRha2xuOERsOGxVazhsQlpzQlFqeTdsQUNuVWYzSFp6d20xNU00NUVsZG9PSGZScUtBRmtjbkpZcUJfZjFBZlluRTEtLWk2UVdBaEI3Q1pyS20xN19zdjc4azJBYlZNaEk1Vml5X2NnMkVKRDN6eUpVVklNUnhkSVY3QWkx?oc=5"
       }
      ],
      "verified": false,
      "singleSource": true
     },
     {
-     "title": "EU-Haushalt - Merz gegen Kompromissvorschlag von Ratspräsident Costa",
-     "summary": "Meldung von Deutschlandfunk.",
-     "time": "2026-11-21T21:04:07+01:00",
+     "title": "IGH-Urteil: Frankreich beruft UN-Sicherheitsrats zur Lage in Myanmar ein",
+     "summary": "Der IGH hatte Myanmar einen Völkermord an den Rohingya vorgeworfen und ihren Schutz gefordert. Weil die Junta sich weigert, soll sich die UN damit befassen.",
+     "time": "2026-11-21T21:30:56+01:00",
      "importance": "low",
      "sources": [
       {
-       "name": "Deutschlandfunk",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1JrcU9tUktvTXc3SkRPTHFmREtVWFVoVEVwMGphd08yT2picllQel93bjlXOUV2Nm45V3RFUHAwQmt3SWpjR1laTUVkQUN0a25vTGlEOFMyOEh3aWNqeVJITVBhNFdtNGNLWk51dW5uNlFBSkh3VEE0Qk5ibGVKU054WmFaWWVCWTJWQ2VudjhwUTV6bjhycV80TQ?oc=5"
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/ausland/2026-11/igh-urteil-myanmar-rohingya-voelkermord-un-sicherheitsrat-frankreich"
       }
      ],
      "verified": false,
      "singleSource": true
     },
     {
-     "title": "Lars Klingbeil: „Deutschland 2035“ im Alleingang an Merz vorbei",
-     "summary": "Meldung von BILD.",
-     "time": "2026-11-21T20:47:34+01:00",
+     "title": "SPD Mendig besucht Berlin und den Deutschen Bundestag – Politische Bildungsfahrt",
+     "summary": "Meldung von Blick aktuell.",
+     "time": "2026-11-21T21:30:00+01:00",
      "importance": "low",
      "sources": [
       {
-       "name": "BILD",
-       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUldYVy1zQXhTNzQ2NkpkOHVTV1NiYU1XMURMVnhNOWJ1ZC1zMnBOMHB4Ym4yUndsMVhKVWtqNGZZMzBhNjdhR1lWQ3Y4a29iTzdwNmlLNW5NMkNSMkt4dHIzVGw3cTBhcWsyN1FFNmtlTnpUUGxHcjZTWFlreDBpY3J4QjNfa1RNbm9hMG5vMkkwQ1NMdWhNbjVldl9LOWF5MmEtTlNQR3lSQjhya01ZdGF2M25ycy10eTZrNQ?oc=5"
+       "name": "Blick aktuell",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUUNwVkNXM0pCLTM5VU82b0t1eVA1UlRYNmlfaHktaVRxdGV3WjkxeXFyOU9lWFVkRXp1bnlMNVQ5ZWdVWG45aERLZDEtT3oweEN3Y2gtVnhrVzVUdTdVclVyUi1UaUtJSXZXQWFqZ1NKbUthdHFDcDJjNlVrR3ZudFExR1NCSEJuamJ0U2Q3dktsNmFpNDBBSTl1U3BSVEtLb1BfS0tUX0I1N3VuSlpucm4tV0lKNXh6R05jc1RUWkZ4N1J1?oc=5"
       }
      ],
      "verified": false,
@@ -1528,18 +1520,18 @@
    "tint": "teal",
    "items": [
     {
-     "title": "Weltklimakonferenz: Klimagipfel verlängert – nur Trippelschritte in Sicht",
-     "summary": "Berichtet von Zeitungsverlag Waiblingen, WirtschaftsWoche.",
-     "time": "2026-11-21T10:50:00+01:00",
+     "title": "Thousands protest across Europe over living costs and housing",
+     "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+     "time": "2026-11-21T21:47:50+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "Zeitungsverlag Waiblingen",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXpDRnlrc01Vd2NMZ3FidUZ5eHVGZVF3WDBhTGE3OHJkYzRxT1VQc0N4Rk9tREpJRnZWbEFBaE9aNGNMYjRqbnpLS01vVDhfSjNTM3pVS1Y4Tm1ONkZjODFUZ3RvZ1JfSjlPVmtiLW5EdlpERXNzYXlmM0xZVDFCWjNWa19ibWppUWZjNFFjbnlYOHRhVFYzU3lRYThrd3RRbmdELVF3TmJnSEx3ZFZsbVJXcw?oc=5"
+       "name": "BBC News",
+       "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss"
       },
       {
-       "name": "WirtschaftsWoche",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNczIxTkM2eU9LNnBENjQyR3VqZDFqWUR2UjYzV2VRR215XzNDX2RCWlFXY1pNTWhfX2dmbFdUMDFSYnZxZVVBbkR3enlFQmFnS3pEMjBuemhIU1JhbkpETGZsUWRydFd1c05GampscVFBdXJDS0lOdHE2eVBELW43NjRIckZsUm90Ynp4QnF4SjJ0eGc3NDhqV0tLeFZQdWJGb29kbTJWM1dfMWJxcEljWEhDWEQyY20wOTBESU9jSQ?oc=5"
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss"
       }
      ],
      "verified": true
@@ -1560,6 +1552,34 @@
       }
      ],
      "verified": true
+    },
+    {
+     "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
+     "summary": "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC.",
+     "time": "2026-11-21T21:38:20+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+     "summary": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
+     "time": "2026-11-21T21:15:13+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     },
     {
      "title": "Niederlande: Handfester Protest gegen PFAS-Verseuchung",
@@ -1668,34 +1688,6 @@
       {
        "name": "Al Jazeera",
        "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Could Brexit be reversed?",
-     "summary": "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime. But what are the chances?",
-     "time": "2026-11-21T19:18:11+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
-     "summary": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
-     "time": "2026-11-21T18:57:27+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss"
       }
      ],
      "verified": false,
