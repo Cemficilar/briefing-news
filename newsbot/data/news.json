@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-21T08:00:49+01:00",
+ "generatedAt": "2026-11-21T09:00:48+01:00",
  "windowHours": 48,
  "note": "Automatisch aus RSS-Feeds erstellt. Uhrzeiten in MEZ.",
  "categories": [
@@ -11,11 +11,23 @@
    "tint": "orange",
    "items": [
     {
-     "title": "Bitcoin fällt um mehr als fünf Prozent",
-     "summary": "Berichtet von Trending Topics, Finanzen.net, BeInCrypto, Yahoo Finanzen Deutschland.",
-     "time": "2026-11-21T07:30:00+01:00",
+     "title": "Bitcoin fällt auf 60.231 Dollar – siebter Wochenverlust in Folge",
+     "summary": "Berichtet von BeInCrypto, Yahoo Finanzen Deutschland, wallstreetONLINE, Trending Topics.",
+     "time": "2026-11-21T08:52:23+01:00",
      "importance": "high",
      "sources": [
+      {
+       "name": "BeInCrypto",
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydUFmbGtPYTlaS0ljUXFHTTNkM3NBdklDbUZLSVBKQWdZRHYzRFRnNmRQV3VrN2VvOTF2OFZWcUljNnpjeGtJUzEtTEQwdTZNR0NVTUluVjNWQ3QyVHlCTFM4NjRhSEI3Y1E1M3paSUlDamRwTHJyMVRiakc4ZGs?oc=5"
+      },
+      {
+       "name": "Yahoo Finanzen Deutschland",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0t1RmZ4WjgwS243M0g4aGlLMlNxQjdoNkxLTUNTZG9ra2pBbU5sd0hEaUs1bVVUeENBRmFwMW9aOEpFelJNOFIyV0ZqY0ZMeFhfajgtdHZxcWFxZXROUEFxNDlvcU5VQWFGRHZMT2c0a3N3WnBZd29McUN5T1ZuWUJJTWlYajRrd1ZEYUt3?oc=5"
+      },
+      {
+       "name": "wallstreetONLINE",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVU1qbmIxLXhxY0VObWNLd3JLMHV2VURuN0tjUndsWVlhcFZNOHZDVC1EZUZJNmFIemFJcWRJaHBVNlFZUzNKUW5WeDBLU19faHQzR2ptaVNINmVHU0o3MDMtSnBIbWdHdUNHNVVtMkFNSHdlNERZLURkVnJZakZZN2NkNnpYdjNUVUdJTXVtT3RHczJDTUFibm9JdDZKT2RucWE0SGJvZWxyMEduM3AxNi03UUhpZjJaSHB0c0FRcXlZc2RoLWFfZ3dyTHdRTjRuYWVOTw?oc=5"
+      },
       {
        "name": "Trending Topics",
        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWm9aWGUtUHNDWmdHSTRaeUxXQUgyaDlQTkpPb2ZPWlptdTRUblJSQmFVRnduZEFvSGNocGk2aHRFaEdpRFdMaU8zYVdmRmhfdTFjV3RsMVRSVUZGNTRoTTc0WW12LWtfcW5RVkJwaTRxQmk2VVF3dkFsd09vejNGOUxYX1l0TjVZMlE?oc=5"
@@ -25,28 +37,20 @@
        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZE4yT014X25VSHBaWjVxXzF6eEhMNXpJZ0U3YXhuVjhOT2dYa3FTS0hWeUxELXZKSWlILUcxdG5tZ3BESERMakVITEx1SFJUQXpSb1pMWUJwa0tsZ0lGM3JiSWtIaUpRNUZTd3RZSlRLajBKWDBlZmVyczR6LXF4dWxlQzREUHlURDdveGVuQWxEbU9uZFhzOHRsTmh5amxjNC1mOFR4RWs4NnYwZmotaldBS2hfLVI2UHdmTER4d1lpUE5LX2RPX0kyY0gyZmlPalFfNno1Q2RiNXhHcmo5b3M4VFFmUlBvbWVadg?oc=5"
       },
       {
-       "name": "BeInCrypto",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rbEE0Zm1FcnhxR2hiYjZaaWluMXBqZzJkdGtxN1dmdEphai16ZWt2SGVyREtaazZSYjdac1RoY3N0RTVqbm1ReFRZV09FWXV4a1JzdDd3Z0VFeE9HajhFOHRiWGpDM3V6bDM0YlBFOHo1eEE?oc=5"
+       "name": "Watson",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0xmTXlxYVVQRUhkUzgxT3JkYjRfWHFFVkRIZk9yYzJFVzJBYUVXYXNaT3NPaHhmUjUtcXVEOGFYcGFUYlNZTlZWSkxpMEpFZVlKYVRXb1lxZG43TTFsOEVsT2NVVVZGWGNOR3Z3ODhncy02YlY3ZlZfbE5HLXF3akhHX2lKYlVERk1IVkdDNnIzRHpzdEZaMWZsdXZKVkozYWluc0VnSnQ5QUFHRlJkcEZQTmI?oc=5"
       },
       {
-       "name": "Yahoo Finanzen Deutschland",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd21uak5VZFlxQ3A4V3lybWhqU2FXOGU2TWh3aFBMTld4T2VWYmkwbFUtbEo1eGdYTUFKa3hjbExtYjNvZkR1Qm1NbFkxVTM5U2pISmlPSU5zYXdXVDhKVDR6WV9PTzJPWUl5ekx0ZzQza19WRGNBdzZVazgyMmw4cHB1SEJPSkVtc01qbGFGZWZ4Zm1SM0RJNg?oc=5"
-      },
-      {
-       "name": "CoinMarketCap",
-       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95YU43N1YyRmtqcThJRURiRTBacnBTVHFuTkRvUG9IQ3dnNXhyamVDWWRvM0NIaWx5WU4xazNUdUJrM281U0I2VUljU0s2djBWZ2t4akktbnpfaUNzV3NpXzRFNlFwWmd1MWlkV1pOdl84bGNE?oc=5"
+       "name": "BTC-ECHO",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckdEclhEd1d0OG56UnRyMFRGLTc2QzRKX2JleUctMi1QREtBUVQ0cUYxMDdKdGJqRlhsVllBNzdHR3JlVUtwS3dlY000VjRha1pGOHlxV0tDZWNzcFhFUHV3YWNRTnRGVnVxVGllVFN4bnBOaVl1QUt4UXVOVVF5aGI0bFNiODZ6SGtMajRQcUxvdHo5SkRvNDhreEhIeElBcmVOMEdjbVVMLS1uamc?oc=5"
       },
       {
        "name": "n-tv.de",
        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGZBSWJrZHh3Um5PWktrcy1rYWNNRHJiOE8waTZOWGxhWFp6N2V4X3VhOV91M09DRFV5MGczSjFCX2dYdTgzMmlidVFSWV9nTmVObGROenhjRk9VdVIxcV8tTVdpQkZFVHN6RDBLWERTR3hGWWhoX3cxeE1HZHpfVncyalpKdHZlSzU3U05VSzR5OGNsblA4TEZ5am05Rm9VdlE1ODlsWmZZcVdPNXlZVGV0eHR0c0NC?oc=5"
       },
       {
-       "name": "Traders Union",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeGU5UGp1UkZWRHAzSXlEOHdfcVNBS0hsamcxT0tOSDRFdkl1em9IZlVCMS00WjdUdl9Mdm9sbWtKT2x3NElJT1dQV2hDNWtzOTFWSnUxR2gwWHg4SEJXYWJpVHdWMUttcFhoNGJmVVhxNk85LXVHcVRDWmNZQXZpSW51bjhiMDhXSkRNcVpwZ21tVjA?oc=5"
-      },
-      {
-       "name": "TradingView",
-       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHOXdJLXNBR3ViNGhtbnNIQWNTRzhZbmx1RGNlVFB6ZEtFLTJmRmVDTU9HOWp0RHVueFlUWVFNTG5TRlBiQTd1UlhaVl9hNWczV09LbXBvM0FMSUhuUFlUZURCYXM1b0pCRE9MNFpVM1o?oc=5"
+       "name": "DiePresse.com",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEZSdjB0OGNXREt3UGI5NkZCTThHTHpfVjJQUXpzLVZUSjFQWjBSbTA5cUxRQmFPSTJGUHNMbElCcjRvc1pjQUVEZkQ4UEdyVnA5bUw5QTJIamJRazBxQUl4cmlmNUFPbGtEUVBmLVYxS2FtbE5GeFBEajJBMEwxRA?oc=5"
       },
       {
        "name": "Blocktrainer",
@@ -61,37 +65,8 @@
        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjhRTm1Mb0UtamhPeklIdDFQRlZmX200ZEtHZjRCTDFoTFFDaEdTNFAwenhoRElmOXpLd3R0czZNRG5Jc3BwLUx4SzBreWdVXzB3ZDl6VVNUQks1Q0Y4ZERDakxHX1VaVkxuR3RNUDhzWkNFTjhjamI5Zl9zTURXRjZOLVFqQTVjd0lXelpLYTdNWDFHV2xVczBYaXJQS2pNNW5UcUxR?oc=5"
       },
       {
-       "name": "Der Standard",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2ItSVctTlhzV1F6V2VKaE4zZVFDTkN0TUNkTTFzeVo4VVRDTl80eEpsSGJ2WEZOUXQ1Q0w1cXZXSEJJWENTNFo4V0ZNa1J5aGF4Vlh2VjhndHg5aFVReHRFWUoyYWZ3Xy1mYXhpZmIyS29KY1NoTFFiTllONWhZdHdJcmFTWi1yY3lISVk0bkw?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Bitcoin stürzt unter 56.000 Dollar: Liquiditätsengpass verschärft Krypto-Ausverkauf",
-     "summary": "Berichtet von BTC-ECHO, AktienCheck.de, Investing.com Deutsch.",
-     "time": "2026-11-21T06:46:00+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "BTC-ECHO",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckdEclhEd1d0OG56UnRyMFRGLTc2QzRKX2JleUctMi1QREtBUVQ0cUYxMDdKdGJqRlhsVllBNzdHR3JlVUtwS3dlY000VjRha1pGOHlxV0tDZWNzcFhFUHV3YWNRTnRGVnVxVGllVFN4bnBOaVl1QUt4UXVOVVF5aGI0bFNiODZ6SGtMajRQcUxvdHo5SkRvNDhreEhIeElBcmVOMEdjbVVMLS1uamc?oc=5"
-      },
-      {
-       "name": "AktienCheck.de",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORG5zZUdCdWRVTG9GX3dkdUg4YXVjUmlWWWNvYTFyT00xbG4xVXRzVk1BWUVWUVptN0pUWURPY0p5T0ItQ0pkc3Q4cGxSaEg0b1pDNk42cE5qU0NaRksyNTFFZzVOYW9SSGpuX0NkU3J6WllkVkRVNjZRQ1JBaTJjeWRTVEdyLTFidEF2NXZDMTRwRG4yTTF0b19VYlp3ZTFxSmN4b2xMU2I2c3psSFE?oc=5"
-      },
-      {
-       "name": "Investing.com Deutsch",
-       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWJSVW90dkQ1M3VmM3U1aF9nb1k2cS1rb05NbVJHc01JQ0ZUWXJ3ejF0OF9UdHY3SmFDQ0FMaDJrUmMycXdQRWotUzZrLW50Z08tc2pjMDhsYkh6NlJHZUZETUNJR3hJVks0Z2htWXF5VDlFTjFQbEdwNXNtT3AwR0xnYlQ2TzJfYmZ5V1ZONkVFYUw2Y1lBNWR3cG9DOW4xdFowN2NIMlVHdU91UDdJTDVIdGRuLTA5ZGpGaHpIS0JCYzNFNWZxU1hVZm5oS0YtSXJjaG5IUQ?oc=5"
-      },
-      {
-       "name": "FinanceFeeds",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUE4VUwxQ3MxdEdMLVV6d1lwbl9QcWJqbkU2YmNWMzZHVUl3S3RhRXRzaWRVOWp2ZnhRaDRRYXNjdk50R3hwRlN0LU9lODBjdVNSd0Zvb0ZSTFhSbXVvajJpUGEtbmY3bjhDOXdGalFmUHpYS2xaS1NqdEJOVDJqSERGVmh0enBfcFpJcjlPQmo2alUxYzRkQ095UQ?oc=5"
-      },
-      {
-       "name": "Traders Union",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3dHMkNuMEY4emZyWWptbnNlZU50dzBhQm9RTzVGV21wWUlLanVlbkJtOTk4NlZPRVhsUVJhQ1g4bnR3dzVXOUswMTczZy1tMzFpUWRSX3ZHNDFoWWMyNllHQWViVVIwQzJ6bXpacHJ2UUlwd0JGWXB5aHVlTnBXTTRWeFlkd1NFRnNmdnQySE5oYTloYzRv?oc=5"
+       "name": "aktien.news",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUm91Yk9MOGtXdWowWl9ENlF2ejdfeXp6SlN1MHlld3lTVFhnMl94WnVTdlBGMUJHcnotU2ZaemxyQmFNY0wxYmpwM1BBZ1hvc3dfa2F3dno3dktmM18xaURLSmJyWHA5OUZRVWdseXBHbXBvX1Nsd0M1YlM2VjhuQmptWEJ5bkZ2NWxaTkV3?oc=5"
       }
      ],
      "verified": true
@@ -112,7 +87,7 @@
       },
       {
        "name": "Vietnam.vn",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTZzNVNITlVQc1hmNWRmS0wtWFFRV3VpdG42ZnpkOHNjQV84RkhKNndoT3ZqUU4ybU50eTJORWNtZmw2dFV0eWxTWVFZcGo2aUI4dkRlN21INUh1Q2puOWkwYUxwQ05ha2dBaER3RFNwV2R6STJsM0h0SHBuX2VPbDkyOGlwMVUyZVRGLUdGOFNZZC02?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc0djazVOZ25WLXM4cVRrVmFKMHZ6UFhVaGpwcjIySXV5dU5qM21KRjNodFFnSlhJWi14VVZudXNvZDU2QzVRQUEyR2Y2YnBrZUNGSkxQTVo4ZGI3TUozOWt3TkYwSmZ4LU5CZFhuby1WNXV1TXhnNkNvQ2JMenpMZHFmeERkdDlWSUFVN2JydVZnaXNtWnR6UUllWnBxUEt5V2cxVXJSeDZMUVo3Ni00Q203SW15QUNObWFLSk1UVFJvdThFQW90NQ?oc=5"
       },
       {
        "name": "TradingView",
@@ -129,7 +104,7 @@
      "title": "Wochenrückblick: Aktien-Crash zieht Bitcoin nach unten",
      "summary": "Meldung von Crypto Valley Journal.",
      "time": "2026-11-21T06:19:25+01:00",
-     "importance": "medium",
+     "importance": "high",
      "sources": [
       {
        "name": "Crypto Valley Journal",
@@ -138,6 +113,31 @@
      ],
      "verified": false,
      "singleSource": true
+    },
+    {
+     "title": "XRP: Kurs fällt unter 0,99-Dollar-Marke",
+     "summary": "Berichtet von AktienCheck.de, Börse Express.",
+     "time": "2026-11-21T07:00:21+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "AktienCheck.de",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORG5zZUdCdWRVTG9GX3dkdUg4YXVjUmlWWWNvYTFyT00xbG4xVXRzVk1BWUVWUVptN0pUWURPY0p5T0ItQ0pkc3Q4cGxSaEg0b1pDNk42cE5qU0NaRksyNTFFZzVOYW9SSGpuX0NkU3J6WllkVkRVNjZRQ1JBaTJjeWRTVEdyLTFidEF2NXZDMTRwRG4yTTF0b19VYlp3ZTFxSmN4b2xMU2I2c3psSFE?oc=5"
+      },
+      {
+       "name": "Börse Express",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMU1Ca1d3R2F3bU5uRUZHUVVUemp4VmRBZ1ZMMWs3d3lxVWdJZndzbTVXX19ETHdVLXRwWUgwVUlCckZ5ZXRmeGRXMFY3LVIyTDBzSXpKejFiRFhuZDNlek5tOV9ZbkFkZ1hrZGpadGc1YUNhRTBtaGZCU3d5UXFQSUNkUkJZUHBiY1J3dU1HQ0ZJSEVq?oc=5"
+      },
+      {
+       "name": "FinanceFeeds",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUE4VUwxQ3MxdEdMLVV6d1lwbl9QcWJqbkU2YmNWMzZHVUl3S3RhRXRzaWRVOWp2ZnhRaDRRYXNjdk50R3hwRlN0LU9lODBjdVNSd0Zvb0ZSTFhSbXVvajJpUGEtbmY3bjhDOXdGalFmUHpYS2xaS1NqdEJOVDJqSERGVmh0enBfcFpJcjlPQmo2alUxYzRkQ095UQ?oc=5"
+      },
+      {
+       "name": "Traders Union",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3dHMkNuMEY4emZyWWptbnNlZU50dzBhQm9RTzVGV21wWUlLanVlbkJtOTk4NlZPRVhsUVJhQ1g4bnR3dzVXOUswMTczZy1tMzFpUWRSX3ZHNDFoWWMyNllHQWViVVIwQzJ6bXpacHJ2UUlwd0JGWXB5aHVlTnBXTTRWeFlkd1NFRnNmdnQySE5oYTloYzRv?oc=5"
+      }
+     ],
+     "verified": true
     },
     {
      "title": "Ethereum-Crash: Droht dem ETH-Kurs jetzt der Fall auf 1.000 $?",
@@ -166,23 +166,6 @@
      ],
      "verified": false,
      "singleSource": true
-    },
-    {
-     "title": "Krypto-Kurse: Bitcoin und Altcoins brechen ein – Markt nähert sich Mehrjahrestief",
-     "summary": "Berichtet von CoinDesk, Cryptonews.net.",
-     "time": "2026-11-20T23:24:07+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "CoinDesk",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYjJyTTVOdlhoeVhuQ1lmRkw4U0ItSE95MUFfdGlIbU5DU2NUZnlzYVZXa2xya1hzTlRkOXBIMDFmdTAtTlNpTzg5MmVzRk1zcDlPX0Q1RDZXNGlGSk04Z3VrazZZUVZrTG5nQTBEbUYtZFRkdFpVT1FYQnkzYVZuV25idmRlSmgzeW1CcFpITmc3OFY1X1FiMjNkc01TTHZEakh2cHVNSmhOVzBVWG81NWdXQjR0MjEyOUFzeVY5ZjNKNUZxWnEzWDFhUjMzQQ?oc=5"
-      },
-      {
-       "name": "Cryptonews.net",
-       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YN24yWTRDRzBYTXVaVjJIWkRkNktOX2dreEg4QkFZLUtILXZTT2pONVZKTGtCLUdMZ1NKTWYtZ19sUTBFLWRzRUdOR1Q1bDU3Q0VzSFlraHVYd0JzTlJj?oc=5"
-      }
-     ],
-     "verified": true
     },
     {
      "title": "Robert Kiyosaki begrüßt den Kursrückgang bei Bitcoin, Gold und Silber: Das sind seine Gründe",
@@ -256,6 +239,23 @@
      ],
      "verified": false,
      "singleSource": true
+    },
+    {
+     "title": "Bitcoin-Kurs vor 60.000 US$: Wie schlimm wird es noch?",
+     "summary": "Berichtet von Yahoo Finanzen Deutschland, sharedeals.de.",
+     "time": "2026-11-20T16:56:46+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "Yahoo Finanzen Deutschland",
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVk5mTWxlYV9CV3dpVHpfc3d4dm5ySWFrN3NXNUJyaWltM1JxZHE0TWd1dk1nQmN3aXo2aUhDZG5wZTM0S1ptR0trZzZPRWNoMlA2MjVFdmtlc0pmREV1R1FET0xxVFVGZ2dxcUNmaWtEbFFjRDVXZnVYX0E2S1JFNXRFMGxlSEN4aVk5UEl0OXA?oc=5"
+      },
+      {
+       "name": "sharedeals.de",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeG4zMXRRZGFQRWZoQ1pNYmhncWU3RHctdXVUcml5YXZscGVsaDJLU2h1N3h4Q2tYb29tRlN4MWtKa2pJTUhhV1hqOU53aU4zUGJfbzU3WFVWaWtmOTN5alZjWlMwN2tUMTVPNzNQWDZRQkx2STViTENZZDh1WHF4VWR6Q3A?oc=5"
+      }
+     ],
+     "verified": true
     }
    ],
    "more": [
@@ -276,14 +276,14 @@
    "tint": "green",
    "items": [
     {
-     "title": "Vanguard FTSE All-World ETF: 8,2 Prozent Minus in sieben Tagen",
+     "title": "Vanguard FTSE All-World ETF: RSI 27,8 nach 3,3 Prozent Sturz",
      "summary": "Berichtet von Finanzen.net, Börse Express, ad-hoc-news.de, Börse Global.",
-     "time": "2026-11-21T07:30:25+01:00",
+     "time": "2026-11-21T08:29:08+01:00",
      "importance": "high",
      "sources": [
       {
        "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWk10cWQ4NERCUXJJZmppSEVydVQ0eVJSN2prZmpLWU1mblV2Z05WUnNfTlZ6czRBZmNVbVpSZmJic1QwRmtaaE5ZQm5RUFFFNTJKVTlQd1QyWk5meVFpbDR4V0h2Nm81bVByRzlhYUNCTGhWdU9MV0dyQjgzOXFzSEQ3OVVCNUJTN241NFlYdmdjYkxIajBKZEt4NzhzNHNtNXFCRjJHOWxJNll6Z0lMU0w5S1oyLXVvcUdF?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVZKOG00RW0wTXhKNm5DaWlEeG5FcUdlRGlDTUxFZmc4X0p2QUN3ZUJ4NjV6OHlQX1dYNVREdFIxUDlkSWdZd3RLaGFrMVpadTBIUXZ0dVk1WnJuU3BpaVRJUDVDYlEyQlJBNFN6Y2FXQV9vQmE4cFFNSU8xbnpHYnp4TkNyUEhsUm5rRUxpWXRlVm5zbVlUZk4ySUJoNGd6Mmg3bWlB?oc=5"
       },
       {
        "name": "Börse Express",
@@ -301,43 +301,47 @@
      "verified": true
     },
     {
-     "title": "iShares MSCI World ETF: Sturz um 3,3 Prozent bei US-Zinssorgen",
-     "summary": "Berichtet von Finanzen.net, Börse Express, ad-hoc-news.de.",
-     "time": "2026-11-21T03:52:44+01:00",
+     "title": "iShares MSCI World ETF: 3,3 Prozent Minus am siebten Verlusttag",
+     "summary": "Berichtet von Finanzen.net, Börse Express, ad-hoc-news.de, Börse Global.",
+     "time": "2026-11-21T07:45:21+01:00",
      "importance": "high",
      "sources": [
       {
        "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVZKOG00RW0wTXhKNm5DaWlEeG5FcUdlRGlDTUxFZmc4X0p2QUN3ZUJ4NjV6OHlQX1dYNVREdFIxUDlkSWdZd3RLaGFrMVpadTBIUXZ0dVk1WnJuU3BpaVRJUDVDYlEyQlJBNFN6Y2FXQV9vQmE4cFFNSU8xbnpHYnp4TkNyUEhsUm5rRUxpWXRlVm5zbVlUZk4ySUJoNGd6Mmg3bWlB?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR1FfOEFCRWRXSGhFNGR0d1g5eWJGYm12aWFzOEZPOTBFVWFJSExvVEltbFNDMWppZDJCRDF5YV8wSXhoRThDZFhvX0pKcHNWY0M5bXFiZkp2RjdwanlkUEZlSHBPU0kxaDNOemVhQ1RYTzFMWGhEQW9fbHQ1NENhTmpsa3JaUHZSOE41Zm12ZnpvNFVyRmc?oc=5"
       },
       {
        "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFNsNm1NdkxSTGtMVWtrb2dxbXVRU3dPOGJBLXRQeGhKNlV3TzJpdUQ0d3p5aTAzZ0FSSm4wVnBxTHJQYkRkSXNqSXhqaVNpVlFkM2h3Y25JaWJ6NVV5T3BZSXlPSVVla3dzSWN0b3prMHdsbEx6WnVyaTRBVlNOYW9nRWlrZjRYa1hsekNMMENTanJyYmhYZERFTzhkbkFaTDljV25fTHFaYkZFR193WlNsNA?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1dHUjRUa3ZkNWt0NUtGajNwaE0wZWVmMHp5aWlvM1BnV3V5cV9tYlpOSkJmUWtnZ2lLdkN0VVFXS3FSZlZFTk41Rmh2SVhFTUVCY0N5MURFUk9BZ0xtWm83Zy11OFJnRHVfTEI3YUpraUJRdVQtc2dtSURfTGthUjFmWEJ0LW1wVzZWQXMwZ2VYTVVVZzh5dXI5eC0zME9ERm9pUndJZHlWUzd0TjZwbkJhN255UmFNTlh1NzFyaVFIckI0VDQ3UFBFOC1kamNGUGxv?oc=5"
       },
       {
        "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaGtULVByVWc1RVNhb2sxQURsS1VNdGw4LUdyVlM2cERaQWNxeTJBbDk0dTJ3dXdRVldVX1NNcUdQdEY4bW5udXl0NE90SVlKX2VXajFjT0ZQYjNCbXVhY1AtTVZCSkNqeEpqVnNmeENXek9VVlc1MllGbzBaRnRteEtuazdUWmJoUG1CUVRpOU1CRUlUdmlOMGVoXzJXUXNuaXNNN0p5V2g4ZlkxUXlkeE1iVF9xVFlMY1R1SGdfbkZFZF9jWVlsRjRQN2xmQQ?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNzk0aGs0U2JmQk5fRjFvMU13Q1VDZWxiSWtqMS13M0R5RDlOS0JXaWNwN1hPeG5PbVZRMkpOejJDZnRLSjBER2FSakdlejg3aGY2VUZkeG4yM3BlVlNVSkF0S3huNUcwZThFM0NXMFdmeExPQThFX0w1dTN2OFp6cldnSXcyeXJQR0VsVHBDa2NCc2tpUk05OUJKR1dCaVRQbXJXY1RBZ2pEbmdXN3BPWUs0QnJSaW9Ob3dEZWhXcGRwZkVNVi1oMWgzUmVnR1dTM3FXQ25NSGZueXBUY2lUbXBB?oc=5"
+      },
+      {
+       "name": "Börse Global",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUW9UdjV4U3BfSzR1eERtRk90M0ppc3F6azRwMjk4X0hsMEtzdmpnQ2NvZnNWdzlmR3RuQk1Nd01XdnJVUTVMaFU4ZFBtNkMxUzdPakYyaWNjUjJ3T05mN0VJd2l6WGZtVEdBV3R3YjVkeWpKNERFVWg0N3FkaVl2RHdmb0pmRUlneVktbUFUZWctUFhjY0xmUWN1Y2FJZw?oc=5"
       }
      ],
      "verified": true
     },
     {
-     "title": "iShares Russell 2000 Index Fund (bStocks Tokenized ETF) Kurs aktuell: IWMB in EUR & USD live",
-     "summary": "Berichtet von CoinMarketCap, Binance, BTC-ECHO.",
-     "time": "2026-11-20T23:09:57+01:00",
+     "title": "Bitcoin ETF: BlackRocks IBIT mit Rekordabfluss von 541,1 Millionen Dollar, November-Minus bei 3,47 Milliarden, Bitcoin unter 60.000 Dollar - Wer verkauft Bitcoin jetzt in der ETF-Hülle?",
+     "summary": "Berichtet von wallstreetONLINE, BeInCrypto, AktienCheck.de.",
+     "time": "2026-11-20T18:21:06+01:00",
      "importance": "high",
      "sources": [
       {
-       "name": "CoinMarketCap",
-       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdERkOWV5U2tVQXVzS1l5TkZsUFZNZzZQTXFGMXBPaUJ3bUluS3ZicGdENzlBRVZiaXVUNjBaWUtiM2xEamNkUW1HNG42VkxRb1p2UXJia0VGLVlJd3hXUnJMNXFYenl4VU82SWxwLVVMbUlqY3JBWGFUbEw5Y3NGLS10Z1RtRzg5MmR1cTJ5YlcxYWhjcFE?oc=5"
+       "name": "wallstreetONLINE",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc1JQNlBLVV9GVDBhSFZWVzIwWUNsSlh1QlJzZlBiU2lITTJZU0o2V1FJVDQzSVI1VVRyN1VXaFRQdU5pY3U1T0wtYjl1MTZ6MU5XTGN4b3NQZFB6QXR2Y3VsLTVmdkhaZG50dno2N3NaWEVpMVZoZnJPRHhNLWZ1bWN4N284Tk03THBaSmV5dzRkaFFLU2VCNHFDSWJfZHZIYmU3aXpFejNoTjJBak9fcUN5WEFzZDlzSFFFOENNRU1saENUUlEzM1ZvOA?oc=5"
       },
       {
-       "name": "Binance",
-       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwbmt3LVQtQkV0TXoyUEZTUHpId3ZMVXQwS2wwT0NsanRURGRPbEZ6VEpFMnJkcEFhMzgzcUxlTklpYXYtRWFnbFV0MjkwRkFGMEstNXJ4OEx4cXp3Y0hkeUd5RmZncWxfdzkyT1dCalpNaEQtNmVvUUJqM0VkZw?oc=5"
+       "name": "BeInCrypto",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpMUZvNGRwSUJfcU5zOFR2S0tkbUpFaldGTXB6TkxDVlYwa3pLblM1ZGtZcWQwWW52S3UxQ2tTc2RBd1RsenN5U2tudGRKdmhnWVpqR2RUNi1oUnlPb2tWY09BTDI0TjYtc0N6ME4xWGk?oc=5"
       },
       {
-       "name": "BTC-ECHO",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVzBWTWRCVzFSWXdlZEJxOXBrR2tYanhTWTlKUF9NSjBQMEVrQTFpUXBOaXVJa1RzLVU5SjAzT3pjSFpoQ0RCa2I1U0RPUkUwbFR4OE81LUdNUU00SzZ6MFpZTkRSenc4VlhGYzgwenhQTS1JZk5sM2VsS0xKd1loWWlsSUV5Y0s2dGFn?oc=5"
+       "name": "AktienCheck.de",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3FSaDFkb1FMZTFVTG9URkQyZy1FbmVHLVB2OVVnMjUyQlVWZkJNQ3N2a0hHd2hYcHpjbDYxTzNBalB6SWtMVnBMajVBRWFqMlN4SkN4bnN5MUlnZGJsb2pRamJGeDBYbVlvYXdPV2lkQXA5MkdFV1pjRG4tWTRkd21NRmVkcjExVnlibGlmWWJwdUIydlhtcVJZOHBKaHZvb3p1Zm8wM1JSRUk4WmJsNA?oc=5"
       }
      ],
      "verified": true
@@ -360,56 +364,35 @@
      "verified": true
     },
     {
+     "title": "iShares Russell 2000 Index Fund (bStocks Tokenized ETF) Kurs aktuell: IWMB in EUR & USD live",
+     "summary": "Berichtet von Binance, BTC-ECHO.",
+     "time": "2026-11-20T23:09:57+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "Binance",
+       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwbmt3LVQtQkV0TXoyUEZTUHpId3ZMVXQwS2wwT0NsanRURGRPbEZ6VEpFMnJkcEFhMzgzcUxlTklpYXYtRWFnbFV0MjkwRkFGMEstNXJ4OEx4cXp3Y0hkeUd5RmZncWxfdzkyT1dCalpNaEQtNmVvUUJqM0VkZw?oc=5"
+      },
+      {
+       "name": "BTC-ECHO",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVzBWTWRCVzFSWXdlZEJxOXBrR2tYanhTWTlKUF9NSjBQMEVrQTFpUXBOaXVJa1RzLVU5SjAzT3pjSFpoQ0RCa2I1U0RPUkUwbFR4OE81LUdNUU00SzZ6MFpZTkRSenc4VlhGYzgwenhQTS1JZk5sM2VsS0xKd1loWWlsSUV5Y0s2dGFn?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
      "title": "VanEck Semiconductor ETF: Sektorindex bricht um 9,2 Prozent ein",
-     "summary": "Berichtet von Börse Express, Börse Global.",
+     "summary": "Berichtet von Börse Global, Börse Express.",
      "time": "2026-11-20T21:16:10+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOVAzNDZvM3E3Q2ZwNm4tMndnUGJWUjhOZk9Yalc4WnVmVTdXdjdIT0N5X3AzQU5UY3hYY1A3N0R2OUJwbFBXRm9JVy1tWUxNdmhheHhnNmdIcTJHMUE4a3g5Qi12RW8yS0NOX1lmVXVNS0RHRGFjcnZ1VGd0YW80RzF2Mzk4RkxKUlFwQlRNS1BSVjBMSVdDMFJrOE1oeEFSUHdVMldLVkxyR244Q1ptbGlRYy1RYWM?oc=5"
-      },
-      {
        "name": "Börse Global",
        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNek5ySlFxOEtPc2hBT21KS3lMcS1PZ2NsaS1LSlBsRC1OdjBUUV94YVVRYzJNZHp1eFIwMHA2UDRYYkhsM0lHbUpya2hfcjlHcG40SlZ3TWhWVmlhSk5abTJrWFpnQ2M5RXZtRGdXTWRqODMyd3hZdGduM3dzNDNsZ1I0Nk4yOThGdU9nd3UtaWNxTGlfQTdFbnp3?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "iShares MSCI Global Semiconductors ETF: Nach SOX-Kehrtwende 7,4 Prozent Minus",
-     "summary": "Berichtet von Börse Express, ad-hoc-news.de.",
-     "time": "2026-11-20T18:23:10+01:00",
-     "importance": "medium",
-     "sources": [
+      },
       {
        "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1dHUjRUa3ZkNWt0NUtGajNwaE0wZWVmMHp5aWlvM1BnV3V5cV9tYlpOSkJmUWtnZ2lLdkN0VVFXS3FSZlZFTk41Rmh2SVhFTUVCY0N5MURFUk9BZ0xtWm83Zy11OFJnRHVfTEI3YUpraUJRdVQtc2dtSURfTGthUjFmWEJ0LW1wVzZWQXMwZ2VYTVVVZzh5dXI5eC0zME9ERm9pUndJZHlWUzd0TjZwbkJhN255UmFNTlh1NzFyaVFIckI0VDQ3UFBFOC1kamNGUGxv?oc=5"
-      },
-      {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNzk0aGs0U2JmQk5fRjFvMU13Q1VDZWxiSWtqMS13M0R5RDlOS0JXaWNwN1hPeG5PbVZRMkpOejJDZnRLSjBER2FSakdlejg3aGY2VUZkeG4yM3BlVlNVSkF0S3huNUcwZThFM0NXMFdmeExPQThFX0w1dTN2OFp6cldnSXcyeXJQR0VsVHBDa2NCc2tpUk05OUJKR1dCaVRQbXJXY1RBZ2pEbmdXN3BPWUs0QnJSaW9Ob3dEZWhXcGRwZkVNVi1oMWgzUmVnR1dTM3FXQ25NSGZueXBUY2lUbXBB?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Bitcoin ETF: BlackRocks IBIT mit Rekordabfluss von 541,1 Millionen Dollar, November-Minus bei 3,47 Milliarden, Bitcoin unter 60.000 Dollar - Wer verkauft Bitcoin jetzt in der ETF-Hülle?",
-     "summary": "Berichtet von wallstreetONLINE, BeInCrypto, AktienCheck.de.",
-     "time": "2026-11-20T18:21:06+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "wallstreetONLINE",
-       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc1JQNlBLVV9GVDBhSFZWVzIwWUNsSlh1QlJzZlBiU2lITTJZU0o2V1FJVDQzSVI1VVRyN1VXaFRQdU5pY3U1T0wtYjl1MTZ6MU5XTGN4b3NQZFB6QXR2Y3VsLTVmdkhaZG50dno2N3NaWEVpMVZoZnJPRHhNLWZ1bWN4N284Tk03THBaSmV5dzRkaFFLU2VCNHFDSWJfZHZIYmU3aXpFejNoTjJBak9fcUN5WEFzZDlzSFFFOENNRU1saENUUlEzM1ZvOA?oc=5"
-      },
-      {
-       "name": "BeInCrypto",
-       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpMUZvNGRwSUJfcU5zOFR2S0tkbUpFaldGTXB6TkxDVlYwa3pLblM1ZGtZcWQwWW52S3UxQ2tTc2RBd1RsenN5U2tudGRKdmhnWVpqR2RUNi1oUnlPb2tWY09BTDI0TjYtc0N6ME4xWGk?oc=5"
-      },
-      {
-       "name": "AktienCheck.de",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3FSaDFkb1FMZTFVTG9URkQyZy1FbmVHLVB2OVVnMjUyQlVWZkJNQ3N2a0hHd2hYcHpjbDYxTzNBalB6SWtMVnBMajVBRWFqMlN4SkN4bnN5MUlnZGJsb2pRamJGeDBYbVlvYXdPV2lkQXA5MkdFV1pjRG4tWTRkd21NRmVkcjExVnlibGlmWWJwdUIydlhtcVJZOHBKaHZvb3p1Zm8wM1JSRUk4WmJsNA?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYV9BMEdRUmZIVjVmNXpiZmNaN2lfbzVqdTUzaE16SXp5SC1tMnAxV2ZOYVNvOEFGZkk4dzZRRWVSLS1aVEJ0TmlBaUtIN2lSbDREYjZmLUo3RWtZUE0zV2hfOVhkOGJEalE1XzJsQTdPalRTYlNiSEZoc3kzRkxSQ3lrd29VTkswMjhHY1JHREpiQkRjUjN0RlpmQ29vRC1fQXRtQkdoS3YwSXBNeEtIYTVqQQ?oc=5"
       }
      ],
      "verified": true
@@ -430,6 +413,20 @@
       }
      ],
      "verified": true
+    },
+    {
+     "title": "Solana: Spot-ETFs verlieren erneut Kapital",
+     "summary": "Meldung von Börse Express.",
+     "time": "2026-11-21T08:55:11+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Börse Express",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaEVXdUVreHVkVF9JV0tRQ0pCdkxTVFJFYmhOODVXb2JpTU1RTlhGR0NXb0RsaUVKdnd4TkFma3BKTGpuSEZfV2h5U253Wk1NMi13M1RUYXA5TFJWX1dickk1X3UzNVdMMFVVelI4UC1WWUVSSE5PNGwtRXFxMlBod3ZBUDByZDZjOGdyYWxXUXZRdDFkT1gtTg?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     },
     {
      "title": "VanEck Uranium+Nuclear Energy ETF: 5,4 Prozent Minus trotz Rekord-Uranpreis",
@@ -493,7 +490,7 @@
    "items": [
     {
      "title": "Anthropic-Aktie nach dem Börsendebüt: Kein Schwung am zweiten Handelstag - im Gegenteil",
-     "summary": "Berichtet von Finanzen.net, FAZ, LYNX Online Broker, private banking magazin.",
+     "summary": "Berichtet von Finanzen.net, FAZ, LYNX Online Broker, n-tv.de.",
      "time": "2026-11-20T22:04:11+01:00",
      "importance": "high",
      "sources": [
@@ -508,6 +505,10 @@
       {
        "name": "LYNX Online Broker",
        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLWVyTVFZQWdWVXgxajRKMTNXTzJWbUFVcE9TaGgyRUJ3ajNIb2JHSG55Yi1EOUlqTDhFWm5sZTV3NVBHWFJtVmhZcEhBZ0xDTS1sRVN5VUw4dTZPNFpPbmVIYjc1d2dTNHJGYTlPZHp1U0V6RERvenVoVXhhMnNMcVRJWlpPLTIyd3g0c1dMOEd2emk0TkxaSUxKdE4zVXBsX1ZrX0tNVU9SOVBJc3NWY084QThQampMOEY4a3Zvcw?oc=5"
+      },
+      {
+       "name": "n-tv.de",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcVhjbS1oZkR0clp1SEFYSDFyZmtZUFdtS0JHclZVNTRoWHh5clkzTUYxMHJmR2VXYTE0dC1QWFFnc0ZXQXVZQUpmOFVHcXI5RDVJaHIzeWxuN2tBSC1TX0d2cmJNdGtmNWo3TktweXY3MEs1dUNiMDZ3MGloVmxFSDR6MEtCLVNvcDlDVkxib3JZd1BvVFV0bGJCaVc3Q3JTTjlj?oc=5"
       },
       {
        "name": "private banking magazin",
@@ -540,10 +541,6 @@
       {
        "name": "T-Online",
        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1hlSzBkVERvR3RWR1hFbVJwSXFFU1Bsc1VQLUZ4NlhHTWJ2dW5YQXJ3dXdsMWZxZzVwb19ONGZQS2tta3FBdXNwTDdqc0NSSlRfUUdlYXZJckRnRGZCempmc0M0VmlQX0lzeUhiVFlyQkozeUNRbWJxMXZuOEdBU09ZWE1YalhUZE5tMUNmYUlYXzFBYWs5SWJ5UExhcEJtZmpFUXB1SXlpQ1ZV?oc=5"
-      },
-      {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXl0enJfSkc2ZkdzYkJmMUhRTnJCakpWLUJQbjNpMEloX2tPVndVeno4R2tpSEJjOWE5R0UyTXhxYjNNT2VrNlFmRGlpUFc1UG0tQTI1RFo4RHpzWFlwVzU3UzdTb0hCN0NtNXlMTTRscDdDeW5hVjFfdzhOSFBSOXF0ZlF1YTNIbjgwekFPRm1KUElRUVZJUG05RHptWWdSc3hJcUsyM056Ni1k?oc=5"
       },
       {
        "name": "SRF",
@@ -651,6 +648,10 @@
        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3kwelpxaDRSZEJRTy1ldi1oMWlYYTF1WVJzTGtrSmZvY0VONWhQUHYtcVEzbklnMGpEalk1UEttNTVtdExtbnhCNU1lbXE2WnJPZnRITWhhQkJKcGRGZkhuejhnTVBsYkFrYTlSRWZfODd1TFdicmNvS2I4bGU0QWFwTkhhb3RTeERCRWpSQ0VsRUI0S3k0WjhYaUNHQQ?oc=5"
       },
       {
+       "name": "WELT",
+       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPclRxTkd0aEJPVFVtMV8zeF9WemdTY1Z4LWhvVDRJTzY4NlUwV3FaR3NhcEJQN3czZzJqM2RCRVI1V3hRWV9UMU93LWYtRjllZktlQ25VY2Rtb0Ftb0hrSS1jampoWnhUc1Y2eU9rQkN0WTZ1eHAxUzBwV2FkSFRPbTVlZ19FeXJZZEtmemp6Sy1Ud1hJcDlIdGY2VHN6TzRrZ095NmZ3dU9MZkluWFhsV3Q1Mjd3SHpiVG5UNlQ5R0JrcFlSRU9HWlZMYzZfZFFKSnVyVXVCc092VHdhVWxvVGxaSUw?oc=5"
+      },
+      {
        "name": "DIE ZEIT",
        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUHJCV0RoTk5wTDl0MHpHaFJMREZuYVlwMW1MMUZsaHNRXzZXbE5NeHRWUllsYzhtRlhGckt3SXFFMWxlRldKTHJTLXNNRDRLWEtrdFFnM3M5OC1XZWhyalZHek94OEdnQXhnTlRBUXcyWGlTUjdlOXI2b04wVFprSm42MmhEWlM0Qk4ySHdqa29SNHNWRVpHVlJYMUQzM1BFeFBlSlVNNHZQSXRhSW5GU1FhOHJBbXJS?oc=5"
       }
@@ -658,24 +659,10 @@
      "verified": true
     },
     {
-     "title": "KI-Pessimismus an den Märkten: Platzen die Hoffnungen rund um den Anthropic-Börsengang?",
-     "summary": "Meldung von Neue Zürcher Zeitung.",
-     "time": "2026-11-20T17:57:14+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "Neue Zürcher Zeitung",
-       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWUhRVXBzWDgzeVZDMGVVNjZVOUZQYjZFUG5RM1p2NlcxenVyS1dxZXVjYU9sWWpsVWhaUEhTbllTblRSXzhMZWpzU0hyblFKTW1CQmFCYVB5OXlyUnZIOTN2OUVBMjl5R3RHY1JpZGlDejJRdk1xdERqVG00N2V0WUdHZHo2OGx6VkJWd09DWlpWc3pQd3AwLU93NGNGV1MxbHNoTThPX1MzN3VSamhQSW5ja0ZxSnZuY3haRGJQVmdZTGhTTHZ0N3h0SFY2QlVnY3lGRVNIdnlodHJFOS1Da185Qk5Tc1NzSjhHNA?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
      "title": "Trotz Rekord-IPO: Anthropic kann KI-Abwärtsstrudel nicht aufhalten",
      "summary": "Meldung von n-tv.de.",
      "time": "2026-11-20T13:36:51+01:00",
-     "importance": "medium",
+     "importance": "high",
      "sources": [
       {
        "name": "n-tv.de",
@@ -772,10 +759,6 @@
        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYVBiTWxlR2hIRE9SUG1zU053d0ZpVENVLVgzd0llaUVod0V2U3Fxa0l0bjJDNWZlaEN5TGlHZExYOHZmVlNlYnI0QXlGLWctNW9CV3UyeFNNbnpESVVvWjRkMUl6TnNTTDJ6aFZfWDd2bm9UR2o2TXdQWnczeTljaWlWamVHbHZYSzdMQmlzVVE5Z2dQYm0xcWxXR1NqSE4tSFBPWVpLWEh3X0ZWdU9fUmQzZWwwdTRPRkU4TEJRaXZPUQ?oc=5"
       },
       {
-       "name": "Spiegel",
-       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWU1WbnoyR0wwSUtoUklhemh3eXhLcTB4NXdrT0YxUGpRTmlTWHQzX29CTnF3c0N2SkNOcEVkc1Q0UnBSaWxoQWxGRDBvZm1peHkwZFliMGFBV1JnVXU3SGtoNWRzTVlFZDU3XzhZUDZxVy16SVNoZnVHWmZzclBDZUJnam5KRUMwUWd6dDNiODA2a0cyZERQV1R5X2xZSWpWU1JTVU1ZOVdfQzdYS3ZZMWZGUm1TdDdjN01mbnpMY3QtN1o4YVMxbml6enNZMUZrT3hJRmZVS2ZTby13dkl3WERtdw?oc=5"
-      },
-      {
        "name": "DIE ZEIT",
        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1hCenBpNWRQVVVUWG1vYlhVZDMzTzVPUWZTTHlhMy1ZV2R4clFFZGN1ZGZ0Y0ZidEhUV2ZKUERLb21oTW1Fc2doTUh6bTFDdk1ZTWFjalRwaTBNM1ZRRmprcjMyMklKYW15SlVwWTkxV0ZuNW90VFZscXRQSFZEYmRhZXp2RUV6clRVQmhHaHFvdw?oc=5"
       },
@@ -835,6 +818,20 @@
      ],
      "verified": false,
      "singleSource": true
+    },
+    {
+     "title": "Börse: DAX-Ausblick, Börsen knicken nach Anthropic-IPO ein",
+     "summary": "Meldung von tagesschau.de.",
+     "time": "2026-11-20T06:09:31+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "tagesschau.de",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10R1EtWmlHSEl4RXBHQUpVcHFhTmg4TTJvajFMZ2hWRXRZWEM3WmIxMEdmU2cxWTR5SjBRV0psZ0xYbUE4VERONkdIVWVSd0Y1Qlpmd3lRZjZfUGNUa2V6cEl0N3ZNV3lGSFhDMlBB?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     }
    ],
    "more": [
@@ -855,14 +852,14 @@
    "tint": "red",
    "items": [
     {
-     "title": "Das Außenministerium verzeichnete einen Cyberangriff",
-     "summary": "Meldung von DiePresse.com.",
-     "time": "2026-11-20T18:29:44+01:00",
+     "title": "Outlook für Windows: Microsoft bestätigt Fehler beim Versand von Anhängen",
+     "summary": "Meldung von ad-hoc-news.de.",
+     "time": "2026-11-20T23:52:55+01:00",
      "importance": "low",
      "sources": [
       {
-       "name": "DiePresse.com",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTW1YU2pBd242TEZnOWhBc2VDeWs5amRXUmx4ZWFzNkNpSGthNXVuZ1c5TjJyVXNfenY1WndhNEFxOXdYMGRFdXdwb25nVWJFMkJsalJEM25PZEQycVptOHFvX0NKNHJick5jTFgtcThabGg2VWxaUmdkZzdxTl8yaTBwaW94WkJsWnZxS2JfTlpOZw?oc=5"
+       "name": "ad-hoc-news.de",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX2VLQ2hYcDFuQTd3RElmUDc3azRZYkViQTN2dnl4U1VOWDZudXc1ZlhQTEVKemU3eWdxZnlDd01xVHpDTmR0V09fb3lyYnJMS1ViM01qQzJBdHZMckdQQTRLUXNmSld5WC1TMlQ4c19vTGlpZ1dBNEhNR1RRNnhlQ1lRRnFNR0kwRjlZZ0VoS1JfeVFYaURVa29GamVyWDZNRDN3RTNyMjNfbUhETllMZTJLSmJKSDdYZ2J1MFRwbUJXQQ?oc=5"
       }
      ],
      "verified": false,
@@ -1041,6 +1038,34 @@
    "tint": "purple",
    "items": [
     {
+     "title": "Anthropic-Börsengang: Diesen Trumpf hat Deutschland",
+     "summary": "Meldung von Merkur.",
+     "time": "2026-11-21T08:34:00+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "Merkur",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcHdlM2RoSlRfSVVET3dLeE1FUTJvLW9CZDZOM1djMlBQSjdUQmtZb3RRZXBuODF3OUphS2VxSGt1MFFibWo0dTROcEJMWHhWY0EzRHFrSzNGV0I3ZmtlakMtYnFFTERIUGhFakUyYnQ1NzhFMjBSZGktSGtRY3ZGLWJJTjhmRm44dWRpM2pLNEkwdmJITmFPbWJYYXdIUEFwcktV?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "KI-Pessimismus an den Märkten: Platzen die Hoffnungen rund um den Anthropic-Börsengang?",
+     "summary": "Meldung von Neue Zürcher Zeitung.",
+     "time": "2026-11-21T08:24:28+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "Neue Zürcher Zeitung",
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWUhRVXBzWDgzeVZDMGVVNjZVOUZQYjZFUG5RM1p2NlcxenVyS1dxZXVjYU9sWWpsVWhaUEhTbllTblRSXzhMZWpzU0hyblFKTW1CQmFCYVB5OXlyUnZIOTN2OUVBMjl5R3RHY1JpZGlDejJRdk1xdERqVG00N2V0WUdHZHo2OGx6VkJWd09DWlpWc3pQd3AwLU93NGNGV1MxbHNoTThPX1MzN3VSamhQSW5ja0ZxSnZuY3haRGJQVmdZTGhTTHZ0N3h0SFY2QlVnY3lGRVNIdnlodHJFOS1Da185Qk5Tc1NzSjhHNA?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "Intuit verkauft Mailchimp, Anthropic-IPO schürt Volatilität im Tech-Sektor",
      "summary": "Meldung von aktien.news.",
      "time": "2026-11-21T07:48:08+01:00",
@@ -1055,32 +1080,21 @@
      "singleSource": true
     },
     {
-     "title": "Anthropic: Der Druck, Investoren nach einem Börsengang zu überzeugen",
-     "summary": "Meldung von Vietnam.vn.",
-     "time": "2026-11-21T07:07:06+01:00",
-     "importance": "high",
+     "title": "SpaceX-Aktie -7,7%: 44 Milliarden US$ für KI-Chips - wird das zu teuer?",
+     "summary": "Berichtet von sharedeals.de, FinanzNachrichten.de.",
+     "time": "2026-11-21T08:10:00+01:00",
+     "importance": "medium",
      "sources": [
       {
-       "name": "Vietnam.vn",
-       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IdDFQdTJmUEdMemE0eVNUWW1mZ3MzNFJPcEEyNUU5VTN2by1fMGVWS1FTWklpa3YySldsYjBzUWJZZTZsX1hzYXdIUTRoa3JMZS00X0c1T3JQVVY4UTNnLXdPYkQtSEVrOURWWVYyUlBHVUFCQVZnRjUzZVE5UQ?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "KI-Börsengang in der Kritik: Experten schlagen Alarm wegen Kontrollverlust",
-     "summary": "Meldung von Neue Zürcher Zeitung.",
-     "time": "2026-11-21T05:30:00+01:00",
-     "importance": "high",
-     "sources": [
+       "name": "sharedeals.de",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZjY4amd1Uzlpb1RPR1JWT2NHMFhIXzBsUXNVdmJXVmhqYVIwTXRINTN2NkdUSUJHcV9RbnFOT0xRNzJURVprTlMtbTh5Ym8wWG5mYXVaYk5TcmtRNTYteWVLTi1LcWNMUU9Dd1ZkVF9QZnhHY0RHTFVRRk82WVVsTVhYcXg5QzdMSHktampUS1piQUFfYnc?oc=5"
+      },
       {
-       "name": "Neue Zürcher Zeitung",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ20zb2VLb2lpckQteUNzdDhTY29mYVVrOEtwQnNlaVYxVGJ4TnR1b040V1UzbVo0UmFodnZwRHFEcUpKbndNc2tsSVRXUWEydXU0UFpOR1FaU3VGMHRXMjJGQ1JxS2VvLUQ5U1lEdE40SHJ1U2R5UFhldjNQM01MRzg4V3FzNURwN0ZDWGxMeEVZdnRtYjZyNU9xd09Db3VUNjZILVhwcGN4elFlSzRPT0pyOUtpczlGU2FObVR4aDRZQlI1UUJVWA?oc=5"
+       "name": "FinanzNachrichten.de",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWmh6NUhJblhjUmJQZWRKdHB1U2I0c3JtN2o3cENyOENmQnVtS2JNRnpELTVXZGx6TFpQMWVLQlFJMkJqWmlMbHNYTmlxV19ZQ1I1cXF2a1VYSUhDQUR4Y2ZxczRCdzA2T21fOWZxTm1tUDhmQkNhdU4zQ3V1MWU1QXJ1VnpPRmFVc1M1TFZCYVF1emhKQ0Q1NkszWkN1Z2ZJVHNqRGQ0TU9ZZ19iRTRLdDRYQUprQmtMNnZnRnNiOGxKcC1fdl9MeF85SXRuNWN3cS1CZFpiajlxQQ?oc=5"
       }
      ],
-     "verified": false,
-     "singleSource": true
+     "verified": true
     },
     {
      "title": "Künstliche Intelligenz für mehr Barrierefreiheit: Das plant das ZDF",
@@ -1134,6 +1148,20 @@
      "verified": true
     },
     {
+     "title": "KI-Börsengang in der Kritik: Experten schlagen Alarm wegen Kontrollverlust",
+     "summary": "Meldung von Neue Zürcher Zeitung.",
+     "time": "2026-11-21T05:30:00+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "Neue Zürcher Zeitung",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ20zb2VLb2lpckQteUNzdDhTY29mYVVrOEtwQnNlaVYxVGJ4TnR1b040V1UzbVo0UmFodnZwRHFEcUpKbndNc2tsSVRXUWEydXU0UFpOR1FaU3VGMHRXMjJGQ1JxS2VvLUQ5U1lEdE40SHJ1U2R5UFhldjNQM01MRzg4V3FzNURwN0ZDWGxMeEVZdnRtYjZyNU9xd09Db3VUNjZILVhwcGN4elFlSzRPT0pyOUtpczlGU2FObVR4aDRZQlI1UUJVWA?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best…",
      "time": "2026-11-21T02:31:30+01:00",
@@ -1148,8 +1176,8 @@
        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX0tzR2JFbjBERUpncEpsa094OE5GTDFlZ2FEVmlPNUg2MlZzTk9fdDBJY3lFc1J3S01VWnRjcEp6U0Q2RVo0UTMwRG1WLWZwdTVpakppT2xfaDVRLXJiQ2hoZ09mc0J2NG4wU1FfTWxrZjY3Q0R2YzMwdGktZU1uZzJNWjZpRFZYbEh1a3FqU2FCNmFCOVZlNFphYnh3eEt5eWVsSkxsVjZXQVdhNnVlZG00OTJNaXUxTnk3alNRNlkxOHZtUy1ZUWhUanN5TFZ3WkE?oc=5"
       },
       {
-       "name": "Deutschlandfunk",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObzBrUEloYzNYczc0RDNuNnFnbWwzLUkxMV81Q2tKVjZ4cElvMnRVWUpJRlJ6RDdNRWI2MEVOc1FyTFVIQlUwdXNQNkpYa1ZFRW53Y0VnVEE4aWp5cXRQN1VHc3dzZVZ2NUxtb1NERW5JX0JlbXBmUElzTGh3ejVTWS1zSnNhN1R4bmVYZTJsZm9Yb1VWNnZFUlZmdmFydDdPU3dGM3lKWFUyUQ?oc=5"
+       "name": "FOCUS online",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1dKdTdsNFpCcHdDOVhyRmNTNkpVd3dVMnBFODR6aC0xNXc0OV9JWHktM3R2ZlRHWGlkU1JiUG5ITzFkLU5kb084NTd0ejJVcG1kemttU3NoWnIzYVhiMVVnVnJsYjJHQ2xfRHVydDhzTUl4SE5rZFg4NDZYbkNlY2NjTldmMF8xajF2bU5GT2EycEtvWWNiR0hsSEVRZUZ6U2RHNTgyTU1LMDJSLWM3QjJtbmJ1Xy1SV0pOeUxuZXc5ZElz?oc=5"
       },
       {
        "name": "n-tv.de",
@@ -1163,9 +1191,9 @@
      "verified": true
     },
     {
-     "title": "US-Präsident Trump verbietet US-Firmen Bau ausländischer (KI-) Rechenzentren",
-     "summary": "Berichtet von DIE ZEIT, ComputerBase, BornCity.",
-     "time": "2026-11-21T02:30:00+01:00",
+     "title": "KI-Wettrüsten: Trump verbietet US-Firmen Bau von Rechenzentren im Ausland",
+     "summary": "Berichtet von DIE ZEIT, ComputerBase.",
+     "time": "2026-11-20T21:30:00+01:00",
      "importance": "medium",
      "sources": [
       {
@@ -1175,27 +1203,6 @@
       {
        "name": "ComputerBase",
        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMlVkSUhIa1pFMl9RcVBURUtTTEk5aXd4cDNhZ3hKR3A3Vk1rQUNaMUhIS1I3SzdMYWItcVVBX3o0dGdDTHNrTFp5OUl1Q010X01SSmY1UVpMem9FUFNXSHhZZGl1eXFlREMzM3NXTmVOdXV0UGtuV3dkaGFzckdHZXc1ZXBjb1NtTmRiOHBaMkF1SHZpWmdvT01OZGxDOGVCVzQtQ2hYaUlXU1JEVTRWZ2V1cnJhVTl3WUl2ZkhaRGpfZDQ?oc=5"
-      },
-      {
-       "name": "BornCity",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVTBzSEVaVnRWbFFpX0VmcEpoTjNENWs5VG5NY2UyVzUzTnF6ZG5hRE9kWDNvdTFyd1gyX2hBYkJReFZvVG9PU1NsSzdPaWdtcHlSUS00ZmQ4QXhtdjFfVnJRNXJtZzBVMWx0TjlyemdFNnp2Rk9IVDRvaks4UHpQQTNSZFdTUXFRQmN1S2hYQ3lwN3RmXy1HQXBIOF9fQlNLeVJhc3RVeFZhRUtWNVRXZTN0Yw?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "OpenAI: KI-Modell hat GPU und CPU von AMD verbessert",
-     "summary": "Berichtet von ComputerBase, PCGH.",
-     "time": "2026-11-20T18:45:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "ComputerBase",
-       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSTAxaGFlQlNMQU9GaWZDU0pTSk9CYnhBbWhYblFLcFhnY2p4Y0RqZExlWnEzaWMydVRSdF9na05EMm9LdHRSMnFZQ1p6bGEyVC1rVFlycmFjWngtclpUaU5yUkQzZ2lvdnVIajdpa1h1WlgxWUs0RHhOMkdqSkRsWmNmVEthNFoyczRzeDlyZGlVelBVV3hycGxNZmdMY21lWUpGSU1mTVhQTW5YLVhLTFJGaHZ1TnVHY2c?oc=5"
-      },
-      {
-       "name": "PCGH",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSTVrZUllVlJobVZfd2FZTjFXY0Jscy1la1J4eTlvVnpVcFJ3dkhWTzJvQmt1aWxCOVl6d3Y0WWtOazVXcGhCQUI5b2F0YUVqR2RueXpoSU40djZuMlM1cElaOHZHbDJrVXJnS240V2hqMkVNQmtjT0NMZU9QdzN1VDIyUHM3Z1RXWjZoejlWc1MteGlUU1ZBMm1rQXlpdjhnU1hnMXVQal9VM2xwQk40NGdITEs1S2czeTlXVlpvQzZIMzl1YmFZ?oc=5"
       }
      ],
      "verified": true
@@ -1209,20 +1216,6 @@
       {
        "name": "Manager Magazin",
        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSGlYUEJ5S2JSdjdTa3U2QlZOZ3E5MEd2bmpuX0JfXzIzdk1HX0owTXdGTGVwc090OWJCM0Y0OXUxSU5XYkJWRG1tS2kxQmpJMHBZSW1BUFVKUEpfLW0wSnVKVmFCbFlBd3pUVjVVQXF6MTIwSU96ck1uZ3lZS0ZmUzFkZG05aF85TnF3R1V5aGtRZnRNY2liNHI0Q0NWVEVsdnNXR1pBQUUtbEh6dXE5cmk0SWZSVWFuR096Q3BBRGNGUGtRQUVNVERhSmI?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "KI-Crash: Sind wir schon in 1998?",
-     "summary": "Meldung von wallstreetONLINE.",
-     "time": "2026-11-20T16:45:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "wallstreetONLINE",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUlFnaVlCQ2hQcHhXQllHc203bFN5SzBfWlpMSkF1ODB0S0lJcDQ1bldxS2plQ3k5TW5DYjhQUkNJb0hibDVZdHhhamU3ZkoxRFJvbTVhcGp2UGZ6WEJpbUp4d3NsdW1lTFZfaUdTeVl1YTJKcklnQTRiaVY0THo3Y2FCTmJKb3JVN2hj?oc=5"
       }
      ],
      "verified": false,
@@ -1246,6 +1239,31 @@
    "icon": "building",
    "tint": "blue",
    "items": [
+    {
+     "title": "Bundesregierung: Juso-Chef Türmer kritisiert Koalition wegen Stromsteuersenkung",
+     "summary": "Philipp Türmer sieht in der Stromsteuersenkung eine »Entlastungsmaßnahme für den Kanzler«. Der Juso-Chef hätte lieber eine Verkürzung der gesetzlichen Arbeitszeit.",
+     "time": "2026-11-21T08:22:05+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/deutschland/2026-11/stromsteuersenkung-koalition-philipp-tuermer-cdu-privathaushalte"
+      },
+      {
+       "name": "ad-hoc-news.de",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWmRXSWZ3MGRYQ3AxcEE3c1g2em9MSDBjdDdJdE9pemlDQ09acU90RnJoSktWc0pzZU5TaHp1SVBNUXBBaEFlcXg4YVl4QzZKc3c4ekRJdklpNlNPNElkRVpXMHdvc2dGQklBNkFRRXdyQ3hRRWFmLXlBWmJjWGRKRmFaclBoTGZ6djBnUHMzek8tQnlFTmttcnFEdVA?oc=5"
+      },
+      {
+       "name": "Oldenburger Online Zeitung",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR09EZ3JDZnpYX2hmSVEtY0JKTmpxVXFwM0RGc1NFZ0VNQXhjRXJnb2JzWmZuZHdEN3NqdjEyWm52NUFJSk9pZnMwZV9zM1lma0ViMXNDZGp4bmNnb1J4RzNqZHBqa3c2MnRtVHVYRWktSVBLZ25Xc2RaSllUaTVLeGhlTEw0Y3ZWWHV3ODVmQXNJbHpPRzZ6aUZNdHhkSFg4TEVpMGlfN2pkcnIycEpXY2NiWDJ4X1diWTJpcmpMVWF1TmdVSVkwcw?oc=5"
+      },
+      {
+       "name": "Hasepost",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjRFSDV0MC1yOWQ5M1RGYkozRGs0M1J0UmhxV2VDUy1SWUJpUmhjOTFwejJMWDQ1OGh1elNKaVFtZFFMdTgzWjRad3dHZ1pPTnZhaXp1alpVRGFpeTlCdVAwWWloTlNwWFNCT2xWcm9oeXNhajJRaUpsZlJSaXVpSFNtSHptanM5c1g1dQ?oc=5"
+      }
+     ],
+     "verified": true
+    },
     {
      "title": "Merz zur Ukraine-Hilfe: „Das zahlt sich aus“",
      "summary": "Berichtet von n-tv.de, DIE ZEIT, Deutschlandfunk, Frankfurter Rundschau.",
@@ -1309,27 +1327,6 @@
      "verified": true
     },
     {
-     "title": "Bundeskanzler Merz empfängt Emir von Katar zu Staatsbesuch in Berlin",
-     "summary": "Berichtet von tagesschau.de, ARD Mediathek, STERN.de.",
-     "time": "2026-11-20T04:03:28+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "tagesschau.de",
-       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Gc0pDZTFDampJQnBkUjN0VE0tb3czRi1TN0lzaXVzakE3Z0Jxd2h4THpCWlppb2RFTTAzUEJnbzUyQ1pwM2pNaGdaalBvT0paazY5NVBOaGk5TEFXZFc4?oc=5"
-      },
-      {
-       "name": "ARD Mediathek",
-       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQbUpKMnFxWFVDaEhTaGJoTkdLRTBjLTdZQzlNeW1SNVJpRjlpdHd5OFFWUEN0ZlVHY05fbThWdkNZaWM5ajltRi1KNTNDazgzWkhubjlYVlVXMWtBNk1LU21XZHZaVFR6MGpra1BMb3FFYkNxQmxQa0VDSjdHSkFQT3FRUHZveUZYMVJDY2hWNTZkTXpWcVFVeEZDd1M2amRiVzhlUFdnc1pfeGo1SmJRY2pUUWdxV1BLUUJGaGJFUEo0MHRKOUE3YUlTQnVGbEhzZ3IzVFVUc21iNERSb2c3RjZJX1dwSFB0cE1fbmhnc2dsdFdkUURPalNJRW9IQjlNUDNDYjlyUjdLTm52dlRhWW1JZ3NKU3BJZS1SakszMktQSVdOQmR5Uk9kMDFqcmpUdVZVcS0zMWpQdFdnS0E?oc=5"
-      },
-      {
-       "name": "STERN.de",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaHlaT1RzNGVWQVFueW9VaHMyRUdpbnNIdVgxTW8xVDNGN1ZScTlITEdhZzlKRnRhQ2cySE1NcFItejJtbHB1dTNia1RYa1J6QlE5SzhZVy1DeGpmbW9QbmRVbExyY3N3aHl2bG9CNGJ1U0FISnJlTWlBdGtKbUtmcG4tbVRqYU1fM2NDR2Nqb3M3UnZVNjAtWEZlVTRpbUEzNDBnc0FFTFNSWk1Lcmc?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
      "title": "CDU und Merz im GTA-Look: Spott für „Update für Deutschland“",
      "summary": "Berichtet von RND.de, BZ Berlin.",
      "time": "2026-11-20T23:32:02+01:00",
@@ -1342,6 +1339,23 @@
       {
        "name": "BZ Berlin",
        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPellaVXJweE8tbnhzUFBBSTM3bU0zWWFRMl9MZWhIYTB4TkNaNHNObWFOdjQyaFVoblg4cDY5TmhCZDRiN0RKSUdPdng0a0ItWGVQZ0ZuTlVsMkxsNk04NnhOQl9kRTFQV2tTVkZ5U2l5X1pLRndpQ05Pc3AtY3hGNngtamNtR1p6SUZqRnRjSURLSWNCdk91WFMwcHBjXzRWMFYtRlpxd0NIanJXRk1xdFllelF2VTA?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "KI-Bilder auf Partei-Account: Merz im Gangsterlook: CDU erntet Spott für GTA-Post",
+     "summary": "Berichtet von WEB.DE, n-tv.de.",
+     "time": "2026-11-20T18:14:00+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "WEB.DE",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWZvdlhlX2dYNHY2aVpaWDZ3Um80WWVSVDRPeENveDZUYUpqSjdxT2I1bG5UY1hxenN5UGM3eEdOS0h4dzlpNXdDYXhIakhxQUM5cGh3QzZSNlBTWFRnVTB4dHdXcXgyTkthRzZ1dGE2RHkwQ1VQRjBFcGY1SGJfVGJIWVFxODBkNkVjUm9ZT1NkRXZiX081TFp3?oc=5"
+      },
+      {
+       "name": "n-tv.de",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWlF3RDhHNnFnQnozbWxpZDRmY0ZqVzE3U1ptV2tBV1RpdzZzZkhfTVdSc2dQbmVpUHByamw4QUtkS2lpVjFMelRaQUxvb1UtMTBKckxhYXRxWHBycks5Y0txRU94dWVoRS1KbVpGX1lYbFM3dFB4SkRUMVYyMmROYlZ4R000V2N1M1pLNGQ2QjBIR2w3NWdPakYyaVFtWmhqa2N5UE1wQUZDdVRKa1RnN3N0MEZSQQ?oc=5"
       }
      ],
      "verified": true
@@ -1449,43 +1463,25 @@
      "verified": true
     },
     {
-     "title": "Klingbeil und Orcel - Einigung mit UniCredit: Bundesregierung will Übernahme der Commerzbank nun unterstützen",
-     "summary": "Berichtet von DIE ZEIT, ZDFheute, FAZ, Deutschlandfunk.",
-     "time": "2026-11-19T13:00:00+01:00",
+     "title": "Bundeskanzler Merz empfängt Emir von Katar zu Staatsbesuch in Berlin",
+     "summary": "Berichtet von tagesschau.de, ARD Mediathek, STERN.de.",
+     "time": "2026-11-20T04:03:28+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "DIE ZEIT",
-       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSXdnMFpkZENOY2ZHQTZKYjRtaVF3S1V3U2FBbXAzaV9pbmRzZlJ3ck16Y05NUVlnYkY4TmgyY09LTm54VTB2WmxaaUFIV2tGeTNkYWtELWM5ZFlGWGpQMnpVV2l3TWRGS0hGaXZVWk5NNW5fQ3c3bTZFOEh0T1Q2Y1JmZDFDT18zRHpfMWVYZXJkcVJCNHJsVko2OEcxSmVZd2pkWHF1bEFLa1RqbjJJbmhNSGdqODVJUkdEaExpMlE?oc=5"
+       "name": "tagesschau.de",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Gc0pDZTFDampJQnBkUjN0VE0tb3czRi1TN0lzaXVzakE3Z0Jxd2h4THpCWlppb2RFTTAzUEJnbzUyQ1pwM2pNaGdaalBvT0paazY5NVBOaGk5TEFXZFc4?oc=5"
       },
       {
-       "name": "ZDFheute",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0NLMnZLeGdrM3hYMHBzNzQ3QV9SNWlPVmFTbkp5T2hHd2dmYXlqekxfTDFjZnViMTBrT1NqVUJqZDVHUDJvbTRCc0JOWDRpVndjWTU3RmxGMmN1SV91QmNLVWtGSTl6RXl1V0h2ak1BMGlESXhELWdsdXFNYnpZcnhVVEhqRU94bWNMdXdUX25hRnQ2anpFNllOTQ?oc=5"
+       "name": "ARD Mediathek",
+       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQbUpKMnFxWFVDaEhTaGJoTkdLRTBjLTdZQzlNeW1SNVJpRjlpdHd5OFFWUEN0ZlVHY05fbThWdkNZaWM5ajltRi1KNTNDazgzWkhubjlYVlVXMWtBNk1LU21XZHZaVFR6MGpra1BMb3FFYkNxQmxQa0VDSjdHSkFQT3FRUHZveUZYMVJDY2hWNTZkTXpWcVFVeEZDd1M2amRiVzhlUFdnc1pfeGo1SmJRY2pUUWdxV1BLUUJGaGJFUEo0MHRKOUE3YUlTQnVGbEhzZ3IzVFVUc21iNERSb2c3RjZJX1dwSFB0cE1fbmhnc2dsdFdkUURPalNJRW9IQjlNUDNDYjlyUjdLTm52dlRhWW1JZ3NKU3BJZS1SakszMktQSVdOQmR5Uk9kMDFqcmpUdVZVcS0zMWpQdFdnS0E?oc=5"
       },
       {
-       "name": "FAZ",
-       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeWtVWU92WmYxRHdWbExlWklWcGc4SGVDamJrQzYzeVR3U0lkc01Ic09ZblhqdFpRY1hzcmJ3T1EwdEY5X2ZLcVRGYTk4ek5RcWM5amVMa0prNWVXVTlKdk8xLTBQQklMOEtUYUNMVFhEVl9BbkRwUVFyZTQzQ3FQZUtzVkVLY0tDeDdVOFF6OG14QVFPUnBoNG8zdEFhQkI3QlhZMzJYakM0OGFRZ1pROXRWRXVacnItTG1mVWM2eXI?oc=5"
-      },
-      {
-       "name": "Deutschlandfunk",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSUxMX1ROYVIyNXU0UmliUW03N2w1R3A5M3FMY1UzdkFhMlFNVXJvQVUtRXVPSURldmxVaEZGZjM5STAzS1pkYllBODlLQm5OMml4TjQxZ1RibXY5a0M1ZGg0RTNpNnctU0lwaUxnVWhiTkVKTUtMUzJ0YTlJWlZScXVHNnp0VHZHYXM1clpaLTY0M0FrM1lrbU9hLXc2T2xzNlJkRGQ5aU1OUEMyaG9zOGVJc0pxT0hWN1FzTU9zZFFZRWRnSjFJ?oc=5"
+       "name": "STERN.de",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaHlaT1RzNGVWQVFueW9VaHMyRUdpbnNIdVgxTW8xVDNGN1ZScTlITEdhZzlKRnRhQ2cySE1NcFItejJtbHB1dTNia1RYa1J6QlE5SzhZVy1DeGpmbW9QbmRVbExyY3N3aHl2bG9CNGJ1U0FISnJlTWlBdGtKbUtmcG4tbVRqYU1fM2NDR2Nqb3M3UnZVNjAtWEZlVTRpbUEzNDBnc0FFTFNSWk1Lcmc?oc=5"
       }
      ],
      "verified": true
-    },
-    {
-     "title": "USA: Donald Trump schränkt Unternehmensauskünfte für US-Kongress ein",
-     "summary": "Unternehmen mit Regierungsaufträgen sollen künftig dem Präsidenten Bescheid sagen, bevor sie mit den Abgeordneten sprechen. Das verfügte Donald Trump.",
-     "time": "2026-11-21T07:51:06+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "ZEIT ONLINE",
-       "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-dekret-bundesauftragnehmer-kongress-weissem-haus-gxe"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
     }
    ],
    "more": [
@@ -1505,6 +1501,23 @@
    "icon": "globe",
    "tint": "teal",
    "items": [
+    {
+     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+     "time": "2026-11-21T08:31:05+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss"
+      },
+      {
+       "name": "BBC News",
+       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "verified": true
+    },
     {
      "title": "Three French police officers sentenced over racist assault on Black man",
      "summary": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
@@ -1591,70 +1604,42 @@
      "verified": true
     },
     {
-     "title": "Offenbar Hackerangriffe auf FBI und US-Agrarministerium",
-     "summary": "Hacker sind Medienberichten zufolge in ein Zahlungssystem des US-Agrarministeriums und in eine Datenbank des FBI eingedrungen. Die Angriffe reihen sich in eine Serie von Systemausfällen und Technikpannen in den USA.",
-     "time": "2026-11-21T07:51:20+01:00",
+     "title": "Killerroboter: UN-Konferenz endet mit Minimalkompromiss",
+     "summary": "Killerroboter können Ziele auswählen und Angriffe auslösen - ohne menschliche Beteiligung. Die UN sollten dafür Schranken erarbeiten. Das Wann und Wie bleibt aber unter auch wegen Widerstand aus Russland und den USA ungeklärt.",
+     "time": "2026-11-21T08:57:28+01:00",
      "importance": "low",
      "sources": [
       {
        "name": "tagesschau",
-       "url": "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html"
+       "url": "https://www.tagesschau.de/ausland/regeln-fuer-killerroboter-100.html"
       }
      ],
      "verified": false,
      "singleSource": true
     },
     {
-     "title": "Ukraine-Krieg: Trump sieht Hass als Bremse für Gespräche zwischen Putin und Selenskyj - Video",
+     "title": "Ukraine-Krieg: Schwere Kämpfe erschüttern den Osten – Angriff fordert Opfer",
      "summary": "Meldung von WELT.",
-     "time": "2026-11-21T07:30:29+01:00",
+     "time": "2026-11-21T08:44:47+01:00",
      "importance": "low",
      "sources": [
       {
        "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbl93NU9DZEFoN3BEdTdscFRQU0ZXRnR5WGxIUW9jSUFUSmZFQlhmcmo3Q2laeWNaVXU4b2I0NDU2WGZYQTVld3hBQ2tnV3ZBLUFhMzRrUDFUWERoVnY4aXhOQkFtaTBCUm14UzJQdHVLbXdDaXEyQWp2Q1Z6T0VkVHhPRzYyV084Qy1HR2ZleWhYZVlEdmJuVG42WkdVQTI5cXZCZmxwSEcyWkFvMGxMTlBtSmRYZHVDU2czYlZaeDkwbTFSZGdjU3lsWUlKTFZqR1hlSEhXWlJKQkstWWtxX2JyWGw4Qi1HbGM2N0o3RnNVZWVRczBn?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTTc0UTVaRGktTDNlVWJ1eDB1VWgtV29INVVHZUZKRGpvTW5rM0h4Y0d1c0FuNGswclBDQ3c3czdpR2VXZWR2M0RkT1hJUmNMbDlySm4tOFRJMXJBaTA2WmU5OW5sYUIxcmdRZ3NtMHZPbkQxdGVUaUNiUEp5UGZWd1R2ZEp0U2JYai1qaWVUaHlYdTQ2TnE2RklOTHhjOTB4d0xKSFNxaTRlei1qVEZQVEJPYjlsZFo4M01pSXlfSG04dy1JRWZpVFNZT2x4R3VjLWc?oc=5"
       }
      ],
      "verified": false,
      "singleSource": true
     },
     {
-     "title": "Netanyahu is playing with the fire that killed Rabin",
-     "summary": "His attacks on Arab lawmakers echo the incitement that preceded Rabin’s assassination and risk unleashing new violence.",
-     "time": "2026-11-21T07:21:03+01:00",
+     "title": "At least two killed, 28 injured in fire at power station in Iraq’s Basra",
+     "summary": "The blaze at the Hartha power station that spread to nearby houses injures dozens of others.",
+     "time": "2026-11-21T08:25:29+01:00",
      "importance": "low",
      "sources": [
       {
        "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
-     "summary": "Eisenkot's fragile alliance must overcome deep ideological divisions to turn its opposition into a government.",
-     "time": "2026-11-21T06:46:29+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Funeral held for New York teen shot while walking to school",
-     "summary": "Funeral held for New York teen shot while walking to school",
-     "time": "2026-11-21T06:16:15+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss"
+       "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss"
       }
      ],
      "verified": false,
@@ -1662,8 +1647,8 @@
     },
     {
      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-     "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship.",
-     "time": "2026-11-21T06:15:41+01:00",
+     "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+     "time": "2026-11-21T08:24:45+01:00",
      "importance": "low",
      "sources": [
       {
@@ -1675,14 +1660,28 @@
      "singleSource": true
     },
     {
-     "title": "Al Jazeera explains: The US-China AI race is entering a new phase",
-     "summary": "Al Jazeera’s Matthew Torres unpacks the latest from the world of artificial intelligence.",
-     "time": "2026-11-21T06:08:40+01:00",
+     "title": "Emergency crews in Ukraine hit by a double-tap strike",
+     "summary": "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.",
+     "time": "2026-11-21T08:12:03+01:00",
      "importance": "low",
      "sources": [
       {
        "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss"
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Three US citizens among 4 convicted in Honduras over sex-trafficking case",
+     "summary": "The defendants face 10 years in jail after being found guilty of recruiting women into a sex-trafficking ring.",
+     "time": "2026-11-21T08:07:59+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss"
       }
      ],
      "verified": false,
