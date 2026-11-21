@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-21T14:00:50+01:00",
+ "generatedAt": "2026-11-21T14:24:20+01:00",
  "windowHours": 48,
  "note": "Automatisch aus RSS-Feeds erstellt. Uhrzeiten in MEZ.",
  "categories": [
@@ -11,9 +11,9 @@
    "tint": "orange",
    "items": [
     {
-     "title": "Bitcoin: Jahrestief in Reichweite",
-     "summary": "Berichtet von Yahoo Finanzen Deutschland, Finanzen.net, Blocktrainer, Der Aktionär.",
-     "time": "2026-11-21T12:08:22+01:00",
+     "title": "Krypto News: Bitcoin rutscht auf 61.700 USD ab. Warum massive ETF-Abflüsse den Kurs belasten",
+     "summary": "Berichtet von Yahoo Finanzen Deutschland, BTC-ECHO, Finanzen.net, Traders Union.",
+     "time": "2026-11-21T14:17:00+01:00",
      "importance": "high",
      "sources": [
       {
@@ -21,9 +21,30 @@
        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd21uak5VZFlxQ3A4V3lybWhqU2FXOGU2TWh3aFBMTld4T2VWYmkwbFUtbEo1eGdYTUFKa3hjbExtYjNvZkR1Qm1NbFkxVTM5U2pISmlPSU5zYXdXVDhKVDR6WV9PTzJPWUl5ekx0ZzQza19WRGNBdzZVazgyMmw4cHB1SEJPSkVtc01qbGFGZWZ4Zm1SM0RJNg?oc=5"
       },
       {
+       "name": "BTC-ECHO",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckdEclhEd1d0OG56UnRyMFRGLTc2QzRKX2JleUctMi1QREtBUVQ0cUYxMDdKdGJqRlhsVllBNzdHR3JlVUtwS3dlY000VjRha1pGOHlxV0tDZWNzcFhFUHV3YWNRTnRGVnVxVGllVFN4bnBOaVl1QUt4UXVOVVF5aGI0bFNiODZ6SGtMajRQcUxvdHo5SkRvNDhreEhIeElBcmVOMEdjbVVMLS1uamc?oc=5"
+      },
+      {
        "name": "Finanzen.net",
        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbzROTXhKUmpRWVo4UDZ6bnJ5Mnd0dW1qNUlpclA0VEd3NFB6XzhWTWYzRk9vRmY1eENBT3g3WTR5YnV4dnNCX0VBcnRnaHJza0UtVkZmUmFnOEpIUG1nMllpVmpDTFJYUVFQTDhRbkdTQmNPSUR4Ymgxb0xYRmpPUnhJTXFvOFpvX2p3RXdlU3ktSDJtdEVDZjJ3WG5DOXdtLVg1YzVOcWt2VDJPOUk2WjdKU2trRVhJR3lCSzRvSXBibEQzclh6SU4xaEVTN0RGbTBxOHhyWXRXdl9XLVI4a2ozMENzbUVwUGxyZWNTWTVURzJFakE5MzJvaENHeXpCQ3M4?oc=5"
       },
+      {
+       "name": "Traders Union",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2pVekowUlh4VmlZb3N5S2tEcU42SzI2Z1NvOV9SOGdiTVZCUldWY294ak1qZFI1TEtTVkx3MkJCa1djeGJoR0xZTU5DTFZqY0FYVURIRGMtN09JYXJORjJRRDFELUVTdG5xaUhYY1F0RHZWb1FHdFNTUUVXUE93REpFNXFZVVEtOS1LR1J1V2hOWDNCWEJRd2VpcEQtbS1DQi1ka3Vnbw?oc=5"
+      },
+      {
+       "name": "XTB.com",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLTlRUXpRX0I3aUlxT3JKaTJ3SmdQUks0ZW9iMjlxVFAwS252RFpTOEs2MmpXZGYtdERiUmdBVFNob1hFRHF2ODUxdzB4SHpRUHVidzU2NzEzZE5PbWVaUGJXM05nS2VZR2Z1djlDeDc0UjhxbGNoVVFlNUg3SGRSRkVFVkZYZ0lnb1BqWlZ3Z0J4em9UbUNJVkpyeERnZHA0OW83eV9yTjVYeU9rVGJDNllCWWhJZnhNb1E?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Bitcoin: Jahrestief in Reichweite",
+     "summary": "Berichtet von Blocktrainer, Der Aktionär, CoinMarketCap, MarketScreener Deutschland.",
+     "time": "2026-11-21T12:08:22+01:00",
+     "importance": "high",
+     "sources": [
       {
        "name": "Blocktrainer",
        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNXdMS2tyT3B0d3ZjRFJWUDgzUHNkdW0yQ0thWFVsbzFsWU15dTlFaGFmNE9ac2tpenE3OEctQS0tQm0yRDJUSEg3NlA4X24wQmVNOWFMQ29xcEx4SnhmQl9FTGNzLWhYejV2eU5oam5wM1BJZTh5Zm5jR01hTXRXSE5mU1ZGVE1EbVhwUE8yYkNRUmNtUjBHRlZHbEJ3ZlZoRlE?oc=5"
@@ -74,20 +95,6 @@
      "singleSource": true
     },
     {
-     "title": "Krypto-Schock: Bitcoin-Kurs unter 56.000 Dollar, XRP-Crash",
-     "summary": "Meldung von BTC-ECHO.",
-     "time": "2026-11-21T10:16:36+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "BTC-ECHO",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckdEclhEd1d0OG56UnRyMFRGLTc2QzRKX2JleUctMi1QREtBUVQ0cUYxMDdKdGJqRlhsVllBNzdHR3JlVUtwS3dlY000VjRha1pGOHlxV0tDZWNzcFhFUHV3YWNRTnRGVnVxVGllVFN4bnBOaVl1QUt4UXVOVVF5aGI0bFNiODZ6SGtMajRQcUxvdHo5SkRvNDhreEhIeElBcmVOMEdjbVVMLS1uamc?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
      "title": "Digitalwährungen im Fokus: So bewegen sich Bitcoin & Co. am Samstagmittag",
      "summary": "Berichtet von Finanzen.net, finanzen.ch.",
      "time": "2026-11-21T12:43:06+01:00",
@@ -120,6 +127,20 @@
       }
      ],
      "verified": true
+    },
+    {
+     "title": "Krypto-Schock: Bitcoin-Kurs unter 56.000 Dollar, XRP-Crash",
+     "summary": "Meldung von BTC-ECHO.",
+     "time": "2026-11-21T10:16:36+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "BTC-ECHO",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRjFsT2ZMYWJxaFBRdGl3MUw1XzlyMWJMaXg2T1oyUlo1N0szc0ZXUUFFM1VnWmczNnVpUGI2eGVYV1FGMXZwNUlCckw1MUFJSjNVWjhyeWFCMVBlVjYzODN0YWhjanYwc3Vsd3ZXVzJzWG1uQWF3d2JaRFYtcHBxSjA5aGh6LVIweVJBNG1mdXZhR3BObEJ2QU9n?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     },
     {
      "title": "Wochenrückblick: Aktien-Crash zieht Bitcoin nach unten",
@@ -217,20 +238,6 @@
      ],
      "verified": false,
      "singleSource": true
-    },
-    {
-     "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-     "summary": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders.",
-     "time": "2026-11-20T20:37:27+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Cointelegraph",
-       "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
     }
    ],
    "more": [
@@ -313,18 +320,25 @@
      "verified": true
     },
     {
-     "title": "Krypto-Crash bei Zcash: Kann ein zweiter ETF den Abverkauf noch stoppen?",
-     "summary": "Meldung von BTC-ECHO.",
-     "time": "2026-11-20T14:00:00+01:00",
+     "title": "iShares MSCI World ETF: 3,3 Prozent Minus am siebten Verlusttag",
+     "summary": "Berichtet von Finanzen.net, ad-hoc-news.de, Börse Global.",
+     "time": "2026-11-21T07:45:21+01:00",
      "importance": "high",
      "sources": [
       {
-       "name": "BTC-ECHO",
-       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONDlUVmszV3RlQVRYMFQxU2pDWkRYR1U0NGtOUVl1UE9iZnBqT0pkN1hHUzF0YzdHRkZibVJmcklKUGpCRWZvTWJGd19lNnBzRDJZWmwtcW9mWjlrWkUyeklNT0xtWkN2T3c3dExnNnpKUlRZVWFwNzA3em5GSEozczM1OEhUX3E4aHBNUVM3d2JaNXN3WDVCZGc2aWRVRW8?oc=5"
+       "name": "Finanzen.net",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcW1rNGFUUC1ESFRwZUxfbHFsYWxSOE1Tckc1UjZQTkZOdlYyZmNRYWJvOVhRRC1QNVNGeUVDdkVKY1B3ZmQ0ZlFwNEk2c05Jelh6eWY4T0J1bFZYME1qQVdsMGo2UC1ZV2N0RHM2Wi1WeTdKLUx5RmVqbVJOUnhFelcxSXJYTXFTZmYxRW95QlJxdTJiNlE?oc=5"
+      },
+      {
+       "name": "ad-hoc-news.de",
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNzk0aGs0U2JmQk5fRjFvMU13Q1VDZWxiSWtqMS13M0R5RDlOS0JXaWNwN1hPeG5PbVZRMkpOejJDZnRLSjBER2FSakdlejg3aGY2VUZkeG4yM3BlVlNVSkF0S3huNUcwZThFM0NXMFdmeExPQThFX0w1dTN2OFp6cldnSXcyeXJQR0VsVHBDa2NCc2tpUk05OUJKR1dCaVRQbXJXY1RBZ2pEbmdXN3BPWUs0QnJSaW9Ob3dEZWhXcGRwZkVNVi1oMWgzUmVnR1dTM3FXQ25NSGZueXBUY2lUbXBB?oc=5"
+      },
+      {
+       "name": "Börse Global",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUW9UdjV4U3BfSzR1eERtRk90M0ppc3F6azRwMjk4X0hsMEtzdmpnQ2NvZnNWdzlmR3RuQk1Nd01XdnJVUTVMaFU4ZFBtNkMxUzdPakYyaWNjUjJ3T05mN0VJd2l6WGZtVEdBV3R3YjVkeWpKNERFVWg0N3FkaVl2RHdmb0pmRUlneVktbUFUZWctUFhjY0xmUWN1Y2FJZw?oc=5"
       }
      ],
-     "verified": false,
-     "singleSource": true
+     "verified": true
     },
     {
      "title": "Bye bye Gemini! VanEck wechselt den Krypto-Verwahrer seines Bitcoin ETFs",
@@ -361,93 +375,65 @@
      "verified": true
     },
     {
-     "title": "iShares MSCI World ETF: 3,3 Prozent Minus am siebten Verlusttag",
-     "summary": "Berichtet von ad-hoc-news.de, Börse Global.",
-     "time": "2026-11-21T07:45:21+01:00",
+     "title": "iShares Core MSCI World sammelt 7,6 Milliarden Euro ein",
+     "summary": "Berichtet von Finanzen.net, aktien.news.",
+     "time": "2026-11-21T09:06:22+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNzk0aGs0U2JmQk5fRjFvMU13Q1VDZWxiSWtqMS13M0R5RDlOS0JXaWNwN1hPeG5PbVZRMkpOejJDZnRLSjBER2FSakdlejg3aGY2VUZkeG4yM3BlVlNVSkF0S3huNUcwZThFM0NXMFdmeExPQThFX0w1dTN2OFp6cldnSXcyeXJQR0VsVHBDa2NCc2tpUk05OUJKR1dCaVRQbXJXY1RBZ2pEbmdXN3BPWUs0QnJSaW9Ob3dEZWhXcGRwZkVNVi1oMWgzUmVnR1dTM3FXQ25NSGZueXBUY2lUbXBB?oc=5"
+       "name": "Finanzen.net",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3lLeWlyTDhmQTJiZ3JjVUhEczlxbTNhOXliakJ6TFZwcGd5T3VNUXVQSGYxRkxydjBld2xYSXFLNC1xZ1dNMHo1bVFfMW5xQ3N1N0hSQ2V1RkZhTzdPWU1qWkQ2M1VvN0Z4ekxaUEpmaFNjcWN2NWc1VWVFUWxwN21XeVZJOXJRbjE0bU1wWG5RUFByQkZPT2pJaEVKd0U?oc=5"
       },
       {
-       "name": "Börse Global",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUW9UdjV4U3BfSzR1eERtRk90M0ppc3F6azRwMjk4X0hsMEtzdmpnQ2NvZnNWdzlmR3RuQk1Nd01XdnJVUTVMaFU4ZFBtNkMxUzdPakYyaWNjUjJ3T05mN0VJd2l6WGZtVEdBV3R3YjVkeWpKNERFVWg0N3FkaVl2RHdmb0pmRUlneVktbUFUZWctUFhjY0xmUWN1Y2FJZw?oc=5"
+       "name": "aktien.news",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanJRUWpjLWY2MzBfRVM5TXZZdUZva3FpMERCN05obEZ0SDZXWENpRE1CenNJd1lGTFlXbWFqbFE5dlFSTTYwbmNTOU5nN2dTbHNhTFRuOHV4X3VNWUNSLVRyY0JJYnozc2hLUDk5UURiUjdxT1V1YTZFTXJRQld2cEhrcE0?oc=5"
       }
      ],
      "verified": true
     },
     {
-     "title": "VanEck Semiconductor ETF: Sektorindex bricht um 9,2 Prozent ein",
-     "summary": "Berichtet von Börse Express, Börse Global.",
-     "time": "2026-11-20T21:16:10+01:00",
+     "title": "iShares STOXX Global Select Dividend 100 ETF tendiert schwächer",
+     "summary": "Berichtet von XTB.com, Finanzen.net.",
+     "time": "2026-11-20T18:04:03+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOVAzNDZvM3E3Q2ZwNm4tMndnUGJWUjhOZk9Yalc4WnVmVTdXdjdIT0N5X3AzQU5UY3hYY1A3N0R2OUJwbFBXRm9JVy1tWUxNdmhheHhnNmdIcTJHMUE4a3g5Qi12RW8yS0NOX1lmVXVNS0RHRGFjcnZ1VGd0YW80RzF2Mzk4RkxKUlFwQlRNS1BSVjBMSVdDMFJrOE1oeEFSUHdVMldLVkxyR244Q1ptbGlRYy1RYWM?oc=5"
+       "name": "XTB.com",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRTgtN0pHWXZoNWE3dzUyMXhiRUNBQl9lSW1wYnhtQzRGM3FDcmRJZl9UcFpZUFNRWXdzTHJBaG9fTEJGdkJqM3ZfZnZnRHRUU3dWTW90UVJtSE9ybjVxVUduNndEQV80LU80cURWbmxFR0ZyQl8wNUlVZWF2S1Ewd0p5dHM1cG9uTXo1dV9fRFVXdjhRcnBCaHRYRzZmbVNqOHhxWHFyYnJJbW1naTNJRkFoZG14U0t0RWRvZmhR?oc=5"
       },
       {
-       "name": "Börse Global",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNek5ySlFxOEtPc2hBT21KS3lMcS1PZ2NsaS1LSlBsRC1OdjBUUV94YVVRYzJNZHp1eFIwMHA2UDRYYkhsM0lHbUpya2hfcjlHcG40SlZ3TWhWVmlhSk5abTJrWFpnQ2M5RXZtRGdXTWRqODMyd3hZdGduM3dzNDNsZ1I0Nk4yOThGdU9nd3UtaWNxTGlfQTdFbnp3?oc=5"
+       "name": "Finanzen.net",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0thbHJmNXNlRnFSbHZ0WWtMdWV5dVZZY1hFREZyTHYtby1XM0thTE5MSGNoQ0lnRHIyVVF6dFU2Q1BQZ3BwUXFZc0EwUFotcXFlNTh4N3dIMlFmRENVUTJwSy1XMDRHSm8zQktHN21jb1RKUFJjeHNOOGxSXzc1M1FSQkRPenJlX1pPTExWakdNN0E5RGJia0hmbHNUVkxYWUNhRlQ1VGhYeGhYVG9GcXp0YUZjUTg?oc=5"
       }
      ],
      "verified": true
     },
     {
-     "title": "BTC/USD fällt unter 62.000 US-Dollar, ETF-Abflüsse verschärfen den Ausverkauf",
-     "summary": "Berichtet von FinanceFeeds, Traders Union.",
-     "time": "2026-11-20T13:29:02+01:00",
+     "title": "Amundi Core DAX ETF legt zu",
+     "summary": "Berichtet von aktien.news, Finanzen.net.",
+     "time": "2026-11-20T00:43:12+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "FinanceFeeds",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUE4VUwxQ3MxdEdMLVV6d1lwbl9QcWJqbkU2YmNWMzZHVUl3S3RhRXRzaWRVOWp2ZnhRaDRRYXNjdk50R3hwRlN0LU9lODBjdVNSd0Zvb0ZSTFhSbXVvajJpUGEtbmY3bjhDOXdGalFmUHpYS2xaS1NqdEJOVDJqSERGVmh0enBfcFpJcjlPQmo2alUxYzRkQ095UQ?oc=5"
+       "name": "aktien.news",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGoxclc3VExKZ0p6ZDhJdDVpYVREa1F6SnFvRjZFcjRkbkRMUVptZ0R4Yi0ydmhzTExjbXNaaHQ3WC1IY0J4a0dUWG52bXBJcWdaRjNkQjhHWWVIaF9ZOXpwa1R6SEFaaWtxNWYwdE1BUVNuaGJ1R3NQSkRPWDFCMVI4TTZHS0lFOWhlM1RNd2oydw?oc=5"
       },
       {
-       "name": "Traders Union",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3dHMkNuMEY4emZyWWptbnNlZU50dzBhQm9RTzVGV21wWUlLanVlbkJtOTk4NlZPRVhsUVJhQ1g4bnR3dzVXOUswMTczZy1tMzFpUWRSX3ZHNDFoWWMyNllHQWViVVIwQzJ6bXpacHJ2UUlwd0JGWXB5aHVlTnBXTTRWeFlkd1NFRnNmdnQySE5oYTloYzRv?oc=5"
+       "name": "Finanzen.net",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ0M1X2dOcktWRG4ySEFBVEk4eGZFWW9seG1lQmJSQkliTWxjOUpYTFY2cXhYZHdxSHZfQjlQTEE3WWJ3eTItU1NtNk85eWJfU3dlYnVTZjhndkprWmtMLWdCRXo0T0RHNjdYZUpqMVdCVUpIRG9lMVNuR1NWUU53OEJRdnF6eEE5SW5fTUJQYnZkQ0RZSmc?oc=5"
       }
      ],
      "verified": true
     },
     {
-     "title": "Ethereum Kurs bei 1.509,45 Euro – 1,44 % gestiegen - tixio",
-     "summary": "Meldung von tixio - Nachrichten.",
-     "time": "2026-11-21T13:46:53+01:00",
+     "title": "Rohstoffe im Depot: Lohnt sich der WisdomTree Strategic Metals ETF?",
+     "summary": "Meldung von Capital.de.",
+     "time": "2026-11-21T14:00:00+01:00",
      "importance": "low",
      "sources": [
       {
-       "name": "tixio - Nachrichten",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVBCQmZ1UzEwdDktV0RKeW5HME1vdVhZc20xbGt4Mmg1ZTdHMUh3RFh3UmRXclpCY0RLNVdpQmVVZHFuMlc5V045Sld2MlU1THNqSUVSVnhhQVAtS3VVa19uREx2clpYcklwLTU2bHFCcGhiTnJMdXBkWnB2WVl2c2ZHX0c?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Bitwise reicht am 17. November ETF für Zcash ein - Zcash-Kurs im Fokus",
-     "summary": "Meldung von ad-hoc-news.de.",
-     "time": "2026-11-21T13:10:39+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWno1N2h2Mk10WHgxcmFpdFpiUURhQ2owU3RQemNUYTEyV0h2dVd0RlVVT3NxNHd0bzc2ZW5QWDd3SGI0YzRKODdpZXJXSHk3X2pucWlHb0FVRjVPcXBWNVA2MVZZNHBROXBYamJhQl9JdG5yV0ZYbXdzeUI1SHBhVXhCYTIwcVVtTTZmeWR4aVZaTlZ3Ylc0ZGtmT05xN3ZKcjd1OTVfSTItNnJNTXI3blc0a0xGT3RNc2JaMU4wYWtmRkI4Y3Blc253?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "ETF-Vermögen unter 1 Mrd. USD und Liquidationen prägen den XRP-Kurs",
-     "summary": "Meldung von ad-hoc-news.de.",
-     "time": "2026-11-21T13:07:50+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSjI4VGFjdDVZNmhteDU3M1dva084LVU3b3FFSWxxczM5Z0RUbC1JY3lFMC1uMVV1TmFRNlZqbVl1b0dFN3Z1LUhXeWp5RFRMeVNSLWVXZmhkUjBINHpQYWprVFJLeUtVcGFPLVNsSXRCOEk4TU9SbFFCbE92UDIwZURkeFRMWFNrZmpvYW43MnVDWGhHR1ExMFFrSnpDNEY1QmxNYmJrZlJxVURLSTBPbXBfaUlXZkUxNlBtejZZRXd5RzdMcVQ3bkpn?oc=5"
+       "name": "Capital.de",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcTdDU2pQVU84cHIxNzNPRlluZnpTbXg2SXl4Sjg3bjJyQ1FER0EwREJfMUJDbWRTeXJsTzlFcmlXMGNwRy1fWjhERElPRVVMaWJpTE9fSmN4dVM1NEtBYl9QcW5EV1p5ckExUVp0NUlpUDE1N1FDOEx2aEQ5LVZzNGk2UWhGTS1takljX2Q1TFJ6NHNjN1M4enJsTDBxN1FlSklJcTkxZHk1UDNHMFhkcU1R?oc=5"
       }
      ],
      "verified": false,
@@ -462,6 +448,20 @@
       {
        "name": "Börse Global",
        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY19GT2x5U01zUl9jbU51VEJDMGF0X3RaMXpjaUs4Z25YdzdwYjRwOFFTd0k2bm00QnhNaGw1QkVHcHljNEQ5QlQwajhCUFY2VEdNMjA2YlBVOUhmTFNoWFBzeDQ3U0xVQ3V2TW1wazh6cEJjYVA5MUFmeWI1ZzROcS1JbUx2eDRXVFdKOEMzTW9SejdISEgwamoxTFI?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Solana-ETFs trotzen dem großen Krypto-Verkauf an der Wall Street",
+     "summary": "Meldung von Yahoo Finanzen Deutschland.",
+     "time": "2026-11-21T11:49:42+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Yahoo Finanzen Deutschland",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVktYZDJjOTFDVzlHUjA3dzN1aGhsQXA5V3V3UklPbU0xQW5sZG9ZVmRRLW5WS3VVUGc2UXFVajRZdi1zc2hYTm5WNWxwS2NTZ0JZenlvRmg2ajNZYVJJal93ZEQwclFVVldkMHVDWkZfWXZHWGtvcU9KUTRJVFoxaTNpQmV1MHBVbWxCSk5lcm5aU3ZtMGJJcmtB?oc=5"
       }
      ],
      "verified": false,
@@ -540,10 +540,6 @@
        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1hlSzBkVERvR3RWR1hFbVJwSXFFU1Bsc1VQLUZ4NlhHTWJ2dW5YQXJ3dXdsMWZxZzVwb19ONGZQS2tta3FBdXNwTDdqc0NSSlRfUUdlYXZJckRnRGZCempmc0M0VmlQX0lzeUhiVFlyQkozeUNRbWJxMXZuOEdBU09ZWE1YalhUZE5tMUNmYUlYXzFBYWs5SWJ5UExhcEJtZmpFUXB1SXlpQ1ZV?oc=5"
       },
       {
-       "name": "STERN.de",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ3lORngydlFHcTFQYkp3dXNDUndicjhoWUEzeDNiR05Ed0MybDF6cHpVM3AzRjRiMmtvU2RVV1ZnUGRXR0psa0haSDVNX0ZKRkFtTEo4SlpDTVpjSGxBYmlQU2tEWU1fQzI2WjFjaTFpb2tNaWZqckJCS2hXR1RuQnhON1B3Z1RUY2FqT2w1bXV0cDNpTXF6VnFsTW10cEVCcG9talIwSW9fZ2tsYmc?oc=5"
-      },
-      {
        "name": "SRF",
        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOXZacGk3NkhRQ3h3Ni14VkVReXhmenhRT3R0b3BEOWhGTUZSNHBQTy1DdTJsNVVhOE81TEhJblB2NUx0eVNZWmw5QUpRdnJhbzU1cVVMSjRGQ2hqRWdoZjBrdTdtQkxHeUtaZ21yTFB5QVp0TVJFNnpzcjNaVjA5M0JzUUVGN1VzUHVBUkxPTl8xb2xhQUlpMHNBT1FIUzZMdVEyVUZTUnY?oc=5"
       },
@@ -598,10 +594,6 @@
       {
        "name": "Manager Magazin",
        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYWpaU25ZdnZSN2RYcG5kdzV2TmlnNUNZa05wRXdPcG13X3BJU1hqV2tsZk1aN1FMRndMREdWcWdaVlF6b25MRWVKNXJzMHJielp3N1JPdVFsd3hWeDVyd3BLaUM5TVpmeUY5RlZvaEFWallkaE52MFF2TEZ4SGhUbGtMclA5Z1NBVjUzTDdwamlMTGQ2SGprMHloSXBxU0UyTzhhT0J6Y08xRkJMWVpWNmlmWVBMU0w0ejZkUjVkclFJMjJ0cU5ERmY4X2JSelZ1SGRySG9EQ1N5Rk5Z?oc=5"
-      },
-      {
-       "name": "aktien.news",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzhWbnZTaktIYkVfczVtS3pFQm1iM1hFcllRczNYY1VhT1NVQ2czb3llZ3l6T3E2TUxSSUh2WkM0WklMNHctaFBrbGVZbnlIcGpEc0ZRZ0VSSGQ3MnRpckNUWEticHRlN1dUWWpqaTBjV3l2QTA4cHBGWk5IRDBFeW5EN1J3LUQ0V1dIWFBPRnVNNGM?oc=5"
       },
       {
        "name": "it-daily.net",
@@ -683,17 +675,17 @@
     },
     {
      "title": "Trotz Rekord-IPO: Anthropic kann KI-Abwärtsstrudel nicht aufhalten",
-     "summary": "Meldung von n-tv.de.",
+     "summary": "Berichtet von Spiegel, n-tv.de.",
      "time": "2026-11-20T13:36:51+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaEhUdDRDb1BHLXFSTHctNjJaMk1nNjQ2Z0hmQy1kc0JqSDJmb05VV1UycjFrdmNPcEJDeS1Da1hkWUt4eEFEYzRMc1AzNERhTWl3VzFLQzdBZXozSERrZFNMRWlXdHVRRGZGaFZvTWdlY3NNNkZROGdvSGp4N25YS2xZYlRJMGdBdEdSeGRsdU0zb0dSbU9FNVVlWDk?oc=5"
-      },
-      {
        "name": "Spiegel",
        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOF92T2JraGNSb2lUeTVQXzBxRjVCVnJBNEhRSXVyZnk4TE5acmZwZXNKN1RPWU5WYlBJek5SQUdBZWdkMGxZS0JJZjZJRVh1XzlTUXphb1ExeHBYa2w2R2NNbkdsUklsU3FMbFhVb2xOVFFOb05NcTNQMlViVzNWX3JHNkpvXzZyeFQzNlNmR3hxOWJ0Z1pEODRpbUpjWE1ZeHJkSl96LXZiTG1OWDlqWjJBcVVDZ1g1S25PTlZ6cGs5Zy1wOEpKSEdSelpydHdk?oc=5"
+      },
+      {
+       "name": "n-tv.de",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaEhUdDRDb1BHLXFSTHctNjJaMk1nNjQ2Z0hmQy1kc0JqSDJmb05VV1UycjFrdmNPcEJDeS1Da1hkWUt4eEFEYzRMc1AzNERhTWl3VzFLQzdBZXozSERrZFNMRWlXdHVRRGZGaFZvTWdlY3NNNkZROGdvSGp4N25YS2xZYlRJMGdBdEdSeGRsdU0zb0dSbU9FNVVlWDk?oc=5"
       }
      ],
      "verified": true
@@ -1046,9 +1038,30 @@
    "tint": "purple",
    "items": [
     {
+     "title": "Anthropic Aktienanalyse: Vom 34-Prozent-Kurssprung bis 5 Cent über den Ausgabepreis – was die Billionen-Aktie wirklich wert ist",
+     "summary": "Berichtet von FAZ, Der Aktionär, AktienCheck.de.",
+     "time": "2026-11-21T14:18:01+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "FAZ",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUpBSmRXdmhyODVncnAxajVtWHlPTHZUZUE0ZXo4REFzSXhIRUVJaGFUeW10UXl1X1JZaE1fb3hsem81bUJvVVVUOXJ0V2FmU3dpeVpzdS1wTTVFclo4enY4RVhVcElBRk1kUFQ3dXpoWnVzMlR0M3IydG1kYmtQWjdtemtpSmVPYTF6VWFFSlVldk9wVFBfNjJkQk1QS05BVzFPdXZLbUNaTDA?oc=5"
+      },
+      {
+       "name": "Der Aktionär",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXR1QWw0NGswcW9ISHlJbWNxMVcxaGtFRldPMHNWY0Jsem9rQmdKWUllbktGdHVnU2FVbmdyTVFIcGNyNFN5X1kzM3NnQ04xQThodjJTYWFMeGgxdkg2Y1RneGc5enlCN01MaW5Lb0dQSzY2b3VsTkVtWXJtdTBMejhwSUlFUWQ2SkdBLWllaDI4azMxQWNOVTAyNXZnWGpYVTdKNkl4b0M0T2lCRkRMYS1wWQ?oc=5"
+      },
+      {
+       "name": "AktienCheck.de",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSlZSYkFrR2NFZnV6dHRhOFRYN180Ym0yRGZfY1g0aktBZGVOcE1ja19wLW9pNUNQSHBiZnlmd2lGVjhOa3UtSVVlcHdmUGhwYU5wc3BIdVlBSWFOcV9yZ2ZPbTFrY19XeGp0UWlicTBkbWJ4R0ZEVFc1OUZuNFJJY3dFREdpUTNKakROZGctWG5vSVBQMV9hMFFVZjhDQjhWM2x3?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
      "title": "Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben",
      "summary": "Levent Alpöge will mit Claude die Riemannsche Vermutung bewiesen haben. Die Prüfung läuft, ein zweiter Ansatz ohne KI liegt vor.",
-     "time": "2026-11-21T13:53:24+01:00",
+     "time": "2026-11-21T14:03:20+01:00",
      "importance": "high",
      "sources": [
       {
@@ -1072,29 +1085,20 @@
        "url": "https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
       },
       {
-       "name": "SZ.de",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMDJIVGJxTEdibkRVeG5xbUowLTNqbFo3V1RMeTVyMklXTTFnc2F1N2pvYllFWXpvb2U2bHctRGdNOHQ2bFVDYV8zd0N0cUotczRTM3gzZ043dE5fM0RHTmsxdVpOM2puVzhhLTdsYVZkQ2wxQ00wQnpZem1xSnZXQVNQZWNMbGt6YUtYaWVZZFZLdkFHNHd2M3dMNXlMSkkxZldTc3RaVWtPX2pfaHlVMnN5NUFyTDZoQ1BDNEpKZjdOVjBySVVz?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Mit KI knackt ein Mathematiker ein 167 Jahre altes Rätsel",
-     "summary": "Berichtet von Yahoo Nachrichten, ingenieur.de, Forschung und Wissen.",
-     "time": "2026-11-21T13:27:07+01:00",
-     "importance": "high",
-     "sources": [
-      {
        "name": "Yahoo Nachrichten",
        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlJWcUVxZndQdTA5ZGRiT18wSmxQcXIyM0ZJWEtPNzBZekU1ZkxVdTJveEV2QkJ5OERfUXEtMWg2TDBDajhDWWhTOTVwLXZxbWNaVTNMX1NjWEtzYnpHMHBEdVlzWHZDZDRwZ2t3NksyX2poWVVYb0lQQnoxZnE3U3l0NVRTWUNnaFNmYS1sc3Q1UWJ6?oc=5"
       },
       {
-       "name": "ingenieur.de",
-       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNC1ueXpqeWpXQWFjcVE1Nm1nVmtkZkc4RkZNVUs4WXE2YXk5eVFaTFlvVFFRNDRzOUcyUXMzMTJ0dEdRbzB6eUVSQzhqdmZnZUg0eGZOY1p5YUgwM1oxd0JUMlN4Z1oxMjUzME15ejdkQ2lObWtWMzZ3OE9ZaUEwZjZmVmdVUl9qenZyQ09YTzFWWkZSSUJNTVE2bVZmb0ZSbkIyTm5KSXl6NGdJd0UxUlJCMXJmekFhRVVFSXJjYUJDcE12NFNiZkRuamVfREtwRjZfbk1lOA?oc=5"
-      },
-      {
        "name": "Forschung und Wissen",
        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRmEybk1ZakRnUmF5N0UyMHpycWVCemtKcGZ3VWF3X3h4S1dkSlZYcG82NUZnRl84UmJlWVhfdnR1aGxTTV9qdW1ZRDczNnlZeU1zZl9seFJkWUh1ZGN3YU15TVpISGszLUlCcnptSjNGb0RDWlBuTHJWbEFfcmZ0bmhZUHJldDJvVERESndzcUpRZ2JSaUt5d2dZNTRfZHJKZVctejJ5bndmemZPUmEtcXZ1M0hfR1ZaSGhCNVZ4dVpSdw?oc=5"
+      },
+      {
+       "name": "WinFuture",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wbFZNQUVZSjVLUVZYNWpWYWV1eFh4aUIweDZrVXpza2xweEE4Nmh0cnVZZ3RtdGx5allXWTFDNnRUMVJpTElXRDdVc2RZdw?oc=5"
+      },
+      {
+       "name": "ingenieur.de",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN0tQTy1Ja2tERmZGYVVwQWk4a0NDUmd2dVVDZjZRS2tjbkZfZ2Qxa2RYX0E5RU9PcVhjTV9IZUd1QkF2ZlFCWWYzNVJZMmp5MU13SmpfRXZYZm5BWUI1ck5CZl96cE5IcW9xX2NYc2VsYmtoUV9RdkZFVEJKQVA1RWhwWVlYMVZVUF9ZZTFpTTV4Z0Q0QThYZElsT1plR2pyd3VkaVFRSGR4Y2J6b1lwekxHRkFPUGlDOEtGWWYyd0xUMklTY1dnTTNUVUZnR1VuZE92Qmk1OVRIZw?oc=5"
       }
      ],
      "verified": true
@@ -1212,18 +1216,21 @@
      "singleSource": true
     },
     {
-     "title": "Markiert das Anthropic-IPO den Wendepunkt des AI-Zyklus?",
-     "summary": "Meldung von Finanzen.net.",
-     "time": "2026-11-20T18:05:19+01:00",
+     "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+     "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze…",
+     "time": "2026-11-20T13:30:47+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM1RGR2J2YUo4X2xINUloVno2Mi1FUU1tN0Z1bmo3SEFGRlNPR2RJVzZCZHQzX0lxZzM3TThjOGdrWlEtaG55bUlUSzVJMnl5eEdIZVNTbDQ1ZDlwVzJaSllueGh5cmowaHh4VkUzcUJqUnZBZHBFTFBKTkpJSTB5dEZ2WTlfbXlCRnAtSThodzFmbDE3WWtzUE9tZUROcXd5SW13THJjQ1ZFcnN4SUpiZ2tSUFFMTU5QVnZHdEFoZHRMbWRXRk1SNVZpaDdZdw?oc=5"
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+      },
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
       }
      ],
-     "verified": false,
-     "singleSource": true
+     "verified": true
     }
    ],
    "more": [
@@ -1294,22 +1301,26 @@
      "verified": true
     },
     {
-     "title": "Friedrich Merz und die CDU blamierten sich in dieser Woche mit peinlichen Bildern im GTA-Look. Nun setzte Autovermietung Sixt noch einen drauf und nahm den Bundeskanzler zusätzlich aufs Korn. Längst nicht das erste Mal, dass der CDU-Chef ungewollt z",
-     "summary": "Berichtet von WELT, T-Online, Facebook.",
-     "time": "2026-11-21T09:15:43+01:00",
+     "title": "Bundesregierung: Juso-Chef Türmer kritisiert Koalition wegen Stromsteuersenkung",
+     "summary": "Philipp Türmer sieht in der Stromsteuersenkung eine »Entlastungsmaßnahme für den Kanzler«. Der Juso-Chef hätte lieber eine Verkürzung der gesetzlichen Arbeitszeit.",
+     "time": "2026-11-21T08:22:05+01:00",
      "importance": "high",
      "sources": [
       {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbDZGRl92QTNxT21jT1UzNkpNOHlGYVR4RkhaeE5ZVHhiRDNBeWM1czhqMXpJRmVKb01Gbl9nYkZJNC1TYUVTSUxJVWJUZXRIbmN2N0hzQW5kX3YzelIzSzN0a2hEbEVxTktMWkZpb0N6RkFJZ1pqNG1oN08wWmJ0U3NwQ3VLY2FDdjZnRnJvMjc4cEE2ZHg0RGxuWDhRc283UElxVng5TkhNY2I0MG1qTEx0aU9JOWxoXzRfRVVHdk1TMjVzcnpyRHJwYW41V2dBYkxhNzd6VWs0VVVVcWNYNHI1V0RTcXQtMnMyR1plQ3ZCZEx5Vmhyc1BhR0FzVlFqRlkw?oc=5"
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/deutschland/2026-11/stromsteuersenkung-koalition-philipp-tuermer-cdu-privathaushalte"
       },
       {
-       "name": "T-Online",
-       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOW8tVHZMSE1lUEdGdklLQTBXSFMxcEV4Q05oZmRjei05QUN2ckUwUWFEYXJMN3hCb1dUZ1pQY1paZVI3VlQ4bXlacnViR2JYd040WkM1OTQ1czBYNW5PWk9xWnduZTJYY0JGZnZQLWd0UkRKbDg0bElpTEc1R0tHYm1hWmlFb2MyWEMxeWczUFBUYXNLME5XNFZhVmZwcUUyWmg3ajFzUGw3Ykp3ZHg5bjByb2ZQVlJuTy12ZUZlUXBXejR5djItdDlkTzF3QzlCLXkyZjczRkpnalFVNFY0?oc=5"
+       "name": "ad-hoc-news.de",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWmRXSWZ3MGRYQ3AxcEE3c1g2em9MSDBjdDdJdE9pemlDQ09acU90RnJoSktWc0pzZU5TaHp1SVBNUXBBaEFlcXg4YVl4QzZKc3c4ekRJdklpNlNPNElkRVpXMHdvc2dGQklBNkFRRXdyQ3hRRWFmLXlBWmJjWGRKRmFaclBoTGZ6djBnUHMzek8tQnlFTmttcnFEdVA?oc=5"
       },
       {
-       "name": "Facebook",
-       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd0hDeFFTckdUc3p0QzdQRWM0NjE5Z2FFeEZNVUdobkhKUEhtN3J2Y3dJeW1JalRfRE9pbW5qUTMyS2gtMG1yc080TzAwZjRmSDJMa2ctZmV3RHJDd054Yy1hU2ItaVR4RHZTcU5MVVhXOHhzNmFkQ0hMaVg3eThLV0swY3g4VWE5WWpmd3I0Q1ROMnNOUnhaM09BM0ZrVE5Ia1Fyc0wwNWhXQzgyU2FKS1BWOFI3bWxyU3RRQ0RQT2V1RUlaa3lZSm1VcVJ1M0xpVWpn?oc=5"
+       "name": "Oldenburger Online Zeitung",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR09EZ3JDZnpYX2hmSVEtY0JKTmpxVXFwM0RGc1NFZ0VNQXhjRXJnb2JzWmZuZHdEN3NqdjEyWm52NUFJSk9pZnMwZV9zM1lma0ViMXNDZGp4bmNnb1J4RzNqZHBqa3c2MnRtVHVYRWktSVBLZ25Xc2RaSllUaTVLeGhlTEw0Y3ZWWHV3ODVmQXNJbHpPRzZ6aUZNdHhkSFg4TEVpMGlfN2pkcnIycEpXY2NiWDJ4X1diWTJpcmpMVWF1TmdVSVkwcw?oc=5"
+      },
+      {
+       "name": "Hasepost",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjRFSDV0MC1yOWQ5M1RGYkozRGs0M1J0UmhxV2VDUy1SWUJpUmhjOTFwejJMWDQ1OGh1elNKaVFtZFFMdTgzWjRad3dHZ1pPTnZhaXp1alpVRGFpeTlCdVAwWWloTlNwWFNCT2xWcm9oeXNhajJRaUpsZlJSaXVpSFNtSHptanM5c1g1dQ?oc=5"
       }
      ],
      "verified": true
@@ -1349,43 +1360,18 @@
      "verified": true
     },
     {
-     "title": "Kinder im Kanzleramt zu Besuch Ein Klangholz für den Kanzler - Merz musiziert mit Schülern",
-     "summary": "Berichtet von noz.de, Tagesspiegel.",
-     "time": "2026-11-21T08:35:31+01:00",
+     "title": "Friedrich Merz und die CDU blamierten sich in dieser Woche mit peinlichen Bildern im GTA-Look. Nun setzte Autovermietung Sixt noch einen drauf und nahm den Bundeskanzler zusätzlich aufs Korn. Längst nicht das erste Mal, dass der CDU-Chef ungewollt z",
+     "summary": "Berichtet von T-Online, Facebook.",
+     "time": "2026-11-21T09:15:43+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "noz.de",
-       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUk1iT01UMFVOUUhrSWxOSk10ODc3dlpoS3MwUTNaaDRMbVZnS2FPYmtkLUNfRDBtbGhlcDhvSXY2XzU0Nkt4a01RdTU2NjJDUy1uSTBfZGtSOG5UWk4wWE4tbnJRS2hEdTJKdXBHaVAzVkUzQWgzcjhZb1hEUjZvYUZvVE52OVhISmllaldjUFlpem9GOFBweU5pUjZ3Q1ZMTWJEVW5WTkRTQWRlQTkzZklKMV9OV1YzYUh6YTJn?oc=5"
+       "name": "T-Online",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOW8tVHZMSE1lUEdGdklLQTBXSFMxcEV4Q05oZmRjei05QUN2ckUwUWFEYXJMN3hCb1dUZ1pQY1paZVI3VlQ4bXlacnViR2JYd040WkM1OTQ1czBYNW5PWk9xWnduZTJYY0JGZnZQLWd0UkRKbDg0bElpTEc1R0tHYm1hWmlFb2MyWEMxeWczUFBUYXNLME5XNFZhVmZwcUUyWmg3ajFzUGw3Ykp3ZHg5bjByb2ZQVlJuTy12ZUZlUXBXejR5djItdDlkTzF3QzlCLXkyZjczRkpnalFVNFY0?oc=5"
       },
       {
-       "name": "Tagesspiegel",
-       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbjlPdFZCZGtiU0l0MURTNlhqNXhzU25EcXo0ZWlaNkFDRlFfbWh3Z3VkdXdpeVVVeU95aEZmczVVU0ZMc0VzRjRSZkZxNkloWlM0WWl2U3Q0QnB1OEJNVFFyQ0FMOU01LVdIQ1ZHa3hIQWNwUmRJcVo2LVZLWW5IaGdHRjdQYTJUZmJYLVMwTjhTM1R2T3BoYVI3U0l2aEJmd2FFa2Y0Zy1RdEEzZU9IVVo4SHZ6eU44QmpLZTR1RUZOS29ZWHNKN1BDMnB6ZDRZcW9reFlTODZlYkNiWnhwLQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Bundesregierung: Juso-Chef Türmer kritisiert Koalition wegen Stromsteuersenkung",
-     "summary": "Philipp Türmer sieht in der Stromsteuersenkung eine »Entlastungsmaßnahme für den Kanzler«. Der Juso-Chef hätte lieber eine Verkürzung der gesetzlichen Arbeitszeit.",
-     "time": "2026-11-21T08:22:05+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "ZEIT ONLINE",
-       "url": "https://www.zeit.de/politik/deutschland/2026-11/stromsteuersenkung-koalition-philipp-tuermer-cdu-privathaushalte"
-      },
-      {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWmRXSWZ3MGRYQ3AxcEE3c1g2em9MSDBjdDdJdE9pemlDQ09acU90RnJoSktWc0pzZU5TaHp1SVBNUXBBaEFlcXg4YVl4QzZKc3c4ekRJdklpNlNPNElkRVpXMHdvc2dGQklBNkFRRXdyQ3hRRWFmLXlBWmJjWGRKRmFaclBoTGZ6djBnUHMzek8tQnlFTmttcnFEdVA?oc=5"
-      },
-      {
-       "name": "Oldenburger Online Zeitung",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR09EZ3JDZnpYX2hmSVEtY0JKTmpxVXFwM0RGc1NFZ0VNQXhjRXJnb2JzWmZuZHdEN3NqdjEyWm52NUFJSk9pZnMwZV9zM1lma0ViMXNDZGp4bmNnb1J4RzNqZHBqa3c2MnRtVHVYRWktSVBLZ25Xc2RaSllUaTVLeGhlTEw0Y3ZWWHV3ODVmQXNJbHpPRzZ6aUZNdHhkSFg4TEVpMGlfN2pkcnIycEpXY2NiWDJ4X1diWTJpcmpMVWF1TmdVSVkwcw?oc=5"
-      },
-      {
-       "name": "Hasepost",
-       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjRFSDV0MC1yOWQ5M1RGYkozRGs0M1J0UmhxV2VDUy1SWUJpUmhjOTFwejJMWDQ1OGh1elNKaVFtZFFMdTgzWjRad3dHZ1pPTnZhaXp1alpVRGFpeTlCdVAwWWloTlNwWFNCT2xWcm9oeXNhajJRaUpsZlJSaXVpSFNtSHptanM5c1g1dQ?oc=5"
+       "name": "Facebook",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd0hDeFFTckdUc3p0QzdQRWM0NjE5Z2FFeEZNVUdobkhKUEhtN3J2Y3dJeW1JalRfRE9pbW5qUTMyS2gtMG1yc080TzAwZjRmSDJMa2ctZmV3RHJDd054Yy1hU2ItaVR4RHZTcU5MVVhXOHhzNmFkQ0hMaVg3eThLV0swY3g4VWE5WWpmd3I0Q1ROMnNOUnhaM09BM0ZrVE5Ia1Fyc0wwNWhXQzgyU2FKS1BWOFI3bWxyU3RRQ0RQT2V1RUlaa3lZSm1VcVJ1M0xpVWpn?oc=5"
       }
      ],
      "verified": true
@@ -1490,6 +1476,20 @@
       }
      ],
      "verified": true
+    },
+    {
+     "title": "Merz ist Costa-Vorschlag für EU-Haushalt noch immer zu teuer",
+     "summary": "Meldung von STERN.de.",
+     "time": "2026-11-21T14:12:08+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "STERN.de",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONkZpNXQ2d3hKYWExZ1NsbjU5aFAtdWsza193VmpXWlROUXQ0RGUzOWxkcE1DRDE4UWk1cGFNb2s1RDFCdDZaQzNqV1ZId3RoMjRMc1FzRHc1YU1KZ21CdmJsLTdfOU9IVy1sdW9oOWc1LWVtT1hUNEpOZllOTTNPaEp4dFFqVXdabHZqX2tzWGRqYng0bGdoemFiOEVkOVJUazV3?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     }
    ],
    "more": [
@@ -1509,23 +1509,6 @@
    "icon": "globe",
    "tint": "teal",
    "items": [
-    {
-     "title": "Weltklimakonferenz: Klimagipfel verlängert – nur Trippelschritte in Sicht",
-     "summary": "Berichtet von Lippische Landes-Zeitung, WirtschaftsWoche.",
-     "time": "2026-11-21T10:50:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Lippische Landes-Zeitung",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRWtlZlllajA5bVpmQlNTWTNQbVJIYzFaVV9Obm9rV2FFbU1KTEh2MlJaaEhNS1JYbVIyTFhxczY5R0J6STZmYzhYZGF5ODJjdGRHZEpHSTJHU1Q0ZlBGbEUzbVpuUHdvOFdOVnJCX1FOSjRXNGxtWFF5U2pJRlNCcC1icHJtTEw0Z2VLRjIxcHdscjV0VU5xOGo0bmM1S2RxQ3NndlhwZ25fYldDR0g4?oc=5"
-      },
-      {
-       "name": "WirtschaftsWoche",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNczIxTkM2eU9LNnBENjQyR3VqZDFqWUR2UjYzV2VRR215XzNDX2RCWlFXY1pNTWhfX2dmbFdUMDFSYnZxZVVBbkR3enlFQmFnS3pEMjBuemhIU1JhbkpETGZsUWRydFd1c05GampscVFBdXJDS0lOdHE2eVBELW43NjRIckZsUm90Ynp4QnF4SjJ0eGc3NDhqV0tLeFZQdWJGb29kbTJWM1dfMWJxcEljWEhDWEQyY20wOTBESU9jSQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
     {
      "title": "French police officers guilty of Michel Zecler assault: What happens now?",
      "summary": "Officers dealt more than 30 blows to the Black music producer in what the court ruled was a racially motivated crime.",
@@ -1563,12 +1546,40 @@
     {
      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-     "time": "2026-11-21T13:52:00+01:00",
+     "time": "2026-11-21T14:17:38+01:00",
      "importance": "low",
      "sources": [
       {
        "name": "BBC News",
        "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
+     "summary": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne.",
+     "time": "2026-11-21T14:08:59+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
+     "summary": "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it.",
+     "time": "2026-11-21T13:49:20+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss"
       }
      ],
      "verified": false,
@@ -1667,20 +1678,6 @@
       {
        "name": "Al Jazeera",
        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Why is GTA VI so expensive to play?",
-     "summary": "Grand Theft Auto VI costs less than GTA V to buy, yet far more to play. AJLabs explains where the money goes.",
-     "time": "2026-11-21T12:39:03+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/21/why-is-gta-vi-so-expensive-to-play?traffic_source=rss"
       }
      ],
      "verified": false,
