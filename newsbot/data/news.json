@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-22T21:41:14+01:00",
+ "generatedAt": "2026-11-22T22:00:50+01:00",
  "windowHours": 48,
  "note": "Automatisch aus RSS-Feeds erstellt. Uhrzeiten in MEZ.",
  "categories": [
@@ -12,7 +12,7 @@
    "items": [
     {
      "title": "Bitcoin Kurs rutscht auf 55.130 Dollar und erholt sich, doch die Fonds ziehen weiter Geld ab",
-     "summary": "Berichtet von BTC-ECHO, XTB.com, IDNFinancials, wallstreetONLINE.",
+     "summary": "Berichtet von BTC-ECHO, XTB.com, Traders Union, IDNFinancials.",
      "time": "2026-11-22T21:26:00+01:00",
      "importance": "high",
      "sources": [
@@ -23,6 +23,10 @@
       {
        "name": "XTB.com",
        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLTlRUXpRX0I3aUlxT3JKaTJ3SmdQUks0ZW9iMjlxVFAwS252RFpTOEs2MmpXZGYtdERiUmdBVFNob1hFRHF2ODUxdzB4SHpRUHVidzU2NzEzZE5PbWVaUGJXM05nS2VZR2Z1djlDeDc0UjhxbGNoVVFlNUg3SGRSRkVFVkZYZ0lnb1BqWlZ3Z0J4em9UbUNJVkpyeERnZHA0OW83eV9yTjVYeU9rVGJDNllCWWhJZnhNb1E?oc=5"
+      },
+      {
+       "name": "Traders Union",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjN3NmpiZ0otaHNtOTh1bWZBVTNyNFRYb3hXZjcydnRnaWM1TEJIT3o5NjFPeEtyRXBCU0Z4ZEVDT1ZTZ3ozSFNITXJPejB5TmhaM3dvY1dJSWIzWEt3TUc2Sk9oQ21ZaHlXT1VJay1idUtmX3A5OVR4czRnVUpMNkpWbW92TjRmRENkcDY3Uk1YeDFCUmJHT2ZIRFBhWWFrUjdzazlJdw?oc=5"
       },
       {
        "name": "IDNFinancials",
@@ -41,14 +45,10 @@
     },
     {
      "title": "Bitcoin zurück bei 60.000 Dollar nach Absturz auf Zwei-Jahres-Tief",
-     "summary": "Berichtet von Around Prague, Trending Topics, Börse Global, CoinDesk.",
+     "summary": "Berichtet von Trending Topics, Börse Global, CoinDesk, Blick.",
      "time": "2026-11-22T20:00:50+01:00",
      "importance": "high",
      "sources": [
-      {
-       "name": "Around Prague",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDU3b3dkRXRhX0xBS2Ffcm81SHRyNVF0bno2bktrOUU1d0l3c1cwb2tUYlF0eEtXNTN4Vy1jLW81dDNpZDAzVUY1MHprbEJPR0ZuZXRQZF9jejRrYzhVVFB4bENzQlRMcWlSOTcxM2lVb044T3ZXNXd2MEEzeDcyVlNXcmlOX0Vha3ByU0dPazM3bXAxRXZNcnkyeDFOVExRWUtNTnp2aw?oc=5"
-      },
       {
        "name": "Trending Topics",
        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRlltYXJhVHhVazMzLVE4djBWS1FTcHhtS1BRMVZHZWNENmxhTVJnM0xOMVpfWXhLQ2RQaHZHTTZ4b25FX2JBekdTZXQzMnEtS2hWRDZ3d1czejJhdGEwb1RtN1UxbUVJOVl0WGVxTUdlR29RRmZYZGtMX3EzYjNQanRQZ1BjdU1HTExOYXpB?oc=5"
@@ -142,17 +142,20 @@
     },
     {
      "title": "Bitcoin unter 17.000 Dollar: \"Flash Crash\" bei Kraken",
-     "summary": "Meldung von BTC-ECHO.",
+     "summary": "Berichtet von TradingView, BTC-ECHO.",
      "time": "2026-11-22T13:23:40+01:00",
      "importance": "medium",
      "sources": [
+      {
+       "name": "TradingView",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ROVZPZGVEaWhQQU5JNGd1LTA5UmI1WTdEX3Q2ckpPVERhR0dFY1FQVFgzZmFLaGQzU1FwWWJmTWRtcW1FZ3ByNDdsdTR5Z0UwVHRscThCWWl4bm5jeHVHNUx3WkVQSFFwcHVuaVpzUzk?oc=5"
+      },
       {
        "name": "BTC-ECHO",
        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTi1GV3RsT3VGYi1RZ3V2anlheEZvSEE1VWhRSTZ6WTJiZG9JTUFuVnJhVS1aNjY2Z1lPSHl2UmFGYi1mXzZRdEJGazhLRl81QktQRUdyUkloSE9RZWhtdkZrMzIzNzRFSTBDQWpaZFRERl90MGRhWWVqNGZOUldRYTBVa1B0LVRnN0RvSmVLYzA?oc=5"
       }
      ],
-     "verified": false,
-     "singleSource": true
+     "verified": true
     },
     {
      "title": "Nur 5 % der Kryptowährungen steigen, während Sorgen über eine Zinserhöhung der Fed zunehmen",
@@ -203,9 +206,9 @@
      "verified": true
     },
     {
-     "title": "Bitcoin steigt, während Erwartungen weiterer Zinserhöhungen der Federal Reserve und die Risikoaversion die Nachfrage nach volatilen Anlagen bremsen",
+     "title": "Ethereum steigt trotz anhaltender ETF-Mittelabflüsse und zunehmender Spekulationen über Zinserhöhungen der Federal Reserve",
      "summary": "Meldung von Traders Union.",
-     "time": "2026-11-21T18:33:29+01:00",
+     "time": "2026-11-21T19:34:31+01:00",
      "importance": "medium",
      "sources": [
       {
@@ -218,13 +221,13 @@
     },
     {
      "title": "US-Dollar übertrifft Bitcoin, Gold und Aktien: Sorge vor Zinserhöhung der Fed wächst",
-     "summary": "Meldung von BeInCrypto.",
-     "time": "2026-11-21T17:33:00+01:00",
+     "summary": "Meldung von Yahoo Finanzen Deutschland.",
+     "time": "2026-11-21T17:33:50+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "BeInCrypto",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1naVlyUUdmdnF0djFyZDVfT05GV1QtbmNMeW1CR0p3TFRnSk1nN016Q1hyY3RqdmJjNVZjdVNTYndXekNSSXJ5UC1Rc0dhbGZFVEtvQ2ZhcVdrSkxlZnFvYmliUWlNc0pGSjY4N2tQeHBpZzA?oc=5"
+       "name": "Yahoo Finanzen Deutschland",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObjFaS0VseXMwMVlLU193SF8tRjJDVFR3S0gyazluYUlHYnUwRlZfekUzN3ZvVXRGZU9CeXJuMHAzWS1CaTMyV0VoQ2phdERjeVE4ZjdVRDlfSUpmQ1c0TnlWejY3eWw4dm5DNUxGRHFnQTlEeGoxYS1PVXRJRlM2V29zQkw5enYwd29JWW1qUUFtWll5dUJVeXFn?oc=5"
       }
      ],
      "verified": false,
@@ -256,11 +259,11 @@
      "sources": [
       {
        "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFNsNm1NdkxSTGtMVWtrb2dxbXVRU3dPOGJBLXRQeGhKNlV3TzJpdUQ0d3p5aTAzZ0FSSm4wVnBxTHJQYkRkSXNqSXhqaVNpVlFkM2h3Y25JaWJ6NVV5T3BZSXlPSVVla3dzSWN0b3prMHdsbEx6WnVyaTRBVlNOYW9nRWlrZjRYa1hsekNMMENTanJyYmhYZERFTzhkbkFaTDljV25fTHFaYkZFR193WlNsNA?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLV95UU1pUFlOZUlCbTlKbXZTU0x3WEVRcjNPeURLLXRhNnN5UkdGSXI5N1RJdTRodDBlRXdoeDJHMWQxS3NaQmZrQ0lKMmo4T2pMaFppR2dnLUZyTkI1a1RyQkhKWVhrUmpDSXZBbXNxZEVlZWNUaGlPRllMWVZGLS1SMW5HdXlXWGZLYXVVcUxSRnpjQ19oV09kUV9sSTNaeS14cWoydWFmX3FmRUFERXhyNA?oc=5"
       },
       {
        "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUtKTEkzLTR2WGEzdnFZNWJZalNDRHdkVld0cUZKMGg5emc5QktmcDNXNVZHWHJscUFyaVZIV0tOb3gxUUd6cUhjYTRfeUkyRlE0Ry0zTEdRX1ExZ2dOMG1JS1kxUTVMZEZhUVIxNVIzMnUxVXdIRGx0UE5LZG85Rnotb2JuRk9wdjdVY0lFRVBfc2M?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTHBoVXpsYlNZZzJmUjJqbV9BcnY2bGEzbm5TR2J5VGlWWTh1V2Y3ZnNiRTNrdWtfYlhaNXY0REhUVUpOSzdzRU9qbGV5TktiVGluRFN3V0xtOTF5UGgtR3hvMUZhSXhyLVFMaE5MTExMNUFtWkRwSFZEeVZhQmwzRW9IZW1neW9QVXJiMGRjV1VaRV9XZ3YzMTU1NDZEMTk5?oc=5"
       },
       {
        "name": "ad-hoc-news.de",
@@ -501,6 +504,10 @@
        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORVFfWTZabXE5WGVPa1RRRXlfenJVNDhpNVBYVUxXS1UyUGdYSUtDUEZSdkFKV2lkUzJfQ1RxaUVqdmJUVFJUMkFtTFRFRGsxSjhUTVkxRXZHLVJlVFJBT3I1OHc3eElVVFY4QWVUT01aQ1Z1Wkd0SEc2WndSdFlKMzVtcDlHS04tam82Z0J0dzZ3ZWczcW8xUHEwdDRKYTJxVl9PTng5YWpuSlk0NDBjZmNXQ3hUelNjSFZaWHlrRjBKQXJ0?oc=5"
       },
       {
+       "name": "Finanz und Wirtschaft",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXNMTHZHUy00SXhQOVVYZEY2ZkczbVhFd251VlVaVkhsMkFaUk5lWWRubXlDTzBEeU0zd3JpM3VnQndOZU9FelVBME5uYmJXZFhsVWs4OC1uaVRObWRkV3I4Y1Bad3lQX1ZKVTJPeUVuZGppbFhoOXpkVXhSeHpVYXNYOWNsVXFhcFBGRWpPSTFtOVc2LVE?oc=5"
+      },
+      {
        "name": "Finanzen.net",
        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDRCbkdXa3VyV2YtUS1YN21CWHNYTFNic3oxTGp0eE9mNmNJSDNHWXhHWEpRek1TSWZ3anRHWFlEMlhUVldSZUE2bXloZXN6aTl0NW96cEhGc1ZCTTNHOU9BT3dvNTNKTzRXNDdFZWR5b3RoNzBXemNCcmNSRnQxQWhQd2Vfc0ItYVZwamRSYnZYQndOMXlzZkN2d0dWUHNycXN1TlZmRm9NSXM3TUJLLUZ3TDB6OGVUQmtJZHZFZ1BKQzJjLXdmWXEzOTBiamNfZWkybA?oc=5"
       },
@@ -603,31 +610,6 @@
      "singleSource": true
     },
     {
-     "title": "Anthropic Aktie: Nur 5 Cent über dem Ausgabepreis – wird der größte Börsengang der Geschichte zur Zitterpartie?",
-     "summary": "Berichtet von STERN.de, Finanzen.net, Institutional Money, AktienCheck.de.",
-     "time": "2026-11-22T09:54:55+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "STERN.de",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcG42ZTF0UE5QSzJDVDZ3UUpna0dyWjdVQ3FnSTRHMDdTWUxtaG9kZUhuS0RMT2V4bmVuSEkxS0UzSEJFTUhveGpVUC1BcW53b2I2OTBIVkIzNFZIZ1ZBNTVQN1JJcGF0a0pMNFRjeWpOU2tXZTF3NFp3UVYxM0hOQXlmcTZMRFhqQnR0YUtPU3VieDYtbkpicmx3bGtyM2sydk5RZzNEelFNb0l6QnFOLVk3bV9POU0tdkI4?oc=5"
-      },
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZFlJX3pSRGlzQlhmTDlMSlZSbEFZVGRPYmpqcG9ZQldaSWoya1ZtT1k1NlRRaHpnWjI4YUZuWUpwXzVEVFVra2Vab3ZyaERMNnZmMEM4UWJOaWZudWg4SVB0UzdsdlpQVXZxMjhxaC1NdGF2cXRSY0NOOUhnMTVYWFhoblJBUXBpR1hBTDl6RDBuSXNXY29UVHVaLWNBZU1ORlJOTGJTTDdzNmZ3eGdUWVROSlVvQ1p3TnppZU1xRDJvTXdZc3l1TVpNZ09HQVM0eHJEMzFfMEJFd0ZObThLcHpPWTQtQ0lzTWVXVkxfeFpsbUF2ZEFadlgwbjNGaWdwV0V6dFMxbVUyclN1ZFVFaHBR?oc=5"
-      },
-      {
-       "name": "Institutional Money",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVpYbmdXdE9JUEZUQTBvelpTSlEtYXEyZlc0cm9NVEtUdGlYVEgzck9TR3dyRUVINDc4a0ZEd1k0VmtiTWtma2U2NjhRUmd2WnFUNlppYWM1UDBFQmt2a1dXUmN3NlFTS2pTQzc4TGpZYlQ2UXRhTmdOSk5HMkVnalBFVkxSMTJnMENDN1Y2cDhtSUZHd21GZl9rRWZEdk9PVHNhWDBhZjZUc0lhV2tOeEtzR0w0RzBrSFNtM1QtckppZWc?oc=5"
-      },
-      {
-       "name": "AktienCheck.de",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlZucFBGTENrMHlKRnZqSFNtVVpaZE9fTXhmY1NrU09GNFA0QWJEbWk3NXhmaW5NOUxxdFhmSlVkcTIyUldWenVEU1dUQmV1dFRvUVZtbTk2aHJRUU5Hb0Zwa09VU1E0aU5aUHJHaXNKLXlVVGpLTHMyOERDSHhfbXlXUkJWeWpubWpkVTlPei1LZ1duSVRfSUhyUVBTWG9aSW91R2gzMXhIY3dhNE9r?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
      "title": "Anthropics IPO: Gemischtes Fazit trotz Rekord-Börsengangs",
      "summary": "Berichtet von FAZ, XTB.com, ZDFheute, Euronews.com.",
      "time": "2026-11-20T19:17:00+01:00",
@@ -662,6 +644,10 @@
        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbUkzZ3c0dU9QRnhXSjB6RHNjQTNvZDhEM0sxNmg3WnZhVUNWYVVSQjNaR09xOTBwVkRaMXV1UEJ6RTVwX0V2UWNhbWVmYUVCSng3eElrNlplMHJHekpFZUcwNlc0cUVHQ2JmcE5YYjlqRmJTdVJmRXZsQndCQ3RFQVY1Z2hxRDg4SzZFVkxjb2xtelgwRm5yMlNrYTZ6aUxzaGpXY2tORmZUZnFreFE?oc=5"
       },
       {
+       "name": "wallstreetONLINE",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQldEVG1aYUFvU1V1S0RjczVIOEhkb1gxcl85S3lLdTdIdXFQVVFCdUJMU1VhTm13U1VXaVB3UE01LU83RnNaZllLRnZZa3N0akpZOW1jaUtLcXNsbXdXS2NfckdPVHJ0Y0xGaXQwOENXTmYwb21IYkwzNWxCYU1haWV5cGNhQnVBT1ViR0t3RzY3ekl6UXF0djlrSVBseTBxVElvN1FNWVhnWXZCYUtMb3JJakFNaFlnMjctUUViUE5GMElNMXRCV0NiaVRsUDllX0F2UA?oc=5"
+      },
+      {
        "name": "BörsenNEWS.de",
        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUN3cDlrMUd2SmZVQXU1V0RaaDBRRFZvWFQ5S1BrN1JKSmVWcE9LeWlBejFJRFVMLW5kdS1aMWNMc181OUtoVHoxMlNFSjl6RklvemdSc2JlMTF3V2J2WjhJN3N2QW9fbVRBbkhkRDVWRWp0SkJ5TUk0UkhqdzJsTXM3Ykt0QUl5akdubWNCVUlVQUtRbnp3N25OXzY2bVUyY21IbWF1V19FeFl4djV3V0Y5akZiMGJKRldEVHRzZTFMQjNvaVdTMmNkUWZSUlN1SlNtX3VPNlUxN1lGMUd4bW5IcTg?oc=5"
       },
@@ -672,6 +658,23 @@
       {
        "name": "heise online",
        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3kwelpxaDRSZEJRTy1ldi1oMWlYYTF1WVJzTGtrSmZvY0VONWhQUHYtcVEzbklnMGpEalk1UEttNTVtdExtbnhCNU1lbXE2WnJPZnRITWhhQkJKcGRGZkhuejhnTVBsYkFrYTlSRWZfODd1TFdicmNvS2I4bGU0QWFwTkhhb3RTeERCRWpSQ0VsRUI0S3k0WjhYaUNHQQ?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Anthropic: Der größte Börsengang der Geschichte in Bildern",
+     "summary": "Berichtet von STERN.de, Institutional Money.",
+     "time": "2026-11-20T18:42:00+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "STERN.de",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcG42ZTF0UE5QSzJDVDZ3UUpna0dyWjdVQ3FnSTRHMDdTWUxtaG9kZUhuS0RMT2V4bmVuSEkxS0UzSEJFTUhveGpVUC1BcW53b2I2OTBIVkIzNFZIZ1ZBNTVQN1JJcGF0a0pMNFRjeWpOU2tXZTF3NFp3UVYxM0hOQXlmcTZMRFhqQnR0YUtPU3VieDYtbkpicmx3bGtyM2sydk5RZzNEelFNb0l6QnFOLVk3bV9POU0tdkI4?oc=5"
+      },
+      {
+       "name": "Institutional Money",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVpYbmdXdE9JUEZUQTBvelpTSlEtYXEyZlc0cm9NVEtUdGlYVEgzck9TR3dyRUVINDc4a0ZEd1k0VmtiTWtma2U2NjhRUmd2WnFUNlppYWM1UDBFQmt2a1dXUmN3NlFTS2pTQzc4TGpZYlQ2UXRhTmdOSk5HMkVnalBFVkxSMTJnMENDN1Y2cDhtSUZHd21GZl9rRWZEdk9PVHNhWDBhZjZUc0lhV2tOeEtzR0w0RzBrSFNtM1QtckppZWc?oc=5"
       }
      ],
      "verified": true
@@ -1083,6 +1086,20 @@
      "verified": true
     },
     {
+     "title": "Anthropic-IPO im Gegenwind: Tech-Börsengänge verlieren ein Fünftel",
+     "summary": "Meldung von aktien.news.",
+     "time": "2026-11-22T15:50:12+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "aktien.news",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZkdZYVRNSUF6M0VkVV9ZdThjMUJidFZCWVpaclNHTk10SVAwSVVnUERwbTd0MGpRQTZlLUZPSnFsQ3pBb2JwVG1zRTBHbVNrRWZUMXM5UzlYNklBUTBnRkNoUDYyMGpTTGlSRllyT2lQSFZaTW5HTEFsSEdnVjFFS0NhQ1BNYUMtVnRZdkRvTDFmckU?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "KI-Blase: Warum Europa bei einem Crash mitgerissen würde",
      "summary": "Meldung von Frankfurter Rundschau.",
      "time": "2026-11-22T12:14:09+01:00",
@@ -1109,20 +1126,6 @@
      ],
      "verified": false,
      "singleSource": true
-    },
-    {
-     "title": "Nvidia: Wie KI-Memes den Ex-Chef Jensen Huang zum Gespött machen",
-     "summary": "Meldung von WELT.",
-     "time": "2026-11-22T21:26:05+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOFRjWmlQMkpDSGhhWkdOMG5ZRTNUbkdtdThvbWMwZFBxNGZxMlhnUUs2YjN2TlBlVWxtNEllTGVVcTdYWGNySk42TlFwOTJFZjFOS0UxN2VLVE5MQ3JYS0oyb2QydE1INGxYX3BSN2M1dUlFZTNnMUo2R1VIbmk5V0wyVTRzMkpjMG02dno4UjliTGt0V3lhbzNxdFU4Q0ZGdW9VanVWX0JKMmFnWVJhaVhLdlNiU3Y0ZVpITDZEeGJfNlM4Qk1naUJmX3pRajZVMXc?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
     }
    ],
    "more": [
@@ -1144,7 +1147,7 @@
    "items": [
     {
      "title": "Umfrage: So stehen die Deutschen zu Milliarden-Hilfen für Ukraine – viele fordern jetzt konkreten Schritt von Merz",
-     "summary": "Berichtet von nd-aktuell.de, WELT, n-tv.de, ZDFheute.",
+     "summary": "Berichtet von nd-aktuell.de, WELT, ZDFheute, Fuldaer Zeitung.",
      "time": "2026-11-22T21:26:17+01:00",
      "importance": "high",
      "sources": [
@@ -1157,16 +1160,12 @@
        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2FpLXlpc0szUHNldlo5eFN5WWhSX1daREU0aGZOeW95Mk55d0l4Y3dGSTFrT293bjdidEkxLVhPUFpwVW5iTEFYbGp6RVZTQ3BvRmlGQmRsdVZiT0V5LUx1M0dSRGRGQ2VXN0c3SGZWM2ctX1VNZmNmRmtsTGtEWTRQdXdtZDhXUDY3elI0ZGIwSmtMczI2aVRVeHhBc0hkWkRJa01xbnRfRlVSUVlfTnNKMlIxaUc1RmJOYnAwUQ?oc=5"
       },
       {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd1ZhQWNqZWQ1ZkVBQWpnUmNWYjB2RVd4U3NNQXZxOXEtMzVIN0ZFTDRWekhuNGtCN3VUVFcyamlLSWVhWHhRT1lCM1FHdDNwdHlMQmpyWk5NUXRBVmdmek9UYWRFdXMxRzkxNmtaZ09FLW1XSm5zUWxYZnp6OWdHeWxiY1pnbjBiRU40T0dIdnNjZHV2S2MxRFJNWnpNN3B5czFYRUYzWXN4Zw?oc=5"
-      },
-      {
        "name": "ZDFheute",
        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaE5EUVd5cVJLcFA1ekZzWTJ4X3ZHeTZCLVM2NmNhYTJXQ0I3WjJyRmxFNXBoMVItNmgzM1gtTEc5ejd2ejZZMFhqNE5aaEJjZm5CYkxzbV9vZHF2NmFzOWM4YUdQOWRuYkw1MnltWkc2b2xVeWhzNnV5TUhlQzMzc1hfZjhKTnNFdC1qbHBrYl9zUTkzUE5OTGhSeWJ3UG8tOVJV?oc=5"
       },
       {
-       "name": "Merkur",
-       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGRkazc0UWdhTWwyN29hTGhGbjV3cmoyVkg5eWhJR2xsM09CamxEZXcxeWIzZ0szbmhVblR0NUdmR09pZkMwdE80dkdHRFRHY24wbmFndWVkcGVHcTBDOEZzNmdsd1Nwd3VzTVRQVlMwNEd2T1YzTjZmdFNIeDRkZnBLbzFpdTBlZ0RFeDgyVEppbFBBTXAyWlRNeXJyb3ZISlVBd0F2NWo?oc=5"
+       "name": "Fuldaer Zeitung",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZllJc204b3lFbGpCNHA5RUdyc3M1djBHaGc1UGVJNjhMU1ZFQnJnRUNFNkhKYXJuWDhaek9wR0hDeDFmWVVLVDg1VUY1eHp2N21qRFkwU3Zqc2hqUngxSTgtWTEzWnZsU2hYaVJGVzFSbzlPb3ZRRG5HaThwNDQ3WG82bDhQUG5nVmc4VkxLaUJvUFN1bWI2M3VITXhweDlMYWxuMDNoUVJTNXdmOGJpRzBIMkg1VllKSE44WExVQXFoRFNiRGJN?oc=5"
       }
      ],
      "verified": true
@@ -1378,18 +1377,18 @@
      "verified": true
     },
     {
-     "title": "Mickie Krause rät Merz und Klingbeil zu Ballermann-Besuch",
-     "summary": "Berichtet von Hasepost, Berlin Story Bunker.",
-     "time": "2026-11-21T13:08:05+01:00",
+     "title": "Kinder im Kanzleramt zu Besuch Ein Klangholz für den Kanzler - Merz musiziert mit Schülern",
+     "summary": "Berichtet von noz.de, Tagesspiegel.",
+     "time": "2026-11-21T08:35:31+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "Hasepost",
-       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzUTQ3Rzc3X1NXcms3M2xHS2FWaDRBeHVZSFBfNGZmNFlqUUdpSjdVOUR2X19xNGVPZkRxVlg5NkpzWWxFSDFoWGhGY0lWSFZHTDljQWwwRUU4U1ZtSTNUSDNXa2lJLVZGSG0zaVo2ajhWZ3hOWE9WNDJPS1FIdw?oc=5"
+       "name": "noz.de",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUk1iT01UMFVOUUhrSWxOSk10ODc3dlpoS3MwUTNaaDRMbVZnS2FPYmtkLUNfRDBtbGhlcDhvSXY2XzU0Nkt4a01RdTU2NjJDUy1uSTBfZGtSOG5UWk4wWE4tbnJRS2hEdTJKdXBHaVAzVkUzQWgzcjhZb1hEUjZvYUZvVE52OVhISmllaldjUFlpem9GOFBweU5pUjZ3Q1ZMTWJEVW5WTkRTQWRlQTkzZklKMV9OV1YzYUh6YTJn?oc=5"
       },
       {
-       "name": "Berlin Story Bunker",
-       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaW52aVJTZnZjdjcwMVRvd1pfOVNqbEZsVWpDdFN6YmY1RzkyZTZuRWFSQktseWw2R1g5YzlmRkhGSnd4WGdDWW1IWVU2TFFpQ2xkR2JtYUNhSkFFSklqSTZ1aEEyWjBpNi1YQlN2NHRUVVRodGVVMFliYmg5LVVGNF9LVUJ4Mk5vdDFDeUxLSzNtZkZ6X3c?oc=5"
+       "name": "Tagesspiegel",
+       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbjlPdFZCZGtiU0l0MURTNlhqNXhzU25EcXo0ZWlaNkFDRlFfbWh3Z3VkdXdpeVVVeU95aEZmczVVU0ZMc0VzRjRSZkZxNkloWlM0WWl2U3Q0QnB1OEJNVFFyQ0FMOU01LVdIQ1ZHa3hIQWNwUmRJcVo2LVZLWW5IaGdHRjdQYTJUZmJYLVMwTjhTM1R2T3BoYVI3U0l2aEJmd2FFa2Y0Zy1RdEEzZU9IVVo4SHZ6eU44QmpLZTR1RUZOS29ZWHNKN1BDMnB6ZDRZcW9reFlTODZlYkNiWnhwLQ?oc=5"
       }
      ],
      "verified": true
