@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-22T14:00:51+01:00",
+ "generatedAt": "2026-11-22T14:15:42+01:00",
  "windowHours": 48,
  "note": "Automatisch aus RSS-Feeds erstellt. Uhrzeiten in MEZ.",
  "categories": [
@@ -272,10 +272,14 @@
     },
     {
      "title": "iShares MSCI World ETF: SEC prüft Nvidia, ETF verliert 3,3 Prozent",
-     "summary": "Berichtet von ad-hoc-news.de, Börse Global, aktien.news, Börse Express.",
+     "summary": "Berichtet von Finanzen.net, ad-hoc-news.de, Börse Global, aktien.news.",
      "time": "2026-11-22T11:13:07+01:00",
      "importance": "high",
      "sources": [
+      {
+       "name": "Finanzen.net",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT084M2VSd1FZeGxlTUp5NVZGWms1QkgxbEpETjVUSFltQk9lN2M5YzdLSWN1REFJUzZKem9qUjc1Nmp5a2VfWFdFZDM0QjhLX1FuaDUwa2FvRXFiakNOaWpIRzJ0cE92WDJ2cTdUNmcwbkVjUFFoTjBlRU1zbVNUOFJsWXpZZUJENVpGRUJPdDhkREpXQk1RTmcxTU9LN1U4clJB?oc=5"
+      },
       {
        "name": "ad-hoc-news.de",
        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNzk0aGs0U2JmQk5fRjFvMU13Q1VDZWxiSWtqMS13M0R5RDlOS0JXaWNwN1hPeG5PbVZRMkpOejJDZnRLSjBER2FSakdlejg3aGY2VUZkeG4yM3BlVlNVSkF0S3huNUcwZThFM0NXMFdmeExPQThFX0w1dTN2OFp6cldnSXcyeXJQR0VsVHBDa2NCc2tpUk05OUJKR1dCaVRQbXJXY1RBZ2pEbmdXN3BPWUs0QnJSaW9Ob3dEZWhXcGRwZkVNVi1oMWgzUmVnR1dTM3FXQ25NSGZueXBUY2lUbXBB?oc=5"
@@ -497,10 +501,6 @@
        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT0JzemdKQWxheFlNUGZ0NlhHZGROTER4eEwtbXE5ZUxRejE3YVRfei1iZE9mcWg2bkwwTlRxY3pIUUpjUVZZWDZmZ0trdjlmVGpNQThVbldjbzdCOWlEUGlnMmRBTFFsNVhMaFcxTXR4NVhxUEZKZzhjRFlZYkxQQS1KOGxEY29UYVlwNDljRVBRWmh2SG9aUDdOak1NM2k0?oc=5"
       },
       {
-       "name": "Capital.de",
-       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORVFfWTZabXE5WGVPa1RRRXlfenJVNDhpNVBYVUxXS1UyUGdYSUtDUEZSdkFKV2lkUzJfQ1RxaUVqdmJUVFJUMkFtTFRFRGsxSjhUTVkxRXZHLVJlVFJBT3I1OHc3eElVVFY4QWVUT01aQ1Z1Wkd0SEc2WndSdFlKMzVtcDlHS04tam82Z0J0dzZ3ZWczcW8xUHEwdDRKYTJxVl9PTng5YWpuSlk0NDBjZmNXQ3hUelNjSFZaWHlrRjBKQXJ0?oc=5"
-      },
-      {
        "name": "STERN.de",
        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaENXTUVRQ3VCTjlvWWJHNm9JdTAzLVlmMmJEdVFYUm9FdkFOWGx4a0hyZVJ6UHFDa2JyN0ttRG1UcTZPVk9NUUVGYy12WDZ5S1QxUEFzb3I2UzZoYXl2QnB6cEJYS050S201N0UxMVM3R3Jqb1NWLTlMWGo1T24zeXFHVVhCNjRFUFhpQ3Z4VHNlUlpuUVFtOHV1SXh5OWRFNTV4VGVxNzhmd2dkYVBmNFdadmJ2Y0JH?oc=5"
       },
@@ -533,10 +533,6 @@
        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5JY25tREdSR3lWVlQ1NmZJQ2Roc3djd0NldGJ1SkJzNzUzdjUwSkUyYm9QRW9HaWlKaW8xLTlPTU9PM2ZQS0E?oc=5"
       },
       {
-       "name": "SZ.de",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbW1KZXJTMFRJX19ncE9sbzZscnlRR2FyVDhLNHozLTRqSjY2V0FUUGVsOV9tQ2k0NmoxQ2Fnbk9Pb0FVWFdDVXlNVnlQRnVvRU13WVJUd1RoN3ptNEhqSzkwYUxnQ0pUVGVldUFITlloamRTcWJ3TlhzUGp0RVNZUnNlUl9aajNFMVBQRHdocjZZdklpYzh2Wi0yNDJNdWJNSVJjcTgzbTJhNHM0eGpxbHYwXzFFQQ?oc=5"
-      },
-      {
        "name": "Golem.de",
        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMVcxNXppcjRhM2xVWUlkaklUODVHaDRDNHQ5ekQ0VVI5cUpVNHRKTlNXYUpFT3RnbWtyTWdtTVJ3QzVNMERkMDVCS2l1dUVDQl9ZWkpRbjJUTHF3NHdlejRHMjN5THRZd2lyejd3WldvZC1iSWNRVWhVTXhOTTdTQzN0SnFuelh3YjlMUWR0RTJYTm9UbDZMYk1WNDRGV09GSmk0NHV1eU9aS0E?oc=5"
       },
@@ -551,6 +547,10 @@
       {
        "name": "WirtschaftsWoche",
        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFNxVmhBR0x3eURSWFRmN1l6U1BOVXlqWjNZMm13a2VqNXNMWjlBcHcxSHRoR1ZMWWpQaFU2MS1yWVhWQ3BBaDMtQ1d3V2diMUhsXzZ4TXpkZXJlVnR0Z3RZLVBGWFZkTHVBYU1MV1FfTUlxWXpvNXYzZFRGWG1ISkdnaVhSZ3FHbVBDWnVneFV5czBNSG9pbE1qRWdVZ1ZkYlVCRWw3WkJ6OGdHSXk0YTFyb2cyLUZxUVh4eGFxbw?oc=5"
+      },
+      {
+       "name": "Capital.de",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWVViZ2RvTFlUdWJDSVhMay1KeVpKdEJBbTFkRnpQYmU1RE1Tc0MwcHJVVk9PNDN4TUpZUFE5ZkIyRHhTUzByNWxaN2d0a1hmaHI1X05vTGJLSk82bjZzQk1HWE9mczNNS1pxdUdxWk9rTmtSQUNkT2FCMUM4QVVGeks1Y2JpbUZQek5fcjdubHJ0UGN4QUpmOEJ2aG5MVTdnNG1wWDVWczY2blBsV1d1NzN6YkRzN0hRMzd1djRNYzVTc1U?oc=5"
       },
       {
        "name": "BILD",
@@ -726,6 +726,20 @@
      "singleSource": true
     },
     {
+     "title": "Cathie Woods Ark Invest stieg massiv beim Anthropic-IPO ein und kaufte Aktien im Wert von 90 Millionen US-Dollar",
+     "summary": "Meldung von CoinDesk.",
+     "time": "2026-11-20T10:48:52+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "CoinDesk",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUURFWWZYUWdCRUtvWS04eHJCOG9GemJRVTU5N0xtaFVOY1JOLXV4NHB1YVFJeS1razRsUnQ5dDk2aGMzd3J6TFI0NjREZldBRlNhZ29Wcl8wMFRUYlhqN2pUZDBxU0hYWF9fNzhGbDhuYUloM2U1SERjcmdTb0lDX1VZZ3g5cmd6bC1zY2pEVjFFUHU5QmVuU0lYc0dGVzViOHpTRXZoWXp6VXR4VXVNXzZMdUR3ZTR1ZkZkaS1SWmxLVkl0WG10WGZfRzIydw?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "Anthropic IPO: Der KI-Gigant startet an der Börse – doch der erste Tag warnt Anleger",
      "summary": "Berichtet von wallstreetONLINE, Der Aktionär, RND.de, boerse.de.",
      "time": "2026-11-20T10:28:56+01:00",
@@ -775,20 +789,6 @@
       {
        "name": "Der Aktionär",
        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLWZzaVRsNF9WLXctTGxjN1RiaFpPc1lwVFRJRzdHd0dGVU5XdEZLamo2S09NM3d6R2ZVSGpYNEpUc0NOVEYwQmdMX3pib2RDVFBiYl9kZmx3b29KSEJtVjlGX2E2NFZzNUZlS3o1d3gyU3pvdURzb19HejIxMTdwTGZVTkpRRGItU3VWX3pOcEI1SmNzRDFOQzZvOE1zMDc1a0RfNHIzZXdUVnUtWDlqdC1nM01JanJWemlyZzNweTkyRTdZU0Jfb2p3b2NzWEVxZTdoZzBmUWt0eXdLMXp3?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Trotz Anthropic-IPO: Tech-Aktien weltweit im Sinkflug",
-     "summary": "Meldung von Trending Topics.",
-     "time": "2026-11-20T08:40:51+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Trending Topics",
-       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50ZVlkdS1hd3Rhdl9Qc1BubEd2VDBBdkVjZVVzY1hHYmlPYTNRUnJ1Zlh4RWlTaXlCMG5rc28wb2hnV3AzV0VyQ2NodEJ2M3dBTWEtY2xzYUdnY3FqZ242UUF4NjMzdmxCRUlRNTZQT0h1UQ?oc=5"
       }
      ],
      "verified": false,
@@ -1003,17 +1003,13 @@
    "items": [
     {
      "title": "Anthropic Aktie: Börsengang bringt 119,5 Milliarden Dollar",
-     "summary": "Berichtet von sharedeals.de, Netz Trends, AktienCheck.de.",
+     "summary": "Berichtet von sharedeals.de, AktienCheck.de.",
      "time": "2026-11-22T13:53:06+01:00",
      "importance": "high",
      "sources": [
       {
        "name": "sharedeals.de",
        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZFBiRkdnS3JHV08tOElCeVFCMVNDUDloMnM5UnBJcTJydEE3STB3ODlTbHY4c29tRGp4X2czLVJ6OFNzMldTODhGejBxMHhMd2tyUEVJZ2VqUlFsRDJSOHYtVzlnSmNhdjJIWXk1SlVWV1BKN1BsMm1lNGxtZmdWVWwxTkhfYlk?oc=5"
-      },
-      {
-       "name": "Netz Trends",
-       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HeDFseUNsc0dsU0hGZGNsX0szQkJ6STg4VWtPajF6c2NVLU1MSTcwellJYlljSW1hRlotQ0pTU19TbXVjS2xWR0tkTGJHanBCUkx4b25Tenl0MS05S0FMeHdBV2RRb2c3dXByRVd1eE1CMWViYkJxS2pn?oc=5"
       },
       {
        "name": "AktienCheck.de",
@@ -1028,14 +1024,6 @@
      "time": "2026-11-22T13:27:47+01:00",
      "importance": "high",
      "sources": [
-      {
-       "name": "The Verge",
-       "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
-      },
-      {
-       "name": "DIE ZEIT",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTmZzVnFBR2M5VlQ3eWp4Tk0yWmdZUlFXck9Rcy1SZ0lPYXEwNEtmRlRqaWdmanptanV5UXl5U19kdTYtQjRVbE5SYk05ZU5FU3hZaTJfVnk5NzRUZ1BLMVdLRy1malI4eEMxdkI5RGlpWUs0REFXbm5xaGE5cGRVNlFQRjU4UEFmaHZHTnQ2dEs1NEJYWjRDVTd1eERuVlRobS1z?oc=5"
-      },
       {
        "name": "heise online",
        "url": "https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
@@ -1168,23 +1156,6 @@
      ],
      "verified": false,
      "singleSource": true
-    },
-    {
-     "title": "Anthropic feiert Rekord-Börsendebüt – jetzt geht auch Blue Lagoon an die Börse",
-     "summary": "Berichtet von FAZ, wallstreetONLINE.",
-     "time": "2026-11-22T07:41:46+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "FAZ",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUpBSmRXdmhyODVncnAxajVtWHlPTHZUZUE0ZXo4REFzSXhIRUVJaGFUeW10UXl1X1JZaE1fb3hsem81bUJvVVVUOXJ0V2FmU3dpeVpzdS1wTTVFclo4enY4RVhVcElBRk1kUFQ3dXpoWnVzMlR0M3IydG1kYmtQWjdtemtpSmVPYTF6VWFFSlVldk9wVFBfNjJkQk1QS05BVzFPdXZLbUNaTDA?oc=5"
-      },
-      {
-       "name": "wallstreetONLINE",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGFkV1lYdzJyMEhjTU9OSXpIcTNGclFPMUEySWlST1dPTFlSZEdtQTU5SHZNNmNRNDRNb1M5SkFyOXlNOGhQeWgzRlFtU21ESTBacldtR05Yam9KVTZWQnhlNXRBejE1WjBJaS1uZXkzNFV5RXlMam9ERVJ1NWtTLXFYcnVBQjR5RVNYNHRHLVdITngwcDZveExUcUVRZ0RSaE5xOEx6REJtUmdQ?oc=5"
-      }
-     ],
-     "verified": true
     }
    ],
    "more": [
@@ -1205,30 +1176,9 @@
    "tint": "blue",
    "items": [
     {
-     "title": "Antisemitismusbeauftragte Katharina von Schnurbein warnt vor AfD-Regierung",
-     "summary": "Kommt die AfD an die Macht, sieht die Antisemitismusbeauftragte Katharina von Schnurbein KZ-Gedenkstätten und die Erinnerungskultur in Gefahr. In jüdischen Gemeinden spüre sie Unsicherheit.",
-     "time": "2026-11-22T10:24:37+01:00",
-     "importance": "high",
-     "sources": [
-      {
-       "name": "SPIEGEL",
-       "url": "https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss"
-      },
-      {
-       "name": "Jüdische Allgemeine",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0VpdjJfN3o0RmszeTlBaDBUc0s1ZUs3RkdqUERmQ3diajR0VjFwLXpreDBrLUc5RGR3QVdzRWtGRHlvVTZNQ085UEUtdUM2TUxwZlNtekgzdEN5TGZrMXJEZzZEUUd6UmU0d25BZktmTTVrT1BPa2pnWjhLYjM2MUR1Z3JuZTdsN2J5RjI5WFlRNy1HSmdjdHNB?oc=5"
-      },
-      {
-       "name": "WEB.DE",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHZBcWNTZFoxcGNmbWVCYVpPTzFkTzFtWTVYMVZDZWVqUF9OcmxKMFpxMU9mSUlpWkZYMVFKNTFpdm9TaUFmS2FDOF9vNVZEWXhsWXEyZ29hemVqNTZLeFZGRXRrWDNOOWxqXzg5YW84RFdScWI1MkVFZDN1YTBDTXZqSjIxVTdrUnRwaGdJMGdmbHdfYS1LdQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "EU-Haushalt: Digitalsteuer reicht nicht ‒ Kanzler Friedrich Merz fordert mehr Einsparungen von Brüssel - Video",
+     "title": "Friedrich Merz stellt „nicht mehr das eigentliche und eigene Machtzentrum dar“",
      "summary": "Berichtet von ad-hoc-news.de, Oldenburger Online Zeitung, Merkur, WELT.",
-     "time": "2026-11-22T08:56:02+01:00",
+     "time": "2026-11-22T14:04:40+01:00",
      "importance": "high",
      "sources": [
       {
@@ -1246,6 +1196,27 @@
       {
        "name": "WELT",
        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUVhsR3VyOUE5VDVuV3k3ejJiYVNzZXJiN0VkeFN3ay1MY2V4cl9HTlk1RktQU3JSb3d1Ul8zbXlCcWlYYm12RUtxbEhTbEZ1OTFwcENGN0xzV0dOaDVrTUhQSE1yczR0NlpqTmstTXRvMC04a2pFeldfWURua0w4MW9qbDNzWlVZSEtCWlprc1Zrd18tOUVfNTRWRHFuTmdSZktqS2VLalVkUFY4eFM5cV9RZFg5NmNTczZHTi1TamI0cV8tZGVWUlJyX1NFbkVmNDE4VDdRS01VOGI0LVltQ0NFQnF2dlVKTi1wbDNJTHprWHIy?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Antisemitismusbeauftragte Katharina von Schnurbein warnt vor AfD-Regierung",
+     "summary": "Kommt die AfD an die Macht, sieht die Antisemitismusbeauftragte Katharina von Schnurbein KZ-Gedenkstätten und die Erinnerungskultur in Gefahr. In jüdischen Gemeinden spüre sie Unsicherheit.",
+     "time": "2026-11-22T10:24:37+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "SPIEGEL",
+       "url": "https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss"
+      },
+      {
+       "name": "Jüdische Allgemeine",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0VpdjJfN3o0RmszeTlBaDBUc0s1ZUs3RkdqUERmQ3diajR0VjFwLXpreDBrLUc5RGR3QVdzRWtGRHlvVTZNQ085UEUtdUM2TUxwZlNtekgzdEN5TGZrMXJEZzZEUUd6UmU0d25BZktmTTVrT1BPa2pnWjhLYjM2MUR1Z3JuZTdsN2J5RjI5WFlRNy1HSmdjdHNB?oc=5"
+      },
+      {
+       "name": "WEB.DE",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHZBcWNTZFoxcGNmbWVCYVpPTzFkTzFtWTVYMVZDZWVqUF9OcmxKMFpxMU9mSUlpWkZYMVFKNTFpdm9TaUFmS2FDOF9vNVZEWXhsWXEyZ29hemVqNTZLeFZGRXRrWDNOOWxqXzg5YW84RFdScWI1MkVFZDN1YTBDTXZqSjIxVTdrUnRwaGdJMGdmbHdfYS1LdQ?oc=5"
       }
      ],
      "verified": true
@@ -1622,6 +1593,20 @@
      "singleSource": true
     },
     {
+     "title": "Antalya: EU lässt Abschlussentwurf durchfallen – Weltklimagipfel gescheitert",
+     "summary": "Meldung von WELT.",
+     "time": "2026-11-22T12:51:35+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "WELT",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU2p6TUdXZlM0Z3BEZ3dxYVV0RTYwVHBmV2g1WFNiTHZGR0pHdXduTnhiYXd6eVdNZGZLVVQteUttNGpBaE44UjlCd1JhYU4yWWhQSEVaYjJJSUc4NUM3WmtPWVloNjFqZW1lSHN6N2ZzOE81MUhNRDdRRlgyMmR1OHNqUFItdkJXR2ZTcWRpVU83N01kT2tVNHk1RGZLRTdjbkJNVGRWM0xxRUlBUDlIbUNLWGdJZTlTV2dlZDVlbGRNWms2dHItdGR5NmpCTmJGY255RUdZcjlMU1o3?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
      "summary": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
      "time": "2026-11-22T12:46:42+01:00",
@@ -1630,20 +1615,6 @@
       {
        "name": "Al Jazeera",
        "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Why have UN efforts to regulate ‘killer robots’ stalled?",
-     "summary": "CWC countries agree to 'elaborate' on potential accord regulating autonomous weapons in two years, prompting criticism.",
-     "time": "2026-11-22T12:44:50+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Al Jazeera",
-       "url": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss"
       }
      ],
      "verified": false,
