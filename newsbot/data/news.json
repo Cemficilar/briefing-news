@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generatedAt": "2026-11-25T01:35:17+01:00",
+ "generatedAt": "2026-11-25T02:00:53+01:00",
  "windowHours": 48,
  "note": "Automatisch aus RSS-Feeds erstellt. Uhrzeiten in MEZ.",
  "categories": [
@@ -98,10 +98,14 @@
     },
     {
      "title": "Bitcoin News: Strategy kauft 457 BTC nach, obwohl der Bestand 13 Milliarden Dollar im Minus liegt",
-     "summary": "Berichtet von Finanzen.net, Bitcoin2Go, AktienCheck.de, FinanzNachrichten.de.",
+     "summary": "Berichtet von BTC-ECHO, Finanzen.net, Bitcoin2Go, AktienCheck.de.",
      "time": "2026-11-24T22:26:00+01:00",
      "importance": "high",
      "sources": [
+      {
+       "name": "BTC-ECHO",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc3Zqbm9yR1pMNEh1SVR4ME9SMUUzU3FueTM5WUZaSVY4SHNuVHM5WkZqZ1J3N1V4cWYtUEQ2OGNsLVFxaEJWZXJqcnljVnl3SzdPM1JNeEdkc2dvdTdOTlZfRkViN1BBemllS0ZucUFqZmpjRlNWRmwwTnpOVUZlS1B5VG02aGNtWWhadTVZQUl2SExSQnV4OUM2MThvbE1UdVMtQi1RQlBOR2M?oc=5"
+      },
       {
        "name": "Finanzen.net",
        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSVVoTnhDYWRMaUcxcTRKSmNWSDFqOFp4aTROVXQzZVhVNmhmcFhrRk9jMHBEeklDMEVGenBUeTRsbXppdW5PZFhKTGFTZ1JrWmJ2YXlTalJXYUZyWVQwYmc1cWhNcU9rNkRpcGVRYzdGWE1VNmdyMDUtYVhnaVFUZnhJVXg2VWdpdjM4S19BRjdFUk5MQ0k2Q1A3MFdFLWxQa1RGbXVrMWVoUkNMcmRqelh2aWFWbk1DMXN4S0VWVGhaRnBSaFdkcV9PYVhvZmRUemF3RzI3VVRBOVVmZXF0ZWdQRFdoQzB1bWVfX0g2XzFSQVE?oc=5"
@@ -285,14 +289,10 @@
    "items": [
     {
      "title": "Kurs des HSBC MSCI World ETF im Plus",
-     "summary": "Berichtet von Börse Express, Börse Global, Finanzen.net, Börse Online.",
+     "summary": "Berichtet von Börse Global, Finanzen.net, Börse Online.",
      "time": "2026-11-24T22:45:42+01:00",
      "importance": "high",
      "sources": [
-      {
-       "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGdzbThDQjR4aFNVUmo3aWhzTFNRUnUzYXhEOHhXdlZIX283SnRSUk05U2FhLXQzdDBTbHFYOUFad1I1MTEwQXg4V0ZabTA3ZjFyQ25ObExoOFN2MkdfaEdtV2pWNjNsYld5SnY5cDFBVkpQQUgwcG9sTTlMVHR6cE1xOUFNTHlUc3FORENnU0x5SWM3RFloOTdrTnBLa20zQnVFQzVsbDhDbTlFRm4tRzN5cG1tOFhjS0QybjlJdw?oc=5"
-      },
       {
        "name": "Börse Global",
        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWmhiNXd6M0VSeUdBLTR6bk5UTUE1SkcyODB4dk9GdkpkNldSQk9xOUhxeXFKaGs1RnF4eWVlbFNFSzE3dl9YaUpsT3NTTUo4TUU3RVVELUFVMW50RDFaczUyX1hWVUxkS240S2w1ZmpZRUN3bmxnYk9wRWtYckJweFljdVBYTG9vazBHZzlZLXMtb0FLRmt3bzFIc1BEX041S1hJVXp0RHo1Yl81RnpHSHpKWmw?oc=5"
@@ -304,6 +304,31 @@
       {
        "name": "Börse Online",
        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWxiSkEwWGE2dHZlSy1fcE9VR1F5OUxGLS1nVnJjb3hMOEVUZmJFU21nZ3VVNDN2ZWFSVVhscmxxam5HaFJ4bGlsMFBKMkQ0WHNpdE80YU43ZFByUlN4TEhwMHlqYlpKNnRHN2l6cGNGVVdmaTNNc18xTVZUNHVoOEpKcTJTNTRDN0RZVUFQdkdpLXpSeEowTlZvbGhiRzdOS2NjbC1mWUZtSS01VExvY1o4QQ?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
+     "title": "Kurs des Vanguard FTSE All-World High Dividend Yield ETF steigt",
+     "summary": "Berichtet von Börse Express, Börse Global, ad-hoc-news.de, Finanzen.net.",
+     "time": "2026-11-24T21:14:28+01:00",
+     "importance": "high",
+     "sources": [
+      {
+       "name": "Börse Express",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3h1S0FVRzVzMlFTcUo4WERzVjhwS0Z5WDQ5TExlVGFfSUg0Q09JaU40dHduQUU4NVpLUHoydWc5MVA5Sm1FLVVMc3N4NjBQWS0xT3VQdUJhYjlNek1iU0FBU2NXRjVIVlZiQTUycWpqWDhmaVhKUDNCdzNBSE96enVwM2tfQ0Vmc1R3X3J6Sk43SDNIR1F6UFJDRXdMTW1rTWVEbUJ6dlBPM3BGbmVSZkV3cmc1a2s2?oc=5"
+      },
+      {
+       "name": "Börse Global",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3NLblIwakJKbjQxTEIya3NxdlltcUI5djlFZHFCRUNGdjU4VzZoYUFVZ01ZMGNFUXV5VlIxQ3JzTjFvbWFzQlltUnVaZTFacDR2aTR2M21EUFFYZ1Y5YzhUTTZKNGFjMnJhclNJOXZvTzk1RW53NEVDNVB3cDRCWU5FbmZta2ZOblZ2UUpXc2g1NlYxT1Fjclp3dkdVaFhiQjBvQW12NA?oc=5"
+      },
+      {
+       "name": "ad-hoc-news.de",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSG1ZNlJSbGU0U2Y3cXE1bkluUF82ZHotNDBRT3hiVHZHVkk2clVmSXQ5RTBJeE5yWEltcnNfb2FqcVhQQVppcGRjMVJMQ25NTGtQc0U0eHQycXJhSW85OEpjWE9Uc1Q0ODkwdmdKMExfS3BwZVBTaDczMUxWZ0lTSFItUnkxb3NPcVFkc0hoSW9KV08tNG1hYTNwTjcza2lscVlKZkJYV19DejFoS0lETFQxY21nMVpZZ0FBTjF4ZjhETFFOVEFNdmwxMlBoVTAxWkhXMGRSX1l5QQ?oc=5"
+      },
+      {
+       "name": "Finanzen.net",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOVloZFE1b29peDF2YlpHNTI2RGdFbkt5cjlLSUJEVGtkM29jb2dpVjJsejJPejZoaHk5ZEEwcnJXZkJaODZKTkc3T0JiNVVfYl9kYTBPQmpTV3lfMU9jTUhwQlNRX0VQemZ5eldDV0VSVFFkYlJ3aG9UZTY2bFRTeThhVHR4Mjg4X1JKc040Q0MyX2trTEI5Mmd5SXBUa0MzWHZldnZJdzRKMHBadklianU0WkFleDNPWU1z?oc=5"
       }
      ],
      "verified": true
@@ -327,84 +352,42 @@
     },
     {
      "title": "Vanguard FTSE All-World ETF: Nvidia-Minus von 7,8 Prozent belastet",
-     "summary": "Berichtet von Börse Express, Börse Global, ad-hoc-news.de.",
+     "summary": "Berichtet von ad-hoc-news.de, Börse Express.",
      "time": "2026-11-24T18:28:12+01:00",
-     "importance": "high",
+     "importance": "medium",
      "sources": [
-      {
-       "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3h1S0FVRzVzMlFTcUo4WERzVjhwS0Z5WDQ5TExlVGFfSUg0Q09JaU40dHduQUU4NVpLUHoydWc5MVA5Sm1FLVVMc3N4NjBQWS0xT3VQdUJhYjlNek1iU0FBU2NXRjVIVlZiQTUycWpqWDhmaVhKUDNCdzNBSE96enVwM2tfQ0Vmc1R3X3J6Sk43SDNIR1F6UFJDRXdMTW1rTWVEbUJ6dlBPM3BGbmVSZkV3cmc1a2s2?oc=5"
-      },
-      {
-       "name": "Börse Global",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY3NLblIwakJKbjQxTEIya3NxdlltcUI5djlFZHFCRUNGdjU4VzZoYUFVZ01ZMGNFUXV5VlIxQ3JzTjFvbWFzQlltUnVaZTFacDR2aTR2M21EUFFYZ1Y5YzhUTTZKNGFjMnJhclNJOXZvTzk1RW53NEVDNVB3cDRCWU5FbmZta2ZOblZ2UUpXc2g1NlYxT1Fjclp3dkdVaFhiQjBvQW12NA?oc=5"
-      },
       {
        "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTlQ3djJZVnVGbkZxNUxzSE5YTlpKOGQzbzRYMy1PR083Rm9aRmFJOGZqOFVLTXMtdjU2WjRPZzdYdzA4RmZfbU1sTlFhYVpna0xuX09vcmRpV2JGM3l6WmhOQWRFWkxiMW9LNVRwQkRGTjF0dHVKU3hPQnkwUGN1QUx3REpodWNBTnBhRENLV05EdzB5TmNnMGJLSU9vckdJNnlObnMzS3EzTFJhU2VDNXRJN3BzZW1aRUNVVHhyWkx0d3dwelQ0dGlHWVZHRGFVc1ZIOFFJR2Rhb2c?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTGU4a0FUbW13a0VOWXcweXM1eGppMWVxUjRRWDJhWWF1UXZOMkxuZHdZQ3BVS1BFR0tSSlQ3T2o1RWJMcTVnUmxwd1JLbC00dGkxbDNIQWJoa1A5OGJvMVdMUmpjTmkxQzJYanJxRzdtYnZDRFVRWkVwQ0NQM29ScTRTNlZxSUdMeTktUW9MZElMWWNTNkF0akhGOEU2OGV1SmZZcFVjOHNtTXFNVl9DUThFTnM5aWtUaEhMUXNXcHlwNDZBT0xieXpNdUN2TWM?oc=5"
+      },
+      {
+       "name": "Börse Express",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUlI0c3dIdkp2cDZ0VmVvRzVZQl91ZHJZbjk1UmRQZEhMR29lYmhoZkF2WGtsMllkZm5oT2hHQlZyeVFSRGhFVnV5U0NzVnpVbkd4cTFqcHdsQkx2QzV2MlJhUHpIdjZXRnFhQU9sekkzSnFibEJnWUZmM25fQ3lZaTlUdDBXTVhEX0VsaDU2S01BU1M2eVhtTkp1dE9JRDdDYnN6ckZkOHRiMjVveXN6dnBqQnZVdnM?oc=5"
       }
      ],
      "verified": true
     },
     {
-     "title": "XRP Ledger: Zehn Konten erzeugen 65 Prozent des DEX-Volumens, 4,51 Millionen XRP pro Tag, ETF-Zuflüsse von 308 Millionen Dollar im Quartal – wer treibt XRP, wenn der Kurs bei 92 Cent steht?",
-     "summary": "Berichtet von AktienCheck.de, FinanceFeeds.",
-     "time": "2026-11-24T22:19:08+01:00",
+     "title": "iShares Core MSCI EM IMI ETF mit Verlusten",
+     "summary": "Berichtet von Simply Wall St, Finanzen.net, Yahoo Finanzen Deutschland, AktienCheck.de.",
+     "time": "2026-11-24T14:10:26+01:00",
      "importance": "medium",
      "sources": [
+      {
+       "name": "Simply Wall St",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MNzlGZWRZVkprcUJ2eUZBcy0xRHo5R3JBM3gtSFBjVEg5NXFIMkpSWHZheHF6MnNaR0YxRXJMcnRYNFJZc09HWG9ON3c1U3E0MHBkXzlVRkY?oc=5"
+      },
+      {
+       "name": "Finanzen.net",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeXFlZ1pNWUhVQXZKYUZlMUtPVFhCbm96b2dveGdvM2hKTU1sZUZfdFhXTjFDVjREQmtCQW5xRHg5Zmt3UXlUbmlfbTAzZkQ4MnpHamt5c3R2RDVreHFEMjJENjJoQlc3c2RWbi1mZDh5T0tuQUl4d2c3Y21QLWxnMDRfTnBEaTRCd3RKOHJ1OGdXTVBhZXBsSDdOeXZJNjg?oc=5"
+      },
+      {
+       "name": "Yahoo Finanzen Deutschland",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRQmRMd0RCQzFrOGU5T3ltRlpEb0pHR0stb0M1SUxTOFBSQkN5bEJzbzBXN2ZySmp5Z0drNmxGbWh4a3E4U05pMk5NS3dRcmtQeHFFbXF6M3RZR1ZqeXA2bHdnYw?oc=5"
+      },
       {
        "name": "AktienCheck.de",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZS1ZR0RkaVdkUS15ZlROMGlUMU1qOEUxZndEbTV2Y09RYTUyX2RYa0IzcXg1WEFtMGx3RllKazdUSkJDYmM3R2VzdUZZV0hZejhQRFgxandKNlBGQ2dmNjIxcE95YzJNR01yV2dJd0s4YmdqM3F2XzZSWk1TZVgzRWRhcUctZkxUeUxrcEVZNlc1SmxLOEpaeXhjcTJoU3JRUGFCdkVBdw?oc=5"
-      },
-      {
-       "name": "FinanceFeeds",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUE4VUwxQ3MxdEdMLVV6d1lwbl9QcWJqbkU2YmNWMzZHVUl3S3RhRXRzaWRVOWp2ZnhRaDRRYXNjdk50R3hwRlN0LU9lODBjdVNSd0Zvb0ZSTFhSbXVvajJpUGEtbmY3bjhDOXdGalFmUHpYS2xaS1NqdEJOVDJqSERGVmh0enBfcFpJcjlPQmo2alUxYzRkQ095UQ?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "iShares World Equity High Income Active UCITS ETF | IE000EB0LQO5 | A428RD",
-     "summary": "Berichtet von Finanzen.net, MarketScreener Schweiz, boerse.de, extraETF.",
-     "time": "2026-11-24T18:25:41+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWnRvMzNYOWYyeHZzQkdPV1REYUZ3dTZVQVFTMjh1Smc3MTlVX19HS2ZpY3hFTHFuTDJhcVRXVjVWM0RzcmZ2VWJwU3RtLUFZY0pyTTVZSUNDbWc3SnF5Rk1EV0V0S3czZnFwT01xUDBzMzUyMVhNM1dpTDkwOXlyQk8zSmIzR1o1dW4xdmxYWDFsSXVWWXdUbC13?oc=5"
-      },
-      {
-       "name": "MarketScreener Schweiz",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbmtZZ2w2LUVtdkhoR2ppcnRldUJ4NEpBMGtrb1NqMTV0Tkl0UDdOcjlLS0lyMWNjZ0pyLXdlNVVMbEtEV3o1TmEwZldjSkRRUWN1ZHZxaDZ2OGtZak5RcUdSYWJ5NTRSUDJ5VFJEQ1FMYS16S1pvU1ozTGQxLWpGV1lZOTNhbFk?oc=5"
-      },
-      {
-       "name": "boerse.de",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHdTcWYtSm1OYmRmb2c2MktZUXdiYWpNS3dYd1ktcy1VdTNfUThpM0tNVElONGo4MTI5ZDJERUNiMXd0VmZLRDVnaFF6YVpsMDgwVkJUcmJ4YmZMLTlsN2szaVRRaWx2RVFWemZGVHBxeHhOUS00S05rRlNQQXF6d2UteDJLUkFrNFowZGtxa1VmTGVObEU0dXJ1OVlwaGV2Znc?oc=5"
-      },
-      {
-       "name": "extraETF",
-       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jY05IeTU2aHBScVpPTG1LSzJOcGVfaWd4MDg3d3pEdS1yc21IY0VGc1dCeGtqYnIzTFdnaENmbXQxcFh2SnhwM3FnMDNqMmhiOVQtSk9TNV9JdFUx?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "iShares EURO Dividend UCITS ETF - EUR - Chart Realtime | ETF | A0HGV4 | IE00B0M62S72",
-     "summary": "Berichtet von Finanzen.net, boerse.de, MarketScreener Schweiz.",
-     "time": "2026-11-24T14:34:32+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWXFSV2lVOUwzcXBLV29iNEtPZ3Jsbm5NVzBWZUVZZHhYbXktMmpVOF9NY0RWV1U1RXgyd3hKY3NWQm1PTjduTlEzRHRlblQyOVZZZWV5blFnZGRiTE1GbE5WR0czQWF6anJqRmJ1SDZmZS15OUdCbFNaQzBZVXVDelVfZHY4VTBWb1lZekM2T3IzNTNqMzVfYnhpeW0xZzJmNVZGU2w3R3dRbmlnRm9SUkhjb3FaVDQ?oc=5"
-      },
-      {
-       "name": "boerse.de",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbDlmSDZBelpjMkRkbFRVdGdWX0lWVjI1bl9ETFVFdTZKdndaNjFZMm11SzM1WW5XRTZIWEFmUXVKc0F0OG00ZFZCYVREeldCczFkbXhQeEFQd2VPWHcwdDd3ZTNoOEkzaGk0eGctTG15N2h0Yk1DTENsMC1uTTRpLWVuS0lmSkk?oc=5"
-      },
-      {
-       "name": "MarketScreener Schweiz",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNmlzY19rTWpScGJqWE83eGZuUFlkYkZjcmFqLXRONkt5cVNZdDhGTHRLbEducUFEa0U2azlGbExiY2ZGdW5hU1VuemYtUngtbWFnSG81czRKUDJEWEkzSi1MMTJpdGNBVFNMWEZwc1JhNVZuNDI3YXNlOGFkZDVDYXZ1QVgwa202V3ZUWGxlazBJUnRVcEZVUDZfRQ?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0FNdTBmOXIyM1EwTTdBQUthSktDcHBNU3B5bXA3dml0UnFkZ2Z0aDk5Q0c5OU1TX2pkMGY0ZFVhcVhRSjk4LXBlMUx2Q09DdVI3VmFpRVlfNUlqQ1lPdXF3eXNIeGpKOEFfS1BrZzl0UkwzeXFSVkVrRl8xNkFINTNINF8xVXpseUYwZzg4Z29vYUNTdVM2dEpYby1JUQ?oc=5"
       }
      ],
      "verified": true
@@ -427,43 +410,14 @@
      "verified": true
     },
     {
-     "title": "iShares Core S&P 500 ETF zeigt sich fester",
-     "summary": "Berichtet von Simply Wall St, Hamburger Abendblatt, Yahoo Finanzen Deutschland, Börse Express.",
-     "time": "2026-11-24T12:05:26+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Simply Wall St",
-       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MNzlGZWRZVkprcUJ2eUZBcy0xRHo5R3JBM3gtSFBjVEg5NXFIMkpSWHZheHF6MnNaR0YxRXJMcnRYNFJZc09HWG9ON3c1U3E0MHBkXzlVRkY?oc=5"
-      },
-      {
-       "name": "Hamburger Abendblatt",
-       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdXpqR0RtaTA3YlEycnFFa3Zac0M1TDZlMGgxWU1jR2kyMXE0Q0ZGWGNicU1Mb0xjR3Q5clBiNjFyNWUwR0pvN3VvZjZnQWRVQXh3Ui1lMnRybUZGcDZEbENmNEJGZDB4OUZOcEFhdHRBOXBIVm9WbVBsbVVTR3IteTQ3aU51bHcxMmtOWHJqd3RUM09lMFM3c2gtZEoxVUFmZHFJSEZ0UjVnbmdPNUt4TGwyOXJheXp2WkRSUFJkWWRpTERY?oc=5"
-      },
-      {
-       "name": "Yahoo Finanzen Deutschland",
-       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kc3VYaG84SVRqUXNfMWxJSEIzVzhZSklHQVpYekRKUVl6Zkt6cGpLMmJtc3U4Wk5yQjJKTmdsX19UYXo5NVNQT3FtdGdsRmNaMXQ3RXpFb2tibW8xalM4elA5ZWxnTTE0?oc=5"
-      },
-      {
-       "name": "Börse Express",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUzRyOG1MOEY3dzZDaGJoRUJPNmlPRFBLR0pILVkwNnFLejNlN2Ffbi1SYnMzZ29xSzNXdENNemJHTS1aRHRITFR3eE1ISzU3RlBrQ1pXZE1GS29mbFdQX0p4aVNvYXM2Q3BkZVZVa0MyMkVpeFJ5SDVmTEM0ZkZnMW5zeGdnODFIWlNxZFh3N29OZ3hmUnMxY3Q4NGFvVHo4cmpEdVBuNDJNNHN6b3VN?oc=5"
-      },
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2IxWGM5LWxuaGhGVXJxNHhFWHl1M2tXd05Qc3FZeWRBdENHWkc5a3lvbm1rSzlKZG50QW9QTWJiSzJsMHNKNkZuYlNocGgxSXJYbXlucXVfLXc4dThBaHgyM1hNc183dUFJWEczd0RqZlM1NndBcG9WVFl3RGk4SlI0UnM0bkxlN1V3dkR6Z2pBeXFU?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
      "title": "iShares MSCI World Quality Dividend ETF mit Abschlägen",
-     "summary": "Berichtet von AktienCheck.de, Finanzen.net.",
+     "summary": "Berichtet von MarketScreener Schweiz, Finanzen.net.",
      "time": "2026-11-24T10:09:03+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "AktienCheck.de",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0FNdTBmOXIyM1EwTTdBQUthSktDcHBNU3B5bXA3dml0UnFkZ2Z0aDk5Q0c5OU1TX2pkMGY0ZFVhcVhRSjk4LXBlMUx2Q09DdVI3VmFpRVlfNUlqQ1lPdXF3eXNIeGpKOEFfS1BrZzl0UkwzeXFSVkVrRl8xNkFINTNINF8xVXpseUYwZzg4Z29vYUNTdVM2dEpYby1JUQ?oc=5"
+       "name": "MarketScreener Schweiz",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbmtZZ2w2LUVtdkhoR2ppcnRldUJ4NEpBMGtrb1NqMTV0Tkl0UDdOcjlLS0lyMWNjZ0pyLXdlNVVMbEtEV3o1TmEwZldjSkRRUWN1ZHZxaDZ2OGtZak5RcUdSYWJ5NTRSUDJ5VFJEQ1FMYS16S1pvU1ozTGQxLWpGV1lZOTNhbFk?oc=5"
       },
       {
        "name": "Finanzen.net",
@@ -473,38 +427,66 @@
      "verified": true
     },
     {
-     "title": "iShares $ Treasury Bond 20+yr ETF freundlich",
-     "summary": "Berichtet von Simply Wall St, Finanzen.net.",
-     "time": "2026-11-24T10:09:03+01:00",
+     "title": "iShares MSCI Japan GBP Hedged UCITS ETF Fonds | Kurs | Realtime | Chart",
+     "summary": "Berichtet von Yahoo Finanzen Deutschland, boerse.de.",
+     "time": "2026-11-24T02:45:23+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "Simply Wall St",
-       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nT3BMM2ZiRGRNTnE1Q1JLa3I5UlRvWktqWmIxak9fbDRYZzFpWmpOZjNQa1dQYnNDc2d1VUlIWm0tX0FpeDJuNXIxS1ZKVWVPdFVCWl9B?oc=5"
+       "name": "Yahoo Finanzen Deutschland",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lakdnRlZGVWw5UDM4RGVvcVJtcGlJSHdsMFRELVFTY2lsWXRsZzM0SmRxLUNDT3ZINjVRbEQ1MnlHU3NuMXRUcG5VekFGamxsUGxyYlNNOXNDTTR6NF84aTV0U0o?oc=5"
       },
       {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ1V1LUY1dE1EMjQtNThkdzJ3ZG00emFkT2dYY0ZxNS02Q1RfQ0hQWnJJSThuOUd5WXRMN0N0YUhleHJZU3MzMXlLVHNrcVEwSDVQSDJ5ZGFKUi1UVkprQ1dVcWczd24zWW42djRvWUNfeC1kZy1aWlZIdmpmQUhNR2JBNU5WRkxpQ2FwRVMxVjJuZ21GdWUyekVnSzBXZzh5cTBkSg?oc=5"
+       "name": "boerse.de",
+       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHdTcWYtSm1OYmRmb2c2MktZUXdiYWpNS3dYd1ktcy1VdTNfUThpM0tNVElONGo4MTI5ZDJERUNiMXd0VmZLRDVnaFF6YVpsMDgwVkJUcmJ4YmZMLTlsN2szaVRRaWx2RVFWemZGVHBxeHhOUS00S05rRlNQQXF6d2UteDJLUkFrNFowZGtxa1VmTGVObEU0dXJ1OVlwaGV2Znc?oc=5"
       }
      ],
      "verified": true
     },
     {
-     "title": "Greiff startet aktiven Welt-Aktien-ETF – mit Regionalgewichtung nach Wirtschaftskraft",
-     "summary": "Berichtet von boerse.de, Citywire.",
-     "time": "2026-11-24T09:26:57+01:00",
+     "title": "iShares MSCI China A ETF reagiert positiv",
+     "summary": "Berichtet von Simply Wall St, Finanzen.net.",
+     "time": "2026-11-23T18:04:03+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "boerse.de",
-       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTUliNThGdTVGUVBrOVhrZnFNeG9oSm1pbzlPMzRCNm9PMC0yM3ZDU2hVYlZwV3F4V0hGZUx1XzJleXdLdWtwYW1DaG5XdHcxREd0N2J3ZE1wR1lsMVl0M0hseHNrcGwxeUxqUkszWE56ZEZKYW0tQWNlb2RWdE14VTJ4QUp0OEloeFNwdDVqRVdDbHlVYmQtQWZOWkpSV1NmdlpDb1I3NmZQdFR0cXZXanhlbXljRERhbmVvRtIBwgFBVV95cUxPU1VCbXg2V3Z0eHZpX2liS1l0Rm9TQzdVaFU0a01GRGRxa0F2T2VkWjB4cHlqdUpnR3M4Sy16OG5KNWNONUhiVnlrZlRmd01LamV6SVNZTWxjSzBFWVotdlVvdzdPVEZkN21wVmxPaDJPa3E4MHhmazJFNnRqM0JhNWFNbUVRbS1CalE2WHZsVjlSbWpWNm5tTkdWaDVGZlo2NXNTN1VWQkpKWDV0a1hmSFNhMC1YemtrV1ZuMGhXTEJPZw?oc=5"
+       "name": "Simply Wall St",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04LTZRR3lrQWdXMmx3eTJSWUVNWDFtSUpnY3VsRUU0b0steGhMWG5PVDdEOXBIaWRZLVJCLVlOLWoyeVBCbjE3MnppbWxhakpCQlBtUTZZVkg?oc=5"
       },
       {
-       "name": "Citywire",
-       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ0MwUFFWaW5COVN0UTJRLUdjMmQwR09PeFVqWUN6MlJwLTJZOWRrNE16bXpQekRVNGJNYjl0aXdEZDBjYXRRM1hld3ZYeDlxcC1UZHU3OGlLWjRDSXZJTXRiT3IwaldPbERyaklqRlVXdFBoa3l2VmpEcmlUc0gtc3FiSHBWbmN0ZmwtVE5RRGFpeS14U2VqQ1haeDM3UmVOeGdIamR5YzF0X2ZqMHNSTjdBeDFwTDNEMWRHREtR?oc=5"
+       "name": "Finanzen.net",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObi1CNG15S1I4QlV3cG9RYm52WUx1Yk5jZDdtVlVUVFZZSW43V3dRdzRjckNURUlYYTliWDVheDItWjNNMXFvV2tsV1FqcW95YWhoWUQxcnlIdFlnWkVSOVBKR0xMczlMLTBBdnlueHJYMVVORHM1akdVRVB2c2dpZUZXck00NUJUMU9oaU9FeEZuREdweFRHYzdFa1E?oc=5"
       }
      ],
      "verified": true
+    },
+    {
+     "title": "Angst vor einem Börsen-Crash? Das raten Experten",
+     "summary": "Meldung von FAZ.",
+     "time": "2026-11-23T06:51:52+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "FAZ",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHNpUUxqSnlrRWNHYmd4WmRVQXRJQ0xuRVFFZkhDMHltSDRKdlEya0tKX0ZlczFvX0lLZ1VKT21mYVlHbE5oazM3X1EzZ3MxbDlJaW41XzBFUFFrVEoxX01sUDNaZ2QzRkd5REdTd3hrdk94Y05JNDRnd1dWX1UxdG1oTTNaU19hWWp4R21MODM3dzdNTnVDeVVfc090c1lGdkFJSDBILW0?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Zürcher Trend Ausgabe 47/26",
+     "summary": "Meldung von Zürcher Börsenbriefe.",
+     "time": "2026-11-24T22:51:39+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Zürcher Börsenbriefe",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94LXlZNGFZd3BKUVdaTTk4aXpoU0hCcGExb21HWTBHOC1ST2VOQ0tpUUkxRF9LbkUtZklIWDdsMTNhWmRvd3JVZEMzSVpNOEtILWlxVUZKeHlYYm5JOTdCTW52TWhhaDJ1?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     }
    ],
    "more": [
@@ -527,7 +509,7 @@
     {
      "title": "Nvidia-Schock und Anthropic-IPO: Kommt die Jahresendrallye doch noch?",
      "summary": "Meldung von Finanzen.net.",
-     "time": "2026-11-25T01:21:36+01:00",
+     "time": "2026-11-25T01:50:32+01:00",
      "importance": "high",
      "sources": [
       {
@@ -661,16 +643,32 @@
        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWXhBYURtOHZqQ3p2dUdTdWxwUTV6ZUtoOU9GVFp5SU1Tclc5czF2NDFiSHJscEgwZl9zY3M0RV9kbnZNQk5VaE85QVhBRWRiZ2NYR3Z0ZkItNk04eTdSUGVtaERhV0QwZkdyVDVRS1BCQUIyQUJKTzFPWU9oLWR6eE9wbjFRYkVma0FsM2JacWR4QVZuSWFqR3BNR2s0dw?oc=5"
       },
       {
+       "name": "Yahoo Finanzen Deutschland",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLVVydDZoaWxKWEVWbDJOY1l2RVlzdmdocDhIUFktcHZjby1pYVhLeUpreWpERTNWaHR2OEZ5bUN3R1ZKa1FObS0xZGpyLXRSa2d1SldjdjRtSmV6UzRHQ2tqSm9EcUhNOE1ac3dWXzMwemh3TnkwckNOd2RBZGVsOVpMMlJ0UVhLaG90Q1Z3RFF0Zmc?oc=5"
+      },
+      {
        "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3pRbklRMU9zWlpEd3puLWRyLUU2M1R0WTRzRHVBSWVqYmlIR0hXTzA0TkttMFVGM0lhdnJlNDN3UzVTWWRsSkxMc3lBaDVMNzhiWnV2dmhkdXFVTWtmMUtmREw3UG9MSkYyekJ1OXRpWkdxZTcybDVuTWRxckFHVTBxRTVUMnplVXAxaU5xYjRCTWJoZkRr?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaS0tSWh2dzIwcXNjREZ4bjhCYXQ4QUQxQTI0eVFYX29xV25jTm1laGExaW45LUxCa1YzTkFxWXFURlVudUo5VVdCaDBya1RxcFhlSk9ISnQ1b0NrTWlWbXdRRFo3dHdLV0JVS0g4THFxd0NyTk5ydm83azA4MmptdWxxd1lLeTI0N0V3anpjUUYtOERQdjd6ZUZjcXJZdw?oc=5"
+      },
+      {
+       "name": "Handelsblatt",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObmk4eDZzUENZVjFLcmtEM0M4UGkxTUhxUkJ0YjhEYUFsemluSWhzWXR5aGRjQ1l0R0RURWVWdDNmZFhfemU0TUg2X1ZVX2ZVNlVBcjQ0THdkNkltYkxQQ2J0RkUzSFZfSDVKSDZzSHZrWnlpQkNOWWRXN1RQM1FqZno1Y0VHbmQ2NkV2QUNjdEo4aWpfUnRLMDd4YWdUTmZzTmYxZURibnZKZGQwVG5uWHF5REdLSGxxakllV2JDdE9iVUlhZkZ3RTdWWjlzbzE3UkZ0NXR2TUoyZmg4Q1ZnYUtQOHQxdw?oc=5"
       },
       {
        "name": "STERN.de",
        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOWZzWTdrNGhST1JiVG4zaDUxTnBOOU4tSzhTQmJ5TEtTUGExVzMxRkQ2ZTJBQU9zZDVIYUhUVmtBQkhfY2pJU0JNSjhaaTFER05nS0ttLUp1d2tfMjBOb3JBSVVZalAxUnF0S3gwU0ltVm9CbWNJbUNJWlA4UFZFRlEwallrSXpVVWFhZ2ZCc0RPX25kcEJ1MWxuNzdjZG96VWJDUjRiaw?oc=5"
       },
       {
+       "name": "t3n",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM2VHZy14dGZHWHUwaEZNWFFVVlgxc25ZdGtEclVWUWxfWUNiY1FnSldsSklYdGxwWW9jLWRLUmRUV2xhbWktbGVHU3RWQUYzVk51YV9faGNmVUpYX1doVVk3LW5IRjdWV01Xc0ZnLTNJMmJxMDNpWXZPNnQyRmxsNGRKNm9QUUdZSzZsTFhkeHlzS0JxUFRrOGttbUMtblJxazNXWlg4Zi01UTQ?oc=5"
+      },
+      {
        "name": "BILD",
        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRXp0dmF6V2M2bEkwY0J6RlBOSmRTZC1mOUhkcnk0Tm9HWFNzN2lBM2ZuVzducEVfeklpOW5ISkFYemRVM01IR1FTdkZUU0V2WUFpdTVzV2hESkljZzYzME9mUkY5NnVMcXpOcGFaMlZuS1B3bEQ0aU1LM2d2dkRYX200aXJmajhldFM2Y3Jpa0pBbmtCNEp5dzg1YUo5d20yTkZaX2JLa3hwZXg0UUhKa2NjUWdENWVrVUFRZS03RGZFNmhhNlk3dGxvcUNkRGRieE0xSm1kbmVhc2IyUmF5ZTFQMzlDZlRic1R1STU2b19vMms?oc=5"
+      },
+      {
+       "name": "derStandard.de",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlVmT2VxZkNNRXNpUTVoZUcwaEdkZjByX2JUZVpSOUh2aElOMFBBX2FrS2lqUkVDUlp2YXY4dTF1Vnk5bFRuSHY5Q29VdkN1V0I3aXJDV2VYS014aWc4V0dDT0FySUlIUHVkUmdrZ255NVlXVE1OTHBVaXkzbUJxRS0zd0xhcGtDNlE5cngxSnl0ZFpkX0hHNnl0OVRpZw?oc=5"
       },
       {
        "name": "Manager Magazin",
@@ -776,6 +774,20 @@
      "verified": true
     },
     {
+     "title": "Anthropic rutscht unter IPO-Kurs: Die Gefahr kam aus dem eigenen Unternehmen",
+     "summary": "Meldung von BeInCrypto.",
+     "time": "2026-11-24T13:28:00+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "BeInCrypto",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XNFE5NW8xVHpibFhLTC1CMnY3alBxSXdBREEwZE1iSXlRdF92OU9mc1JDSDBwbmpSSWppLUlJRG5HOTRueEhxNHRiZk8tZHhqbm5UM0RPRUpWc2g3eVNGNXZGVlYzXy1QbGFNcWxpWHBEWUVYX3pVN05B?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
      "title": "Anthropic-Aktien fallen im vorbörslichen Nasdaq-Handel unter den IPO-Preis",
      "summary": "Berichtet von MarketScreener Schweiz, Unite.AI.",
      "time": "2026-11-24T12:48:02+01:00",
@@ -791,20 +803,6 @@
       }
      ],
      "verified": true
-    },
-    {
-     "title": "BASF-Agrarchef treibt Börsengang voran, \"Es läuft nach Plan\"",
-     "summary": "Meldung von trend.at.",
-     "time": "2026-11-24T11:11:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "trend.at",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTZKTmd2ZzhEQ0pIRVlOOVY3SzQ4c2xscjFucTZoM1pjd29odGtCbGRJbmxlYUNaYUpRSU0xdmVrN1UwQk5pUWZwUFAzMGNjOXNTdTBFbExFM2R6WXJsRXdBaGZPZmQyTjMwQm56VWpKNTR5MGQyS25YbUphTjN2QlY2ck9lQkw5eXI4?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
     },
     {
      "title": "BASF-Agrarsparte vor Börsengang: Pipeline mit 15 Milliarden Euro Umsatzpotenzial",
@@ -867,9 +865,9 @@
    "tint": "red",
    "items": [
     {
-     "title": "Microsoft Code Red: Nach 24 Stunden Ausfall sollen Fehler weltweit in 60 Minuten behoben sein",
+     "title": "Code Red bei Microsoft nach Cloud-Ausfall; Weitere Störungen zu erwarten",
      "summary": "Berichtet von MarketScreener Schweiz, Heute, Investing.com Deutsch, TradingView.",
-     "time": "2026-11-25T01:24:47+01:00",
+     "time": "2026-11-25T01:33:45+01:00",
      "importance": "high",
      "sources": [
       {
@@ -889,31 +887,27 @@
        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3bkpaX1V1dVlITUgtWGtXV0h4RTI3cjBYMGk0dE5WTEJESEViSGE3WHVwdllyb2ZZbEpnMjN1c3F6bm9relhVdVA2R2tOblY5WF9RNTczcnlMYVh2R0NLUVk3YnVuYmxpdk5UMGJVOWtRbEFmUnhv?oc=5"
       },
       {
-       "name": "DiePresse.com",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTTZOUkptYTFmWi1GckxOX01LQzJSeXgxdzBfczBfUmFRVEdhYWNTNVB6bS1Sd0szandzV29qTUZuSDVfNVRMc215a0tUaExDRnhOS25VVTJ4WTVZd1Zfdk9YQ0wya3Z4cG1rbkE4dEdaR2FEd0hXczlXbDBDYS1SamhrdE9pS2NPb2NFVTVFQ1FrM3ZaOFg2bkdkcUs?oc=5"
-      },
-      {
        "name": "Cryptopolitan",
        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZejRVemlEQ18tVG9Wemx2Zk5SNHNIclBKQjBodUVLQWUzWlJvdG1wdWVST2Y5WFlUWFpoUlBWa2xXTGs5cGVOb29FamEzdVlzUkprR2wwTWE5U3JpTmNQVnk3RDFPWUMtelEzRTYwRjMwX0VnQ3FvbHBSMA?oc=5"
       },
       {
-       "name": "BornCity",
-       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTy1jWkUwaU9rWUVtUGJseHU1UDc4ejB0bnhlV1lLN0NmTVY3VHZjUWJFRUdBdWJGUTN2YjVsMVdaVDBpaDM1OUZveExCNHFfWmZBRWFxaDhhX3RJMjF3bXhLSkxSR2lvM3pUaFdkYlVBNDlGTnhvVC1YZFFveG1rZFpqN1ZOLVRmbXFZTWxQLS1NWERxeFltS25OcnkyMVZYcmFRZ2ZkY3o?oc=5"
+       "name": "t3n",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95WF9LWjdjODhpc1d5LWttVUY3aFJlVUJiMlNJMTczbXI0LWtJUTAwTDNrUy1zb2s4VExMNjN5Vmp4RHBHeXVucmxFbnpZRnpuWHZvcEYzVTlOUk1CUUVYWGhMSG5rWHpQa1E?oc=5"
       },
       {
        "name": "Börse Express",
        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM3NQRmZPVFNaUmlnaEdJVGVZU2lPdlh6N1hxMFVsVEpKZ2U3dE9aR0FwelVPRjE0VWFBTnRGZmNQRXNmOGRhZTgwT0phVG03QXM2ckwxdVBXaW1aOTlIQkp1c2xQaHpnalp4dWx5U3VuamVIS1NfcXlkNm1UckVWNGJRYkRLNGp2bTNUWXFlekZvYms?oc=5"
       },
       {
-       "name": "ad-hoc-news.de",
-       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcm5BZ1FoeDRiOFFBR3g3MVM5TjhNRU9Rc0RLTVI2TkkzX0RjMlozMlZDcUNXdkluWWpramlFODB1amZreXBlekg4dmNidUkwajFLQ3QwRjRNYUJNdjU1TDRBeGxodXBHWnc1UHlaNkN4ZWMtTHhqLWhxbW1BbWZSV0djTkg0VzVzckFvMms0NjNPQmtWZklPb25HNGRna3RSX2lZd08zZVptTTRudEZkMVRaU0FMbHlLeFdwRS05c1Fnc0llejlBOGlSMDZLb0pSNDZqVHZPTk8?oc=5"
+       "name": "BornCity",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0E3bzAwNjU2X3pGMGxhRGJoU1lKNVAyQlFVMTRnREZmbS16eENwM0t0emdCY3JDVEpBejhHNUZ0eHBhN3lXbWRDaEdwTzU0SjJCbDhGMHVMR2lDRVVlTWsxT0JlMjVfbjdoMHJ0eVRHcjVtTjdfVlhnbnZUaVFxa0ZjWkNEdHZrRWZMaUhjUE9xSUxxX0RSTDlTemhwazdSTzBuY0V3VVhmN0NH?oc=5"
       }
      ],
      "verified": true
     },
     {
      "title": "Massive Störung Mitte November: Microsoft ruft nach weltweitem Outlook-Ausfall intern höchste Alarmstufe aus",
-     "summary": "Berichtet von WinFuture, heise online, t3n, Pasquale Pillitteri.",
+     "summary": "Berichtet von WinFuture, heise online, Pasquale Pillitteri, n-tv.de.",
      "time": "2026-11-25T00:54:11+01:00",
      "importance": "high",
      "sources": [
@@ -924,10 +918,6 @@
       {
        "name": "heise online",
        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVRHWDZGRWNrQ0FCekM2RDZyc3RkLURBdlFxd1hSRU9NdmZmZlh0NmpHajBiMW9lbFpmSHViaE1YZTgxMV9ZUzRwNXRiVGI0Q215SmVyc3RWWEJSTm9oampXM0pTS0p4NjVNb0w3Z0lWR0Z4N3ZqMF93SWJ1LWt5VVEwYXNRYm11dlMtSUVGdkxjeGNW?oc=5"
-      },
-      {
-       "name": "t3n",
-       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95WF9LWjdjODhpc1d5LWttVUY3aFJlVUJiMlNJMTczbXI0LWtJUTAwTDNrUy1zb2s4VExMNjN5Vmp4RHBHeXVucmxFbnpZRnpuWHZvcEYzVTlOUk1CUUVYWGhMSG5rWHpQa1E?oc=5"
       },
       {
        "name": "Pasquale Pillitteri",
@@ -941,18 +931,18 @@
      "verified": true
     },
     {
-     "title": "Outlook hat während des Microsoft-365-Ausfalls tatsächlich E-Mails verloren",
-     "summary": "Berichtet von it-daily.net, Korben.",
-     "time": "2026-11-24T11:43:39+01:00",
+     "title": "Microsoft Code Red: Nach 24 Stunden Ausfall sollen Fehler weltweit in 60 Minuten behoben sein",
+     "summary": "Berichtet von BornCity, ad-hoc-news.de.",
+     "time": "2026-11-25T01:24:47+01:00",
      "importance": "medium",
      "sources": [
       {
-       "name": "it-daily.net",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90V2ZVWkN3OEJ2SjlJbVAyOGxJajBpRHFaQWRsaERfdzJ3c1dsYWZ3ZFRObVRRdGc5WWxCMkdKMkw4WXcxTkk4U0N0WW5ISzdNUUpFQ25LQklXQUFqMElvbkpHVFJWM3QwQ05XMndDRmpTTFpqM0E?oc=5"
+       "name": "BornCity",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTy1jWkUwaU9rWUVtUGJseHU1UDc4ejB0bnhlV1lLN0NmTVY3VHZjUWJFRUdBdWJGUTN2YjVsMVdaVDBpaDM1OUZveExCNHFfWmZBRWFxaDhhX3RJMjF3bXhLSkxSR2lvM3pUaFdkYlVBNDlGTnhvVC1YZFFveG1rZFpqN1ZOLVRmbXFZTWxQLS1NWERxeFltS25OcnkyMVZYcmFRZ2ZkY3o?oc=5"
       },
       {
-       "name": "Korben",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0lWS05HemVhUWd5V2lPV3gxRDBQRC10SkdzYm53SC15bXh2Y2V6eE9MMWJtamhNZjFTcUxOWk9XdlRhQjRQa25laF9PbjVlSG9FbG5XVng1bVVXWW1LanFtcnBLcVBLN2FMZ1AwQkJORzdVclUyWHY0MGN2Z0RERHhPbDVFT2Y3Y2VyaE1hNno?oc=5"
+       "name": "ad-hoc-news.de",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcm5BZ1FoeDRiOFFBR3g3MVM5TjhNRU9Rc0RLTVI2TkkzX0RjMlozMlZDcUNXdkluWWpramlFODB1amZreXBlekg4dmNidUkwajFLQ3QwRjRNYUJNdjU1TDRBeGxodXBHWnc1UHlaNkN4ZWMtTHhqLWhxbW1BbWZSV0djTkg0VzVzckFvMms0NjNPQmtWZklPb25HNGRna3RSX2lZd08zZVptTTRudEZkMVRaU0FMbHlLeFdwRS05c1Fnc0llejlBOGlSMDZLb0pSNDZqVHZPTk8?oc=5"
       }
      ],
      "verified": true
@@ -966,20 +956,6 @@
       {
        "name": "Netz Trends",
        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TVUQ4THF1a2J3aW0wMkx2VlY2d29KN1RWb1RUT3lWNy0wZGVQOVlvMURaVzMyVWhWbzZZaXlyTEdacFAzMEVYckZiaUowVHNHd1lYLWdMeG14TzhxaUxPMWZoR1MwX3FBUlVsVk5YSWFxYWdXZy1V?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Code Red bei Microsoft nach Cloud-Ausfall; Weitere Störungen zu erwarten",
-     "summary": "Meldung von BornCity.",
-     "time": "2026-11-25T01:03:17+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "BornCity",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0E3bzAwNjU2X3pGMGxhRGJoU1lKNVAyQlFVMTRnREZmbS16eENwM0t0emdCY3JDVEpBejhHNUZ0eHBhN3lXbWRDaEdwTzU0SjJCbDhGMHVMR2lDRVVlTWsxT0JlMjVfbjdoMHJ0eVRHcjVtTjdfVlhnbnZUaVFxa0ZjWkNEdHZrRWZMaUhjUE9xSUxxX0RSTDlTemhwazdSTzBuY0V3VVhmN0NH?oc=5"
       }
      ],
      "verified": false,
@@ -1082,6 +1058,20 @@
      ],
      "verified": false,
      "singleSource": true
+    },
+    {
+     "title": "„Weckruf“: Flugstopp, Bank- und Microsoft-Ausfälle – was wirklich hinter der US-Pannenserie steckt",
+     "summary": "Meldung von Frankfurter Rundschau.",
+     "time": "2026-11-24T09:28:47+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Frankfurter Rundschau",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUThhUV92c0hJSXdubVA3aHh5R2MzamRGdWhTOVBqRW5NdEZjWGRBSUZhaWljeW1YM0tWUHZRRHFXOHVzbE5jcF9nWnRrVkRiX0NXZXd5SjA3Z2w1YlJqYk9BdjMzXzVNeTFTa0tCV253cXlnZU9YT1hhZTQ3UUJzaXRNb1JlZ19QWkJuQ3doY0hxN3RvN1djVURxajFIdnkycVRaaG4xaVlCSzlvLU9UcQ?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     }
    ],
    "more": [
@@ -1133,23 +1123,6 @@
      "verified": true
     },
     {
-     "title": "Dell hebt Jahresausblick an - Boomende Nachfrage nach KI-Servern hält an",
-     "summary": "Berichtet von Investing.com Deutsch, T-Online.",
-     "time": "2026-11-24T23:00:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Investing.com Deutsch",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZXZZN0U5QVc1X3c3WmdVWkVaVGUwVGVaZ21LQ1lSQk1vZWNaR19YQnBaVnNCb0l1R2kySWFDd1QxS2tCV3dreVdUWklSXzFVc1M2bS1UT0JhSi1mRFh5dUFFOWswRC1YV3o2WmhnMHBBTWVFTGh0cDFJalE0Vng2R0pFajFsOURZWW83VFkzOVg4SnlMMWVaTFhXYlVQQVZ5ZjRxVEFzR19KQzlNR0s3MmsyYXR5X25Kb1lZdXFaVGVIYTg?oc=5"
-      },
-      {
-       "name": "T-Online",
-       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU1ptQjFDa1J2OUc2WDlVX2VzRW5CSG43enctaWxiRFNmSzhWWUxDb0k3TE5oQ2pQQ0dYZnZCamFyb1VvaTYzckJra3FaUTd2RW5uSU9pcnNGU0VOMEx0c25zMmo4VGtkQWxqU0t6eDJscHFaeU42d1VwaHM1V3lzTWZza0hLSW56SVlIZ3dhVmhmOFMyUjIzcDl3Y0s0bmxzdWhVWU1kdk5Fb3ptUm43VTFnR2JSZ1BVcXdPTER5MzZNTnZiNnY1SWZUS0ItVEVlYnc?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according…",
      "time": "2026-11-24T21:02:03+01:00",
@@ -1184,6 +1157,27 @@
      "verified": true
     },
     {
+     "title": "Claude AI can review pull requests and ship fixes on its own now",
+     "summary": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able…",
+     "time": "2026-11-24T18:45:53+01:00",
+     "importance": "medium",
+     "sources": [
+      {
+       "name": "The Verge",
+       "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+      },
+      {
+       "name": "Golem.de",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzRfOHR5NlBGdFhTbkZDY2JtQTRIZTdYakd4QmhhdWIzV2oxMkoyTVFlVVNyejhYcUtpR243UGYwdGlscGdMMDQ2aFo2Q3p4Sm9CVUNlNnBXZ3NDWXFUNm5qS2s3cGRZek10MEpfUUtHV2NRa0tmYmhIeDRSYWNoM3hBUUc3ODVvNmhwdkxKUWQ4RGY5TjA1eGxpZDJJRVpOeUxFUnFGSFlYZWh6cjFldGVn?oc=5"
+      },
+      {
+       "name": "Caschys Blog",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRXhoQWItSFh0d2JCZXRqUC1pcm54cGk4aXJ2aFZubF9JRzFRR2pnN2VUdzJCNGZCcUEwQTlZNzNuYkZFbjVBOEZHMERNOW9iYWl2WjZ6NndMWll5VzU2U21RalFfQXVuSjBiblNPMjF0bEM4bTIySnhUQ2dPYnlGLThSQVJsN0p2bHhCX3psZ0dzU0thaWVSRGJPMHVNaTc1Yzhzc0VKbw?oc=5"
+      }
+     ],
+     "verified": true
+    },
+    {
      "title": "Studie: Menschen können KI-Politik-Posts kaum von menschlichen unterscheiden",
      "summary": "Berichtet von Spiegel, Frankfurter Rundschau.",
      "time": "2026-11-24T17:30:00+01:00",
@@ -1199,20 +1193,6 @@
       }
      ],
      "verified": true
-    },
-    {
-     "title": "KI-Aktien unter Blasenverdacht: Gensler warnt vor Crash wie zur Dotcom-Zeit",
-     "summary": "Meldung von Finanzen.net.",
-     "time": "2026-11-24T16:49:00+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "Finanzen.net",
-       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc1p4QVJwQl85dENnUmJSZ2JsTms2SVhwakVwd1Y2ekJpVDdWTXJxckFYWXdBQkhRb2VxTUZoa20tUlRLZENrZTdRUmZYVXV3SGRRSlB2V0phMWIxMFhxdkxlYVV4UUoza3ZzN2Y1bVI3RGVjTFM5b0xCS2ZaeWw2bkhyU3dMbnR3alJRZFUwYnh0RVYzVEtGUmFDTUpNazh0VjFOVS1rN0NQdGN3bXl4em5ZOWRwd2Z4WlMwdE56NURuT19yUF8zNnZPZVR1dGhNaDdjRklDa3pyLUR0OVpPd0VXTQ?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
     },
     {
      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
@@ -1232,20 +1212,6 @@
      "verified": true
     },
     {
-     "title": "Künstliche Intelligenz auf dem Vormarsch: Mehr als jedes dritte deutsche Unternehmen setzt bereits KI ein",
-     "summary": "Meldung von Das Verbraucherschutzforum.",
-     "time": "2026-11-25T01:34:24+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "Das Verbraucherschutzforum",
-       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVXZZUTNzcE5kUTVSMGljNWM1QzZhck5hT1BIWVl2Yy1uV1ZsOE9IUTFSTFJwLXMxeU5HaFBfaG9fUnpTZzl5NW85cTFfOFRZZWhzVzhPUXlNZzRIS3BPem9JQ3JGa3BtT3BjMXpRM1J1N1UwRnFuOFhzZ3c2S0V6ak5PLXNGSmNEOTZBRGpzREdTM2JCZ1k4aXNhc3BIZGRzRmN4NkhjcE9xYWU1QndiMmlXdkwxc3JHaDNjRHZhY0FJc1JmRlRiejQ4YkttQXBFcDhEb1c2MXFLTHQ3WUpRcW52dXhOeEtJOFdwS3NGN3F2OVpB?oc=5"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a…",
      "time": "2026-11-25T01:12:02+01:00",
@@ -1254,6 +1220,34 @@
       {
        "name": "TechCrunch",
        "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "KI am Bau: Warum die Bauwirtschaft ihr Potenzial verschenkt",
+     "summary": "Meldung von Meistertipp.",
+     "time": "2026-11-25T00:54:00+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "Meistertipp",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaE9aclJaWTdrTHlYSzNvYTZOQTJ3b1JzQUVPRTJmVjRudTRqdEpEcW83RDd5c05xb3NKY3daYkUxeVdSMWJKeEFoUHFxbW9neVRrQnpzQWtJWXJkblFtT2JXdmJZR1JLemhjRWd5UmVUNVlDakFNcUVuRk1pRF85cVZhOTUySzJfZ2c4cDJaYlVjUmRVQlVRVEppY3VoV2Y1SnR3?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Testübermittlung von Canary-Anmeldedaten an KI-Router (OpenRouter, Vercel) endet im Security-Desaster",
+     "summary": "Meldung von BornCity.",
+     "time": "2026-11-25T00:37:02+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "BornCity",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjBQQTNWUS1yRWxTY295TVhsWlpKQ1hNNURrODYyOWdhbGdMNG50blF0bHhJREk4UE1JVU4zTVdLbGx2RGJWNW5uXzdlbUNvZTBPazY0Zk0yWnVJZHp1SU9WMnVLSERfbVNVZ1hOUnJLODdHaWdwc1dQU2poTnVnMzRVclNGQTFKTzVHR2tURVllcnpaX0IzcWUxTHl4alBhSVBsdHZ5ZnpPdw?oc=5"
       }
      ],
      "verified": false,
@@ -1278,14 +1272,18 @@
    "tint": "blue",
    "items": [
     {
-     "title": "Haushaltspolitik: Pflegekassen warnen vor Milliardendefizit trotz Bundeskrediten",
-     "summary": "Der Bund hat den Pflegekassen erst einen Kredit für 2027 zugesagt – der reicht laut ihren Vertretern aber nur für wenige Monate. Danach erwarten sie Milliardendefizite.",
-     "time": "2026-11-25T00:30:17+01:00",
+     "title": "Worum es in der Haushaltswoche im Bundestag geht",
+     "summary": "2027 will die Bundesregierung in ihrem Haushalt 560 Milliarden Euro ausgeben. Doch dafür muss der Bundestag dem Etat zustimmen. Deshalb geht es in dieser Woche noch einmal ums Ganze. Von Jan-Peter Bartels.",
+     "time": "2026-11-25T01:52:17+01:00",
      "importance": "high",
      "sources": [
       {
        "name": "DIE ZEIT",
        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFB6eGJHR3JrMmVwWW11NWZ5U1ZmM0p4QnRvQW9NWWh2X0RLZ2xkc2lQYkhMQjBodjVvVTBDSnNWaVRwVV91anliejA1d256WWpRd2FfUXVJS3R6MXNsN1FhcXBnOW56M3RzWXhKODc1MjM3VTgtaXlDTUtKbzNVVEtxMWluSzlkUjRYN2QxMnQwTzRsblZIVW1kcERYV2NvZnQxN3BqMlN1b1Y1NzFzUGZxaw?oc=5"
+      },
+      {
+       "name": "www.bundesregierung.de",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTU3b3NIbVVSd3VleVZRUS1KQ1h5T0tTb0I2OTBiUlJldWZYSE9sMFBmSUNTempoU1hzY1hDWTducVhkek81UTY5cHdvYUdKWVoxTHlCT050OWNGdWpoUDNZUVJKRHh6WDVTV0JJbXMycGsxREZwNzhFVldQNTlhbUhIOU9qVU0?oc=5"
       },
       {
        "name": "T-Online",
@@ -1330,10 +1328,6 @@
       {
        "name": "MDR.de",
        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LMkxuaGJHd3RjZXE4T2NRZk9hUWZPQlJYaDZjYUY2SmNNSFNNS2dqU1UtX3Zqb2lyS3JRZld3NzA3UEs5dk5qNm9BMkJoSFQ5Y0xqOUc4aUdyOTBUVWNwbVVaSUpTSlE?oc=5"
-      },
-      {
-       "name": "ZEIT ONLINE",
-       "url": "https://www.zeit.de/politik/deutschland/2026-11/pflegekassen-bundesgarantie-gkv-spitzenverband-finanzkrise"
       }
      ],
      "verified": true
@@ -1361,13 +1355,13 @@
     },
     {
      "title": "„Das gefährdet unsere Sicherheit“ – Grünen-Politiker kritisiert Ukraine-Rhetorik von Merz",
-     "summary": "Berichtet von www.bundesregierung.de, ZDFheute, WELT.",
+     "summary": "Berichtet von Spiegel, ZDFheute, WELT.",
      "time": "2026-11-24T18:27:11+01:00",
      "importance": "high",
      "sources": [
       {
-       "name": "www.bundesregierung.de",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYTU3b3NIbVVSd3VleVZRUS1KQ1h5T0tTb0I2OTBiUlJldWZYSE9sMFBmSUNTempoU1hzY1hDWTducVhkek81UTY5cHdvYUdKWVoxTHlCT050OWNGdWpoUDNZUVJKRHh6WDVTV0JJbXMycGsxREZwNzhFVldQNTlhbUhIOU9qVU0?oc=5"
+       "name": "Spiegel",
+       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLWFfODY3X3dObXZsOWxHcDFvUkk3SERpbzB6N0xxODRXS2ZsZjhrTC1RQlFxWjcxN2VZVUtWTFZzVWtBelhIWFZYcHk0V3dhUWRDOWRZakQ2ZWo1RnBOb3RoWlZYdXMtbUw4ekxNV0FvSXNkTTZaNHNPUWpBZUVqVGJKUEp1aDNiZnl3d1p3UzRyWWV4ZEVKb3I5SGVqOE9DTG5VQU1STEljdGsxS3EtaG53ZkRsRlBybkl1OVB3bDhiSDh5NVlvRFM0Unhxc0luTUZtb213LUdONU13RWtQcQ?oc=5"
       },
       {
        "name": "ZDFheute",
@@ -1475,7 +1469,7 @@
     },
     {
      "title": "Kanzler im Vatikan: Papst Leo empfängt Merz am Montag zu Privataudienz",
-     "summary": "Berichtet von WELT, katholisch.de, domradio.de, n-tv.de.",
+     "summary": "Berichtet von WELT, katholisch.de, Domradio.de, n-tv.de.",
      "time": "2026-11-24T15:36:42+01:00",
      "importance": "medium",
      "sources": [
@@ -1488,29 +1482,12 @@
        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaTNIQldrRFlIclgwUldYV1pIZDVUejBqUGk3YldoZC1mMUtIbS12UDhuNkZTMkJTMVRnS0VPeS10YmMxcWlPTnVQQ1A2LWRtZW1jN2NjRHo3dkY4WExuUUdvRXFQdnV4bDFGTi1odVhJNVRGUFJ5ckNXNVJWck1Ba3I4VjcyZ0k1UmJ2bXpoQldPanptQXUtWndKZEZGWnNFVWNOczMwRHEycVd4c3JJ?oc=5"
       },
       {
-       "name": "domradio.de",
+       "name": "Domradio.de",
        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmg2WE52LTN0UjBoMTBvTXJMSE0wc1QwLXRjQ1QzbXpXX0NvZlNzZ0JrMmxYbXhlYVNQTUU5alhLUmRtSnFaTTc0Q3ljUHlJcTJSdnF2RW5EWFRwS3ZRZW9DUFR6WlR5c2dZTWEzQ3hIdTlyYUl1WklDbUlrWVI4eDFiVEFsRVVReWQ2MFFn?oc=5"
       },
       {
        "name": "n-tv.de",
        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDQzNElreElNNXdrdGJtaGY4aXhLMWdheXlSYXdiNk5pU1FkUXMwVGRrNFhaRm83RWdFYW1qdEY4SFBDc0VUX3B5MzA2Mzc5MjBTV1RSTG9mZzdpU1JyS19pQ2NFQW5NeDgwMVRqVFNJemtxbmNEVGg3eWVUbXVjSEhwTkkzMExsdUFJczNmQmZ4ejg5bDlUaG1n?oc=5"
-      }
-     ],
-     "verified": true
-    },
-    {
-     "title": "Folge 10: RTL/ntv Trendbarometer: AfD vorn weiter, Merz fällt erneut auf Tiefpunkt",
-     "summary": "Berichtet von n-tv.de, RTL+.",
-     "time": "2026-11-24T15:19:55+01:00",
-     "importance": "medium",
-     "sources": [
-      {
-       "name": "n-tv.de",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZDZKRE9yZ284aHJDdGd0akJEVElvaTFzcGdyYTZZN1FYSVBFX28tdlhqenBxSk1JWHlHZTM5WDFUTHYxN0xiUnluRWd6dkFMLXBpQXVyemw1RmNWd0laVDZ3d3VkUDFGOVgyWEtlLWNiTnJzSFhMMjdKTUpSNTZwcGZGS0Z4X1Jja0RpaDdWS0FzYm5WY0VDYlFwTDM3R2EyX2o4SjdpSDNyc1Nhc1E?oc=5"
-      },
-      {
-       "name": "RTL+",
-       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNl9mR0ZiZkJ5bDZPUm5MNFVwVUxsb2xCRWRHc29QM3N4S2sxc1RaNlo4bEtwVWlrUmFmUWxYZUJlNm5heFpxM2l4aVZwUXhMYWFKTWJFZE45MkU5blcwZTBiTjdFbVI3bWRHaEMwbVFqVG9FXzg5NHNlOTNYeXpVNVQ5NjU5ODY1dkY5MXVrdlNERlF5dm9jNUt5c1VQejk0ZEJmVkgyQVBlV1FHTGFRRnFJNzFwaHlIMHJZTFRJSVFfb25I?oc=5"
       }
      ],
      "verified": true
@@ -1580,6 +1557,20 @@
       }
      ],
      "verified": true
+    },
+    {
+     "title": "EGMR-Urteile: Menschenrechtsgerichtshof grenzt Schutz bei Zurückweisungen ein",
+     "summary": "Staaten dürfen Migranten an Grenzen laut dem EGMR unter bestimmten Voraussetzungen ohne Prüfung zurückweisen. Polen, Lettland und Litauen wurden dennoch verurteilt.",
+     "time": "2026-11-25T00:32:47+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "ZEIT ONLINE",
+       "url": "https://www.zeit.de/politik/ausland/2026-11/egmr-urteile-belarus-grenze-migranten-zurueckweisung-polen-lettland"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
     }
    ],
    "more": [
@@ -1735,12 +1726,26 @@
     {
      "title": "Wie Freuding die Bundeswehr für den modernen Krieg rüsten will",
      "summary": "Meldung von WELT.",
-     "time": "2026-11-25T01:33:35+01:00",
+     "time": "2026-11-25T02:00:34+01:00",
      "importance": "low",
      "sources": [
       {
        "name": "WELT",
        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN1lrZ1JpbnlQVVFvSkJ4OEhJM010OEZLTEpGUUJUV2ViY1d1Z0N4VnFtM0FsX1piMndmTjBqVUtYRHZoVUtCb0hxWEwxZGloNlB2b1hhZzJ2a3Q2QXJJckxpM2NZellVMUQzaVc0ck1sMGJUX3ZpUVZSMjhUbGRNUXFYTk00NEc1VjV6aHIyMWxWaVo1VVBydVV1ZE43akFZbVg3TFRRRFBRVTRNZF9haU93VC1ZWlpUOGswUF9qNEJvUnFzbGprcUpnYUN6bjM0RU9BYmFWYVU4bnlocV9fcTBzZmwzLUg1dno4?oc=5"
+      }
+     ],
+     "verified": false,
+     "singleSource": true
+    },
+    {
+     "title": "Die „unglaublichste und unberechenbarste Wahl von allen“ – Frankreich schwankt, Europa zittert",
+     "summary": "Meldung von WELT.",
+     "time": "2026-11-25T01:58:47+01:00",
+     "importance": "low",
+     "sources": [
+      {
+       "name": "WELT",
+       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOUVwTmg4bWctUUVpMmd1TXhwZ0FWZFYzcHEya1UxUHQ0MU9QX0RGa0ZRZXpYQjVwMzdIUTdiQzl3eDFkaXhKaFcyQm9uR3hxRzlBaGRvWnJXc2VHMG9Dd2g5S1ByUGc1dEdFcldYLVZadG5RZk9VdG5SOHVlb3ZfbnNPb090Ty1TY3hrVTMzMHVDTDR6cFZRWjZ2eUhpSVJQdW1UdFZ0RTc3cTVjX2dPaF9JeWpvYXI5bm5OWGpWZDVhbl9tdXZ0VmVWeUJRWXA2bTd1aGY1UQ?oc=5"
       }
      ],
      "verified": false,
@@ -1769,20 +1774,6 @@
       {
        "name": "Al Jazeera",
        "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss"
-      }
-     ],
-     "verified": false,
-     "singleSource": true
-    },
-    {
-     "title": "Die „unglaublichste und unberechenbarste Wahl von allen“ – Frankreich schwankt, Europa zittert",
-     "summary": "Meldung von WELT.",
-     "time": "2026-11-25T00:58:59+01:00",
-     "importance": "low",
-     "sources": [
-      {
-       "name": "WELT",
-       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOUVwTmg4bWctUUVpMmd1TXhwZ0FWZFYzcHEya1UxUHQ0MU9QX0RGa0ZRZXpYQjVwMzdIUTdiQzl3eDFkaXhKaFcyQm9uR3hxRzlBaGRvWnJXc2VHMG9Dd2g5S1ByUGc1dEdFcldYLVZadG5RZk9VdG5SOHVlb3ZfbnNPb090Ty1TY3hrVTMzMHVDTDR6cFZRWjZ2eUhpSVJQdW1UdFZ0RTc3cTVjX2dPaF9JeWpvYXI5bm5OWGpWZDVhbl9tdXZ0VmVWeUJRWXA2bTd1aGY1UQ?oc=5"
       }
      ],
      "verified": false,
